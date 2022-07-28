@@ -14,11 +14,11 @@ This is the fan-made reference/wiki for the Dan Jones And Dungeons D&D Campaign 
 
 ## How was the information here collected?
 
-The information here is collected solely from watching the streams and/or VODs. The creators do not have access to anything beeyond what is presented in the stream or its recordings. Therefore, some information is based on speculation and conjecture based on the session events. Similarly, there maybe spoilers in the reference documents for some sessions. 
+The information here is collected solely from watching the streams and/or VODs. The creators do not have access to anything beyond what is presented in the stream or its recordings. Therefore, some information is based on speculation and conjecture based on the session events. Similarly, there maybe spoilers in the reference documents for some sessions. 
 
 ## Navigating this Github
 
-This site has two main folders: Reference Documents and Session Summaries. The Session Summaries are exactly what they say: They are summaries of each session that gets recorded. Events presented in the summaries are presented in the same order as they are presented in the session. Summaries are released one week after the YouTube VOD is released, giving time for the episode to be watched and digested. Summaries include notes to the Reference Documents. The References include gleaned information and descriptions of the world that Dan J. has created. They are sorted first by category and then in alphabetical order. *Note that these references likely contain spoilers for current/past sessions. As such, it is suggested that each session be watched or summary read before delving into the references*. Like the summaries, the References get updated one week after the YouTube VOD is released.
+This site has two main folders: Reference Documents and Session Summaries. The Session Summaries are exactly what they say: They are summaries of each session that gets recorded. Events presented in the summaries are presented in the same order as they are presented in the session. Summaries are released one week after the YouTube VOD is released, giving time for the episode to be watched and digested. Summaries include notes to the Reference Documents, denoted by **bold font**. The References include gleaned information and descriptions of the world that Dan J. has created. They are sorted first by category and then in alphabetical order. *Note that these references likely contain spoilers for current/past sessions. As such, it is suggested that each session be watched or summary read before delving into the references*. Like the summaries, the References get updated one week after the YouTube VOD is released.
 
 #### About the Creator(s)
 

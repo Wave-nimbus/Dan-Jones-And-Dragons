@@ -6,7 +6,7 @@ A group of necromancers that prey upon the emotionally vulnereable, such as mour
 
 ## The Burning Spears
 
-A group of followers that support the Flame Tyrant. So far, they are mostly harmless and sipmly demonstrate in Filgrove's town square. Known members include: *Han Ratheenal*.
+A group of followers that support the Flame Tyrant. So far, they are mostly harmless and sipmly demonstrate in Filgrove's town square. Known members include: *Han Rathenal*.
 
 ## The Crown's Guard
 
