@@ -4,7 +4,7 @@
 
 A talking skull bought by Coil from Karshala. How he became a talking skull is unknown, but it is likely the work of a necromancer. He is fully aware of his predicament and desires to travel with the Party.
 
-## Borey, Crown's Guard Captain
+## Borey Unzar, Crown's Guard Captain
 
 A Dwarf that previously was pestered constantly by Trilby. He acts as the captain of Filgrove's Crown's Guard. He was also friends/captain of Trilby's father before the father got injured. Commissions the Party to do a few jobs when available.
 

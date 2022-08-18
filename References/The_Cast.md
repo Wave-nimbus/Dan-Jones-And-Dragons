@@ -20,7 +20,7 @@ A tanned Tiefling with branch-like horns adorned with flowers and a tail wrapped
 
 A heavy set Goblin carrying a large drum and mace maracas. If it weren't for his green skin, he could easily be mistaken for a gangly dwarf. Declared to be double leader of the Party after defeating Feyli and Morenthal in an arm wrestling contest. Follows Aether the Breaker, and his tribe is the O'stanke.
 
-## Hobson the Warlock (He/Him)
+## Hobson Bunce the Warlock (He/Him)
 
 ### Played by Dan Floyd (He/Him)
 

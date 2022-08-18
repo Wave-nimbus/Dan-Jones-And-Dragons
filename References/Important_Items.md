@@ -8,7 +8,7 @@ An item purchased from Karshala the Hag. It is able to judge distances and direc
 
 ### Feyli's Deck of Cards
 
-An item gotten from Karshala the Hag in exchange for a favor. It appears to be a fancy tarot deck, though Jocat believes it to be a Deck of Many Things. The favor in turn was to give the Relic Staff to Karshala. 
+An item gotten from Karshala the Hag in exchange for a favor. It appears to be a fancy tarot deck of 20 cards, though Jocat believes it to be a Deck of Many Things. The favor in turn was to give the Relic Staff to Karshala. 
 
 ### Feyli's Music Box
 
@@ -44,6 +44,6 @@ The book that Gale Mosswing used to improve his farm's standing, to the detrimen
 
 A powerful artifact that originally came from Brightcoin, the Vaults of Eversteel. It is believed to be in the tunnel between Filgrove and Geria, and it must be retrieved.
 
-### Return Orb
+### Orb of Recall
 
-A one-time return button that is meant to bring anyone within 10 ft of the orb back to a location. It likely functions as a *Teleport* spell, and it is the only way out of the tunnel between Filgrove and Geria other than the entrances.
+A one-time return button that is meant to bring anyone within 10 ft of the orb back to a location. It functions as the Teleport Circle spell, returning those within the active radius to the Filgrove Barraks's Teleportation Circle once used.
