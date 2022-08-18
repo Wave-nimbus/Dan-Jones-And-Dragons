@@ -48,8 +48,6 @@ A small conical shell that does not appear to have a creature inside of it. Furt
 
 A miniature ship inside of a bottle the size of an apple. While tinkering with it, Trilby accidentally breaks one of the masts on the ship. Further usage unknown.
 
-### 
-
 ## Other Items
 
 ### Sending Stone
