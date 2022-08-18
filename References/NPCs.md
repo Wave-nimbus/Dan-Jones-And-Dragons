@@ -30,6 +30,10 @@ Not much is known about Valss other than his connection to Hobson. He lives in t
 
 The deity that Gelnek prays to, and presumably another member of the Nine. His domain likely involves destruction, warfare, and calamities.
 
+## The Ancient One(s)
+
+Presumably ancient or primordial beasts that live in the Underdark. What they exactly are is unknown other than they can eat people without much issue. The mushroom people believe it/them protects creatures in the Underdark.
+
 ## The Duke
 
 Presumably the main authority over Filgrove and the northern region at large. There is no name nor actions given so far. Borey claims the Crown's Guard can get a favor for the Party if needed.
@@ -126,9 +130,17 @@ Not much is known about him other than his red robes, which mark him as a member
 
 The daughter of Gale Mosswing. She was friends with Bren Grayhorn and Merra before being corrupted into a monster by dark magic.
 
+### Me, Mushroom Man
+
+A mushroom creature the Party encountered in the Underdark. Part of a race of enormous mushroom creatures that eat creatures that stay inside their muschroom hill cavern. Otherwise quite firendly.
+
 ### Merriam Gray, Elder
 
 The first person the Party actually took a job from. She is an old elder, but her family used to serve the Nightmother in the temple. She commissions the Party to clear out its catacombs.
+
+### The Miners
+
+The dwarven guides hired by the Crown's Guard to recover the artifact. When the Party finds them, there are only five left: *Flail*, *Dolnar*, *Felron*, *Renmar*, and *Bill Redshirt*. Bill is the twin of the other Bill Redshirt on this list. 
 
 ### The Missing People
 

@@ -24,7 +24,7 @@ A heavy set Goblin carrying a large drum and mace maracas. If it weren't for his
 
 ### Played by Dan Floyd (He/Him)
 
-A Halfling who looks like Ernie from Sesame Street. Has some light leather armor and a silver bracer. His (homebrewed) patron is Valss, and the two are on a mission to get Valss a statue. Hobson and Valss don't exactly know what's going on most of the time, so they follow the Party happily. Valss can also take control of Hobson if needed.
+A Halfling who looks like Ernie from Sesame Street. Has some light leather armor and a silver bracer. His homebrewed patron is Valss, and the two are on a mission to get Valss a statue. Hobson and Valss don't exactly know what's going on most of the time, so they follow the Party happily. Valss can also take control of Hobson if needed.
 
 ## Morenthal the Assassin Rogue (He/They)
 

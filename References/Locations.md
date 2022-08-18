@@ -54,6 +54,10 @@ A major and secure vault containing several artifacts. An attack caused several 
 
 A dwarven island in the North and West part of Orlon. Not much is known about it other than a tunnel supposedly exists between it and Filgrove's Undercroft.
 
+### Northcliff
+
+A presumably floating city on account of Green Void Crystals. It is south of Filgrove, but beyond that, almost nothing is known. 
+
 ### Ravenmire
 
 A town even further North than Filgrove. Even less happens there, so almost nothing is known.
@@ -61,6 +65,10 @@ A town even further North than Filgrove. Even less happens there, so almost noth
 ### Scarlan/Nightmother Temple
 
 Scarlan used to be a tiny village, but it had a Temple to the Nightmother. This was the Party's first adventure, as they discovered Dave the necromancer living in the catacombs below the Temple. 
+
+### Sibera
+
+A decently large city in the Underdark filled with Duergar and insectoids. Duergar are underground dwarves that presumably don't like outsiders. The Miners and Party have been told to avoid the city by the Crown's Guard.
 
 ### Springoak
 

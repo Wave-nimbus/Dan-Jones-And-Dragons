@@ -8,7 +8,7 @@ An item purchased from Karshala the Hag. It is able to judge distances and direc
 
 ### Feyli's Deck of Cards
 
-An item gotten from Karshala the Hag in exchange for a favor. It appears to be a fancy tarot deck of 20 cards, though Jocat believes it to be a Deck of Many Things. The favor in turn was to give the Relic Staff to Karshala. 
+An item gotten from Karshala the Hag in exchange for a favor. It appears to be a fancy tarot deck of 20 cards, though Jocat believes it to be a Deck of Many Things. The favor in turn was to give the Relic Staff to Karshala. The first card pulled was Wheel of Fortune, causing Feyli to have Disadvantage on attacks & skill checks.
 
 ### Feyli's Music Box
 
@@ -29,6 +29,26 @@ A draught of sleeping potion that was purchased at the Serpent's Flower. Hobson 
 ### Hobson's Adamantine Shortsword
 
 A shortsword found among the personal effects of the Missing People. Originally discovered by Morenthal, it was given to Hobson for keeping. The sword is Adamantine, making every hit attack count as a critical hit.
+
+## Bag of Many Things Pulls
+
+### Aquamarine Dagger
+
+A folding pocket knife that acts as a dagger. If it is magical/special in any way, it is currently unkown. Coil currently is in possesion of this item.
+
+### Green Void Crystal
+
+A chunk of anti-gravity Green Void Crystal. It could be used to make an item ligher if needed, or it may have a slight featherfalling effect.
+
+### Horn Shell
+
+A small conical shell that does not appear to have a creature inside of it. Further usage unknown.
+
+### Ship in a Bottle
+
+A miniature ship inside of a bottle the size of an apple. While tinkering with it, Trilby accidentally breaks one of the masts on the ship. Further usage unknown.
+
+### 
 
 ## Other Items
 
