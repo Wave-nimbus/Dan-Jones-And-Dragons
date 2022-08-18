@@ -4,7 +4,7 @@
 
 A talking skull bought by Coil from Karshala. How he became a talking skull is unknown, but it is likely the work of a necromancer. He is fully aware of his predicament and desires to travel with the Party.
 
-## Borey, Crown's Guard Captain
+## Borey Unzar, Crown's Guard Captain
 
 A Dwarf that previously was pestered constantly by Trilby. He acts as the captain of Filgrove's Crown's Guard. He was also friends/captain of Trilby's father before the father got injured. Commissions the Party to do a few jobs when available.
 
@@ -29,6 +29,10 @@ Not much is known about Valss other than his connection to Hobson. He lives in t
 ## Aether the Breaker
 
 The deity that Gelnek prays to, and presumably another member of the Nine. His domain likely involves destruction, warfare, and calamities.
+
+## The Ancient One(s)
+
+Presumably ancient or primordial beasts that live in the Underdark. What they exactly are is unknown other than they can eat people without much issue. The mushroom people believe it/them protects creatures in the Underdark.
 
 ## The Duke
 
@@ -126,9 +130,17 @@ Not much is known about him other than his red robes, which mark him as a member
 
 The daughter of Gale Mosswing. She was friends with Bren Grayhorn and Merra before being corrupted into a monster by dark magic.
 
+### Me, Mushroom Man
+
+A mushroom creature the Party encountered in the Underdark. Part of a race of enormous mushroom creatures that eat creatures that stay inside their muschroom hill cavern. Otherwise quite firendly.
+
 ### Merriam Gray, Elder
 
 The first person the Party actually took a job from. She is an old elder, but her family used to serve the Nightmother in the temple. She commissions the Party to clear out its catacombs.
+
+### The Miners
+
+The dwarven guides hired by the Crown's Guard to recover the artifact. When the Party finds them, there are only five left: *Flail*, *Dolnar*, *Felron*, *Renmar*, and *Bill Redshirt*. Bill is the twin of the other Bill Redshirt on this list. 
 
 ### The Missing People
 

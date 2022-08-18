@@ -14,7 +14,7 @@ This is the fan-made reference/wiki for the Dan Jones And Dungeons D&D Campaign 
 
 ## How was the information here collected?
 
-The information here is collected solely from watching the streams and/or VODs. The creators do not have access to anything beyond what is presented in the stream or its recordings. Therefore, some information is based on speculation and conjecture based on the session events. Similarly, there maybe spoilers in the reference documents for some sessions. 
+The information here is collected solely from watching the streams and/or VODs. The creators do not have access to anything beyond what is presented in the stream or its recordings. Therefore, some information is based on speculation and conjecture based on the session events. Similarly, there may be spoilers in the reference documents for some sessions. 
 
 ## Navigating this Github
 
