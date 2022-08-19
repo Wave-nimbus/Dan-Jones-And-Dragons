@@ -20,7 +20,7 @@ A bag that creates a new available item once a day. It was gifted to Trilby by B
 
 ### Trilby's Brass Puzzle
 
-A deviously complex puzzle that had to be solved before Trilby could access his Bag of Many Things. After a few dayys, Trilby managed to crack open the puzzle (which had a DC 25 INT check). 
+A deviously complex puzzle that had to be solved before Trilby could access his Bag of Many Things. After a few days, Trilby managed to crack open the puzzle (which had a DC 25 INT check). 
 
 ### Hobson's Milk of the Poppy Potion
 
@@ -28,7 +28,7 @@ A draught of sleeping potion that was purchased at the Serpent's Flower. Hobson 
 
 ### Hobson's Adamantine Shortsword
 
-A shortsword found among the personal effects of the Missing People. Originally discovered by Morenthal, it was given to Hobson for keeping. The sword is Adamantine, making every hit attack count as a critical hit.
+A shortsword found among the personal effects of the Missing People. Originally discovered by Morenthal, it was given to Hobson for keeping, and it has since become his pact weapon.
 
 ## Bag of Many Things Pulls
 

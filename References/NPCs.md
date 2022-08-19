@@ -116,7 +116,7 @@ An incompetant necromancer and part of the Black Hand group. He was hiding in th
 
 ### Durmin, FFXIV reference
 
-Durmin Durami is the name of Dan Floyd's FFXIV Lalafell for his PlayFrame series. He has absolutely nothing to do with the D&D campagin, but Lalafells and Halflings share a similar role as small races.
+Durmin Durami is the name of Dan Floyd's Final Fantasy XIV Lalafell for his PlayFrame series. He has absolutely nothing to do with the D&D campagin, but Lalafells and Halflings share a similar role as small races.
 
 ### Gale Mosswing, Farmer
 

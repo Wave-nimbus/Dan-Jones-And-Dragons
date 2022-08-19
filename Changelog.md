@@ -1,5 +1,9 @@
-## Site Updates
+## Session Updates
 
-#### Sessions 1-3: July 29, 2022
+#### July 29, 2022 - Compiled Sessions 1-3.
 
-#### Session 4: Aug. 18, 2022.
+#### Aug. 18, 2022 - Compiled Session 4. 
+
+## Intersession Updates
+
+#### Aug. 18, 2022 - Removed rules lawyering; Minor adjustments.

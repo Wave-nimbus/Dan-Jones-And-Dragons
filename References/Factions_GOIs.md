@@ -26,7 +26,7 @@ Serving as the Pantheon for the world that Orlon is in, the Nine represent vario
 
 ## The O'stanke Tribe
 
-Gelnek's tribe of goblins. It is unclear what their status is, but Gelnek had a dream of them outcasting him. 
+Gelnek's tribe of goblins. It is unclear what their status is, but Gelnek had a dream of them outcasting him. They have a tradition spanning several generations of sending future members on a long pilgrimage so that they may get stronger. When they return, they fight the previous pilgrims to ensure the tribe remains strong.
 
 ## Unnamed Guild
 
