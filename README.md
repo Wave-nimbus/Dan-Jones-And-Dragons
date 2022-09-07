@@ -12,6 +12,10 @@ This is the fan-made reference/wiki for the Dan Jones And Dungeons D&D Campaign 
 
 **YES!** This wiki contains information about the entire campaign, and so the references contain spoilers for the session events. Watch the sessions or read the session summaries (if you are pressed for time) before delving into the References. 
 
+## Does DJ&J have a content rating?
+
+Yes. Officially on the stream, it is considered not age appropriate for all audiences. Unless otherwise specified, expect the following: *Foul Language* and *Descriptions/Depictions of fantasy violence*. If a session has a significant deviation, a warning will be added in the session's summary.
+
 ## How was the information here collected?
 
 The information here is collected solely from watching the streams and/or VODs. The creators do not have access to anything beyond what is presented in the stream or its recordings. Therefore, some information is based on speculation and conjecture based on the session events. Similarly, there may be spoilers in the reference documents for some sessions. 
