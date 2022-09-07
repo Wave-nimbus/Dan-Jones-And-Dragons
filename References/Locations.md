@@ -20,6 +20,10 @@ The Party's main tavern where they all first met. It is headed by Gavel along wi
 
 One of the offices of the Crown's Guard that serves the city. Usually manned by Borey. The Crown's Guard is stretched thin this far North, so Borey is appreciative of any help the Party can give him.
 
+#### The Crown's Guard Barracks
+
+The Barracks of the Crown's Guard serve as the return location for the Orbs of Recall. Said orbs were used in the retrieval of the Relic Staff.
+
 #### The Grayhorn Farm
 
 One of the two main farms outside of town. It is run solely by Terry Grayhorn after his son Bren Grayhorn went missing. Due to the lack of funds and help, the farm is slowly being out-done by the Mosswing farm. They are famous for carrots, though they farm all kinds of produce.
@@ -42,7 +46,11 @@ The Undercroft serves as the slums for Filgrove. It is located under the city, t
 
 #### What's Mine is Mine
 
-The miners of Filgrove are headed by Pibbly Glimbsby, and they serve to gather resources around the town. Their services were also requested by the Crown's Guard to map the tunnels to Geria. 
+The miners of Filgrove are headed by Pibbly Glimbsby, and they serve to gather resources around the town. Their services were also requested by the Crown's Guard to map the tunnels to Geria.
+
+### The Flesh Cave
+
+A corrupted structure deep within the Underdark. The Relic Staff was found here and used unsucessfully in a ritual for the Brood Mother. The result was a fleshy corruption that overtook and partially destroyed the structure. The Crown's Guard failed to retrieve the Staff, but the Party managed to do so. Without the staff, the flesh should hopefully rot away into nothingness.
 
 ## Minor Cities/Locations
 
