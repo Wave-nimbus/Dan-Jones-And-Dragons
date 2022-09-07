@@ -22,19 +22,27 @@ A bag that creates a new available item once a day. It was gifted to Trilby by B
 
 A deviously complex puzzle that had to be solved before Trilby could access his Bag of Many Things. After a few days, Trilby managed to crack open the puzzle (which had a DC 25 INT check). 
 
+### Hobson's Adamantine Shortsword
+
+A shortsword found among the personal effects of the Missing People. Originally discovered by Morenthal, it was given to Hobson for keeping, and it has since become his pact weapon. It deals Crit damage to objects.
+
 ### Hobson's Milk of the Poppy Potion
 
 A draught of sleeping potion that was purchased at the Serpent's Flower. Hobson was potentially going to use it to avoid being possessed by Valss constantly.
 
-### Hobson's Adamantine Shortsword
+### Hobson's Cloak of Protection
 
-A shortsword found among the personal effects of the Missing People. Originally discovered by Morenthal, it was given to Hobson for keeping, and it has since become his pact weapon.
+A purple cloak that used to belong to a Crown's Guard member. It was found in the Flesh Cave. After attuning to it, Hobson gains a +1 to AC.
 
 ## Bag of Many Things Pulls
 
 ### Aquamarine Dagger
 
 A folding pocket knife that acts as a dagger. If it is magical/special in any way, it is currently unkown. Coil currently is in possesion of this item.
+
+### Green Dragon Scale
+
+A scale from a Green Dragon that is larger than Trilby's fist. Dragon scales are known for their durability, so perhaps this could be used for something in the future.
 
 ### Green Void Crystal
 
@@ -58,10 +66,26 @@ One of the stones used to communicate within the tunnel from Filgrove to Geria. 
 
 The book that Gale Mosswing used to improve his farm's standing, to the detriment of his family and the Missing People. It was given by Dave the Necromancer.
 
-### Relic Staff
+### Golden Amulet
 
-A powerful artifact that originally came from Brightcoin, the Vaults of Eversteel. It is believed to be in the tunnel between Filgrove and Geria, and it must be retrieved.
+A religious amulet for the Goddess Ophelia found amongst gear of the Crown's Guard. Said gear was in the Flesh Cave.
+
+### Magic Rope
+
+A length of twine rope that was discovered amongs the Crown's Guard's gear. It pinged magical by Hobson's Detect Magic, though what it can do is unknown.
 
 ### Orb of Recall
 
 A one-time return button that is meant to bring anyone within 10 ft of the orb back to a location. It functions as the Teleport Circle spell, returning those within the active radius to the Filgrove Barraks's Teleportation Circle once used.
+
+### Relic Staff
+
+A powerful artifact that originally came from Brightcoin, the Vaults of Eversteel. It's power was used by the Brood Mother cult to create the Flesh Cave. It was sucessfully retrieved by the Party, and its effects are nullified by a Bag of Holding.
+
+### Spell Scrolls
+
+Three spell scrolls that were found amongst the Crown's Guard gear. What spells they hold are unknown, and the spells have yet to be deciphered.
+
+### Unknown Journal
+
+A journal discovered in the Flesh Cave discussing a failed ritual and a cult for the Brood Mother. The writer fears the Brood Mother's presence and the cult that surrounds it. The cult sees the writer as a traitor. At the end of the journal are unintelligable scrawls of Father Waits. The final page has a depiction of the Relic Staff.

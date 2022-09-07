@@ -1,18 +1,18 @@
 # Dungeon Master: Dan Jones
 
-# The Party; Current Level: 4
+# The Party; Current Level: 5
 
 ## Coil the Beast Barbarian (He/Him)
 
 ### Played by Saren (They/Them)
 
-A Warforged with the head of jackal whose jaws are often locked up tight. Serves as the Party's greatest muscle and shield. Protective of all members of the Party, especially Feyli. Prefers to use his claws and mouth in combat, but carries a large sword as well.
+A Warforged with the head of jackal whose jaws are often locked up tight. Serves as the Party's greatest muscle and shield. Protective of all members of the Party, especially Feyli. Prefers to use his claws and mouth in combat, but carries a large sword as well for massive cleaving.
 
 ## Feyli the Circle of the Stars Druid (She/Her)
 
 ### Played by Nichole (She/Her)
 
-A tanned Tiefling with branch-like horns adorned with flowers and a tail wrapped in thorns. She has purple hair and an outfit suggestign an affinity for nature. She is a part of the Midnight Lotus with a crystal necklace to prove it. Enjoys other people's drama so long as nobody gets physically hurt.
+A tanned Tiefling with branch-like horns adorned with flowers and a tail wrapped in thorns. She has purple hair and an outfit suggesting an affinity for nature. She is a part of the Midnight Lotus with a crystal necklace to prove it. Enjoys other people's drama so long as nobody gets physically hurt.
 
 ## Gelnek the Valor Bard (He/Him)
 
@@ -20,7 +20,7 @@ A tanned Tiefling with branch-like horns adorned with flowers and a tail wrapped
 
 A heavy set Goblin carrying a large drum and mace maracas. If it weren't for his green skin, he could easily be mistaken for a gangly dwarf. Declared to be double leader of the Party after defeating Feyli and Morenthal in an arm wrestling contest. Follows Aether the Breaker, and his tribe is the O'stanke.
 
-## Hobson Bunce the Warlock (He/Him)
+## Hobson Bunce the Custom Warlock (He/Him)
 
 ### Played by Dan Floyd (He/Him)
 

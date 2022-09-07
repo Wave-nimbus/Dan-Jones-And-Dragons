@@ -10,7 +10,11 @@ A group of followers that support the Flame Tyrant. So far, they are mostly harm
 
 ## The Crown's Guard
 
-The Duke's military branch serves the continent of Orlon in the North. They are stretched pretty thin in Filgrove at this point, meaning they can't help with many military expeditions. Known members include: *Borey*, and *Trilby's Father*.
+The Duke's military branch serves the continent of Orlon in the North. They are stretched pretty thin in Filgrove at this point, meaning they can't help with many military expeditions. Known alive members include: *Borey*, *Merabeth*, and *Trilby's Father*. Known dead members include: *Greywill Lander*, *Aster Leywin*, and *Linthyn Keessa*.
+
+## The Fallen Gods
+
+A number of Gods/Goddesses that previously were worshiped before the Nine. It is unknown if they truly exist or if only Cults believe in them. Mentioned deities of this gorup include: *The Brood Mother*.
 
 ## The Green Ravens
 

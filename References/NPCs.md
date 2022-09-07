@@ -22,7 +22,7 @@ A Hag that lives in Filgrove's Undercroft. She deals in information and magical 
 
 ## Valss, Hobson's Patron
 
-Not much is known about Valss other than his connection to Hobson. He lives in the silver bracer on Hobson's arm, which allows him to control Hobson if he so desires. His greatest desire is to get a statue of himself, which is why he is bonded with Hobson.
+Valss seems to have lived in Orlon years ago as part of an adventuring group. His memories are shrouded in mystery, but he gets flashes in the Flesh Cave. He currently lives in the silver bracer on Hobson's arm, which allows him to control Hobson if he so desires. His greatest desire is to get a statue of himself, which is why he is bonded with Hobson.
 
 # Worldbuilding NPCs
 
@@ -33,6 +33,10 @@ The deity that Gelnek prays to, and presumably another member of the Nine. His d
 ## The Ancient One(s)
 
 Presumably ancient or primordial beasts that live in the Underdark. What they exactly are is unknown other than they can eat people without much issue. The mushroom people believe it/them protects creatures in the Underdark.
+
+## The Brood Mother
+
+One of the Fallen Goddesses. A cult dedicated to her lived within the Flesh Cave, though what exactly she represents is unknown. The cult failed to use the Relic Staff in some ritual for her.
 
 ## The Duke
 
@@ -48,7 +52,7 @@ One of the Nine that makes up this world's pantheon. Little is known about what 
 
 ## Ophena
 
-One of the Nine that makes up this world's pantheon. Almost nothing is known what his/her domain is, but her symbol is a bright star.
+One of the Nine that makes up this world's pantheon. Ophena is the Goddess of Light, and her symbhol is a bright star.
 
 # Minor NPCs
 
@@ -133,6 +137,10 @@ The daughter of Gale Mosswing. She was friends with Bren Grayhorn and Merra befo
 ### Me, Mushroom Man
 
 A mushroom creature the Party encountered in the Underdark. Part of a race of enormous mushroom creatures that eat creatures that stay inside their muschroom hill cavern. Otherwise quite firendly.
+
+### Merabeth, Rescued Crowns' Guard
+
+A member of the Crown's Guard that was rescued in the Flesh Cave. She was rescued before being fully absorbed by the Flesh Cave.
 
 ### Merriam Gray, Elder
 
