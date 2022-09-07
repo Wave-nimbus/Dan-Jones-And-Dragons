@@ -9,3 +9,5 @@
 ## Intersession Updates
 
 #### Aug. 18, 2022 - Removed rules lawyering; Minor adjustments.
+
+#### Sept. 7, 2022 - Added content warnings.
