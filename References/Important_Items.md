@@ -1,60 +1,38 @@
 # Important & Notable Items
 
-## Personal Items
-
-### Coil's Dowsing Rod
-
-An item purchased from Karshala the Hag. It is able to judge distances and direction to determine where an item is. It appears to act like the *Locate Object* spell.
-
-### Feyli's Deck of Cards
-
-An item gotten from Karshala the Hag in exchange for a favor. It appears to be a fancy tarot deck of 20 cards, though Jocat believes it to be a Deck of Many Things. The favor in turn was to give the Relic Staff to Karshala. The first card pulled was Wheel of Fortune, causing Feyli to have Disadvantage on attacks & skill checks.
-
-### Feyli's Music Box
-
-A seemingly ordinary Music Box that Feyli continuously forgets she has. She alone is confused by not having seen it before, despite showing to the Party multiple times. (Such forgetful properties are refered to as "antimemetic")
-
-### Trilby's Bag of Many Things
-
-A bag that creates a new available item once a day. It was gifted to Trilby by Biggleton Whippersnap along with the Brass Puzzle. In turn, Trilby is supposed to give Whippersnap some items from the bag.
-
-### Trilby's Brass Puzzle
-
-A deviously complex puzzle that had to be solved before Trilby could access his Bag of Many Things. After a few days, Trilby managed to crack open the puzzle (which had a DC 25 INT check). 
-
-### Hobson's Adamantine Shortsword
-
-A shortsword found among the personal effects of the Missing People. Originally discovered by Morenthal, it was given to Hobson for keeping, and it has since become his pact weapon. It deals Crit damage to objects.
-
-### Hobson's Milk of the Poppy Potion
-
-A draught of sleeping potion that was purchased at the Serpent's Flower. Hobson was potentially going to use it to avoid being possessed by Valss constantly.
-
-### Hobson's Cloak of Protection
-
-A purple cloak that used to belong to a Crown's Guard member. It was found in the Flesh Cave. After attuning to it, Hobson gains a +1 to AC.
-
 ## Bag of Many Things Pulls
 
 ### Aquamarine Dagger
 
 A folding pocket knife that acts as a dagger. If it is magical/special in any way, it is currently unkown. Coil currently is in possesion of this item.
 
+### Bronze Chalice
+
+A nice chalice made of bronze and covered in cheap gems. Any magical properties are unknown, but it can probably be sold.
+
 ### Green Dragon Scale
 
-A scale from a Green Dragon that is larger than Trilby's fist. Dragon scales are known for their durability, so perhaps this could be used for something in the future.
+A scale from a Green Dragon that is larger than Trilby's fist. Dragon scales are known for their durability, so Trilby carved a Button from it and gave it to Gelnek.
 
 ### Green Void Crystal
 
-A chunk of anti-gravity Green Void Crystal. It could be used to make an item ligher if needed, or it may have a slight featherfalling effect.
+A chunk of anti-gravity Green Void Crystal. It could be used to make an item ligher if needed. Trilby incorporates it into Scrubbins so any Force Billista blast can pull enemies 5 feet as well as pushing them 5 feet.
 
 ### Horn Shell
 
 A small conical shell that does not appear to have a creature inside of it. Further usage unknown.
 
+### Hunting Trap
+
+A normal mechanical hunting trap used to catch small animals. It chomped on Trilby's hand when it was pulled. Feyli is given the Trap, as she is most atttuned to nature and survival.
+
 ### Ship in a Bottle
 
 A miniature ship inside of a bottle the size of an apple. While tinkering with it, Trilby accidentally breaks one of the masts on the ship. Further usage unknown.
+
+### Vintage Year Wine
+
+A Ninteen Ninteye (1990) aged wine from Maple Farms. Hobson recognized the brand, as he and his family are from Maple. Hobson currently possesses this iteem.
 
 ## Other Items
 

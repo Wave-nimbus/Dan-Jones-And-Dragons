@@ -8,46 +8,6 @@ Not much has been revealed about the continent as a whole. It appears to be cont
 
 Filgrove is where the Party spends most of their time. It is a decent sized city in the North of Orlon, serving as a defensive city in the past. In and around the city, the Party's early adventures take shape. It is home to several services that the Party utilizes, and it is looked over by the Crown's Guard and the Green Ravens. Although not much happens around the city, both groups are looking for additional help constnatly. Notable locations in and around Filgrove include the following:
 
-#### Bits and Bobs
-
-A pawn shop run by Biggleton Whippersnap. Trilby is given the Bag of Many Things covered by the Brass Puzzle by Whippersnap.
-
-#### The Brass Squid
-
-The Party's main tavern where they all first met. It is headed by Gavel along with his employees Derek and Merra. Gavel is happy to accomodate the Party after they saved Derek from the Manticore. This place is a safe haven where the Party can rest, get rations and eat good food.
-
-#### The Crown's Guard Tower
-
-One of the offices of the Crown's Guard that serves the city. Usually manned by Borey. The Crown's Guard is stretched thin this far North, so Borey is appreciative of any help the Party can give him.
-
-#### The Crown's Guard Barracks
-
-The Barracks of the Crown's Guard serve as the return location for the Orbs of Recall. Said orbs were used in the retrieval of the Relic Staff.
-
-#### The Grayhorn Farm
-
-One of the two main farms outside of town. It is run solely by Terry Grayhorn after his son Bren Grayhorn went missing. Due to the lack of funds and help, the farm is slowly being out-done by the Mosswing farm. They are famous for carrots, though they farm all kinds of produce.
-
-#### The Green Raven's Headquarters
-
-The monster hunting Green Ravens have set themselves up here. It is where they eat, sleep, prepare for hunts, and salvage items from their other hunts. The Party is offered space in the HQ thanks to their services to Filgrove as a whole. Monster hunts can be exchanged for money or forged into gear. 
-
-#### The Mosswing Farm
-
-One of the two main farms outside of town. It is headed by Gale Mosswing, who managed to greatly improve his crop production. Unfortunately, this was through the use of dark magics and necromancy. This resulted in the Missing People incident.
-
-#### The Serpent's Flower
-
-This alchemist's store is run solely by Jemma Elm, though her daughter Joyce also used to work there. Various potions can be bought here once the Party gets enough money, including a sleeping drought for Hobson. 
-
-#### The Undercroft
-
-The Undercroft serves as the slums for Filgrove. It is located under the city, though it is nicer than the sewers. The notable resident here is Karshala the Hag, who deals in information and magical trinkets. Furthermore, a tunnel to Geria starts down here.
-
-#### What's Mine is Mine
-
-The miners of Filgrove are headed by Pibbly Glimbsby, and they serve to gather resources around the town. Their services were also requested by the Crown's Guard to map the tunnels to Geria.
-
 ### The Flesh Cave
 
 A corrupted structure deep within the Underdark. The Relic Staff was found here and used unsucessfully in a ritual for the Brood Mother. The result was a fleshy corruption that overtook and partially destroyed the structure. The Crown's Guard failed to retrieve the Staff, but the Party managed to do so. Without the staff, the flesh should hopefully rot away into nothingness.
@@ -56,11 +16,15 @@ A corrupted structure deep within the Underdark. The Relic Staff was found here 
 
 ### Brightcoin, the Vaults of Eversteel
 
-A major and secure vault containing several artifacts. An attack caused several of such artifacts to be spread around Orlon. The Crown's Guard has been tasked with recovering these artifacts.
+A major and secure vault containing several artifacts. An attack caused several of such artifacts to be spread around Orlon. The Crown's Guard has been tasked with recovering these artifacts. The Relic Staff is one such artifact that was lost and since recovered.
 
 ### Geria
 
 A dwarven island in the North and West part of Orlon. Not much is known about it other than a tunnel supposedly exists between it and Filgrove's Undercroft.
+
+### Maple
+
+A town to the Southeast where Hobson's family lives. Maple Farms is a brand of wine. Almost nothing else is known about it.
 
 ### Northcliff
 
@@ -81,6 +45,10 @@ A decently large city in the Underdark filled with Duergar and insectoids. Duerg
 ### Springoak
 
 A town on the Western edge of Orlon. Almost nothing is known other than Hobson is likely a wanted man thanks to Valss.
+
+### Void Cave
+
+A large cave filled with Void Crystals that was home to the Void Snail. It is about 2 days travel to the West of Filgrove. The Party killed the Void Snail, taking chunks back to create new items.
 
 ## Other Regions
 
