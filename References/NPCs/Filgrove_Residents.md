@@ -1,8 +1,4 @@
-# Major NPCs
-
-## Bartholomew, Talking Skull
-
-A talking skull bought by Coil from Karshala. How he became a talking skull is unknown, but it is likely the work of a necromancer. He is fully aware of his predicament and desires to travel with the Party.
+# Notable Filgrove Residents
 
 ## Borey Unzar, Crown's Guard Captain
 
@@ -20,148 +16,110 @@ The de facto leader of the Green Ravens was first impressed by the Party taking 
 
 A Hag that lives in Filgrove's Undercroft. She deals in information and magical curiosities. If there is something the Party (or anyone else) needs to know, she is probably their best bet. Her trinkets may come in handy in some situations.
 
-## Valss, Hobson's Patron
+# Green Ravens
 
-Valss seems to have lived in Orlon years ago as part of an adventuring group. His memories are shrouded in mystery, but he gets flashes in the Flesh Cave. He currently lives in the silver bracer on Hobson's arm, which allows him to control Hobson if he so desires. His greatest desire is to get a statue of himself, which is why he is bonded with Hobson.
-
-# Worldbuilding NPCs
-
-## Aether the Breaker
-
-The deity that Gelnek prays to, and presumably another member of the Nine. His domain likely involves destruction, warfare, and calamities.
-
-## The Ancient One(s)
-
-Presumably ancient or primordial beasts that live in the Underdark. What they exactly are is unknown other than they can eat people without much issue. The mushroom people believe it/them protects creatures in the Underdark.
-
-## The Brood Mother
-
-One of the Fallen Goddesses. A cult dedicated to her lived within the Flesh Cave, though what exactly she represents is unknown. The cult failed to use the Relic Staff in some ritual for her.
-
-## The Duke
-
-Presumably the main authority over Filgrove and the northern region at large. There is no name nor actions given so far. Borey claims the Crown's Guard can get a favor for the Party if needed.
-
-## The Flame Tyrant
-
-A figure from Orlon's recent history that is obsessed with fire. Has a small following known as the Burning Spears, though nothing else is known.
-
-## The Nightmother
-
-One of the Nine that makes up this world's pantheon. Little is known about what her domain is, but it is presumably something that is strongly against necromancy.
-
-## Ophena
-
-One of the Nine that makes up this world's pantheon. Ophena is the Goddess of Light, and her symbhol is a bright star.
-
-# Minor NPCs
-
-## Green Ravens
-
-### Cici (Cubaricubari), Secretary
+## Cici (Cubaricubari), Secretary
 
 A Bugbear who serves at the head desk of the Green Raven's HQ. She keeps track of rewards, hunts, and posters. She also knows a lot about each beast's weaknesses.
 
-### Graster, Hunter
+## Graster, Hunter
 
 Good muscle and tank for any hunting party.
 
-### Oldair, Blacksmith
+## Oldair, Blacksmith
 
 Once Hestio strips a monster for its parts, Oldair is in charge of forging it into something useful.
 
-### Shana, Chef
+## Shana, Chef
 
 Able to create various rations and meals out of monster parts, some of which may give useful effects.
 
-### Tain, Tracker
+## Tain, Tracker
 
 The one in charge of tracking beasts during a hunt.
 
-### Vera, Alchemist
+## Vera, Alchemist
 
 The potion master capable of most anything that is required for hunting beasts. She also can create tranquilizing potions if the Green Ravens need.
 
-## Store Employees
+# Store Employees
 
-### Biggleton Whippersnap, Pawn Owner
+## Biggleton Whippersnap, Pawn Owner
 
 A friend of Trilby and his creations, he owns the pawn shop known as Bits and Bobs. He also gave Trilby the Bag of Many Things with the Brass Puzzle on it.
 
-### Bill Redshirt, Minor Miner
+## Bill Redshirt, Minor Miner
 
 A guide for the tunnel between Filgrove and Geria that would surely die if the Party failed to protect him. 
 
-### Derek, Barservant
+## Derek, Barservant
 
 An employee of the Brass Squid that was attacked by the Manticore. The Party kept him alive for which Gavel is thankful. Also got fanart about 10 seconds after being attacked.
 
-### Jemma Elm, Alchemist
+## Jemma Elm, Alchemist
 
 The owner of the Serpent's Flower aclchemy shop. She can sell the Party potions with various effects, including the sleeping drought to Hobson.
 
-### Merra, Barmaid
+## Merra, Barmaid
 
 A friend of Julia Mosswing and Bren Grayhorn as the two of them frequently visited the Brass Squid by sneaking out. 
 
-### Pibbly Glimsby
+## Pibbly Glimsby, Major Miner
 
 Head miner of What's Mine is Mine. He was contracted by the Crown's Guard for miners and guides for the tunnel between Filgrove and Geria.
 
-## Others
+## [Unnamed], Blacksmith
 
-### Daemon, Guild Head
+Female Dwarven blacksmith that owns and operates The Steel Workbench. For an inexplicable reason, Gelnek is terrified of her.
 
-Presumably the head of the bounty hunting/assassin guild that Morenthal and Molloke are a part of. It is unclear what he thinks of everything going on.
+# Trilby's Family
 
-### Dave, Necromancer
+## Melinda Hornsferrow, Mom
 
-An incompetant necromancer and part of the Black Hand group. He was hiding in the Nightmother temple's catacombs doing necromancy stuff. 
+Melinda is a stern but caring mother. She worries about Trilby only when Trilby leaves for long periods of time without notifying her. Otherwise, she supports Trilby's adventures, since she and Ficesious cannot really stop him.
 
-### Durmin, FFXIV reference
+## Ficesious Hornsferrow, Dad
 
-Durmin Durami is the name of Dan Floyd's Final Fantasy XIV Lalafell for his PlayFrame series. He has absolutely nothing to do with the D&D campagin, but Lalafells and Halflings share a similar role as small races.
+Ficesious was a Crown's Guard member until an injury to his leg forced him out of action for a time. He is gracious though stern with his children. It is ambiguous if he approves or disapproves of Trilby's adventures. He shares the same sentiment that Trilby should inform his parents of any extended travels, however.
 
-### Gale Mosswing, Farmer
+## Dora & Derby Hornsferrow, Siblings
+
+Little is known about Trilby's siblings other than their names. It seems like they tease Trilby occasionally, but they listen to their parents. 
+
+# Other Residents
+
+## Gale Mosswing, Farmer
 
 The head of the Mosswing farm that sought a way to improve his crops. He got a book of dark magic from Dave the Necromancer, which did improve his crops to the detriment of his family and the Missing People.
 
-### Han Rathenal, Burning Spear
+## Han Rathenal, Burning Spear
 
 Not much is known about him other than his red robes, which mark him as a member of the Burning Spear. He visited Bits and Bobs not too long before the Manticore got lose.
 
-### Julia Mosswing, Gale's Daughter
+## Julia Mosswing, Gale's Daughter
 
 The daughter of Gale Mosswing. She was friends with Bren Grayhorn and Merra before being corrupted into a monster by dark magic.
 
-### Me, Mushroom Man
-
-A mushroom creature the Party encountered in the Underdark. Part of a race of enormous mushroom creatures that eat creatures that stay inside their muschroom hill cavern. Otherwise quite firendly.
-
-### Merabeth, Rescued Crowns' Guard
+## Merabeth, Rescued Crowns' Guard
 
 A member of the Crown's Guard that was rescued in the Flesh Cave. She was rescued before being fully absorbed by the Flesh Cave.
 
-### Merriam Gray, Elder
+## Merriam Gray, Elder
 
 The first person the Party actually took a job from. She is an old elder, but her family used to serve the Nightmother in the temple. She commissions the Party to clear out its catacombs.
 
-### The Miners
+## The Miners
 
 The dwarven guides hired by the Crown's Guard to recover the artifact. When the Party finds them, there are only five left: *Flail*, *Dolnar*, *Felron*, *Renmar*, and *Bill Redshirt*. Bill is the twin of the other Bill Redshirt on this list. 
 
-### The Missing People
+## The Missing People
 
 The people of Filgrove that went missing on account of Gale Mosswing's dark magic. These people were turned into zombies and killed by the Party. The missing people were: *Edra*, *Vlorn*, & *Sybil* (Adventurers); *Bren Grayhorn* (Terry's Son); *Flint* (A Green Raven); *Joyce Elm* (Jemma's Daughter); *Ersis Cinderjaw* (Crown's Guard member); *Thomas Redbear* (Burning Spear member); and *Ivil Banel* (A Merchant).
 
-### Molloke Iron, Assassin
-
-A bounty hunter and assassin presumably from the same guild as Morenthal. He wants to caputre/kill Feyli, as there is 24,000 gp bounty on her head. However, he warned Morenthal of the impending bounty first.
-
-### Mona Mosswing, Gale's Wife
+## Mona Mosswing, Gale's Wife
 
 The wife of Gale Mosswing. She was corrupted into a monster by her husbands attempts at improving the farm.
 
-### Terry Grayhorn, Farmer
+## Terry Grayhorn, Farmer
 
 Head of the Grahorn farm, which has been surpassed by the Mosswing farm. His son Bren is one of the Missing People. His farm is famous for their carrots, though since he is the only worker, production is falling.
