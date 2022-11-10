@@ -16,7 +16,7 @@ One of the Fallen Goddesses. A cult dedicated to her lived within the Flesh Cave
 
 Presumably the main authority over Filgrove and the northern region at large. There is no name nor actions given so far. Borey claims the Crown's Guard can get a favor for the Party if needed.
 
-## The Flame Tyrant
+## The Flame Tyrant aka The Flame Lord
 
 A figure from Orlon's recent history that is obsessed with fire. Has a small following known as the Burning Spears, though nothing else is known.
 
