@@ -28,7 +28,7 @@ A traveling caravan that appeared in Filgrove in time for the All Hallow's Eve f
 
 Monster hunters that have made their home in Filgrove. They take care of various beasts and monsters that can be found in the area. The Party is on good terms with them and has been offered a place amongst their ranks. Known members include: *Cici*, *Graster*, *Hestio*, *Oldair*, *Shana*, *Tain*, and *Vera*.
 
-## The Midnight Locus
+## The Midnight Lotus
 
 Presumed to be a circle/group of Druids and nature centric people. They were attacked and potentially exterminated by the Black Hand at some point in the past. Known members include: *Feyli*.
 

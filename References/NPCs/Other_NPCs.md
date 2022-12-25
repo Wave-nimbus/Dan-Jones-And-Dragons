@@ -26,7 +26,7 @@ Durmin Durami is the name of Dan Floyd's Final Fantasy XIV Lalafell for his Play
 
 A member of the Illustrious Delight circus troupe. She is a Fire Genasi in charge of various fire bataon acrobatics and magic feats. She flirts with Hobson to get closer to Feyli, but the troupe is a part of the Black Hand.
 
-## Gorb, Illustrious Delight(?)
+## Gorm, Illustrious Delight(?)
 
 An unknown member of the Illustrious Delight mentioned in Ember's personal journal. Almost nothing is known about him other than he has a connection to the troupe.
 
