@@ -8,6 +8,8 @@
 
 #### Oct. 8, 2022 - Compiled Session 6.
 
+#### Dec 25, 2022 - Compiled Session 7. (Very Late)
+
 ## Intersession Updates
 
 #### Aug. 18, 2022 - Removed rules lawyering; Minor adjustments.

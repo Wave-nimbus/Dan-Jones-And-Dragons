@@ -10,7 +10,7 @@ A greatsword that Oldair of the Green Ravens will craft. It will likely have mag
 
 ### Feyli's Deck of Cards
 
-An item gotten from Karshala the Hag in exchange for a favor. It appears to be a fancy tarot deck of 20 cards, though Jocat believes it to be a Deck of Many Things. The favor in turn was to give the Relic Staff to Karshala. The first card pulled was Wheel of Fortune, causing Feyli to have Disadvantage on attacks & skill checks.
+An item gotten from Karshala the Hag in exchange for a favor. It appears to be a fancy tarot deck of 20 cards, though Jocat believes it to be a Deck of Many Things. The favor in turn was to give the Relic Staff to Karshala. The first card pulled was Wheel of Fortune, causing Feyli to have Disadvantage on attacks & skill checks. The second card was The Tower, resulting in her sinking into her surroundings ever so slightly.
 
 ### Feyli's Music Box
 

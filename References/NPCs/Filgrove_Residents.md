@@ -94,7 +94,7 @@ The head of the Mosswing farm that sought a way to improve his crops. He got a b
 
 ## Han Rathenal, Burning Spear
 
-Not much is known about him other than his red robes, which mark him as a member of the Burning Spear. He visited Bits and Bobs not too long before the Manticore got lose.
+Mentioned in Session 1, but met in Session 7, Han is a prominent member in the Burning Spear group in Filgrove. He made a deal with the Party for them to find Trayton Farkle, bringing him back alive or letting him go if Trayton wanted out.
 
 ## Julia Mosswing, Gale's Daughter
 
