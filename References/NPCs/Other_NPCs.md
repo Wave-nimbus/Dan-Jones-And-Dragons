@@ -22,6 +22,14 @@ An incompetant necromancer and part of the Black Hand group. He was hiding in th
 
 Durmin Durami is the name of Dan Floyd's Final Fantasy XIV Lalafell for his PlayFrame series. He has absolutely nothing to do with the D&D campagin, but Lalafells and Halflings share a similar role as small races.
 
+## Ember, Illustrious Delight
+
+A member of the Illustrious Delight circus troupe. She is a Fire Genasi in charge of various fire bataon acrobatics and magic feats. She flirts with Hobson to get closer to Feyli, but the troupe is a part of the Black Hand.
+
+## Gorb, Illustrious Delight(?)
+
+An unknown member of the Illustrious Delight mentioned in Ember's personal journal. Almost nothing is known about him other than he has a connection to the troupe.
+
 ## Me, Mushroom Man
 
 A mushroom creature the Party encountered in the Underdark. Part of a race of enormous mushroom creatures that eat creatures that stay inside their muschroom hill cavern. Otherwise quite firendly.
@@ -30,6 +38,22 @@ A mushroom creature the Party encountered in the Underdark. Part of a race of en
 
 A bounty hunter and assassin presumably from the same Bloodletters guild as Morenthal. He wants to caputre/kill Feyli, as there is 24,000 gp bounty on her head. However, he warned Morenthal of the impending bounty first.
 
-## Yuul Greaterfist, Assassin?
+## Rum and Elm, Illustrious Delight
 
-A member of the Bloodletters that Morenthal notices after returning from getting Void gear ordered. Yuul does not usually take marks, so it is strange for him to be in Filgrove.
+Members of the Illustrious Delight circus troupe. A pair of Half-elves serving as trapese artists and acrobats. The two of them are well in sync, both in their act and other mannerisms. The troupe is a part of the Black Hand.
+
+## Sawyer, Illustrious Delight
+
+The ring leader, owner and/or operator of the Illustrious Delight circus troupe. A Gnome that serves both as the circus's announcer and its main orchestra. His magic lute is capable of mimicing many instruments. The troupe is a part of the Black Hand.
+
+## Tesen Stormhoof, Illustrious Delight
+
+A member of the Illustrious Delight circus troupe. He is a large Minotaur that acts as the circus's strongman act. While shy and bashful, his strenght is unparalleled. The troupe is a part of the Black Hand.
+
+## Trayton Farkle, Burning Spear Deserter
+
+Previously a member of the Burning Spears cult. He ran away from the group to an abandoned farmhouse to the southeast of Filgrove. Graster wants him dead, but Han would rather keep him alive, offering more than Graster for the information. 
+
+## Yuul Greaterfist, Assassin
+
+A Goliath member of the Bloodletters that Morenthal notices after returning from getting Void gear ordered. He ambushed Morenthal in the costume shop, got an extremely nasty stab into Morenthal's back and then stole all his money. However, he did keep Morenthal alive, despite the bounty on his head.

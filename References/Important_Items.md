@@ -32,7 +32,11 @@ A miniature ship inside of a bottle the size of an apple. While tinkering with i
 
 ### Vintage Year Wine
 
-A Ninteen Ninteye (1990) aged wine from Maple Farms. Hobson recognized the brand, as he and his family are from Maple. Hobson currently possesses this iteem.
+A Ninteen Ninteye (1990) aged wine from Maple Farms. Hobson recognized the brand, as he and his family are from Maple. Hobson currently possesses this item.
+
+### Waterskin
+
+A finely crafted leather waterskin. It's stitching is so intricate that symbols might be within the thread. Otherwise, it appears to be a normal waterskin.
 
 ## Other Items
 

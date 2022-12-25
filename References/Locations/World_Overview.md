@@ -26,6 +26,10 @@ A dwarven island in the North and West part of Orlon. Not much is known about it
 
 A town to the Southeast where Hobson's family lives. Maple Farms is a brand of wine. Almost nothing else is known about it.
 
+### Morfield
+
+A town not too far to the south of Filgrove. It appears to be the most recent stop for the Illustrious Delight before they went to Filgrove.
+
 ### Northcliff
 
 A presumably floating city on account of Green Void Crystals. It is south of Filgrove, but beyond that, almost nothing is known. 
@@ -42,6 +46,10 @@ Scarlan used to be a tiny village, but it had a Temple to the Nightmother. This 
 
 A decently large city in the Underdark filled with Duergar and insectoids. Duergar are underground dwarves that presumably don't like outsiders. The Miners and Party have been told to avoid the city by the Crown's Guard.
 
+### Silverfell
+
+A town in the West of Orlon that is home to a mage college of some kind. Hobson was originally supposed to join the college as an administrator before meeting Valss.
+
 ### Springoak
 
 A town on the Western edge of Orlon. Almost nothing is known other than Hobson is likely a wanted man thanks to Valss.
@@ -54,7 +62,7 @@ A large cave filled with Void Crystals that was home to the Void Snail. It is ab
 
 ### The Shard Coast
 
-A series of ports, coves, and towns that serve as a pirate's haven on the North East part of Orlon. If there is someone unsavory that needs to be found, you could start in a lot worse places than here.
+A series of ports, coves, and towns that serve as a pirate's haven on the North East part of Orlon. If there is someone unsavory that needs to be found, you could start in a lot worse places than here. Whoever put the bounty on Morenthal is in this area.
 
 ### Shareaza
 

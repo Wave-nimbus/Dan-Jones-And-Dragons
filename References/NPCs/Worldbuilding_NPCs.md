@@ -12,13 +12,13 @@ Presumably ancient or primordial beasts that live in the Underdark. What they ex
 
 One of the Fallen Goddesses. A cult dedicated to her lived within the Flesh Cave, though what exactly she represents is unknown. The cult failed to use the Relic Staff in some ritual for her.
 
+## Cascos, The Flame Tyrant/Lord
+
+One of the Fallen Gods. The Flaming Spears are a cult/group devoted to destroying the seal holdng him.. He was a major figure from the Elemental Plane of Fire, previously thought to be unstoppable before he was chained and bound.
+
 ## The Duke
 
 Presumably the main authority over Filgrove and the northern region at large. There is no name nor actions given so far. Borey claims the Crown's Guard can get a favor for the Party if needed.
-
-## The Flame Tyrant
-
-A figure from Orlon's recent history that is obsessed with fire. Has a small following known as the Burning Spears, though nothing else is known.
 
 ## The Nightmother
 
