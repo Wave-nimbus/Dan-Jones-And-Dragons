@@ -6,9 +6,17 @@
 
 A folding pocket knife that acts as a dagger. If it is magical/special in any way, it is currently unkown. Coil currently is in possesion of this item.
 
+### Broken Sword
+
+A sword hilt and crossguard with most of its blade broken. Trilby gave it to Uldar for him to repair.
+
 ### Bronze Chalice
 
 A nice chalice made of bronze and covered in cheap gems. Any magical properties are unknown, but it can probably be sold.
+
+### Burning Hands Spell Scroll
+
+A single use of the Burning Hands spell written onto a spell scroll.
 
 ### Green Dragon Scale
 
@@ -52,6 +60,10 @@ The book that Gale Mosswing used to improve his farm's standing, to the detrimen
 
 A religious amulet for the Goddess Ophelia found amongst gear of the Crown's Guard. Said gear was in the Flesh Cave.
 
+### Lycanthrope Cures
+
+A pair of foul silver potions that cure the curse of Lycanthropy. Given to Jeroma and Trayton, who are now cured.
+
 ### Magic Rope
 
 A length of twine rope that was discovered amongs the Crown's Guard's gear. It pinged magical by Hobson's Detect Magic, though what it can do is unknown.
@@ -59,6 +71,10 @@ A length of twine rope that was discovered amongs the Crown's Guard's gear. It p
 ### Orb of Recall
 
 A one-time return button that is meant to bring anyone within 10 ft of the orb back to a location. It functions as the Teleport Circle spell, returning those within the active radius to the Filgrove Barraks's Teleportation Circle once used.
+
+### Perfect Pearl
+
+A pristine pearl that Karshala gave to Trilby so he could give it to Feyli. It's effects are unknown, but expected to be bad by the Cast.
 
 ### Relic Staff
 
