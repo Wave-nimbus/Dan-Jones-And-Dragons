@@ -4,9 +4,9 @@
 
 An item purchased from Karshala the Hag. It is able to judge distances and direction to determine where an item is. It appears to act like the *Locate Object* spell.
 
-### Coil's Void Greatsword
+### Coil's Counterburst Greatsword
 
-A greatsword that Oldair of the Green Ravens will craft. It will likely have magic dispelling properties when completed.
+A greatsword with a floating piece of Void Crystal on its crossguard. It allows a single cast of Counterspell per day, using proficiency bonus for any rolls. It was crafted by Uldar of the Green Ravens.
 
 ### Feyli's Deck of Cards
 
@@ -32,13 +32,13 @@ A draught of sleeping potion that was purchased at the Serpent's Flower. Hobson 
 
 A purple cloak that used to belong to a Crown's Guard member. It was found in the Flesh Cave. After attuning to it, Hobson gains a +1 to AC.
 
-### Morenthal's Void Headband
+### Feyli's Mindshield Crown
 
-A headband Oldair of the Green Ravens will craft. It will likely have magic resistant properties when completed.
+A silver headband with a chunk of Void Crystal embedded inside that Uldar of the Green Ravens crafted. It grants advantage on INT saves.
 
-### Morenthal's Void Leather Armor
+### Morenthal's Void Absorption Hide Armor
 
-Leather armor Oldair of the Green Ravens will craft. It will likely have magic resistant properties when completed.
+Hide armor that can be attuend to a sapecific element once per day, granting 5 damage reduction. It was crafted by Uldar of the Green Ravens.
 
 ### Trilby's Bag of Many Things
 

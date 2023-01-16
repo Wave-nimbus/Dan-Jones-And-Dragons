@@ -24,11 +24,11 @@ A Bugbear who serves at the head desk of the Green Raven's HQ. She keeps track o
 
 ## Graster, Hunter
 
-Good muscle and tank for any hunting party.
+Good muscle and tank for any hunting party. A lycanthrope that has accepted his condition. During a fight, he bit Trayton of the Burning Spears, infecting him.
 
-## Oldair, Blacksmith
+## Uldar, Blacksmith
 
-Once Hestio strips a monster for its parts, Oldair is in charge of forging it into something useful.
+Once Hestio strips a monster for its parts, Uldar is in charge of forging it into something useful.
 
 ## Shana, Chef
 

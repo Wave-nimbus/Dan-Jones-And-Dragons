@@ -20,6 +20,10 @@ One of the Fallen Gods. The Flaming Spears are a cult/group devoted to destroyin
 
 Presumably the main authority over Filgrove and the northern region at large. There is no name nor actions given so far. Borey claims the Crown's Guard can get a favor for the Party if needed.
 
+## The First Dead
+
+Presumably one of the Fallen Gods. The Black Hand and The Midnight Lotus worship him and desire to restore him to power. His domain is strongly based on necromancy.
+
 ## The Nightmother
 
 One of the Nine that makes up this world's pantheon. Little is known about what her domain is, but it is presumably something that is strongly against necromancy.
