@@ -12,6 +12,8 @@
 
 #### Jan 15, 2023 - Compiled Session 8. (Late)
 
+#### Feb 14, 2023 - Compiled Session 9.
+
 ## Intersession Updates
 
 #### Aug. 18, 2022 - Removed rules lawyering; Minor adjustments.
@@ -20,3 +22,4 @@
 
 #### Oct. 8, 2022 - Reorganized wiki to spread out information in more documents.
 
+#### Feb 14, 2023 - Reogranized Items to spread out information in more documents; Added episode titles.

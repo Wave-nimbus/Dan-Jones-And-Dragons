@@ -1,5 +1,9 @@
 # Notable Filgrove Residents
 
+## Berckley Teldonto, Duke of Filgrove
+
+A Dwarf noble that is extrmely well kept and well spoken. He likes to hear himself talk, and he tends to exaggerate the deeds of others, taking credit for hiring them. He seems competant enough, and friendly otherwise.
+
 ## Borey Unzar, Crown's Guard Captain
 
 A Dwarf that previously was pestered constantly by Trilby. He acts as the captain of Filgrove's Crown's Guard. He was also friends/captain of Trilby's father before the father got injured. Commissions the Party to do a few jobs when available.
@@ -24,7 +28,7 @@ A Bugbear who serves at the head desk of the Green Raven's HQ. She keeps track o
 
 ## Graster, Hunter
 
-Good muscle and tank for any hunting party. A lycanthrope that has accepted his condition. During a fight, he bit Trayton of the Burning Spears, infecting him.
+Good muscle and tank for any hunting party. A lycanthrope that has accepted his condition. During a fight, he bit Trayton of the Burning Spears, infecting him. The Party cured him of the curse after he was banished from Filgrove.
 
 ## Uldar Mineswept, Blacksmith
 
@@ -123,3 +127,7 @@ The wife of Gale Mosswing. She was corrupted into a monster by her husbands atte
 ## Terry Grayhorn, Farmer
 
 Head of the Grahorn farm, which has been surpassed by the Mosswing farm. His son Bren is one of the Missing People. His farm is famous for their carrots, though since he is the only worker, production is falling.
+
+## Utto, Duke's Assistant
+
+A harried and greasy Gnome that is the personal assistant to Duke Teldonto. Not much is known about him other than his appearance.

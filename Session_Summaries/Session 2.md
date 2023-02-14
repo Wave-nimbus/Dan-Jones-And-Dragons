@@ -1,4 +1,4 @@
-## Session 2
+## Session 2: Reap what you Sow.
 
 The Party continues to travel back to Filgrove. Hobson inquiries about Feyli, Coil, and Morenthal knowing about necromancy, but none of them give an answer immediately. Trilby is still angry about killing Dave. Feyli finally opens up slightly about the sigil on the necklace, and Trilby realizes that he recognizes it: An open hand dragging downwards, the symbol of **The Black Hand**. The Black Hand is a false god of Orlon with a mysterious following. The Party resolves to deal with any further necromancers via torture if it happens again, though Trilby is hesitant. Dave was alone at the Temple, and he was incompetant, so the Party has likely not gained the attention of the Black Hand.
 

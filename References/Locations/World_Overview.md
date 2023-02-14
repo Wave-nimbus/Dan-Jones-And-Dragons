@@ -1,22 +1,30 @@
+# The World of Lithia
+
+Presumed to be what the world for this campaign is called. There appear to be multiple continents, overseen by the Council of Lithia. Orlon is one such continent.
+
 # The Continent of Orlon
 
-Not much has been revealed about the continent as a whole. It appears to be controlled by an Empire, and is militarily served by the Crown's Guard. Smaller sections of the continent may be under control of Dukes. Most of the Party's adventures take place in the North of Orlon, around Filgrove.
+Not much has been revealed about the continent as a whole. It is controlled by an Empire. Smaller sections or towns on the continent may be under control of Dukes. Most of the Party's initial adventures take place in the North of Orlon, around Filgrove.
 
 ## Major Cities/Locations
 
 ### Filgrove
 
-Filgrove is where the Party spends most of their time. It is a decent sized city in the North of Orlon, serving as a defensive city in the past. In and around the city, the Party's early adventures take shape. It is home to several services that the Party utilizes, and it is looked over by the Crown's Guard and the Green Ravens. Although not much happens around the city, both groups are looking for additional help constnatly. Notable locations in and around Filgrove include the following:
+Filgrove is where the Party spends most of their time. It is a decent sized city in the North of Orlon, serving as a defensive city in the past. In and around the city, the Party's early adventures took shape. See the Filgrove reference for more information.
 
 ### The Flesh Cave
 
-A corrupted structure deep within the Underdark. The Relic Staff was found here and used unsucessfully in a ritual for the Brood Mother. The result was a fleshy corruption that overtook and partially destroyed the structure. The Crown's Guard failed to retrieve the Staff, but the Party managed to do so. Without the staff, the flesh should hopefully rot away into nothingness.
+A corrupted structure deep within the Underdark. The Staff of Defilement was found here and used unsucessfully in a ritual for the Brood Mother. The result was a fleshy corruption that overtook and partially destroyed the structure. The Crown's Guard failed to retrieve the Staff, but the Party managed to do so. Without the staff, the flesh should hopefully rot away into nothingness.
 
 ## Minor Cities/Locations
 
 ### Brightcoin, the Vaults of Eversteel
 
-A major and secure vault containing several artifacts. An attack caused several of such artifacts to be spread around Orlon. The Crown's Guard has been tasked with recovering these artifacts. The Relic Staff is one such artifact that was lost and since recovered.
+A major and secure vault containing several artifacts. An attack and explosion caused several of such artifacts to be spread around the world of Lithia. The Council of Lithia has been tasked with recovering these artifacts.
+
+### Evertree
+
+Almost nothing is known about this other than its name. Morenthal's Purging Dagger from the Chamillionare apparently comes from this tree.
 
 ### Geria
 
@@ -32,7 +40,7 @@ A town not too far to the south of Filgrove. It appears to be the most recent st
 
 ### Northcliff
 
-A presumably floating city on account of Green Void Crystals. It is south of Filgrove, but beyond that, almost nothing is known. 
+A presumably floating city on account of Green Void Crystals. It is south of Filgrove, and it serves as the HQ of the Council of Lithia.
 
 ### Ravenmire
 
@@ -71,3 +79,13 @@ Presumably a large town across the East Sea (which means it may not be on Orlon 
 ### The Underdark
 
 The Underdark is the deep underground portions of a D&D world. The tunnel from Filgrove to Geria likely passes through such a region. It is home to all kinds of creatures adapted for the darkness, including mutant spider monsters and mushroom creatures. A few cities are found down below, though getting there requires long, trecherous journeys.
+
+## Major Events
+
+### The War in the West
+
+A bloody conflict presumably taking place on the western side of Orlon. According to Adocus, it is a stalemate and on pause while the artifacts are being retrieved.
+
+### Explosion at the Vaults of Eversteel
+
+An attack of some kind on Brightcoin, the Vaults of Eversteel. It scattered dozens of extremely powerful magical artifacts across the world. The Council of Lithia is attempting to recover them before something terrible can happen.

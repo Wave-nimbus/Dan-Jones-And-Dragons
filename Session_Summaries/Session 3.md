@@ -1,4 +1,4 @@
-## Session 3
+## Session 3: The Undercroft and Below.
 
 We open in the Mosswing basement with the Party and a bound & gagged Gale Mosswing. Trilby hands Hobson a Life Saver healing him. Incredulous, the Party asks why Gale did what he did. Gale tells a story of **the Hag** in town that pointed him toward a mage nearby. The mage’s book would help Gale to improve the farm after it fell on hard times. The book worked and the crops flourished, at the cost of Julia and **Mona**’s life forces, mutating them into the monsters. Trilby examines the spellbook, finding it filled with necromancy and dark magic. Gale reveals the book was given by Dave the Necromancer, and the Hag in town lives in the **Undercroft** of the city With these questions done, Morenthal wastes no time in executing Gale for “perverting the course of nature.” Feyli approves while Trilby, Hobson, and Gelnek disapprove strongly. After collecting various items in the basement, the Party returns to Filgrove and reports to the Green Ravens.
 
