@@ -76,7 +76,7 @@ A one-time return button that is meant to bring anyone within 10 ft of the orb b
 
 A pristine pearl that Karshala gave to Trilby so he could give it to Feyli. It's effects are unknown, but expected to be bad by the Cast.
 
-### Relic Staff
+### Staff of Defilement
 
 A powerful artifact that originally came from Brightcoin, the Vaults of Eversteel. It's power was used by the Brood Mother cult to create the Flesh Cave. It was sucessfully retrieved by the Party, and its effects are nullified by a Bag of Holding.
 

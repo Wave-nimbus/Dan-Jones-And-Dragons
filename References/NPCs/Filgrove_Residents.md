@@ -26,7 +26,7 @@ A Bugbear who serves at the head desk of the Green Raven's HQ. She keeps track o
 
 Good muscle and tank for any hunting party. A lycanthrope that has accepted his condition. During a fight, he bit Trayton of the Burning Spears, infecting him.
 
-## Uldar, Blacksmith
+## Uldar Mineswept, Blacksmith
 
 Once Hestio strips a monster for its parts, Uldar is in charge of forging it into something useful.
 
