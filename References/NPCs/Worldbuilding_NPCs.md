@@ -2,11 +2,15 @@
 
 ## Aether the Breaker
 
-The deity that Gelnek prays to, and presumably another member of the Nine. His domain likely involves destruction, warfare, and calamities.
+The deity that Gelnek prays to, and presumably another member of the Nine. His domain involves destruction, warfare, calamities, and regrowth.
 
 ## The Ancient One(s)
 
 Presumably ancient or primordial beasts that live in the Underdark. What they exactly are is unknown other than they can eat people without much issue. The mushroom people believe it/them protects creatures in the Underdark.
+
+## Arther Oathbringer
+
+A presumed dead member of the Champions of Virtue. A statue of his likeness appears in the main square of Filgrove. Valss may remember him for some reason, or he might not.
 
 ## The Brood Mother
 
@@ -16,9 +20,9 @@ One of the Fallen Goddesses. A cult dedicated to her lived within the Flesh Cave
 
 One of the Fallen Gods. The Flaming Spears are a cult/group devoted to destroying the seal holdng him.. He was a major figure from the Elemental Plane of Fire, previously thought to be unstoppable before he was chained and bound.
 
-## The Duke
+## The Emperor of Orlon
 
-Presumably the main authority over Filgrove and the northern region at large. There is no name nor actions given so far. Borey claims the Crown's Guard can get a favor for the Party if needed.
+Presumed to be the authority over the contient of Orlon itself. Where they live and their disposition are unknown. The Champions of Virtue served him over half a century ago.
 
 ## The First Dead
 

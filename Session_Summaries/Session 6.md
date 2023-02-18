@@ -1,4 +1,4 @@
-## Session 6
+## Session 6: Hunters or Hunted?
 
 We open in the basment of the Crown's Guard barraks, and the guards carry the dead Crown's Guard while other guards go to get Borey. Gelnek congratulates and thanks the Party, declaring they will be very strong in the future. A moment later, Borey greets the party, inviting them to talk in his office. He expresses his gratitude for Merabeth's return. The Party gives him the Bag of Holding which he places into a safe. Borey says he'll contact those who want it, and they'll likely arrive by airship in a few days. The Party returns the Sending Stones and Orb of Recall back to Borey. Their reward will be given later, so the Party leaves. Filgrove appears to be bustling as normal, and the air is crisp with the late fall air. Judging by the sun, it is about 4-5 PM, and the rest of the day is open. For rest and cleaning up, the Party heads off to the Brass Squid once again.
 

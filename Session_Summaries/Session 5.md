@@ -1,4 +1,4 @@
-## Session 5
+## Session 5: Flesh Cave, O Flesh Cave...
 
 *This session involves descriptions and depictions of body horror and corruption, specifically fleshy tenticles and mutiliation. Viewer/Reader discresion is advised*
 

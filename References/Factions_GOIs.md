@@ -6,11 +6,19 @@ A group of necromancers that prey upon the emotionally vulnereable, such as mour
 
 ## The Burning Spears
 
-A cult dedicated to the Cascos the Fire Lord. They search for the seal that holds Cascos captive in order to destroy it and bring Cascos back to power. So far, they are mostly a harmless group of hooligans within Filgrove. Known members include: *Fermir*, *Han Rathenal*, *Jeroma*, and *Odin*. Former members include: *Trayton Farkle*.
+A cult dedicated to the Cascos the Fire Lord. They search for the seal that holds Cascos captive in order to destroy it and bring Cascos back to power. So far, they are mostly a harmless group of hooligans within Filgrove. Known members include: *Fermir*, *Han Rathenal*, *Jeroma*, *Odin*, and *Trayton Farkle*.
 
 ## Bloodletters Guild
 
 The bounty hunting/assassin's guild that is attemtping to hunt down Feyli. Since Morenthal seems to be helping her, the guild has a bounty for his head too. It is unknown who or what is at the top of the organization. Known members include: *Daemon*, *Molloke Iron*, *Morenthal*, and *Yuul Greaterfist*.
+
+## The Champions of Valor
+
+An old adventuring and heroic party that reached its peak about half a century ago before likely retiring. The group is famous across the continent for its legendary deeds, but as it is no longer active, the members have all moved on. Former members include: *Adocus Thandadar*, and *Arther Oathbringer*.
+
+## The Council of Lithia
+
+Presumably a peacekeeping organization tasked with dealing with threats across the world of Lithia. It may also be an analogue for the United Nations. Known members include: *Adocus Thanadar*.
 
 ## The Crown's Guard
 
@@ -30,7 +38,7 @@ A very small tribe of rusty orange goblins that live to the southeast of Filgrov
 
 ## The Green Ravens
 
-Monster hunters that have made their home in Filgrove. They take care of various beasts and monsters that can be found in the area. The Party is on good terms with them and has been offered a place amongst their ranks. Known members include: *Cici*, *Graster*, *Hestio*, *Uldar*, *Shana*, *Tain*, and *Vera*.
+Monster hunters that have made their home in Filgrove. They take care of various beasts and monsters that can be found in the area. The Party is on good terms with them and has been offered a place amongst their ranks. Known members include: *Cici*, *Hestio*, *Uldar*, *Shana*, *Tain*, and *Vera*. Former  members include: *Graster*.
 
 ## The Midnight Lotus
 

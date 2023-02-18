@@ -1,4 +1,4 @@
-## Session 7
+## Session 7: All Hallow's Eve Festival.
 
 *Minor content warning: Sexual themes.*
 

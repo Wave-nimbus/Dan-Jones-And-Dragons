@@ -12,11 +12,11 @@ The Party's main tavern where they all first met. It is headed by Gavel along wi
 
 ### The Crown's Guard Tower
 
-One of the offices of the Crown's Guard that serves the city. Usually manned by Borey. The Crown's Guard is stretched thin this far North, so Borey is appreciative of any help the Party can give him.
+One of the offices of the Crown's Guard that serves the city. Usually manned by Borey. The Crown's Guard is stretched thin this far North, so Borey is appreciative of any help the Party can give him. 
 
 ### The Crown's Guard Barracks
 
-The Barracks of the Crown's Guard serve as the return location for the Orbs of Recall. Said orbs were used in the retrieval of the Relic Staff.
+The Barracks of the Crown's Guard serve as the return location for the Orbs of Recall. Said orbs were used in the retrieval of the Relic Staff. It is tall enough to accomodate Airship docking. It has a fancy meeting room on one of its upper floors.
 
 ### The Grayhorn Farm
 

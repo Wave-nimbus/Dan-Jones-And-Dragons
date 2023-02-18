@@ -10,6 +10,14 @@ Valss seems to have lived in Orlon years ago as part of an adventuring group. Hi
 
 # Others
 
+## Adocus Thanadar, Champion of Virtue
+
+An extremely heavyset and buff human that was part of the Champions of Virtue hero group. He has since joined the Council of Lithia, overseeing efforts to protect the realm. He hires the Party to search for artifacts form the Vaults of Eversteel.
+
+## Charmillionare, Expensive Merchant
+
+A well traveled and extremely rich Lizardfolk merchant that travels the lands selling expensive (and potentially overpriced) magical items. When he met the Party, he sells a number of items and offers even more.
+
 ## Daemon, Guild Head
 
 Presumably the head of the Bloodletters guild that Morenthal and Molloke are a part of. It is unclear what he thinks of everything going on.
