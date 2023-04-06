@@ -25,3 +25,5 @@
 #### Oct. 8, 2022 - Reorganized wiki to spread out information in more documents.
 
 #### Feb 14, 2023 - Reogranized Items to spread out information in more documents; Added episode titles.
+
+#### April 5, 2023 - Reorganized Other_NPCs first by factions then by alphabetical; Fixeed Typos.

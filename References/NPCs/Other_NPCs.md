@@ -1,4 +1,4 @@
-# Major NPCs
+# Major Recurring NPCs
 
 ## Adokas Thanadar, Champion of Virtue
 
@@ -12,100 +12,112 @@ A talking skull bought by Coil from Karshala. How he became a talking skull is u
 
 Valss seems to have lived in Orlon years ago as part of an adventuring group. His memories are shrouded in mystery, but he gets flashes in the Flesh Cave. He currently lives in the silver bracer on Hobson's arm, which allows him to control Hobson if he so desires. His greatest desire is to get a statue of himself, which is why he is bonded with Hobson.
 
-# Others
+# Other NPCs
 
-## Ardwil, Viradescent Javelin Quartermaster
+Organized by Faction, if available.
+
+## Airship Viradescent Javelin 
+
+### Ardwil, Viradescent Javelin Quartermaster
 
 A full blooded Orc that serves as a combat specialist and weapons maintainer for the Airship Viradescent Javelin.
 
-## Azrew Avena, Viradescent Javelin Captain
+### Azrew Avena, Viradescent Javelin Captain
 
 A lanky blond Elf that serves as the captain of the Airship Viradescent Javelin which took the Party from Filgrove to Northcliff.
 
-## Carva, Viradescent Javelin Navigator
+### Carva, Viradescent Javelin Navigator
 
 An elderly green Dragonborn that serves as the primary meterologist and navigator for the Airship Viradescent Javelin.
 
-## Charmillionare, Expensive Merchant
-
-A well traveled and extremely rich Lizardfolk merchant that travels the lands selling expensive (and potentially overpriced) magical items. When he met the Party, he sells a number of items and offers even more.
-
-## Daemon, Guild Head
-
-Presumably the head of the Bloodletters guild that Morenthal and Molloke are a part of. It is unclear what he thinks of everything going on.
-
-## Dave, Necromancer
-
-An incompetant necromancer and part of the Black Hand group. He was hiding in the Nightmother temple's catacombs doing necromancy stuff. 
-
-## Durmin, FFXIV reference
-
-Durmin Durami is the name of Dan Floyd's Final Fantasy XIV Lalafell for his PlayFrame series. He has absolutely nothing to do with the D&D campagin, but Lalafells and Halflings share a similar role as small races.
-
-## Ember, Illustrious Delight
-
-A member of the Illustrious Delight circus troupe. She is a Fire Genasi in charge of various fire bataon acrobatics and magic feats. She flirts with Hobson to get closer to Feyli, but the troupe is a part of the Midnight Lotus.
-
-## Estavan Longfeather, Historian
-
-Presumably a male Goblin that researches the Voedia people. Marma recommends him to Coil if Coil wants to know more about his past.
-
-## Geo, Viradescent Javelin Crew
+### Geo, Viradescent Javelin Crew
 
 A laid back Dwarven crew member of the Viradescent Javelin. He and Priscila are general crew, and his lax nature counters her wound nature.
 
-## Gorm, Illustrious Delight
-
-A member of the Illustrious Delight mentioned in Ember's personal journal. He serves as the member in charge of digging up and replacing dead bodies in towns. He can also cast a Zone of Truth.
-
-## Grayton Mule, Viradescent Javelin Crew
+### Grayton Mule, Viradescent Javelin Crew
 
 A Half-Elf crew member of the Viradescent Javelin. He is often found sleeping in his hammock since he is also in charge of the night shift and watch.
 
-## Jeroma, Burning Spears Member
-
-A halfling member of the Burning Spears and friend of Trayton. He followed Trayton to the burned farmhouse and was temporarily cursed with Lycanthropy when Trayton bit him.
-
-## Marmatool Longfeather, Viradescent Javelin Engineer
+### Marmatool Longfeather, Viradescent Javelin Engineer
 
 A female Goblin that serves the Viradescent Javelin as an engineer, ensuring the airship runs smoothly.
 
-## Me, Mushroom Man
-
-A mushroom creature the Party encountered in the Underdark. Part of a race of enormous mushroom creatures that eat creatures that stay inside their muschroom hill cavern. Otherwise quite firendly.
-
-## Molloke Iron, Assassin
-
-A bounty hunter and assassin presumably from the same Bloodletters guild as Morenthal. He wants to caputre/kill Feyli, as there is 24,000 gp bounty on her head. However, he warned Morenthal of the impending bounty first.
-
-## Priscila, Viradescent Javelin Crew
+### Priscila, Viradescent Javelin Crew
 
 A female Human that serves as a general crew member for the Viradescent Javelin. She is very by-the-books and uptight in contrast to Geo.
 
-## Rum and Elm, Illustrious Delight
-
-Members of the Illustrious Delight circus troupe. A pair of Half-elves serving as trapese artists and acrobats. The two of them are well in sync, both in their act and other mannerisms. The troupe is a part of the Midnight Lotus.
-
-## Sawyer, Illustrious Delight
-
-The ring leader, owner and/or operator of the Illustrious Delight circus troupe. A Gnome that serves both as the circus's announcer and its main orchestra. His magic lute is capable of mimicing many instruments. The troupe is a part of the Midnight Lotus.
-
-## The Second, Midnight Lotus Leader
-
-The second in command of the Midnight Lotus just behind the First Dead. He gives orders to the lower numbered tiers of the organization, as he is the direct apprentice of the First.
-
-## Tesen Stormhoof, Illustrious Delight
-
-A member of the Illustrious Delight circus troupe. He is a large Minotaur that acts as the circus's strongman act. While shy and bashful, his strength is unparalleled. The troupe is a part of the Midnight Lotus.
-
-## Trayton Farkle, Burning Spear Deserter
-
-Previously a human member of the Burning Spears cult. He ran away from the group to an abandoned farmhouse to the southeast of Filgrove. Graster wants him dead, but Han would rather keep him alive, offering more than Graster for the information. He was bitten by Graster, becoming cursed by Lycanthropy before being cured.
-
-## Vespie, Viradescent Javelin Engineer
+### Vespie, Viradescent Javelin Engineer
 
 A male Gnome that serves the Viradescent Javelin's engine room, ensuring the airship runs as smooth as possible.
 
-## Yuul Greaterfist, Assassin
+## Bloodletters Guild
+
+### Daemon, Bloodletters Guild Head
+
+Presumably the head of the Bloodletters guild that Morenthal and Molloke are a part of. It is unclear what he thinks of everything going on.
+
+### Molloke Iron, Bloodletters Assassin
+
+A bounty hunter and assassin presumably from the same Bloodletters guild as Morenthal. He wants to caputre/kill Feyli, as there is 24,000 gp bounty on her head. However, he warned Morenthal of the impending bounty first.
+
+### Yuul Greaterfist, Bloodletters Assassin
 
 A Goliath member of the Bloodletters that Morenthal notices after returning from getting Void gear ordered. He ambushed Morenthal in the costume shop, got an extremely nasty stab into Morenthal's back and then stole all his money. However, he did keep Morenthal alive, despite the bounty on his head.
+
+## Burning Spears
+
+### Jeroma, Burning Spears Member
+
+A halfling member of the Burning Spears and friend of Trayton. He followed Trayton to the burned farmhouse and was temporarily cursed with Lycanthropy when Trayton bit him.
+
+### Trayton Farkle, Burning Spear Deserter
+
+Previously a human member of the Burning Spears cult. He ran away from the group to an abandoned farmhouse to the southeast of Filgrove. Graster wants him dead, but Han would rather keep him alive, offering more than Graster for the information. He was bitten by Graster, becoming cursed by Lycanthropy before being cured.
+
+## Illustrious Delight
+
+### Ember, Illustrious Delight
+
+A member of the Illustrious Delight circus troupe. She is a Fire Genasi in charge of various fire bataon acrobatics and magic feats. She flirts with Hobson to get closer to Feyli, but the troupe is a part of the Midnight Lotus.
+
+### Gorm, Illustrious Delight
+
+A member of the Illustrious Delight mentioned in Ember's personal journal. He serves as the member in charge of digging up and replacing dead bodies in towns. He can also cast a Zone of Truth.
+
+### Rum and Elm, Illustrious Delight
+
+Members of the Illustrious Delight circus troupe. A pair of Half-elves serving as trapese artists and acrobats. The two of them are well in sync, both in their act and other mannerisms. The troupe is a part of the Midnight Lotus.
+
+### Sawyer, Illustrious Delight
+
+The ring leader, owner and/or operator of the Illustrious Delight circus troupe. A Gnome that serves both as the circus's announcer and its main orchestra. His magic lute is capable of mimicing many instruments. The troupe is a part of the Midnight Lotus.
+
+### Tesen Stormhoof, Illustrious Delight
+
+A member of the Illustrious Delight circus troupe. He is a large Minotaur that acts as the circus's strongman act. While shy and bashful, his strength is unparalleled. The troupe is a part of the Midnight Lotus.
+
+## Factionless/One-Offs
+
+### Charmillionare, Expensive Merchant
+
+A well traveled and extremely rich Lizardfolk merchant that travels the lands selling expensive (and potentially overpriced) magical items. When he met the Party, he sells a number of items and offers even more.
+
+### Dave, Necromancer
+
+An incompetant necromancer and part of the Black Hand group. He was hiding in the Nightmother temple's catacombs doing necromancy stuff. 
+
+### Durmin, FFXIV reference
+
+Durmin Durami is the name of Dan Floyd's Final Fantasy XIV Lalafell for his PlayFrame series. He has absolutely nothing to do with the D&D campagin, but Lalafells and Halflings share a similar role as small races.
+
+### Estavan Longfeather, Historian
+
+Presumably a male Goblin that researches the Voedia people. Marma recommends him to Coil if Coil wants to know more about his past.
+
+### Me, Mushroom Man
+
+A mushroom creature the Party encountered in the Underdark. Part of a race of enormous mushroom creatures that eat creatures that stay inside their muschroom hill cavern. Otherwise quite firendly.
+
+### The Second, Midnight Lotus Leader
+
+The second in command of the Midnight Lotus just behind the First Dead. He gives orders to the lower numbered tiers of the organization, as he is the direct apprentice of the First.

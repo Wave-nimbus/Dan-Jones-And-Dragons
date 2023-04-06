@@ -1,6 +1,6 @@
-# The World of E'E'lithia
+# The World of E'lithia
 
-Presumed to be what the world for this campaign is called. There appear to be multiple continents, overseen by the Council of E'E'lithia. Orlon is one such continent.
+Presumed to be what the world for this campaign is called. There appear to be multiple continents, overseen by the Council of E'lithia. Orlon is one such continent.
 
 # The Continent of Orlon
 
