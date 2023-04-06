@@ -36,9 +36,21 @@ A small conical shell that does not appear to have a creature inside of it. Furt
 
 A normal mechanical hunting trap used to catch small animals. It chomped on Trilby's hand when it was pulled. Feyli is given the Trap, as she is most atttuned to nature and survival.
 
+## Jingle Bell
+
+A silver bell that looks exactly like a classic jingle bell. Trilby immediately attaches it to the hilt of his green ribbon sword, making it a rather noisy weapon.
+
+## Makeup Compact
+
+A clamshell makeup compact with pale skin toned foundation inside. Trilby gives it to Feyli, since she's the most likely to use it. Neither of them know what to do with it, though.
+
 ## Ship in a Bottle
 
 A miniature ship inside of a bottle the size of an apple. While tinkering with it, Trilby accidentally breaks one of the masts on the ship. Further usage unknown.
+
+## Torquoise Feather
+
+A relatively large feather whose hue goes from white to torquoise at the tip. If it has any magical properties, they are unknown at the time.
 
 ## Vintage Year Wine
 

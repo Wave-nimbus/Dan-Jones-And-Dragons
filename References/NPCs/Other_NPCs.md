@@ -1,5 +1,9 @@
 # Major NPCs
 
+## Adokas Thanadar, Champion of Virtue
+
+An extremely heavyset and buff human Monk that was part of the Champions of Virtue hero group. He has since joined the Council of E'lithia, overseeing efforts to protect the realm. He hires the Party to search for artifacts form the Vaults of Eversteel.
+
 ## Bartholomew, Talking Skull
 
 A talking skull bought by Coil from Karshala. How he became a talking skull is unknown, but it is likely the work of a necromancer. He is fully aware of his predicament and desires to travel with the Party.
@@ -10,9 +14,17 @@ Valss seems to have lived in Orlon years ago as part of an adventuring group. Hi
 
 # Others
 
-## Adocus Thanadar, Champion of Virtue
+## Ardwil, Viradescent Javelin Quartermaster
 
-An extremely heavyset and buff human that was part of the Champions of Virtue hero group. He has since joined the Council of Lithia, overseeing efforts to protect the realm. He hires the Party to search for artifacts form the Vaults of Eversteel.
+A full blooded Orc that serves as a combat specialist and weapons maintainer for the Airship Viradescent Javelin.
+
+## Azrew Avena, Viradescent Javelin Captain
+
+A lanky blond Elf that serves as the captain of the Airship Viradescent Javelin which took the Party from Filgrove to Northcliff.
+
+## Carva, Viradescent Javelin Navigator
+
+An elderly green Dragonborn that serves as the primary meterologist and navigator for the Airship Viradescent Javelin.
 
 ## Charmillionare, Expensive Merchant
 
@@ -34,13 +46,29 @@ Durmin Durami is the name of Dan Floyd's Final Fantasy XIV Lalafell for his Play
 
 A member of the Illustrious Delight circus troupe. She is a Fire Genasi in charge of various fire bataon acrobatics and magic feats. She flirts with Hobson to get closer to Feyli, but the troupe is a part of the Midnight Lotus.
 
+## Estavan Longfeather, Historian
+
+Presumably a male Goblin that researches the Voedia people. Marma recommends him to Coil if Coil wants to know more about his past.
+
+## Geo, Viradescent Javelin Crew
+
+A laid back Dwarven crew member of the Viradescent Javelin. He and Priscila are general crew, and his lax nature counters her wound nature.
+
 ## Gorm, Illustrious Delight
 
 A member of the Illustrious Delight mentioned in Ember's personal journal. He serves as the member in charge of digging up and replacing dead bodies in towns. He can also cast a Zone of Truth.
 
+## Grayton Mule, Viradescent Javelin Crew
+
+A Half-Elf crew member of the Viradescent Javelin. He is often found sleeping in his hammock since he is also in charge of the night shift and watch.
+
 ## Jeroma, Burning Spears Member
 
 A halfling member of the Burning Spears and friend of Trayton. He followed Trayton to the burned farmhouse and was temporarily cursed with Lycanthropy when Trayton bit him.
+
+## Marmatool Longfeather, Viradescent Javelin Engineer
+
+A female Goblin that serves the Viradescent Javelin as an engineer, ensuring the airship runs smoothly.
 
 ## Me, Mushroom Man
 
@@ -49,6 +77,10 @@ A mushroom creature the Party encountered in the Underdark. Part of a race of en
 ## Molloke Iron, Assassin
 
 A bounty hunter and assassin presumably from the same Bloodletters guild as Morenthal. He wants to caputre/kill Feyli, as there is 24,000 gp bounty on her head. However, he warned Morenthal of the impending bounty first.
+
+## Priscila, Viradescent Javelin Crew
+
+A female Human that serves as a general crew member for the Viradescent Javelin. She is very by-the-books and uptight in contrast to Geo.
 
 ## Rum and Elm, Illustrious Delight
 
@@ -69,6 +101,10 @@ A member of the Illustrious Delight circus troupe. He is a large Minotaur that a
 ## Trayton Farkle, Burning Spear Deserter
 
 Previously a human member of the Burning Spears cult. He ran away from the group to an abandoned farmhouse to the southeast of Filgrove. Graster wants him dead, but Han would rather keep him alive, offering more than Graster for the information. He was bitten by Graster, becoming cursed by Lycanthropy before being cured.
+
+## Vespie, Viradescent Javelin Engineer
+
+A male Gnome that serves the Viradescent Javelin's engine room, ensuring the airship runs as smooth as possible.
 
 ## Yuul Greaterfist, Assassin
 
