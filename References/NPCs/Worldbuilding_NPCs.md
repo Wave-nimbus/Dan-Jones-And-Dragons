@@ -35,3 +35,7 @@ One of the Nine that makes up this world's pantheon. Little is known about what 
 ## Ophena
 
 One of the Nine that makes up this world's pantheon. Ophena is the Goddess of Light, and her symbhol is a bright star.
+
+## The Voedia
+
+An ancient civilization that used to exist on Orlon a long time ago. The Shard Coast was built over their remains. A prominant ruin location known as the Sunken City of Cera is one of the last remnants of their civilization. 

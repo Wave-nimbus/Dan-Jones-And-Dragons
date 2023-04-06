@@ -1,6 +1,6 @@
-# The World of E'lithia
+# The World of E'E'lithia
 
-Presumed to be what the world for this campaign is called. There appear to be multiple continents, overseen by the Council of Lithia. Orlon is one such continent.
+Presumed to be what the world for this campaign is called. There appear to be multiple continents, overseen by the Council of E'E'lithia. Orlon is one such continent.
 
 # The Continent of Orlon
 
@@ -18,13 +18,21 @@ A corrupted structure deep within the Underdark. The Staff of Defilement was fou
 
 ## Minor Cities/Locations
 
+### Blackfane
+
+A large and major city in central Orlon. It serves as an enormous trade and merchent hub, with nearly anything being available to buy. It appears as a massive black spire with boardwalks running out a distance from the main spire. The Emperor of E'E'lithia is also housed in this city.
+
 ### Brightcoin, the Vaults of Eversteel
 
-A major and secure vault containing several artifacts. An attack and explosion caused several of such artifacts to be spread around the world of Lithia. The Council of Lithia has been tasked with recovering these artifacts.
+A major and secure vault containing several artifacts. An attack and explosion caused several of such artifacts to be spread around the world of E'lithia. The Council of E'lithia has been tasked with recovering these artifacts.
 
 ### Evertree
 
 Almost nothing is known about this other than its name. Morenthal's Purging Dagger from the Chamillionare apparently comes from this tree.
+
+### Far Reach Mountains
+
+A mountain range that extends across most of the northern reaches of Orlon. It is most easily traversed by airship, though it houses several flying creatures including wyverns that are capable and willing ot attack such airships.
 
 ### Geria
 
@@ -40,11 +48,19 @@ A town not too far to the south of Filgrove. It appears to be the most recent st
 
 ### Northcliff
 
-A presumably floating city on account of Green Void Crystals. It is south of Filgrove, and it serves as the HQ of the Council of Lithia.
+A presumably floating city on account of Green Void Crystals. It is south of Filgrove, and it serves as the HQ of the Council of E'lithia.
+
+### Ohkross
+
+A village north of Northcliff. When the Party first sees it, the town appears to be on fire, so they investigate it.
 
 ### Ravenmire
 
 A town even further North than Filgrove. Even less happens there, so almost nothing is known.
+
+### Rycefall
+
+A town near the Sunken City of Cera, which serves as a adventuring and archeology hub. Beyond that, almost nothing is known about it.
 
 ### Scarlan/Nightmother Temple
 
@@ -61,6 +77,10 @@ A town in the West of Orlon that is home to a mage college of some kind. Hobson 
 ### Springoak
 
 A town on the Western edge of Orlon. Almost nothing is known other than Hobson is likely a wanted man thanks to Valss.
+
+### Sunken City of Cera
+
+The ruins of the Voedia civilization. These ruins are the most likely origin of Coil, as similar Nobility Cera models of Warforged have been discovered on delves into the city's ruins.
 
 ### Void Cave
 
@@ -84,8 +104,14 @@ The Underdark is the deep underground portions of a D&D world. The tunnel from F
 
 ### The War in the West
 
-A bloody conflict presumably taking place on the western side of Orlon. According to Adocus, it is a stalemate and on pause while the artifacts are being retrieved.
+A bloody conflict presumably taking place on the western side of Orlon. According to Adokas, it is a stalemate and on pause while the artifacts are being retrieved.
 
 ### Explosion at the Vaults of Eversteel
 
-An attack of some kind on Brightcoin, the Vaults of Eversteel. It scattered dozens of extremely powerful magical artifacts across the world. The Council of Lithia is attempting to recover them before something terrible can happen.
+An attack of some kind on Brightcoin, the Vaults of Eversteel. It scattered dozens of extremely powerful magical artifacts across the world. The Council of E'lithia is attempting to recover them before something terrible can happen.
+
+## Travel Network
+
+### The Airship Viradescent Javelin
+
+The first Airship of the campaign that takes the Party from Filgrove south to Northcliff over the course of four days. It is a large flying ship held aloft by six large Green Void Crystals. Its weaponry includes six ballistas, which can be used to attack flying or grounded enemies off of the ship. Its crew is listed in the NPC references.

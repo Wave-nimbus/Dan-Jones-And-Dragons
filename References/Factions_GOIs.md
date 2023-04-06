@@ -16,9 +16,9 @@ The bounty hunting/assassin's guild that is attemtping to hunt down Feyli. Since
 
 An old adventuring and heroic party that reached its peak about half a century ago before likely retiring. The group is famous across the continent for its legendary deeds, but as it is no longer active, the members have all moved on. Former members include: *Adocus Thandadar*, and *Arther Oathbringer*.
 
-## The Council of Lithia
+## The Council of E'lithia
 
-Presumably a peacekeeping organization tasked with dealing with threats across the world of Lithia. It may also be an analogue for the United Nations. Known members include: *Adocus Thanadar*.
+Presumably a peacekeeping organization tasked with dealing with threats across the world of E'lithia. It may also be an analogue for the United Nations. Known members include: *Adocus Thanadar*.
 
 ## The Crown's Guard
 
@@ -51,5 +51,9 @@ Serving as the Pantheon for the world that Orlon is in, the Nine represent vario
 ## The O'stanke Tribe
 
 Gelnek's tribe of goblins. It is unclear what their status is, but Gelnek had a dream of them outcasting him. They have a tradition spanning several generations of sending future members on a long pilgrimage so that they may get stronger. When they return, they fight the previous pilgrims to ensure the tribe remains strong. Exiled members include *Gelnek*.
+
+## Viradescent Javelin Crew
+
+The crew of the Airship Viradescent Javelin that flew the Party from Filgrove to Northcliff. They are a mixed bag, but quite competent at what they do. Known members include: *Ardwil*, *Azrew Avena*, *Carva*, *Geo*, *Grayton Mule*, *Marmatool Longfeather*, *Priscila*, and *Vespie*.
 
 
