@@ -52,7 +52,11 @@ A presumably floating city on account of Green Void Crystals. It is south of Fil
 
 ### Ohkross
 
-A village north of Northcliff. When the Party first sees it, the town appears to be on fire, so they investigate it.
+A village north of Northcliff. When the Party first see it, it is being raided by Bloodletter bandits. It is also the home of Everit Darwin.
+
+#### The Mossy Castle
+
+The inn/tavern at Ohkross run by Effy the Gnome. It is a small establishment, but the Party is welcome there.
 
 ### Ravenmire
 
@@ -95,6 +99,10 @@ A series of ports, coves, and towns that serve as a pirate's haven on the North 
 ### Shareaza
 
 Presumably a large town across the East Sea (which means it may not be on Orlon proper). It is supposed to have some "Fated Steps" that Bartholomew wanted to visit. Almost nothing is known about it otherwise.
+
+### Tievenera
+
+(TEE-ven-err-ah) A continent separate from Orlon where beast tribes have gathered to form a coalition style government. Little else is known about it, including where exactly it is.
 
 ### The Underdark
 

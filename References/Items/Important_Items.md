@@ -32,6 +32,10 @@ A one-time return button that is meant to bring anyone within 10 ft of the orb b
 
 A pristine pearl that Karshala gave to Trilby so he could give it to Feyli. Once given, it is absorbed into her hand. Karshala extracts it in exchange for a Lycanthrope cure. It seemed to have absorbed something from Feyli.
 
+## Soul Egg
+
+A catalope sized amber egg that has mysterious runes and carvings on it. Cross-checking the runes with Everid Darwin's other work seems to imply that a soul may be trapped inside of it. Morenthal is highly protective of it.
+
 ## Staff of Defilement
 
 A powerful artifact that originally came from Brightcoin, the Vaults of Eversteel. It's power was used by the Brood Mother cult to create the Flesh Cave. It was sucessfully retrieved by the Party, and its effects are nullified by a Bag of Holding.

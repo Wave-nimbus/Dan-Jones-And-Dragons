@@ -32,9 +32,23 @@ A number of Gods/Goddesses that previously were worshiped before the Nine. It is
 
 A traveling caravan that appeared in Filgrove in time for the All Hallow's Eve festival. They are a circus group that travels the continent of Orlon, performing where they can get an audience. They are a subgroup of The Midnight Lotus, using their caravan as cover for stealing corpses. Known members include: *Ember*, *Gorb*, *Rum & Elm*, *Sawyer*, and *Tesen Stormhoof*.
 
-## The Gobgek Tribe
+## Goblin Tribes
+
+### The Fil'quin Tribe
+
+One of the tribes that joined the beast tribe coalition government on Tievenera. Almost nothing else is known abou them. Previous members include *Vespie*.
+
+### The Gobgek Tribe
 
 A very small tribe of rusty orange goblins that live to the southeast of Filgrove. Gelnek attempted to teach them about economies after the Party found them attacking a stagecoach in search of food.
+
+## The Nda'vi Tribe
+
+One of the tribes that joined the beast tribe coalition government on Tievenera. Almost nothing else is known about them.
+
+### The O'stanke Tribe
+
+Gelnek's tribe of goblins. It is unclear what their status is, but Gelnek had a dream of them outcasting him. They have a tradition spanning several generations of sending future members on a long pilgrimage so that they may get stronger. When they return, they fight the previous pilgrims to ensure the tribe remains strong. Exiled members include *Gelnek*.
 
 ## The Green Ravens
 
@@ -47,10 +61,6 @@ A cult of the First Dead dedicated to Necromancy. Their desire is to bring the F
 ## The Nine
 
 Serving as the Pantheon for the world that Orlon is in, the Nine represent various aspects of clerics, paladins and the like. Mentioned deities of this pantheon include: *Aether the Breaker*, *The Nightmother*, and *Ophena*.
-
-## The O'stanke Tribe
-
-Gelnek's tribe of goblins. It is unclear what their status is, but Gelnek had a dream of them outcasting him. They have a tradition spanning several generations of sending future members on a long pilgrimage so that they may get stronger. When they return, they fight the previous pilgrims to ensure the tribe remains strong. Exiled members include *Gelnek*.
 
 ## Viradescent Javelin Crew
 
