@@ -14,7 +14,11 @@ Valss seems to have lived in Orlon years ago as part of an adventuring group. Hi
 
 # Other NPCs
 
+<<<<<<< HEAD
+## Adokas Thanadar, Champion of Virtue
+=======
 Organized by Faction, if available.
+>>>>>>> 50b0b697aa0de9c4a734608c1b297ee52e60638f
 
 ## Airship Viradescent Javelin 
 
