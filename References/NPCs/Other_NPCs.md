@@ -14,11 +14,7 @@ Valss seems to have lived in Orlon years ago as part of an adventuring group. Hi
 
 # Other NPCs
 
-<<<<<<< HEAD
-## Adokas Thanadar, Champion of Virtue
-=======
 Organized by Faction, if available.
->>>>>>> 50b0b697aa0de9c4a734608c1b297ee52e60638f
 
 ## Airship Viradescent Javelin 
 
@@ -113,6 +109,10 @@ An incompetant necromancer and part of the Black Hand group. He was hiding in th
 ### Durmin, FFXIV reference
 
 Durmin Durami is the name of Dan Floyd's Final Fantasy XIV Lalafell for his PlayFrame series. He has absolutely nothing to do with the D&D campagin, but Lalafells and Halflings share a similar role as small races.
+
+### Effy, Mossy Castle Innkeeper
+
+A Gnome who runs the Mossy Castle inn at Ohkross. She has minor magical capabilities including healing magic, and she is the de facto leader of the village.
 
 ### Estavan Longfeather, Historian
 

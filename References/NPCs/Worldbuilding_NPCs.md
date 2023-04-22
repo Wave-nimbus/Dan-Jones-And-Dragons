@@ -2,7 +2,7 @@
 
 ## Aether the Breaker
 
-The deity that Gelnek prays to, and presumably another member of the Nine. His domain involves destruction, warfare, calamities, and regrowth.
+The deity that Gelnek prays to, and a member of the Nine. His domain involves destruction, warfare, calamities, and regrowth.
 
 ## The Ancient One(s)
 
