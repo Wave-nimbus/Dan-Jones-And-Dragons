@@ -1,4 +1,4 @@
-# Dan Jones And Dragons Fan Wiki: Grand Archives
+# Dan Jones And Dragons Fan Wiki: The Adventures Begin
 
 ## Where can I find DJ&D?
 
@@ -14,7 +14,7 @@ This is the fan-made reference/wiki for the Dan Jones And Dungeons D&D Campaign 
 
 The series has been going on long enough to break up the sessions into miniature arcs. These arcs have been named based on their content, and the relevant episodes are divided into them.
 
-The GrandArchives Branch contains all information up to the most recent session or the most recent session compiled. It assumes full knowledge of the campaign's events. Session summaries are split according to their respective arcs.
+*The Adventures Begin* contains information referenced in and upated up to the end of Session 3. Information not mentioned in this arc has been removed for easier viewing, reading, and searching.
 
 ## Does DJ&J have a content rating?
 
@@ -35,7 +35,7 @@ The Sessions are divided into story arcs. Information pertaining to each specifi
 
 ### Color Code
 
-The sheer quantity of information presetned within each episode can generally be split into several categories, including NPCs, Locations, and Items. The job of this wiki is to catalog any and all important pieces of information possible. Session summaries make notes of the first mention of said information. To fascilitate easier reading, a color code has been established denoting what type of information was mentioned. The code is below.
+The sheer quantity of information presetned within each episode can generally be split into several categories, including NPCs, Locations, and Items. The job of this wiki is to catalog any and all important pieces of information possible. Session summaries make notes of the first mention of said information. To fascilitate easier reading, a color code has been established denoting what type of information was mentioned. The relevant colors used in this arc are listed below.
 
 Newly Archived NPC Names are in <span style="color:teal">Teal</span>
 <br>
@@ -47,12 +47,8 @@ Newly Archived Inner-Town Location Names are in <span style="color:coral">Coral<
 <br>
 Newly Archived Important/Personal Items are in <span style="color:forestgreen">Forest Green</span>
 <br>
-Newly Archived Bag Of Many Things Pulls are in <span style="color:lightgreen">Light Green</span>
-<br>
 Unarchived NPCs or Items are in <span style="color:gray">Gray</span>
 <br>
-Reminders of NPCs are in <span style="color:tan">Tan</span>
-
 
 #### About the Creator(s)
 

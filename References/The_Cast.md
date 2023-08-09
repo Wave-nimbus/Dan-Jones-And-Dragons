@@ -1,6 +1,6 @@
 # Dungeon Master: Dan Jones
 
-# The Flower Crowns; Current Level: 6
+# The Party; Current Level: 3
 <span style="color:blue">
 
 ## Coil the Beast Barbarian (He/Him)
@@ -14,7 +14,7 @@ A Warforged with the head of jackal whose jaws are often locked up tight. Serves
 
 ### Played by Nichole (She/Her)
 </span>
-A tanned Tiefling with branch-like horns adorned with flowers and a tail wrapped in thorns. She has purple hair and an outfit suggesting an affinity for nature. She is a part of the Midnight Lotus with a crystal necklace to prove it. Enjoys other people's drama so long as nobody gets physically hurt. She is running away from the Black Hand cult, which she used to be a part of.
+A tanned Tiefling with branch-like horns adorned with flowers and a tail wrapped in thorns. She has purple hair and an outfit suggesting an affinity for nature. Enjoys other people's drama so long as nobody gets physically hurt.
 <span style="color:goldenrod">
 
 ## Gelnek the Valor Bard (He/Him)
@@ -35,7 +35,7 @@ A Halfling who looks like Ernie from Sesame Street. Has some light leather armor
 
 ### Played by Gamb (He/They)
 </span>
-A Drow that hasn't quite warmed up to the Party quite yet. He is part of the Bloodletters bounty hunter/assassin group, though his past is shrouded in mystery. He wears black and leather, serving as the traditional edgy rogue. His protectiveness for Feyli has gotten him a bounty on his head as well.
+A Drow that hasn't quite warmed up to the Party quite yet. He is part of the unnamede bounty hunter/assassin guild, though his past is shrouded in mystery. He wears black and leather, serving as the traditional edgy rogue. 
 <span style="color:dodgerblue">
 
 ## Trilby the Artillerist Artificer (He/Him)
