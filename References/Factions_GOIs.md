@@ -42,7 +42,7 @@ One of the tribes that joined the beast tribe coalition government on Tievenera.
 
 A very small tribe of rusty orange goblins that live to the southeast of Filgrove. Gelnek attempted to teach them about economies after the Party found them attacking a stagecoach in search of food.
 
-## The Nda'vi Tribe
+### The Nda'vi Tribe
 
 One of the tribes that joined the beast tribe coalition government on Tievenera. Almost nothing else is known about them.
 
