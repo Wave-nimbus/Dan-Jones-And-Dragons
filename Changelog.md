@@ -31,3 +31,5 @@
 #### April 5, 2023 - Reorganized Other_NPCs first by factions then by alphabetical; Fixeed Typos.
 
 #### August 8, 2023 - Major reorganization of the Wiki into different branches for story arcs; Created & applied color code to all summaries.
+
+#### August 9, 2023 - Arc 1 Reorganization Complete;
