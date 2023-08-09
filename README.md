@@ -1,4 +1,4 @@
-# Dan Jones And Dragons Fan Wiki
+# Dan Jones And Dragons Fan Wiki: Grand Archives
 
 ## Where can I find DJ&D?
 
@@ -10,7 +10,11 @@ This is the fan-made reference/wiki for the Dan Jones And Dungeons D&D Campaign 
 
 ## Are there Spoilers here?
 
-**YES!** This wiki contains information about the entire campaign, and so the references contain spoilers for the session events. Watch the sessions or read the session summaries (if you are pressed for time) before delving into the References. 
+**YES!** This wiki contains information about the entire campaign, and so the references contain spoilers for the session events. Watch the sessions or read the session summaries (if you are pressed for time) before delving into the References.
+
+The series has been going on long enough to break up the sessions into miniature arcs. These arcs have been named based on their content, and the relevant episodes are divided into them.
+
+The GrandArchives Branch contains all information up to the most recent session or the most recent session compiled. It assumes full knowledge of the campaign's events. Session summaries are split according to their respective arcs.
 
 ## Does DJ&J have a content rating?
 
@@ -22,8 +26,33 @@ The information here is collected solely from watching the streams and/or VODs. 
 
 ## Navigating this Github
 
-This site has two main folders: Reference Documents and Session Summaries. The Session Summaries are exactly what they say: They are summaries of each session that gets recorded. Events presented in the summaries are presented in the same order as they are presented in the session. Summaries are released one week after the YouTube VOD is released, giving time for the episode to be watched and digested. Summaries include notes to the Reference Documents, denoted by **bold font**. The References include gleaned information and descriptions of the world that Dan J. has created. They are sorted first by category and then in alphabetical order. *Note that these references likely contain spoilers for current/past sessions. As such, it is suggested that each session be watched or summary read before delving into the references*. Like the summaries, the References get updated one week after the YouTube VOD is released (to the best of the creator(s) abilities).
-**The creator(s) ask that this Github remain read only**
+This site has two main folders: Reference Documents and Session Summaries. The Session Summaries are exactly what they say: They are summaries of each session that gets recorded. Events presented in the summaries are presented in the same order as they are presented in the session. Summaries are released one week after the YouTube VOD is released, giving time for the episode to be watched and digested. Summaries include notes to the Reference Documents, denoted by **bold font** and the color code below. 
+
+The References include gleaned information and descriptions of the world that Dan J. has created. They are sorted first by category and then in alphabetical order. *Note that these references likely contain spoilers for current/past sessions. As such, it is suggested that each session be watched or summary read before delving into the references*. Like the summaries, the References get updated one week after the YouTube VOD is released (to the best of the creator(s) abilities).
+
+The Sessions are divided into story arcs. Information pertaining to each specific arc can either be found in the GrandArchives Branch or the arc's respective Branch. To go to a different Branch, go to the Github dropdown or page for Branches and select the one you'd like to visit.
+<br>**The creator(s) ask that this Github remain read only**
+
+### Color Code
+
+The sheer quantity of information presetned within each episode can generally be split into several categories, including NPCs, Locations, and Items. The job of this wiki is to catalog any and all important pieces of information possible. Session summaries make notes of the first mention of said information. To fascilitate easier reading, a color code has been established denoting what type of information was mentioned. The code is below.
+
+Newly Archived NPC Names are in <span style="color:teal">Teal</span>
+<br>
+Newly Archived Faction Names are in <span style="color:aqua">Aqua</span>
+<br>
+Newly Archived World World Location Names and Events are in <span style="color:brown">Brown</span>
+<br>
+Newly Archived Inner-Town Location Names are in <span style="color:coral">Coral</span>
+<br>
+Newly Archived Important/Personal Items are in <span style="color:forestgreen">Forest Green</span>
+<br>
+Newly Archived Bag Of Many Things Pulls are in <span style="color:lightgreen">Light Green</span>
+<br>
+Unarchived NPCs or Items are in <span style="color:gray">Gray</span>
+<br>
+Reminders of NPCs are in <span style="color:tan">Tan</span>
+
 
 #### About the Creator(s)
 
