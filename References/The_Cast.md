@@ -1,6 +1,6 @@
 # Dungeon Master: Dan Jones
 
-# The Party; Current Level: 3
+# The Party; Current Level: 3-4
 <span style="color:blue">
 
 ## Coil the Beast Barbarian (He/Him)
