@@ -1,6 +1,6 @@
 # Dungeon Master: Dan Jones
 
-# The Flower Crowns; Current Level: 6
+# The Party; Current Level: 4-5
 <span style="color:blue">
 
 ## Coil the Beast Barbarian (He/Him)
