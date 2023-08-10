@@ -54,7 +54,7 @@ A male Gnome that serves the Viradescent Javelin's engine room, ensuring the air
 
 ### Daemon, Bloodletters Guild Head
 
-Presumably the head of the Bloodletters guild that Morenthal and Molloke are a part of. It is unclear what he thinks of everything going on.
+Presumably the head of the Bloodletters guild that wants to capture/kill Feyli and Morenthal. He believes Morenthal is a threat.
 
 ### Molloke Iron, Bloodletters Assassin
 

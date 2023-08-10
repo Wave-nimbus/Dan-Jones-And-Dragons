@@ -2,7 +2,7 @@
 
 ## Berckley Teldonto, Duke of Filgrove
 
-A Dwarf noble that is extrmely well kept and well spoken. He likes to hear himself talk, and he tends to exaggerate the deeds of others, taking credit for hiring them. He seems competant enough, and friendly otherwise.
+A Dwarf noble that is extrmely well kept and well spoken. He likes to hear himself talk, and he tends to exaggerate the deeds of others, taking credit for hiring the Party. He seems competant enough, and friendly otherwise.
 
 ## Borey Unzar, Crown's Guard Captain
 

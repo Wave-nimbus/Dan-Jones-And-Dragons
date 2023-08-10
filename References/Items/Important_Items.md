@@ -12,6 +12,10 @@ The book that Gale Mosswing used to improve his farm's standing, to the detrimen
 
 A fancy tankard that was one of the original decorated tankards from the Brass Squid. The Party is gifted this by Gavel the Brass Squid Tavernkeep to remind them of where they all started. Gelnek traded one of his mace maraccas for it.
 
+## The First's Heart
+
+An artifact of the First Dead that the Midnight Lotus believe Feyli stole. Feyli, however, did not steal it to her knowledge. Recovering the Heart is key to reviving the First Dead.
+
 ## Golden Amulet
 
 A religious amulet for the Goddess Ophelia found amongst gear of the Crown's Guard. Said gear was in the Flesh Cave.
@@ -46,4 +50,4 @@ Three spell scrolls that were found amongst the Crown's Guard gear. What spells 
 
 ## Unknown Journal
 
-A journal discovered in the Flesh Cave discussing a failed ritual and a cult for the Brood Mother. The writer fears the Brood Mother's presence and the cult that surrounds it. The cult sees the writer as a traitor. At the end of the journal are unintelligable scrawls of Father Waits. The final page has a depiction of the Relic Staff.
+A journal discovered in the Flesh Cave discussing a failed ritual and a cult for the Brood Mother. The writer fears the Brood Mother's presence and the cult that surrounds it. The cult sees the writer as a traitor. At the end of the journal are unintelligable scrawls of Father Waits. The final page has a depiction of the Staff of Defilement.
