@@ -4,11 +4,11 @@
 
 An item purchased from Karshala the Hag. It is able to judge distances and direction to determine where an item is. It appears to act like the *Locate Object* spell.
 
-### Coil's Counterburst Greatsword
+### Coil's Counterburst Greatsword 
 
 A greatsword with a floating piece of Void Crystal on its crossguard. It allows a single cast of Counterspell per day, using proficiency bonus for any rolls. It was crafted by Uldar of the Green Ravens.
 
-### Coil's Mantle of the Pack Lord
+### Coil's Mantle of the Pack Lord 
 
 A hide cloak/pelt that prevents creatures from gaining advantage on attacks due to flanking. It was purchased from the Charmillionare for 800 gp.
 
@@ -20,11 +20,11 @@ An item gotten from Karshala the Hag in exchange for a favor. It appears to be a
 
 A seemingly ordinary Music Box that Feyli continuously forgets she has. She alone is confused by not having seen it before, despite showing to the Party multiple times. (Such forgetful properties are refered to as "antimemetic")
 
-### Gelnek's Dragon Scale Button
+### Gelnek's Dragon Scale Button 
 
 A gift from Trilby carved from the Dragon Scale he pulled from his Bag of Many Things. It grants a +1 to AC and Resistance against Poison damage while atttuned.
 
-### Gelnek's Tuning Fork
+### Gelnek's Tuning Fork 
 
 An item purchased from the Chamillionaire for 500 gp. If used before a social encounter, it grants advantage on Performance. It can also be used to cast a Bard cantrip Gelnek doesn't know if he passes a DC 10 Arcana check.
 
@@ -40,26 +40,22 @@ A draught of sleeping potion that was purchased at the Serpent's Flower. Hobson 
 
 A purple cloak that used to belong to a Crown's Guard member. It was found in the Flesh Cave. After attuning to it, Hobson gains a +1 to AC.
 
-### Feyli's Mindshield Crown
+### Feyli's Mindshield Crown 
 
 A silver headband with a chunk of Void Crystal embedded inside that Uldar of the Green Ravens crafted. It grants advantage on INT saves.
 
-### Morenthal's Void Absorption Hide Armor
+### Morenthal's Void Absorption Hide Armor 
 
 Hide armor that can be attuend to a sapecific element once per day, granting 5 damage reduction. It was crafted by Uldar of the Green Ravens.
 
-### Morenthal's Purging Dagger
+### Morenthal's Purging Dagger 
 
 A wooden dagger made from the Evertree, causing an additional 1d4 Radiant damage on hit. On a critical, it can be left in a target to deal 3d4 Radiant per round until the target removes it. It was purchased from the Chamillionare for 1500 gp.
 
 ### Trilby's Bag of Many Things
 
-A bag that creates a new available item once a day. It was gifted to Trilby by Biggleton Whippersnap along with the Brass Puzzle. In turn, Trilby is supposed to give Whippersnap some items from the bag. (Pulls are listed in Important_Items)
+A bag that creates a new available item once a day. It was gifted to Trilby by Biggleton Whippersnap. In turn, Trilby is supposed to give Whippersnap some items from the bag. (Pulls are listed in Important_Items)
 
-### Trilby's Brass Puzzle
-
-A deviously complex puzzle that had to be solved before Trilby could access his Bag of Many Things. After a few days, Trilby managed to crack open the puzzle (which had a DC 25 INT check). 
-
-### Trilby's Sending Sheets
+### Trilby's Sending Sheets 
 
 An inital stack of 15 sheets of paper in it. If Trilby writes a message on one and addresses it to either of his parents, the paper will fold into a flying creature and make its way to them.
