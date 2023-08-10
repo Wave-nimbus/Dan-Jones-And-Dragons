@@ -16,7 +16,7 @@ A shortsword found among the personal effects of the Missing People. Originally 
 
 A draught of sleeping potion that was purchased at the Serpent's Flower. Hobson was potentially going to use it to avoid being possessed by Valss constantly.
 
-### Hobson's Cloak of Protection |
+### Hobson's Cloak of Protection 
 
 A purple cloak that used to belong to a Crown's Guard member. It was found in the Flesh Cave. After attuning to it, Hobson gains a +1 to AC.
 

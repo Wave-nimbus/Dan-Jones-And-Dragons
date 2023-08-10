@@ -10,6 +10,6 @@ Valss seems to have lived in Orlon years ago as part of an adventuring group. Hi
 
 ## Factionless/One-Off NPCs
 
-### Me, Mushroom Man |
+### Me, Mushroom Man 
 
 A mushroom creature the Party encountered in the Underdark. Part of a race of enormous mushroom creatures that eat creatures that stay inside their muschroom hill cavern. Otherwise quite firendly.

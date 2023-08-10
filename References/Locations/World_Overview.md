@@ -22,11 +22,11 @@ A major and secure vault containing several artifacts. An attack and explosion c
 
 A dwarven island in the North and West part of Orlon. Not much is known about it other than a tunnel supposedly exists between it and Filgrove's Undercroft.
 
-### Northcliff |
+### Northcliff 
 
 A presumably floating city on account of Green Void Crystals. It is south of Filgrove, but little else is knowna bout it.
 
-### Sibera |
+### Sibera 
 
 A decently large city in the Underdark filled with Duergar and insectoids. Duergar are underground dwarves that presumably don't like outsiders. The Miners and Party have been told to avoid the city by the Crown's Guard.
 
