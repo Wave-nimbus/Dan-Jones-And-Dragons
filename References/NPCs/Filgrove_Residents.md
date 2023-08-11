@@ -118,7 +118,8 @@ The dwarven guides hired by the Crown's Guard to recover the artifact. When the 
 
 ## The Missing People
 
-The people of Filgrove that went missing on account of Gale Mosswing's dark magic. These people were turned into zombies and killed by the Party. The missing people were: *Edra*, *Vlorn*, & *Sybil* (Adventurers); *Bren Grayhorn* (Terry's Son); *Flint* (A Green Raven); *Joyce Elm* (Jemma's Daughter); *Ersis Cinderjaw* (Crown's Guard member); *Thomas Redbear* (Burning Spear member); and *Ivil Banel* (A Merchant).
+The people of Filgrove that went missing on account of Gale Mosswing's dark magic. These people were turned into zombies and killed by the Party. <br>
+The missing people were: *Edra*, *Vlorn*, & *Sybil* (Adventurers); *Bren Grayhorn* (Terry's Son); *Flint* (A Green Raven); *Joyce Elm* (Jemma's Daughter); *Ersis Cinderjaw* (Crown's Guard member); *Thomas Redbear* (Burning Spear member); and *Ivil Banel* (A Merchant).
 
 ## Mona Mosswing, Gale's Wife
 

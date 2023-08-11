@@ -2,7 +2,7 @@
 
 ## Adokas Thanadar, Champion of Virtue
 
-An extremely heavyset and buff human Monk that was part of the Champions of Virtue hero group. He has since joined the Council of E'lithia, overseeing efforts to protect the realm. He hires the Party to search for artifacts form the Vaults of Eversteel.
+An extremely heavyset and buff human Monk that was part of the Champions of Virtue hero group. He has since joined the Council of E'lithia, overseeing efforts to protect the realm. He hires the Party to search for the 10 Artifacts.
 
 ## Bartholomew, Talking Skull
 
@@ -10,7 +10,7 @@ A talking skull bought by Coil from Karshala. How he became a talking skull is u
 
 ## Valss, Hobson's Patron
 
-Valss seems to have lived in Orlon years ago as part of an adventuring group. His memories are shrouded in mystery, but he gets flashes in the Flesh Cave. He currently lives in the silver bracer on Hobson's arm, which allows him to control Hobson if he so desires. His greatest desire is to get a statue of himself, which is why he is bonded with Hobson.
+Valss used to be a member of the Champions of Virtue. His memories are shrouded in mystery but he gets visions occasionally. He currently lives in the silver bracer on Hobson's arm, which allows him to control Hobson if he so desires. Despite losing his memories, Valss always feels like he is important. It is unknown if this bracer Valss is the same as the presumed dead Champion Valss.
 
 # Other NPCs
 
@@ -74,6 +74,46 @@ A halfling member of the Burning Spears and friend of Trayton. He followed Trayt
 
 Previously a human member of the Burning Spears cult. He ran away from the group to an abandoned farmhouse to the southeast of Filgrove. Graster wants him dead, but Han would rather keep him alive, offering more than Graster for the information. He was bitten by Graster, becoming cursed by Lycanthropy before being cured.
 
+## The Champions of Virtue
+
+### Adokas Thandar
+
+See the above entry
+
+### Arther Oathbringer
+
+A presumed dead member of the Champions of Virtue. A statue of his likeness appears in the main square of Filgrove. About 10 years ago, he disappeared for years. He reappeared years later in a floating castle over the island of Shoreza.
+
+### Beery Noryox
+
+A female Dragonborn and previous member of the Champions of Virtue. She has volunteered to lead an expedition to Soreza in order to search for the Planar Mirror, one of the 10 Artifacts.
+
+### Gregor Timbers
+
+A male Human and previous member of the Champions of Virtue. He is presumably the headmaster of the mage school in Silverhill where Hobson used to work. The bracer Valss is trapped in likely was meant to get to Gregor.
+
+### Valss ("V")
+
+Valss the Champion of Virtue was likely some form of Eladrin hailing from the Feywild. He was inducted by Arther Oathbringer's request. Despite being socially awkward due to his origins, he is remembered as a compenent member of the Champions. He and Orsik visited Arther on the floating castle but was never heard from again.
+
+## The Council of E'lithia
+
+### Casma Londor
+
+A female Gnome with several technical gadgets on her arms. Her monocle adjusts itself constantly. Her demeanor is very formal and noble, though not necissarily unfriendly. She is in charge of most tech for the search for the 10 Artifacts.
+
+### Ciona
+
+A female Autumn Eladrin that helps Adokus brief the Party about what the Council knows about the 10 Artifacts.
+
+### Horace Devenshire, The Wizard of the White Tower
+
+Originally from Springoak, this stereotypically blue robed wizard was in charge of ensuring the amplified Spire's scrying spells worked perfectly. He also helped erase many of Feyli's memories of the Midnght Lotus using her Music Box.
+
+### Neevan Everot
+
+A male Drow with the ability to control blood magic. He takes drops of Hobson, Gelnek, and Trilby's blood in order to track them during the search for the 10 Artifacts.
+
 ## Illustrious Delight
 
 ### Ember, Illustrious Delight
@@ -114,9 +154,9 @@ Durmin Durami is the name of Dan Floyd's Final Fantasy XIV Lalafell for his Play
 
 A Gnome who runs the Mossy Castle inn at Ohkross. She has minor magical capabilities including healing magic, and she is the de facto leader of the village.
 
-### Estavan Longfeather, Historian
+### Everit Darwin, Arcanist
 
-Presumably a male Goblin that researches the Voedia people. Marma recommends him to Coil if Coil wants to know more about his past.
+An eccentric collector and arcane scientist originally from Ohkross. His experiments resulted in the creation of the Soul Egg and his soul being sucked inside of it. His body decayed, and he was presumed dead for 10 years. While in Northcliff, he is able to get Morenthal to smash the egg, freeing him and granting Morenthal proficiency in the History skill.
 
 ### Me, Mushroom Man
 

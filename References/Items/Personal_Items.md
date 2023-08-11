@@ -18,7 +18,7 @@ An item gotten from Karshala the Hag in exchange for a favor. It appears to be a
 
 ### Feyli's Music Box
 
-A seemingly ordinary Music Box that Feyli continuously forgets she has. She alone is confused by not having seen it before, despite showing to the Party multiple times. (Such forgetful properties are refered to as "antimemetic")
+A seemingly ordinary Music Box that Feyli continuously forgets she has. She alone is confused by not having seen it before, despite showing to the Party multiple times. (Such forgetful properties are refered to as "antimemetic") Horace Devinshire used it to erase some of Feyli's memories of her time with the Midnight Lotus. That erasure is complete.
 
 ### Gelnek's Dragon Scale Button
 
