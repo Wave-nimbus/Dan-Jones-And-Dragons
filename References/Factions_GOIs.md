@@ -12,7 +12,7 @@ A cult dedicated to the Cascos the Fire Lord. They search for the seal that hold
 
 The bounty hunting/assassin's guild that is attemtping to hunt down Feyli. Since Morenthal seems to be helping her, the guild has a bounty for his head too. It is unknown who or what is at the top of the organization. Known members include: *Daemon*, *Molloke Iron*, *Morenthal*, and *Yuul Greaterfist*.
 
-## The Champions of Valor
+## The Champions of Virtue
 
 An old adventuring and heroic party that reached its peak about half a century ago before likely retiring. The group is famous across the continent for its legendary deeds, but as it is no longer active, the members have all moved on. Former members include: *Adocus Thandadar*, and *Arther Oathbringer*.
 

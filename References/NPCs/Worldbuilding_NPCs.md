@@ -14,7 +14,7 @@ A presumed dead member of the Champions of Virtue. A statue of his likeness appe
 
 ## The Brood Mother
 
-One of the Fallen Goddesses. A cult dedicated to her lived within the Flesh Cave, though what exactly she represents is unknown. The cult failed to use the Relic Staff in some ritual for her.
+One of the Fallen Goddesses. A cult dedicated to her lived within the Flesh Cave, though what exactly she represents is unknown. The cult failed to use the Staff of Defilement in some ritual for her.
 
 ## Cascos, The Flame Tyrant/Lord
 
