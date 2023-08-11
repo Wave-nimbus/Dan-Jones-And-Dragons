@@ -18,7 +18,7 @@ An item gotten from Karshala the Hag in exchange for a favor. It appears to be a
 
 ### Feyli's Music Box
 
-A seemingly ordinary Music Box that Feyli continuously forgets she has. She alone is confused by not having seen it before, despite showing to the Party multiple times. (Such forgetful properties are refered to as "antimemetic")
+A seemingly ordinary Music Box that Feyli continuously forgets she has. She alone is confused by not having seen it before, despite showing to the Party multiple times. (Such forgetful properties are refered to as "antimemetic") Horace Devinshire used it to erase some of Feyli's memories of her time with the Midnight Lotus. That erasure is complete.
 
 ### Gelnek's Dragon Scale Button
 
@@ -54,11 +54,7 @@ A wooden dagger made from the Evertree, causing an additional 1d4 Radiant damage
 
 ### Trilby's Bag of Many Things
 
-A bag that creates a new available item once a day. It was gifted to Trilby by Biggleton Whippersnap along with the Brass Puzzle. In turn, Trilby is supposed to give Whippersnap some items from the bag. (Pulls are listed in Important_Items)
-
-### Trilby's Brass Puzzle
-
-A deviously complex puzzle that had to be solved before Trilby could access his Bag of Many Things. After a few days, Trilby managed to crack open the puzzle (which had a DC 25 INT check). 
+A bag that creates a new available item once a day. It was gifted to Trilby by Biggleton Whippersnap along with the Brass Puzzle. In turn, Trilby is supposed to give Whippersnap some items from the bag. (Pulls are listed in a different document.)
 
 ### Trilby's Sending Sheets
 
