@@ -118,4 +118,5 @@ The first Airship of the campaign that takes the Party from Filgrove south to No
 
 ### Teleporation Circles
 
-A series of Teleportation Circles allow for much longer and much quicker travel between cities. The Party has yet to use any for direct travel yet. Known Teleportation Circles are found within: *Filgrove* and *Northcliff*
+A series of Teleportation Circles allow for much longer and much quicker travel between cities. The Party has yet to use any for direct travel yet. <br>
+Known Teleportation Circles are found within: *Filgrove* and *Northcliff*

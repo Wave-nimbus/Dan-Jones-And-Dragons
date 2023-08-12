@@ -14,7 +14,7 @@ Expelled members include *Morenthal*.
 ## The Champions of Virtue
 
 An old adventuring and heroic party that was created soon after Orlon was united under the current Empire. The group is famous across the continent for its legendary deeds, but as it is no longer active, the members have all moved on or have died. <br>
-The former 12 members are: *Arther Oathbringer*, *Adokus Thandar*, *Beery Noryox*, *Eldwin Flyleaf*, *Gregor Timbers*, *Liia Siano*, *Luth Helder*, *Orsik Frostbeard*, *Reed Brushgather*, *Shawndry Fezum*, *Volen Ashblade*, and *Valss "V"*.
+The former 12 members are: *Arther Oathbringer*, *Adokus Thandar*, *Beery Noryox*, *Eldwin Flyleaf*, *Gregor Timbers*, *Liia Siano*, *Luth Helder*, *Orsik Frostbeard*, *Reed Brushgather*, *Shawndry Fezum*, *Volen Ashblade*, and *Valse "V"*.
 
 ## The Council of E'lithia
 
