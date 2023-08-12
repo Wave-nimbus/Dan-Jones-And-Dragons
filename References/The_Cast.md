@@ -28,7 +28,7 @@ A heavy set Goblin carrying a large drum and mace maracas. If it weren't for his
 
 ### Played by Dan Floyd (He/Him)
 </span>
-A Halfling who looks like Ernie from Sesame Street. Has some light leather armor and a silver bracer he found in the mail accidently. His homebrewed patron is Valss, who is trapped within the bracer. Valss can also take control of Hobson if needed using the bracer. Visions of memories reveal that Valss used to be a Champion of Virtue.
+A Halfling who looks like Ernie from Sesame Street. Has some light leather armor and a silver bracer he found in the mail accidently. His homebrewed patron is Valse, who is trapped within the bracer. Valse can also take control of Hobson if needed using the bracer. Visions of memories reveal that Valse used to be a Champion of Virtue.
 <span style="color:red">
 
 ## Morenthal the Assassin Rogue (He/They)

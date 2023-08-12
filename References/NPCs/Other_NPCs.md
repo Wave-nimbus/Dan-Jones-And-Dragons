@@ -8,9 +8,9 @@ An extremely heavyset and buff human Monk that was part of the Champions of Virt
 
 A talking skull bought by Coil from Karshala. How he became a talking skull is unknown, but it is likely the work of a necromancer. He is fully aware of his predicament and desires to travel with the Party.
 
-## Valss, Hobson's Patron
+## Valse, Hobson's Patron
 
-Valss used to be a member of the Champions of Virtue. His memories are shrouded in mystery but he gets visions occasionally. He currently lives in the silver bracer on Hobson's arm, which allows him to control Hobson if he so desires. Despite losing his memories, Valss always feels like he is important. It is unknown if this bracer Valss is the same as the presumed dead Champion Valss.
+Valse used to be a member of the Champions of Virtue. His memories are shrouded in mystery but he gets visions occasionally. He currently lives in the silver bracer on Hobson's arm, which allows him to control Hobson if he so desires. Despite losing his memories, Valse always feels like he is important. It is unknown if this bracer Valse is the same as the presumed dead Champion Valse.
 
 # Other NPCs
 
@@ -90,11 +90,11 @@ A female Dragonborn and previous member of the Champions of Virtue. She has volu
 
 ### Gregor Timbers
 
-A male Human and previous member of the Champions of Virtue. He is presumably the headmaster of the mage school in Silverhill where Hobson used to work. The bracer Valss is trapped in likely was meant to get to Gregor.
+A male Human and previous member of the Champions of Virtue. He is presumably the headmaster of the mage school in Silverhill where Hobson used to work. The bracer Valse is trapped in likely was meant to get to Gregor.
 
-### Valss ("V")
+### Valse ("V")
 
-Valss the Champion of Virtue was likely some form of Eladrin hailing from the Feywild. He was inducted by Arther Oathbringer's request. Despite being socially awkward due to his origins, he is remembered as a compenent member of the Champions. He and Orsik visited Arther on the floating castle but was never heard from again.
+Valse the Champion of Virtue was likely some form of Eladrin hailing from the Feywild. He was inducted by Arther Oathbringer's request. Despite being socially awkward due to his origins, he is remembered as a compenent member of the Champions. He and Orsik visited Arther on the floating castle but was never heard from again.
 
 ## The Council of E'lithia
 

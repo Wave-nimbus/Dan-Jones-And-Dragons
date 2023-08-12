@@ -51,7 +51,7 @@ Newly Archived Bag Of Many Things Pulls are in <span style="color:lightgreen">Li
 <br>
 Unarchived NPCs or Items are in <span style="color:gray">Gray</span>
 <br>
-Reminders of NPCs are in <span style="color:tan">Tan</span>
+Reminders of NPC or items are in <span style="color:tan">Tan</span>
 
 
 #### About the Creator(s)

@@ -35,3 +35,5 @@
 #### August 8, 2023 - Major reorganization of the Wiki into different branches for story arcs; Created & applied color code to all summaries.
 
 #### August 9, 2023 - Arcs 1, 2 & 3 Reorganization Complete;
+
+#### August 11, 2023 - Arc 4 Compiled; "Valss" changed to "Valse"

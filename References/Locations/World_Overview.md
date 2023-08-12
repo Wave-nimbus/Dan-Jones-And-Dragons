@@ -88,7 +88,7 @@ A town near the Sunken City of Cera, which serves as a adventuring and archeolog
 
 ### Shoreza |
 
-A large island in the South of Orlon that has strange and strong effects on magic. Many years ago, the Champions of Virtue killed a Lich here. Arther Oathbringer's castle crashed here when Valss and Orsik Frostbeard went to investigate. No expedition to the island has beens successful since. The Planar Mirror, one of the 10 Artifacts, is believed to be there.
+A large island in the South of Orlon that has strange and strong effects on magic. Many years ago, the Champions of Virtue killed a Lich here. Arther Oathbringer's castle crashed here when Valse and Orsik Frostbeard went to investigate. No expedition to the island has beens successful since. The Planar Mirror, one of the 10 Artifacts, is believed to be there.
 
 ### Scarlan/Nightmother Temple
 
@@ -100,11 +100,11 @@ A decently large city in the Underdark filled with Duergar and insectoids. Duerg
 
 ### Silverfell
 
-A town in the West of Orlon that is home to a mage college of some kind. That college is headed by Gregor Timbers, one of the Champions of Virtue. Hobson originally was an administrator for the college before getting his bracer with Valss. The package the bracer came in was likely originally addressed to Gregor.
+A town in the West of Orlon that is home to a mage college of some kind. That college is headed by Gregor Timbers, one of the Champions of Virtue. Hobson originally was an administrator for the college before getting his bracer with Valse. The package the bracer came in was likely originally addressed to Gregor.
 
 ### Springoak
 
-A town on the Western edge of Orlon. Horace Devenshire is known as the Wizard of the White Tower and hails from this town. Hobson is likely a wanted man there thanks to Valss.
+A town on the Western edge of Orlon. Horace Devenshire is known as the Wizard of the White Tower and hails from this town. Hobson is likely a wanted man there thanks to Valse.
 
 ### Sunken City of Cera
 
