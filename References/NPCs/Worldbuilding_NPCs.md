@@ -6,7 +6,7 @@ The deity that Gelnek prays to, and a member of the Nine. His domain involves de
 
 ## Arther Oathbringer 
 
-A presumed dead member of the Champions of Virtue. A statue of his likeness appears in the main square of Filgrove. Valss may remember him for some reason, or he might not.
+A presumed dead member of the Champions of Virtue. A statue of his likeness appears in the main square of Filgrove. Valse may remember him for some reason, or he might not.
 
 ## The Brood Mother
 

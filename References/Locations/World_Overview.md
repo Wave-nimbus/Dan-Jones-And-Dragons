@@ -40,7 +40,7 @@ A presumably floating city on account of Green Void Crystals. It is south of Fil
 
 ### Silverfell 
 
-A town in the West of Orlon that is home to a mage college of some kind. Hobson was originally supposed to join the college as an administrator before meeting Valss.
+A town in the West of Orlon that is home to a mage college of some kind. Hobson was originally supposed to join the college as an administrator before meeting Valse.
 
 ### Void Cave 
 
