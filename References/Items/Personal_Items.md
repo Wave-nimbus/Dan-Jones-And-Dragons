@@ -14,7 +14,7 @@ A shortsword found among the personal effects of the Missing People. Originally 
 
 ### Hobson's Milk of the Poppy Potion
 
-A draught of sleeping potion that was purchased at the Serpent's Flower. Hobson was potentially going to use it to avoid being possessed by Valss constantly.
+A draught of sleeping potion that was purchased at the Serpent's Flower. Hobson was potentially going to use it to avoid being possessed by Valse constantly.
 
 ### Hobson's Cloak of Protection 
 
