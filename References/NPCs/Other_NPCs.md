@@ -4,9 +4,9 @@
 
 A talking skull bought by Coil from Karshala. How he became a talking skull is unknown, but it is likely the work of a necromancer. He is fully aware of his predicament and desires to travel with the Party.
 
-## Valss, Hobson's Patron 
+## Valse, Hobson's Patron 
 
-Valss seems to have lived in Orlon years ago as part of an adventuring group. His memories are shrouded in mystery. He currently lives in the silver bracer on Hobson's arm, which allows him to control Hobson if he so desires. His greatest desire is to get a statue of himself, which is why he is bonded with Hobson.
+Valse seems to have lived in Orlon years ago as part of an adventuring group. His memories are shrouded in mystery. He currently lives in the silver bracer on Hobson's arm, which allows him to control Hobson if he so desires. His greatest desire is to get a statue of himself, which is why he is bonded with Hobson.
 
 # Other NPCs
 
