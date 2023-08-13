@@ -1,10 +1,10 @@
 # Major Recurring NPCs
 
-## Adokas Thanadar, Champion of Virtue |
+## Adokas Thanadar, Champion of Virtue 
 
 An extremely heavyset and buff human Monk that was part of the Champions of Virtue hero group. He has since joined the Council of E'lithia, overseeing efforts to protect the realm. He hires the Party to search for the 10 Artifacts.
 
-## (Bracer) Valse "V", Hobson's Patron |
+## (Bracer) Valse "V", Hobson's Patron 
 
 Valse used to be a member of the Champions of Virtue. His memories are shrouded in mystery but he gets visions occasionally. He currently lives in the silver bracer on Hobson's arm, which allows him to control Hobson if he so desires. Despite losing his memories, Valse always feels like he is important. It is unknown if this bracer Valse is the same as the presumed dead Champion Valse.
 
@@ -12,7 +12,7 @@ Valse used to be a member of the Champions of Virtue. His memories are shrouded 
 
 Organized by Faction, if available.
 
-## Airship Viradescent Javelin |
+## Airship Viradescent Javelin 
 
 ### Ardwil, Viradescent Javelin Quartermaster
 
@@ -110,7 +110,7 @@ A member of the Illustrious Delight circus troupe. He is a large Minotaur that a
 
 ## Factionless/One-Offs
 
-### Charmillionare, Expensive Merchant |
+### Charmillionare, Expensive Merchant 
 
 A well traveled and extremely rich Lizardfolk merchant that travels the lands selling expensive (and potentially overpriced) magical items. When he met the Party, he sells a number of items and offers even more.
 
