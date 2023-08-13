@@ -1,4 +1,4 @@
-## Northcliff |
+## Northcliff 
 
 Northcliff is a large, technologically advanced city in the Southwest of Orlon. It floats high above the surrounding land on enormous Green Void Crystals, but it is yet anchored to the ground below. The city serves as the current headquarters for the search of the 10 Artifacts scattered due to the Explosion at Brightcoin. Surrounding the city is a powerful barrier that blocks most physical objects if needed. The city is divided into several districts, but more specific locations include:
 

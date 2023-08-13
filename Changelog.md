@@ -20,6 +20,8 @@
 
 #### August 11, 2023 - Compiled Session 12. (Extremely Late)
 
+#### August 12, 2023 - Compiled Session 13. (Extremely Late)
+
 ## Intersession Updates
 
 #### Aug. 18, 2022 - Removed rules lawyering; Minor adjustments.

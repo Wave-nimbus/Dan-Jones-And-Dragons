@@ -8,23 +8,23 @@ Orlon is the main continent that the campaign takes place on. It is controlled b
 
 ## Visited Locations/Cities
 
-### Filgrove |
+### Filgrove 
 
 Filgrove is where the Party spent their early days. It is a decent sized city in the North of Orlon, serving as a defensive city in the past. See the Filgrove reference for more details.
 
-### The Flesh Cave |
+### The Flesh Cave 
 
 A corrupted structure deep within the Underdark. The Staff of Defilement was found here and used unsucessfully in a ritual for the Brood Mother. The result was a fleshy corruption that overtook and partially destroyed the structure. The Crown's Guard failed to retrieve the Staff, but the Party managed to do so. Without the staff, the flesh should hopefully rot away into nothingness.
 
-### Lafford |
+### Lafford 
 
 A town in the Northwest of Orlon. The Flower of Rebirth, one of the 10 Artifacts, was most recently used here. The town is notable for being the headquarters of the Black Hand necromancy cult. See the Lafford reference for more details.
 
-### Northcliff |
+### Northcliff 
 
 Northcliff is a technologically adavanced city that serves as a central hub for the search for the 10 Artifacts. It used to be home of the Champions of Virtue before they disbanded. It floats high above the ground on Green Void Crystals. Northcliff is near the Southwestern edge of Orlon. See the Northcliff reference for more details.
 
-### Ohkross |
+### Ohkross 
 
 A village north of Northcliff. When the Party first see it, it is being raided by Bloodletter bandits. It is also the home of Everit Darwin.
 
@@ -42,11 +42,11 @@ The Underdark is the deep underground portions of a D&D world. The tunnel from F
 
 A volcanic region in the Southernmost part of Orlon. The nearby volcano renders it close to the Elemental Plane of Fire. Thus, it is the likely location of the Ring of Flame, one of the 10 Artifacts.
 
-### Blackfane |
+### Blackfane 
 
 A large and major city in central Orlon. It serves as an enormous trade and merchent hub, with nearly anything being available to buy. It appears as a massive black spire with boardwalks running out a distance from the main spire. The Emperor of E'E'lithia is also housed in this city.
 
-### Brightcoin, the Vaults of Eversteel |
+### Brightcoin, the Vaults of Eversteel 
 
 A major and secure vault containing several artifacts. An attack and explosion caused several of such artifacts to be spread around the world of E'lithia. The Council of E'lithia has been tasked with recovering these artifacts.
 
@@ -110,7 +110,7 @@ The ruins of the Voedia civilization. These ruins are the most likely origin of 
 
 A large cave filled with Void Crystals that was home to the Void Snail. It is about 2 days travel to the West of Filgrove. The Party killed the Void Snail, taking chunks back to create new items.
 
-### Westmont |
+### Westmont 
 
 A town in the South of Orlon. Some years ago, Arther Oathbringer reappeared with a flying castle and an army over the town. 
 
@@ -124,17 +124,17 @@ A series of ports, coves, and towns that serve as a pirate's haven on the North 
 
 Presumably a large town across the East Sea (which means it may not be on Orlon proper). It is supposed to have some "Fated Steps" that Bartholomew wanted to visit. Almost nothing is known about it otherwise.
 
-### Shoriza |
+### Shoriza 
 
 A large island far off the East coast of Orlon that has strange and strong effects on magic. Many years ago, the Champions of Virtue killed a Lich here. Arther Oathbringer's castle crashed here when Valse and Orsik Frostbeard went to investigate. No expedition to the island has beens successful since. The Planar Mirror, one of the 10 Artifacts, is believed to be there.
 
-# The Continent of Ty'vanera |
+# The Continent of Ty'vanera 
 
 (TEE-ven-err-ah) A continent separate from Orlon where beast tribes have gathered to form a coalition style government. Little else is known about it, including where exactly it is.
 
 ## Mentioned Towns/Locations
 
-### Bluelake |
+### Bluelake 
 
 A town on the West edgee of Ty'vanera. The Flower of Rebirth was used & recovered here before being transfered to the Vaults of Eversteel. Other than that, nothing is known about it.
 
@@ -164,10 +164,10 @@ An attack of some kind on Brightcoin, the Vaults of Eversteel. It scattered doze
 
 ## Travel Network
 
-### The Airship Viradescent Javelin |
+### The Airship Viradescent Javelin 
 
 The first Airship of the campaign that takes the Party from Filgrove south to Northcliff over the course of four days. It is a large flying ship held aloft by six large Green Void Crystals. Its weaponry includes six ballistas, which can be used to attack flying or grounded enemies off of the ship. The ship is at the Party's disposal for their hunt for the 10 Artifacts. Its crew is listed in the NPC references.
 
-### Teleporation Circles |
+### Teleporation Circles 
 
 A series of Teleportation Circles allow for much longer and much quicker travel between cities. The Party has yet to use any for direct travel yet. Known Teleportation Circles are found within: *Blackfane*, *Filgrove*, and *Northcliff*
