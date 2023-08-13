@@ -1,6 +1,6 @@
 # Major Recurring NPCs
 
-## Adokas Thanadar, Champion of Virtue
+## Adokas Thanadar, Champion of Virtue |
 
 An extremely heavyset and buff human Monk that was part of the Champions of Virtue hero group. He has since joined the Council of E'lithia, overseeing efforts to protect the realm. He hires the Party to search for the 10 Artifacts.
 
@@ -16,7 +16,7 @@ Valse used to be a member of the Champions of Virtue. His memories are shrouded 
 
 Organized by Faction, if available.
 
-## Airship Viradescent Javelin 
+## Airship Viradescent Javelin |
 
 ### Ardwil, Viradescent Javelin Quartermaster
 
@@ -49,6 +49,28 @@ A female Human that serves as a general crew member for the Viradescent Javelin.
 ### Vespie, Viradescent Javelin Engineer
 
 A male Gnome that serves the Viradescent Javelin's engine room, ensuring the airship runs as smooth as possible.
+
+## The Black Hand/Midnight Lotus |
+
+### Aryc, Black Hand Martyr |
+
+A friend of Feyli's from their time serving the Black Hand. He had a distinctive burn along his torso and wavy brown hair. When Feyli fled, Aryc had risen to be an assistant to The Second. He was tortured to death for being Feyli's friend.
+
+#### Milo, Aryc's Motivation |
+
+Presumed to be Aryc's son based on how he talks about him. Milo's death sparked Aryc's despair that presumably led him to join the Black Hand.
+
+### Dave, Necromancer
+
+An incompetant necromancer and part of the Black Hand group. He was hiding in the Nightmother temple's catacombs doing necromancy stuff. 
+
+### Hand of the First, Knight
+
+A towering knight either controlled by or loyal to the Second. He uses a massive greatsword to defend The First and The Second when the Party enters the Black Hand's HQ.
+
+### The Second, Midnight Lotus Leader |
+
+The second in command of the Midnight Lotus just behind the First Dead. He gives orders to the lower numbered tiers of the organization, as he is the direct apprentice of the First. He is a pale skinned human with sunken eyes and greasy, patchy black hair.
 
 ## Bloodletters Guild
 
@@ -98,11 +120,11 @@ Valse the Champion of Virtue was likely some form of Eladrin hailing from the Fe
 
 ## The Council of E'lithia
 
-### Casma Londor
+### Casma Londor |
 
 A female Gnome with several technical gadgets on her arms. Her monocle adjusts itself constantly. Her demeanor is very formal and noble, though not necissarily unfriendly. She is in charge of most tech for the search for the 10 Artifacts.
 
-### Ciona
+### Ciona |
 
 A female Autumn Eladrin that helps Adokus brief the Party about what the Council knows about the 10 Artifacts.
 
@@ -114,11 +136,11 @@ Originally from Springoak, this stereotypically blue robed wizard was in charge 
 
 A male Drow with the ability to control blood magic. He takes drops of Hobson, Gelnek, and Trilby's blood in order to track them during the search for the 10 Artifacts.
 
-## Illustrious Delight
+## Illustrious Delight |
 
 ### Ember, Illustrious Delight
 
-A member of the Illustrious Delight circus troupe. She is a Fire Genasi in charge of various fire bataon acrobatics and magic feats. She flirts with Hobson to get closer to Feyli, but the troupe is a part of the Midnight Lotus.
+A member of the Illustrious Delight circus troupe. She is a Fire Genasi in charge of various fire bataon acrobatics and magic feats. She flirts with Hobson to get closer to Feyli, but the troupe is a part of the Midnight Lotus. She was killed by The Second as he siphoned power to resurrect The First.
 
 ### Gorm, Illustrious Delight
 
@@ -138,13 +160,9 @@ A member of the Illustrious Delight circus troupe. He is a large Minotaur that a
 
 ## Factionless/One-Offs
 
-### Charmillionare, Expensive Merchant
+### Charmillionare, Expensive Merchant |
 
 A well traveled and extremely rich Lizardfolk merchant that travels the lands selling expensive (and potentially overpriced) magical items. When he met the Party, he sells a number of items and offers even more.
-
-### Dave, Necromancer
-
-An incompetant necromancer and part of the Black Hand group. He was hiding in the Nightmother temple's catacombs doing necromancy stuff. 
 
 ### Durmin, FFXIV reference
 
@@ -161,7 +179,3 @@ An eccentric collector and arcane scientist originally from Ohkross. His experim
 ### Me, Mushroom Man
 
 A mushroom creature the Party encountered in the Underdark. Part of a race of enormous mushroom creatures that eat creatures that stay inside their muschroom hill cavern. Otherwise quite firendly.
-
-### The Second, Midnight Lotus Leader
-
-The second in command of the Midnight Lotus just behind the First Dead. He gives orders to the lower numbered tiers of the organization, as he is the direct apprentice of the First.
