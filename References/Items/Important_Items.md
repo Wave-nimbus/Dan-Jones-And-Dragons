@@ -1,6 +1,6 @@
 # Important & Notable Items
 
-## The 10 Artifacts
+## The 10 Artifacts |
 
 10 of the most dangerous and powerful artifacts scattered by the Explosion at Brightcoin. The Council of E'lithia is trying to recover them as soon as possible. <br>
 Recovered artifacts are *The Staff of Defilement*. <br>
@@ -18,9 +18,17 @@ The book that Gale Mosswing used to improve his farm's standing, to the detrimen
 
 A fancy tankard that was one of the original decorated tankards from the Brass Squid. The Party is gifted this by Gavel the Brass Squid Tavernkeep to remind them of where they all started. Gelnek traded one of his mace maraccas for it.
 
-## The First's Heart
+## The First's Heart |
 
 An artifact of the First Dead that the Midnight Lotus believe Feyli stole. Feyli, however, did not steal it to her knowledge. Recovering the Heart is key to reviving the First Dead.
+
+## First's Shrine Key |
+
+A silver key used to access The First's Shrine within the Black Hand's HQ. It was originally found in the corpse of Aryc by Feyli. She used it to open the shrine and confront The Second.
+
+## Flower of Rebirth |
+
+One of the 10 Artifacts from Brightcoin. It blooms once every 100 years, leaving behind a seed. It is capable of reviving any creature provided the resurrection is not interrupted, leaving behind an enormous Divine magic signature. This signature was last noted near Lafford.
 
 ## Golden Amulet
 
@@ -50,7 +58,7 @@ One of the stones used to communicate within the tunnel from Filgrove to Geria. 
 
 A catalope sized amber egg that has mysterious runes and carvings on it. Cross-checking the runes with Everit Darwin's other work seems to imply that a soul may be trapped inside of it. Said soul was Everit's, and at his request, Morenthal destroyed the egg, freeing Everit's soul.
 
-## Staff of Defilement
+## Staff of Defilement |
 
 A powerful artifact that originally came from Brightcoin, the Vaults of Eversteel. It's power was used by the Brood Mother cult to create the Flesh Cave. It was sucessfully retrieved by the Party, and its effects are nullified by a Bag of Holding. It was one of the 10 Artifacts.
 

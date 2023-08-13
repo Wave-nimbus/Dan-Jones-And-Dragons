@@ -14,7 +14,10 @@ A hide cloak/pelt that prevents creatures from gaining advantage on attacks due 
 
 ### Feyli's Deck of Cards
 
-An item gotten from Karshala the Hag in exchange for a favor. It appears to be a fancy tarot deck of 20 cards, though Jocat believes it to be a Deck of Many Things. The favor in turn was to give the Relic Staff to Karshala. The first card pulled was Wheel of Fortune, causing Feyli to have Disadvantage on attacks & skill checks. The second card was The Tower, resulting in her sinking into her surroundings ever so slightly.
+An item gotten from Karshala the Hag in exchange for a favor. It appears to be a fancy tarot deck of 20 cards, though Jocat believes it to be a Deck of Many Things. The favor in turn was to give the Relic Staff to Karshala. <br>
+The first card pulled was Wheel of Fortune, causing Feyli to have Disadvantage on attacks & skill checks. <br>
+The second card was The Tower, resulting in her sinking into her surroundings ever so slightly. <br>
+The third card was The Justice, doubling the amount of gold on her person.
 
 ### Feyli's Music Box
 
@@ -59,6 +62,10 @@ A bag that creates a new available item once a day. It was gifted to Trilby by B
 ### Trilby's Brass Puzzle
 
 A deviously complex puzzle that had to be solved before Trilby could access his Bag of Many Things. After a few days, Trilby managed to crack open the puzzle (which had a DC 25 INT check). 
+
+### Trilby's Healing Bee
+
+A mechanical bee that Trilby created. It is capable of healing Party members as a Bonus Action, though its exact capabilities are unknown.
 
 ### Trilby's Sending Sheets
 

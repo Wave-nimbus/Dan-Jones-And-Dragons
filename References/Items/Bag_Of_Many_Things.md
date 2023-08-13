@@ -4,17 +4,25 @@
 
 A folding pocket knife that acts as a dagger. If it is magical/special in any way, it is currently unkown. Coil currently is in possesion of this item.
 
+## Brass Cog |
+
+A tiny brass cog that is about the size of a button. If it is magical/special in any way, it is currently unknown. Trilby tossed it inside Scrubbins soon after he pulled it.
+
 ## Broken Sword
 
 A sword hilt and crossguard with most of its blade broken. Trilby gave it to Uldar who repaired it into Trilby's shortsword.
 
-## Bronze Chalice
+## Bronze Chalice |
 
 A nice chalice made of bronze and covered in cheap gems. Any magical properties are unknown, but it can probably be sold.
 
 ## Burning Hands Spell Scroll
 
 A single use of the Burning Hands spell written onto a spell scroll.
+
+## Empty Bottle
+
+A sizable bottle that is completely empty. It is about the same size as the bottle for the Ship in a Bottle.
 
 ## Green Dragon Scale
 
@@ -44,9 +52,13 @@ A silver bell that looks exactly like a classic jingle bell. Trilby immediately 
 
 A clamshell makeup compact with pale skin toned foundation inside. Trilby gives it to Feyli, since she's the most likely to use it. Neither of them know what to do with it, though.
 
-## Ship in a Bottle
+## Ship in a Bottle |
 
 A miniature ship inside of a bottle the size of an apple. While tinkering with it, Trilby accidentally breaks one of the masts on the ship. Further usage unknown.
+
+## Solid Silver Goblet
+
+An otherwise nondescript goblet made of pure silver. It has very little decoration on the outside, as compared to the Bronze Chalice. 
 
 ## Torquoise Feather
 
