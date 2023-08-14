@@ -47,6 +47,10 @@ A purple cloak that used to belong to a Crown's Guard member. It was found in th
 
 Originally belonging to Aryc, this necklace has a pair of wooden dice on it. It has no function, but it is the only momento that Feyli has of her friend.
 
+### Feyli's Key to Coil
+
+An obsidian cylinder that fits into Coil's jaw. Using it on Coil will unhinge his jaw, causing Coil to enter a hyper rage state. His bites allow him to regain HP while in this rage.
+
 ### Feyli's Mindshield Crown
 
 A silver headband with a chunk of Void Crystal embedded inside that Uldar of the Green Ravens crafted. It grants advantage on INT saves.
