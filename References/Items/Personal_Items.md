@@ -43,6 +43,10 @@ A draught of sleeping potion that was purchased at the Serpent's Flower. Hobson 
 
 A purple cloak that used to belong to a Crown's Guard member. It was found in the Flesh Cave. After attuning to it, Hobson gains a +1 to AC.
 
+### Feyli's Dice Necklace
+
+Originally belonging to Aryc, this necklace has a pair of wooden dice on it. It has no function, but it is the only momento that Feyli has of her friend.
+
 ### Feyli's Mindshield Crown
 
 A silver headband with a chunk of Void Crystal embedded inside that Uldar of the Green Ravens crafted. It grants advantage on INT saves.
@@ -63,10 +67,10 @@ A bag that creates a new available item once a day. It was gifted to Trilby by B
 
 A deviously complex puzzle that had to be solved before Trilby could access his Bag of Many Things. After a few days, Trilby managed to crack open the puzzle (which had a DC 25 INT check). 
 
-### Trilby's Healing Bee
-
-A mechanical bee that Trilby created. It is capable of healing Party members as a Bonus Action, though its exact capabilities are unknown.
-
 ### Trilby's Sending Sheets
 
 An inital stack of 15 sheets of paper in it. If Trilby writes a message on one and addresses it to either of his parents, the paper will fold into a flying creature and make its way to them.
+
+### Trilby's "Trilbee"
+
+A mechanical bee that Trilby created. It is capable of healing Party members as a Bonus Action, though its exact capabilities are unknown. It has been named the "Trilbee"

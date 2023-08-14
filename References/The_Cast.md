@@ -7,14 +7,14 @@
 
 ### Played by Saren (They/Them)
 </span>
-A Warforged with the head of jackal whose jaws are often locked up tight. Coil is likely an ancient Voedian Warforged, though his history is mostly unknown, even by him. he serves as the Party's greatest muscle and shield. He is protective of all members of the Party, especially Feyli. He prefers to use his claws and mouth in combat, but carries a large sword as well for massive cleaving.
+A Warforged with the head of jackal whose jaws are often locked up tight. Coil is likely an ancient Voedian Warforged, though his history is mostly unknown, even by him. he serves as the Party's greatest muscle and shield. He is protective of all members of the Party, especially Feyli. He prefers to use his claws and mouth in combat, but carries a large sword as well for massive cleaving. The Key to Coil unlocks his jaw, allowing him to enter a hyper rage where his bites recover HP.
 <span style="color:darkviolet">
 
 ## Feyli the Circle of the Stars Druid (She/Her)
 
 ### Played by Nichole (She/Her)
 </span>
-A tanned Tiefling with branch-like horns adorned with flowers and a tail wrapped in thorns. She has purple hair and an outfit suggesting an affinity for nature. She used to be part of the Midnight Lotus with a crystal necklace to prove it, but she is now running from them. She enjoys other people's drama so long as nobody gets physically hurt.
+A tanned Tiefling with branch-like horns adorned with flowers and a tail wrapped in thorns. She has purple hair and an outfit suggesting an affinity for nature. She used to be part of the Midnight Lotus with a crystal necklace to prove it. After the Party destroys the Black Hand's base, she may no longer need to fear the group. She enjoys other people's drama so long as nobody gets physically hurt.
 <span style="color:goldenrod">
 
 ## Gelnek the Valor Bard (He/Him)
@@ -35,7 +35,7 @@ A Halfling who looks like Ernie from Sesame Street. Has some light leather armor
 
 ### Played by Gamb (He/They)
 </span>
-A Drow that is slowly warming up to the Party as the only people he could call friends. He was expelled from the Bloodletters bounty hunter/assassin group for unknown reasons. He wears black and leather, serving as the traditional edgy rogue. His protectiveness for Feyli has gotten him a bounty on his head as well.
+A Drow that is slowly warming up to the Party as the only people he could call friends. He ran from the Bloodletters bounty hunter/assassin group after killing a child as part of the job. He wears black and leather, serving as the traditional edgy rogue. His protectiveness for Feyli has gotten him a bounty on his head as well.
 <span style="color:dodgerblue">
 
 ## Trilby the Artillerist Artificer (He/Him)
