@@ -40,6 +40,10 @@ A draught of sleeping potion that was purchased at the Serpent's Flower. Hobson 
 
 A purple cloak that used to belong to a Crown's Guard member. It was found in the Flesh Cave. After attuning to it, Hobson gains a +1 to AC.
 
+### Feyli's Key to Coil
+
+An obsidian cylinder that fits into Coil's jaw. What it does to Coil is currently unknown, but he trusts her with it.
+
 ### Feyli's Mindshield Crown
 
 A silver headband with a chunk of Void Crystal embedded inside that Uldar of the Green Ravens crafted. It grants advantage on INT saves.
