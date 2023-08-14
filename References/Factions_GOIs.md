@@ -2,9 +2,8 @@
 
 ## The Black Hand
 
-A group of necromancers that prey upon the emotionally vulnereable, such as mourners or those that have nothing left to lose. Their base is in Lafford on Orlon. They are a cult that worships the First Dead. <br>
-Known living members include: *The Second*. <br>
-Known dead members include: *Aryc* and *Dave the Necromancer*. 
+A group of necromancers that prey upon the emotionally vulnereable, such as mourners or those that have nothing left to lose. Their base is in Lafford on Orlon, which has since been destroyed. They were a cult that worships the First Dead. <br>
+Known dead members include: *Aryc* and *Dave the Necromancer*, and *The Second*
 
 ## The Burning Spears
 
@@ -42,9 +41,8 @@ Mentioned deities of this group include: *The Brood Mother*, *Cascos the Flame T
 ## Illustrious Delight
 
 A traveling caravan that appeared in Filgrove in time for the All Hallow's Eve festival. They are a circus group that travels the continent of Orlon, performing where they can get an audience. They are a subgroup of The Midnight Lotus, using their caravan as cover for stealing corpses. <br>
-Known living members include: *Gorb*, *Rum & Elm*, *Sawyer*, and *Tesen Stormhoof*.<br>
-Known dead members include: *Ember*. 
-
+Known living members include: *Gorb*, *Rum & Elm*, and *Tesen Stormhoof*.<br>
+Known dead members include: *Ember* & *Sawyer* 
 ## Goblin Tribes
 
 ### The Fil'quin Tribe

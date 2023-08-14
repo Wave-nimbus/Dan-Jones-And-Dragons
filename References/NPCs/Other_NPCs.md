@@ -64,9 +64,9 @@ Presumed to be Aryc's son based on how he talks about him. Milo's death sparked 
 
 An incompetant necromancer and part of the Black Hand group. He was hiding in the Nightmother temple's catacombs doing necromancy stuff. 
 
-### Hand of the First, Knight
+### Hand of the First, Knight 
 
-A towering knight either controlled by or loyal to the Second. He uses a massive greatsword to defend The First and The Second when the Party enters the Black Hand's HQ.
+A towering knight either controlled by or loyal to the Second. His body has decayed into almost nothingness, and yet he served on. He uses a massive greatsword to defend The First and The Second when the Party enters the Black Hand's HQ.
 
 ### The Second, Midnight Lotus Leader 
 
@@ -152,7 +152,7 @@ Members of the Illustrious Delight circus troupe. A pair of Half-elves serving a
 
 ### Sawyer, Illustrious Delight
 
-The ring leader, owner and/or operator of the Illustrious Delight circus troupe. A Gnome that serves both as the circus's announcer and its main orchestra. His magic lute is capable of mimicing many instruments. The troupe is a part of the Midnight Lotus.
+The ring leader, owner and/or operator of the Illustrious Delight circus troupe. A Gnome that serves both as the circus's announcer and its main orchestra. His magic lute is capable of mimicing many instruments. The troupe is a part of the Midnight Lotus. He was killed by The Second as he siphoned power to resurrect The First.
 
 ### Tesen Stormhoof, Illustrious Delight
 
@@ -179,3 +179,7 @@ An eccentric collector and arcane scientist originally from Ohkross. His experim
 ### Me, Mushroom Man
 
 A mushroom creature the Party encountered in the Underdark. Part of a race of enormous mushroom creatures that eat creatures that stay inside their muschroom hill cavern. Otherwise quite firendly.
+
+### Unknown Child
+
+A child known only to Morenthal. The First's Form tormented him with the visagee of this child. When Morenthal first killed this child, he began to question if he wanted to continue his job as an Assassin and Bloodletter.

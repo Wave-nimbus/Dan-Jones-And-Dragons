@@ -26,7 +26,7 @@ The main authority over the contient of Orlon itself. The Emperors of Orlon live
 
 ## The First Dead
 
-Presumably one of the Fallen Gods. The Black Hand and The Midnight Lotus worship him and desire to restore him to power. His domain is strongly based on necromancy.
+Presumably one of the Fallen Gods. The Black Hand and The Midnight Lotus worship him and desire to restore him to power. His domain is strongly based on necromancy. The Party defeated his weakened Form within thee Black Hand's Headquarters.
 
 ## The Nightmother
 

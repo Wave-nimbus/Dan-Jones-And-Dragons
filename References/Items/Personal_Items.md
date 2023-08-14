@@ -19,6 +19,14 @@ The first card pulled was Wheel of Fortune, causing Feyli to have Disadvantage o
 The second card was The Tower, resulting in her sinking into her surroundings ever so slightly. <br>
 The third card was The Justice, doubling the amount of gold on her person.
 
+### Feyli's Dice Necklace
+
+Originally belonging to Aryc, this necklace has a pair of wooden dice on it. It has no function, but it is the only momento that Feyli has of her friend.
+
+### Feyli's Key to Coil
+
+An obsidian cylinder that fits into Coil's jaw. Using it on Coil will unhinge his jaw, causing Coil to enter a hyper rage state. His bites allow him to regain HP while in this rage.
+
 ### Feyli's Music Box
 
 A seemingly ordinary Music Box that Feyli continuously forgets she has. She alone is confused by not having seen it before, despite showing to the Party multiple times. (Such forgetful properties are refered to as "antimemetic") Horace Devinshire used it to erase some of Feyli's memories of her time with the Midnight Lotus. That erasure is complete.

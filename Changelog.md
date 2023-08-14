@@ -22,6 +22,8 @@
 
 #### August 12, 2023 - Compiled Session 13. (Extremely Late)
 
+#### August 14, 2023 - Compiled Session 14. (Late)
+
 ## Intersession Updates
 
 #### Aug. 18, 2022 - Removed rules lawyering; Minor adjustments.
@@ -39,3 +41,5 @@
 #### August 9, 2023 - Arcs 1, 2 & 3 Reorganization Complete;
 
 #### August 11, 2023 - Arc 4 Compiled; "Valss" changed to "Valse"
+
+#### August 14, 2023 - Arc 5 Compiled.

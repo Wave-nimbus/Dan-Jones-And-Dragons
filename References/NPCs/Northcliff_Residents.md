@@ -29,3 +29,7 @@ The owner and operator of the Opal Circlet in Northcliff. An elderly gnome woman
 ## Kaira Heinsworth, Tour Guide
 
 A bubbly human who leads tours at Champions Hall. She doesn't know much more about the Champions of Virtue beyond her tour route, but she his more than willing to direct people to those who know more than she does.
+
+## Mr. Wyat, Stonemason(?)
+
+Presumed to be a Stonemason or other statue-maker. Casma will contact him about creating a statue in Hobson's image, fulfilling Valse's desire for said statue.

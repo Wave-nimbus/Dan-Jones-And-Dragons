@@ -24,6 +24,10 @@ A single use of the Burning Hands spell written onto a spell scroll.
 
 A sizable bottle that is completely empty. It is about the same size as the bottle for the Ship in a Bottle.
 
+## Grappling Hook 
+
+A metalic hook attached to 50ft of rope. It appears to be a standard grappling hook, though Trilby may have trouble weilding it.
+
 ## Green Dragon Scale
 
 A scale from a Green Dragon that is larger than Trilby's fist. Dragon scales are known for their durability, so Trilby carved a Button from it and gave it to Gelnek.
@@ -51,6 +55,10 @@ A silver bell that looks exactly like a classic jingle bell. Trilby immediately 
 ## Makeup Compact
 
 A clamshell makeup compact with pale skin toned foundation inside. Trilby gives it to Feyli, since she's the most likely to use it. Neither of them know what to do with it, though.
+
+## Pair of Marbles 
+
+A pair of fancy marbles that were pulled out of the bag. They likely have no use other than looking cool.
 
 ## Ship in a Bottle 
 
