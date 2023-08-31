@@ -8,7 +8,7 @@ Orlon is the main continent that the campaign takes place on. It is controlled b
 
 ## Visited Locations/Cities
 
-### Filgrove 
+### Filgrove |
 
 Filgrove is where the Party spent their early days. It is a decent sized city in the North of Orlon, serving as a defensive city in the past. See the Filgrove reference for more details.
 
@@ -20,11 +20,11 @@ A corrupted structure deep within the Underdark. The Staff of Defilement was fou
 
 A town in the Northwest of Orlon. The Flower of Rebirth, one of the 10 Artifacts, was most recently used here. The town is notable for being the headquarters of the Black Hand necromancy cult. See the Lafford reference for more details.
 
-### Northcliff 
+### Northcliff |
 
 Northcliff is a technologically adavanced city that serves as a central hub for the search for the 10 Artifacts. It used to be home of the Champions of Virtue before they disbanded. It floats high above the ground on Green Void Crystals. Northcliff is near the Southwestern edge of Orlon. See the Northcliff reference for more details.
 
-### Ohkross 
+### Ohkross |
 
 A village north of Northcliff. When the Party first see it, it is being raided by Bloodletter bandits. It is also the home of Everit Darwin.
 
@@ -38,15 +38,15 @@ The Underdark is the deep underground portions of a D&D world. The tunnel from F
 
 ## Mentioned Cities/Locations
 
-### Ashen Highlands
+### Ashen Highlands |
 
 A volcanic region in the Southernmost part of Orlon. The nearby volcano renders it close to the Elemental Plane of Fire. Thus, it is the likely location of the Ring of Flame, one of the 10 Artifacts.
 
-### Blackfane 
+### Blackfane |
 
 A large and major city in central Orlon. It serves as an enormous trade and merchent hub, with nearly anything being available to buy. It appears as a massive black spire with boardwalks running out a distance from the main spire. The Emperor of E'E'lithia is also housed in this city.
 
-### Brightcoin, the Vaults of Eversteel 
+### Brightcoin, the Vaults of Eversteel |
 
 A major and secure vault containing several artifacts. An attack and explosion caused several of such artifacts to be spread around the world of E'lithia. The Council of E'lithia has been tasked with recovering these artifacts.
 
@@ -58,19 +58,23 @@ A large desert in Eastern Orlon. The Gauntlet of the Eye, one of the 10 Artifact
 
 A city somewhere in Orlon, presumably with a large population of dragons or draconic relatives. It is under lockdown until The Amber Dragon Eye, on of the 10 Artifacts, can be secured.
 
+### Dreadfrost
+
+A series of Islands somewhere in Orlon. The Champions of Virtue killed wyvyrns in that area, making it Trilby's favorite feat of the group. Almost nothing else is known about the region.
+
 ### Evertree
 
 Almost nothing is known about this other than its name. Morenthal's Purging Dagger from the Chamillionare apparently comes from this tree.
 
-### Far Reach Mountains
+### Far Reach Mountains |
 
 A mountain range that extends across most of the northern reaches of Orlon. It is most easily traversed by airship, though it houses several flying creatures including wyverns that are capable and willing ot attack such airships.
 
-### Geria
+### Geria |
 
 A dwarven island in the North and West part of Orlon. Not much is known about it other than a tunnel supposedly exists between it and Filgrove's Undercroft.
 
-### Maple
+### Maple |
 
 A town to the Southeast where Hobson's family lives. Maple Farms is a brand of wine. Almost nothing else is known about it.
 
@@ -78,9 +82,13 @@ A town to the Southeast where Hobson's family lives. Maple Farms is a brand of w
 
 A town not too far to the south of Filgrove. It appears to be the most recent stop for the Illustrious Delight before they went to Filgrove.
 
-### Ravenmire
+### Ravenmire |
 
-A town even further North than Filgrove. Even less happens there, so almost nothing is known.
+A town even further North than Filgrove. It was the site of the lich Xerafax's base of operations. That event caused the town's population to be razed nearly to a man. The town has since never recovered and is barely survivng.
+
+### Riverleaf |
+
+A town mostly populated by Druids somewhere in Orlon. It was the site of a interplanar rift between the Material and Feywild Planes. The Champions helped close the rift, and due to Valse's actions on the Feywild side, he was inducted into the group.
 
 ### Rycefall
 
@@ -94,7 +102,7 @@ Scarlan used to be a tiny village, but it had a Temple to the Nightmother. This 
 
 A decently large city in the Underdark filled with Duergar and insectoids. Duergar are underground dwarves that presumably don't like outsiders. The Miners and Party have been told to avoid the city by the Crown's Guard.
 
-### Silverfell
+### Silverfell |
 
 A town in the West of Orlon that is home to a mage college of some kind. That college is headed by Gregor Timbers, one of the Champions of Virtue. Hobson originally was an administrator for the college before getting his bracer with Valse. The package the bracer came in was likely originally addressed to Gregor.
 
@@ -110,13 +118,13 @@ The ruins of the Voedia civilization. These ruins are the most likely origin of 
 
 A large cave filled with Void Crystals that was home to the Void Snail. It is about 2 days travel to the West of Filgrove. The Party killed the Void Snail, taking chunks back to create new items.
 
-### Westmont 
+### Westmont |
 
 A town in the South of Orlon. Some years ago, Arther Oathbringer reappeared with a flying castle and an army over the town. 
 
 ## Other Regions
 
-### The Shard Coast
+### The Shard Coast |
 
 A series of ports, coves, and towns that serve as a pirate's haven on the North East part of Orlon. If there is someone unsavory that needs to be found, you could start in a lot worse places than here. Whoever put the bounty on Morenthal is in this area.
 
@@ -154,13 +162,17 @@ A town on the Eastern part of Djoria, the smallest of the three named continents
 
 # Major Events
 
-### The War in the West
-
-A bloody conflict presumably taking place on the western side of Orlon. According to Adokas, it is a stalemate and on pause while the artifacts are being retrieved.
-
 ### Explosion at the Vaults of Eversteel
 
 An attack of some kind on Brightcoin, the Vaults of Eversteel. It scattered dozens of extremely powerful magical artifacts across the world. The 10 most powerful artifacts are being hotly persued by the Council of E'lithia. 
+
+### The Tusk Wars
+
+A series of wars in the North of Orlon. Arther Oathbringer made his name by being a powerful knight during this time. Thus, he was memorialized in Filgrove. Almost nothing else about the conflict is known.
+
+### The War in the West
+
+A bloody conflict presumably taking place on the western side of Orlon. According to Adokas, it is a stalemate and on pause while the artifacts are being retrieved.
 
 ## Travel Network
 
