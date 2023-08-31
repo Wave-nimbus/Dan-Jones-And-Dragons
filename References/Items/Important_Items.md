@@ -1,6 +1,6 @@
 # Important & Notable Items
 
-## The 10 Artifacts 
+## The 10 Artifacts |
 
 10 of the most dangerous and powerful artifacts scattered by the Explosion at Brightcoin. The Council of E'lithia is trying to recover them as soon as possible. <br>
 Recovered artifacts are *The Staff of Defilement* & *The Flower of Rebirth*<br>
@@ -18,7 +18,7 @@ The book that Gale Mosswing used to improve his farm's standing, to the detrimen
 
 A fancy tankard that was one of the original decorated tankards from the Brass Squid. The Party is gifted this by Gavel the Brass Squid Tavernkeep to remind them of where they all started. Gelnek traded one of his mace maraccas for it.
 
-## The First's Heart 
+## The First's Heart |
 
 An artifact of the First Dead that the Midnight Lotus believe Feyli stole. Feyli, however, did not steal it to her knowledge. Recovering the Heart is key to reviving the First Dead.
 

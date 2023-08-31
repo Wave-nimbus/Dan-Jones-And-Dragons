@@ -51,6 +51,10 @@ A draught of sleeping potion that was purchased at the Serpent's Flower. Hobson 
 
 A purple cloak that used to belong to a Crown's Guard member. It was found in the Flesh Cave. After attuning to it, Hobson gains a +1 to AC.
 
+### Hobson's Bag of Holding
+
+The classic D&D item is capable of holding a large amount of stuff within its pocket dimenstion space. Hobson currently doesn't have anything in it.
+
 ### Feyli's Mindshield Crown
 
 A silver headband with a chunk of Void Crystal embedded inside that Uldar of the Green Ravens crafted. It grants advantage on INT saves.
@@ -62,6 +66,10 @@ Hide armor that can be attuend to a sapecific element once per day, granting 5 d
 ### Morenthal's Purging Dagger
 
 A wooden dagger made from the Evertree, causing an additional 1d4 Radiant damage on hit. On a critical, it can be left in a target to deal 3d4 Radiant per round until the target removes it. It was purchased from the Chamillionare for 1500 gp.
+
+### Morenthal's Ring of Obscuring 
+
+A metallic ring that is capble of casting Fog Cloud centered on the ring using a charge. The ring starts with 3 charges. The spell lasts up to a minute.
 
 ### Trilby's Bag of Many Things
 
@@ -78,3 +86,51 @@ A mechanical bee that Trilby created. It is capable of healing Party members as 
 ### Trilby's Sending Sheets
 
 An inital stack of 15 sheets of paper in it. If Trilby writes a message on one and addresses it to either of his parents, the paper will fold into a flying creature and make its way to them.
+
+## Chamillionare Gacha Rings |
+
+These rings are pulled from the Chamillionare's gacha game for 200 gp per pull for a d100 roll. To avoid cluttering the previous list up, the ring pulls will be listed separately.
+
+### Coil's Ring of Point
+
+A small ring with a steel cylinder perpendicular to the ring. As a Bonus Action, the wearer can light up an object with a laser pointer.
+
+### Feyli's Ring of Good Luck
+
+A golden band with a clear quartz crystal in it. Once per day, the wearer can reroll any attack, save, or attribute check roll. Requires Attunement.
+
+### Feyli's Ring of the Locksmith
+
+A black iron ring with a key carved into the top. Once per day, the wearer can roll a d100 and on an 95+, it unlocks any lock.
+
+### Feyli's Ring of Probing
+
+A multicolored ring with spectacles of ores in it. While wearing the ring, that finger is immune to all elemental damage.
+
+### Feyli's Telescoping Ring
+
+A layered ring that can expand into a telescope. The telescope grants advantage on perception checks for things over 500 ft away.
+
+### Gelnek's Ring of Quick Cantrips
+
+A plain silver band with glyphs carved into it. Any non-damaging cantrips can be cast as a Bonus Action.
+
+### Hobson's Ring of Branding
+
+A basic ring with a wax seal imprint on it. When hitting something with an unarmed strike while wearing the ring, a brand of the wearer's choice can be marked onto the target.
+
+### Morenthal's Ring of Bees
+
+A clear crystal ring with a small sculpture of a bee. Once per day, it summons a normal bee. It is neither hostile nor friendly. Requires Attunement.
+
+### Morenthal's Ring of the Blade
+
+A ring that looks like a sword bent into a ring. As an Action, the ring can become a nonmagical longsword or revert back into a ring. 
+
+### Morenthal's Ring of Watch
+
+A metal band with a disk on top and a triangular notch cut into it. It is a sundial (watch) that works regardless of the lighting conditions. 
+
+### Trilby's Ring of Steve
+
+A simple wooden ring with the face of a human on it. Any roll against a creature named Steve has advantage.

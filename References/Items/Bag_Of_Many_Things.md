@@ -20,6 +20,14 @@ A nice chalice made of bronze and covered in cheap gems. Any magical properties 
 
 A single use of the Burning Hands spell written onto a spell scroll.
 
+## Ceramic Mask |
+
+Presumed to be a cereamic mask. What it depicts and what it can do are completely unknown.
+
+## Clockwork Wolf Statue |
+
+A statue of a wolf made out of clockwork parts. What it can do and any potential functions are completely unknown.
+
 ## Empty Bottle
 
 A sizable bottle that is completely empty. It is about the same size as the bottle for the Ship in a Bottle.
@@ -56,9 +64,17 @@ A silver bell that looks exactly like a classic jingle bell. Trilby immediately 
 
 A clamshell makeup compact with pale skin toned foundation inside. Trilby gives it to Feyli, since she's the most likely to use it. Neither of them know what to do with it, though.
 
+## Matchbook |
+
+A book of regular, nonmagical matches. With it, Trilby can probably start fires without magic.
+
 ## Pair of Marbles 
 
 A pair of fancy marbles that were pulled out of the bag. They likely have no use other than looking cool.
+
+## Simple Leather Helmet |
+
+Presumed to be a simply made helmet made of leather. Its usage is currently unknown, including if it adds an AC or not.
 
 ## Ship in a Bottle 
 
@@ -79,3 +95,7 @@ A Ninteen Ninteye (1990) aged wine from Maple Farms. Hobson recognized the brand
 ## Waterskin
 
 A finely crafted leather waterskin. It's stitching is so intricate that symbols might be within the thread. Otherwise, it appears to be a normal waterskin.
+
+## Zamira Holy Symbol |
+
+A holy symbol dedicated to Zamira, the Goddess of knowledge, the arcane, and stars. It could probably be used byya cleric or paladin if needed.

@@ -18,7 +18,7 @@ One of the offices of the Crown's Guard that serves the city. Usually manned by 
 
 The Barracks of the Crown's Guard serve as the return location for the Orbs of Recall. Said orbs were used in the retrieval of the Relic Staff. It is tall enough to accomodate Airship docking. It has a fancy meeting room on one of its upper floors.
 
-### The Grayhorn Farm
+### The Grayhorn Farm |
 
 One of the two main farms outside of town. It is run solely by Terry Grayhorn after his son Bren Grayhorn went missing. Due to the lack of funds and help, the farm is slowly being out-done by the Mosswing farm. They are famous for carrots, though they farm all kinds of produce.
 
@@ -26,7 +26,7 @@ One of the two main farms outside of town. It is run solely by Terry Grayhorn af
 
 The monster hunting Green Ravens have set themselves up here. It is where they eat, sleep, prepare for hunts, and salvage items from their other hunts. The Party is offered space in the HQ thanks to their services to Filgrove as a whole. Monster hunts can be exchanged for money or forged into gear. 
 
-### The Mosswing Farm
+### The Mosswing Farm |
 
 One of the two main farms outside of town. It is headed by Gale Mosswing, who managed to greatly improve his crop production. Unfortunately, this was through the use of dark magics and necromancy. This resulted in the Missing People incident.
 
