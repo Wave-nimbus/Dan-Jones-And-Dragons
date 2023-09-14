@@ -50,6 +50,10 @@ A one-time return button that is meant to bring anyone within 10 ft of the orb b
 
 A pristine pearl that Karshala gave to Trilby so he could give it to Feyli. Once given, it is absorbed into her hand. Karshala extracts it in exchange for a Lycanthrope cure. It seemed to have absorbed something from Feyli.
 
+## Ring of Flame
+
+One of the Missing Artifacts. A ring that is implied to be originally owned by the Flame Tyrant. It is heavily attuned to the Plane of Fire. It was last seen near Mt. Fiorno & the Rift of Fire.
+
 ## Sending Stone
 
 One of the stones used to communicate within the tunnel from Filgrove to Geria. The other was with the original party that is MIA.

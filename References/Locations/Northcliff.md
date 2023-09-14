@@ -42,6 +42,10 @@ A university that exists somewhere in Northcliff for higher education. Marmatool
 
 A hole-in-the-wall jewelery shop run by a Gnome named Velina. Almost any type of jewelery can be bought here, including pieces crafted from Void Crystals.
 
+## O'Brian's Mill
+
+A small inn and tavern in the old district of Northcliff. It is home to more unsavory types should the Part be willing to do dirtier jobs. It has a password: three knocks and the phrase "The corn chowder is about ready."
+
 ### The Shattered Shield |
 
 Found in the East of the city, this is the inn that the Flower Crowns stay at while in Northcliff. It is run by the 4-armed Arjuun Moon. While it is not quite as cozy as the Brass Squid, it is nicer and fancier than the inn in Filgrove.

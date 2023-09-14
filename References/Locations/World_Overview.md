@@ -8,6 +8,10 @@ Orlon is the main continent that the campaign takes place on. It is controlled b
 
 ## Visited Locations/Cities
 
+### Ashen Highlands |
+
+A volcanic region in the Southernmost part of Orlon. The nearby volcano renders it close to the Elemental Plane of Fire. Thus, it is the likely location of the Ring of Flame, one of the 10 Artifacts.
+
 ### Filgrove |
 
 Filgrove is where the Party spent their early days. It is a decent sized city in the North of Orlon, serving as a defensive city in the past. See the Filgrove reference for more details.
@@ -19,6 +23,10 @@ A corrupted structure deep within the Underdark. The Staff of Defilement was fou
 ### Lafford 
 
 A town in the Northwest of Orlon. The Flower of Rebirth, one of the 10 Artifacts, was most recently used here. The town is notable for being the headquarters of the Black Hand necromancy cult. See the Lafford reference for more details.
+
+### Mt. Fiorno |
+
+A town in th south of Orlon within the Ashen Highlands. The Ring of Flame was discovered by a resident before being taken to the nearby Blighted Swamp. See the Mt. Fiorno reference for more details.
 
 ### Northcliff |
 
@@ -38,10 +46,6 @@ The Underdark is the deep underground portions of a D&D world. The tunnel from F
 
 ## Mentioned Cities/Locations
 
-### Ashen Highlands |
-
-A volcanic region in the Southernmost part of Orlon. The nearby volcano renders it close to the Elemental Plane of Fire. Thus, it is the likely location of the Ring of Flame, one of the 10 Artifacts.
-
 ### Blackfane |
 
 A large and major city in central Orlon. It serves as an enormous trade and merchent hub, with nearly anything being available to buy. It appears as a massive black spire with boardwalks running out a distance from the main spire. The Emperor of E'E'lithia is also housed in this city.
@@ -50,7 +54,7 @@ A large and major city in central Orlon. It serves as an enormous trade and merc
 
 A major and secure vault containing several artifacts. An attack and explosion caused several of such artifacts to be spread around the world of E'lithia. The Council of E'lithia has been tasked with recovering these artifacts.
 
-### Desert of Thorns
+### Desert of Thorns |
 
 A large desert in Eastern Orlon. The Gauntlet of the Eye, one of the 10 Artifacts, is believed to be somewhere in this desert.
 
@@ -98,6 +102,10 @@ A town near the Sunken City of Cera, which serves as a adventuring and archeolog
 
 Scarlan used to be a tiny village, but it had a Temple to the Nightmother. This was the Party's first adventure, as they discovered Dave the necromancer living in the catacombs below the Temple. 
 
+### The Shard Coast |
+
+A series of ports, coves, and towns that serve as a pirate's haven on the North East part of Orlon. If there is someone unsavory that needs to be found, you could start in a lot worse places than here. Whoever put the bounty on Morenthal is in this area. Despite being a large area, it is considered a single city.
+
 ### Sibera
 
 A decently large city in the Underdark filled with Duergar and insectoids. Duergar are underground dwarves that presumably don't like outsiders. The Miners and Party have been told to avoid the city by the Crown's Guard.
@@ -123,10 +131,6 @@ A large cave filled with Void Crystals that was home to the Void Snail. It is ab
 A town in the South of Orlon. Some years ago, Arther Oathbringer reappeared with a flying castle and an army over the town. 
 
 ## Other Regions
-
-### The Shard Coast |
-
-A series of ports, coves, and towns that serve as a pirate's haven on the North East part of Orlon. If there is someone unsavory that needs to be found, you could start in a lot worse places than here. Whoever put the bounty on Morenthal is in this area.
 
 ### Shareaza
 
@@ -162,9 +166,9 @@ A town on the Eastern part of Djoria, the smallest of the three named continents
 
 # Major Events
 
-### Explosion at the Vaults of Eversteel
+### Explosion at the Vaults of Eversteel |
 
-An attack of some kind on Brightcoin, the Vaults of Eversteel. It scattered dozens of extremely powerful magical artifacts across the world. The 10 most powerful artifacts are being hotly persued by the Council of E'lithia. 
+An attack of some kind on Brightcoin, the Vaults of Eversteel. It scattered dozens of extremely powerful magical artifacts across the world. The 10 most powerful artifacts are being hotly persued by the Council of E'lithia. The Explosion took place approximately 6 months before the campaign began.
 
 ### The Tusk Wars
 
@@ -176,7 +180,7 @@ A bloody conflict presumably taking place on the western side of Orlon. Accordin
 
 ## Travel Network
 
-### The Airship Viradescent Javelin 
+### The Airship Viradescent Javelin  |
 
 The first Airship of the campaign that takes the Party from Filgrove south to Northcliff over the course of four days. It is a large flying ship held aloft by six large Green Void Crystals. Its weaponry includes six ballistas, which can be used to attack flying or grounded enemies off of the ship. The ship is at the Party's disposal for their hunt for the 10 Artifacts. Its crew is listed in the NPC references.
 

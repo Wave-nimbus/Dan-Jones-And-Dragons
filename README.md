@@ -14,7 +14,7 @@ This is the fan-made reference/wiki for the Dan Jones And Dungeons D&D Campaign 
 
 The series has been going on long enough to break up the sessions into miniature arcs. These arcs have been named based on their content, and the relevant episodes are divided into them.
 
-Unnamed Act 6 contains information referenced in and updated for Session 15, ... ~~Information not mentioned in this arc has been removed for easier viewing, reading, and searching.~~ As the arc has yet to conclude, all information is included for reference.
+The Ring of Flame contains information referenced in and updated for Session 15, 16... ~~Information not mentioned in this arc has been removed for easier viewing, reading, and searching.~~ As the arc has yet to conclude, all information is included for reference.
 
 ## Does DJ&J have a content rating?
 
