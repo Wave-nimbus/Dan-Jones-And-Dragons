@@ -17,7 +17,8 @@ A hide cloak/pelt that prevents creatures from gaining advantage on attacks due 
 An item gotten from Karshala the Hag in exchange for a favor. It appears to be a fancy tarot deck of 20 cards, though Jocat believes it to be a Deck of Many Things. The favor in turn was to give the Relic Staff to Karshala. <br>
 The first card pulled was Wheel of Fortune, causing Feyli to have Disadvantage on attacks & skill checks. <br>
 The second card was The Tower, resulting in her sinking into her surroundings ever so slightly. <br>
-The third card was The Justice, doubling the amount of gold on her person.
+The third card was The Justice, doubling the amount of gold on her person. <br>
+The fourth card was The Lovers, causing anything on her person to vanish into smoke for 24 hours.
 
 ### Feyli's Dice Necklace
 
@@ -99,6 +100,14 @@ A small ring with a steel cylinder perpendicular to the ring. As a Bonus Action,
 
 A golden band with a clear quartz crystal in it. Once per day, the wearer can reroll any attack, save, or attribute check roll. Requires Attunement.
 
+### Feyli's Ring of Good Times.
+
+A boring iron ring with feelings of hesitation surrounding it. Once put on, it cannot be taken off.
+
+### Feyli's Ring of Life & Death
+
+A mixed-colored ring made of ivory and onyx. While wearing it, the wearer is resistant to Radiant damage and vulnerable to Necrotic damage.
+
 ### Feyli's Ring of the Locksmith
 
 A black iron ring with a key carved into the top. Once per day, the wearer can roll a d100 and on an 95+, it unlocks any lock.
@@ -119,9 +128,21 @@ A plain silver band with glyphs carved into it. Any non-damaging cantrips can be
 
 A basic ring with a wax seal imprint on it. When hitting something with an unarmed strike while wearing the ring, a brand of the wearer's choice can be marked onto the target.
 
+### Hobson's Ring of Planar Anchor
+
+A golden band with a white crystal hovering off of the ring. The wearer cannot travel Planes while wearing it, including to demiplanes caused by Banishment.
+
+### Hobson's Ring of Sacrifice
+
+A small gold ring with a large dull opal in the center. When the wearer drops to 0 HP, the ring will shatter, leaving the wearer drop to 1 HP instead.
+
 ### Morenthal's Ring of Bees
 
 A clear crystal ring with a small sculpture of a bee. Once per day, it summons a normal bee. It is neither hostile nor friendly. Requires Attunement.
+
+### Morenthal's Ring of Death and Life
+
+A mixed-colored ring made of onyx and ivory. While wearing it, the wearer is resistant to Necrotic damage and vulnerable to Radiant damage.
 
 ### Morenthal's Ring of the Blade
 
@@ -134,3 +155,7 @@ A metal band with a disk on top and a triangular notch cut into it. It is a sund
 ### Trilby's Ring of Steve
 
 A simple wooden ring with the face of a human on it. Any roll against a creature named Steve has advantage.
+
+### Trilby's Ring Pop
+
+A cherry flavored Ring Pop candy. It regrows over time. 

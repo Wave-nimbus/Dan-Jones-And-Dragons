@@ -12,6 +12,10 @@ An Elf woman who was personally trained by Adokas Thanadar at the Crossed Swords
 
 A high-ranking cleric to Ophena. Gregor called on him in a ritual to potentially remove Valse's gauntlet from Hobson. Though is services were not needed. He notably has had one of his arms replaced with opal and stone.
 
+## Chestnut Wicklebee, Concerned Fisher |
+
+An extremely old and grumpy gnome fisherman who put in a request to find the source of Northcliff's dissapearing fish population. Once the Party solves the problem, he rewards them.
+
 ## Cog, Estavan's Automaton
 
 Described as a toaster with eyes, Cog is Estavan's homemade automaton. It only knows how to say hello, and it acts much like Clank does from Ratchet and Clank.
@@ -19,6 +23,10 @@ Described as a toaster with eyes, Cog is Estavan's homemade automaton. It only k
 ## Estavan Longfeather, Historian & Adventurer
 
 A male Goblin that researches the Voedia people. He is absolutely fascinated by Coil's history and is willing to dig into the past and the Sunken City of Cera to get answers. His automaton buddy is named Cog.
+
+## Kaira Heinsworth, Tour Guide |
+
+A bubbly human who leads tours at Champions Hall. She doesn't know much more about the Champions of Virtue beyond her tour route, but she his more than willing to direct people to those who know more than she does.
 
 ## Mobe, Pawn Owner
 
@@ -38,6 +46,12 @@ The owner and operator of the Opal Circlet in Northcliff. An elderly gnome woman
 
 A young male Human that always geeks overe the Champions. He is part of a monthly meetup of likeminded nerds to discuss the Champions. He is friends with Trilby over their shared obsession with the Champions.
 
+## Chest
+
+## Cole, Mining Manager |
+
+The person who placed a request in Northcliff for help in clearing out the metal eating monsters in the nearby mines. Nothing else is knowna bout him.
+
 ## Hubert Hubbertubbs, Sculptor |
 
 A male Dwarf who was commissioned to create a statue of Valse by Gelnek and Hobson. The statue itself will be erected somewhere in Northcliff's trade district if not the Champions Hall museum. 
@@ -53,10 +67,6 @@ Little is known about Josh other than he is an adventurer and is the brother of 
 ## Kieth, Trench Serpent |
 
 A male Human bully who thinks he's cooler than everyone else. He wants to be an adventurer like his brother but currently is part of the Trench Serpents group of troublemakers.
-
-## Kaira Heinsworth, Tour Guide |
-
-A bubbly human who leads tours at Champions Hall. She doesn't know much more about the Champions of Virtue beyond her tour route, but she his more than willing to direct people to those who know more than she does.
 
 ## Mr. Wyat, Stonemason(?)
 

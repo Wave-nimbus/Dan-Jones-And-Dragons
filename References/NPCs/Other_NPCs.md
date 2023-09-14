@@ -176,7 +176,7 @@ A member of the Illustrious Delight circus troupe. He is a large Minotaur that a
 
 ## Factionless/One-Offs
 
-### Casma Londor |
+### Casma Londor, Tech Whiz |
 
 A female Gnome with several technical gadgets on her arms. Her monocle adjusts itself constantly. Her demeanor is very formal and noble, though not necissarily unfriendly. She is in charge of most tech for the search for the 10 Artifacts. She also built the Spire in Northcliff.
 
@@ -196,6 +196,14 @@ A Gnome who runs the Mossy Castle inn at Ohkross. She has minor magical capabili
 
 An eccentric collector and arcane scientist originally from Ohkross. His experiments resulted in the creation of the Soul Egg and his soul being sucked inside of it. His body decayed, and he was presumed dead for 10 years. While in Northcliff, he is able to get Morenthal to smash the egg, freeing him and granting Morenthal proficiency in the History skill.
 
+### Fervor Ascio, Hunter |
+
+A hunter entrusted by Flint Emberhorn to track down Pyre until help arrives. He has O'Stanke tribe guides to help him traverse the nearby blighted swamp.
+
+### Flint Emberhorn, Village Elder |
+
+This elderly Fire Genasi serves as the primary Elder for the town near Mt. Fiorno. He informs the Party and Council about the Ring of Flame that was likely discovered nearby.
+
 ### Horace Devenshire, The Wizard of the White Tower |
 
 Originally from Springoak, this stereotypically blue robed wizard was in charge of ensuring the amplified Spire's scrying spells worked perfectly. He also helped erase many of Feyli's memories of the Midnght Lotus using her Music Box.
@@ -204,9 +212,13 @@ Originally from Springoak, this stereotypically blue robed wizard was in charge 
 
 A mushroom creature the Party encountered in the Underdark. Part of a race of enormous mushroom creatures that eat creatures that stay inside their muschroom hill cavern. Otherwise quite firendly.
 
-### Neevan Everot |
+### Neevan Everot, Blood Mage |
 
 A male Drow with the ability to control blood magic. He takes drops of Hobson, Gelnek, and Trilby's blood in order to track them during the search for the 10 Artifacts.
+
+### Pyre Heelmsborn, Hunter |
+
+Presumably a Fire Genasi and hunter for the town near Mt. Fiorno. He was kidnapped after a monster group attacked the town. He also was acting strangely after finding the Ring of Flame.
 
 ### Rylen Lendsborough, King of Brightcoin |
 

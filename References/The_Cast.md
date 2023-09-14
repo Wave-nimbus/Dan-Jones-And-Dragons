@@ -17,11 +17,11 @@ A Warforged with the head of jackal whose jaws are often locked up tight. Coil i
 A tanned Tiefling with branch-like horns adorned with flowers and a tail wrapped in thorns. She has purple hair and an outfit suggesting an affinity for nature. She used to be part of the Midnight Lotus with a crystal necklace to prove it. After the Party destroys the Black Hand's base, she may no longer need to fear the group. She enjoys other people's drama so long as nobody gets physically hurt.
 <span style="color:goldenrod">
 
-## Gelnek the Valor Bard (He/Him)
+## Gelnek the Valor Bard & Paladin (He/Him)
 
 ### Played by Jocat (He/Him)
 </span>
-A heavy set Goblin carrying a large drum and mace maracas. If it weren't for his green skin, he could easily be mistaken for a gangly dwarf. Declared to be double leader of the Party after defeating Feyli and Morenthal in an arm wrestling contest. Follows Aether the Breaker, and his tribe used to be the O'stanke before he failed his pilgrimage and was cast out.
+A heavy set Goblin carrying a large drum shield and a warhammer maracca. If it weren't for his green skin, he could easily be mistaken for a gangly dwarf. Declared to be double leader of the Party after defeating Feyli and Morenthal in an arm wrestling contest. Follows Aether the Breaker, and his tribe used to be the O'stanke before he failed his pilgrimage and was cast out.
 <span style="color:green">
 
 ## Hobson Bunce the Custom Warlock (He/Him)

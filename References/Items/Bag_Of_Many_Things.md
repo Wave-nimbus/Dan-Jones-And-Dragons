@@ -1,5 +1,9 @@
 # Pulls from Trilby's Bag of Many Things
 
+## Alchemist's Fire |
+
+A baseball sized bottle with a sealed cork filled with Alchemist's Fire. It could probably be thrown to deal acid damage to an enemy.
+
 ## Aquamarine Dagger
 
 A folding pocket knife that acts as a dagger. If it is magical/special in any way, it is currently unkown. Coil currently is in possesion of this item.
@@ -59,6 +63,14 @@ A normal mechanical hunting trap used to catch small animals. It chomped on Tril
 ## Jingle Bell
 
 A silver bell that looks exactly like a classic jingle bell. Trilby immediately attaches it to the hilt of his green ribbon sword, making it a rather noisy weapon.
+
+## Large Animal Droppings |
+
+A handful of droppings from a large animal such as a bear. They likely have no purpose.
+
+## Large Silver Fork |
+
+A standard fork that is just a little to large to be comfortable. Despite having a silver color to it, the underlying metal is not valuable.
 
 ## Makeup Compact
 
