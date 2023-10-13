@@ -8,6 +8,10 @@ A baseball sized bottle with a sealed cork filled with Alchemist's Fire. It coul
 
 A folding pocket knife that acts as a dagger. If it is magical/special in any way, it is currently unkown. Coil currently is in possesion of this item.
 
+## Blue Crystal Shard |
+
+A blue crystal that is not a Void Crystal. It could still be worth something, however.
+
 ## Brass Cog 
 
 A tiny brass cog that is about the size of a button. If it is magical/special in any way, it is currently unknown. Trilby tossed it inside Scrubbins soon after he pulled it.
@@ -27,6 +31,10 @@ A single use of the Burning Hands spell written onto a spell scroll.
 ## Ceramic Mask |
 
 Presumed to be a cereamic mask. What it depicts and what it can do are completely unknown.
+
+## Chain Necklace |
+
+A simple necklace made of sparkley metal. As a gift, Trilby gives it to Gnaw of the O'Stanke Tribe.
 
 ## Clockwork Wolf Statue |
 
