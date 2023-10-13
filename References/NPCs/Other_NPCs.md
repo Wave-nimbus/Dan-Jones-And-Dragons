@@ -176,6 +176,10 @@ A member of the Illustrious Delight circus troupe. He is a large Minotaur that a
 
 ## Factionless/One-Offs
 
+## Burple, O'Stanke Tracker |
+
+A male Goblin hunter and tracker of the O'Stanke tribe. He was tasked with assisting Fervor to locate & take back the Ring of Flame inside the Valsqori Bog. He wears a squished leather top hat and wields a bow.
+
 ### Casma Londor, Tech Whiz |
 
 A female Gnome with several technical gadgets on her arms. Her monocle adjusts itself constantly. Her demeanor is very formal and noble, though not necissarily unfriendly. She is in charge of most tech for the search for the 10 Artifacts. She also built the Spire in Northcliff.
@@ -198,11 +202,15 @@ An eccentric collector and arcane scientist originally from Ohkross. His experim
 
 ### Fervor Ascio, Hunter |
 
-A hunter entrusted by Flint Emberhorn to track down Pyre until help arrives. He has O'Stanke tribe guides to help him traverse the nearby blighted swamp.
+A male Fire Genasi hunter entrusted by Flint Emberhorn to track down Pyre until help arrives. He has O'Stanke tribe guides to help him traverse the nearby Valsqori Bog.
 
 ### Flint Emberhorn, Village Elder |
 
 This elderly Fire Genasi serves as the primary Elder for the town near Mt. Fiorno. He informs the Party and Council about the Ring of Flame that was likely discovered nearby.
+
+### Gnaw, O'Stanke Tracker |
+
+A male Goblin hunter and tracker of the O'Stanke tribe. He was tasked with assisting Fervor to locate & take back the Ring of Flame inside the Valsqori Bog.. He wears a bamboo sunhat and an eyepatch, and he wields several daggers. His posture is absolutely terrible, though.
 
 ### Horace Devenshire, The Wizard of the White Tower |
 

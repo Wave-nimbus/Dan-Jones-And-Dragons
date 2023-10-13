@@ -64,7 +64,8 @@ One of the tribes that joined the beast tribe coalition government on Tievenera.
 ### The O'stanke Tribe |
 
 Gelnek's tribe of goblins that live in the Blighted Swamp near Mt. Fiorno. They have a tradition spanning several generations of sending future members on a long pilgrimage so that they may get stronger. When they return, they fight the previous pilgrims to ensure the tribe remains strong. <br>
-Exiled members include *Gelnek*.
+Exiled members include: *Gelnek*.
+Known members include: *Burple*, *Gnaw*.
 
 ## The Green Ravens
 
