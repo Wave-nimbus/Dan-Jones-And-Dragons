@@ -44,17 +44,21 @@ An item purchased from the Chamillionaire for 500 gp. If used before a social en
 
 A shortsword found among the personal effects of the Missing People. Originally discovered by Morenthal, it was given to Hobson for keeping, and it has since become his pact weapon. It deals Crit damage to objects.
 
-### Hobson's Milk of the Poppy Potion
+### Hobson's Bag of Holding
 
-A draught of sleeping potion that was purchased at the Serpent's Flower. Hobson was potentially going to use it to avoid being possessed by Valse constantly.
+The classic D&D item is capable of holding a large amount of stuff within its pocket dimenstion space. Hobson currently doesn't have anything in it.
 
 ### Hobson's Cloak of Protection
 
 A purple cloak that used to belong to a Crown's Guard member. It was found in the Flesh Cave. After attuning to it, Hobson gains a +1 to AC.
 
-### Hobson's Bag of Holding
+### Hobson's Coin of Fortune
 
-The classic D&D item is capable of holding a large amount of stuff within its pocket dimenstion space. Hobson currently doesn't have anything in it.
+An old gold coin that is infused with some kind of Divination magic. Using a Bonus Action, the coin can be flipped, and its result can either help or hinder the user.
+
+### Hobson's Milk of the Poppy Potion
+
+A draught of sleeping potion that was purchased at the Serpent's Flower. Hobson was potentially going to use it to avoid being possessed by Valse constantly.
 
 ### Feyli's Mindshield Crown
 

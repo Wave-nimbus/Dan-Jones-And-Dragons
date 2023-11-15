@@ -208,6 +208,10 @@ A male Fire Genasi hunter entrusted by Flint Emberhorn to track down Pyre until 
 
 This elderly Fire Genasi serves as the primary Elder for the town near Mt. Fiorno. He informs the Party and Council about the Ring of Flame that was likely discovered nearby.
 
+### Gleen, Village Hunter |
+
+A female Tiefling hunter that was captured with Pyre. She was a prisoner of the Eyedra in the Sunken of O'Louie for 2 days before being rescued. 
+
 ### Gnaw, O'Stanke Tracker |
 
 A male Goblin hunter and tracker of the O'Stanke tribe. He was tasked with assisting Fervor to locate & take back the Ring of Flame inside the Valsqori Bog.. He wears a bamboo sunhat and an eyepatch, and he wields several daggers. His posture is absolutely terrible, though.
