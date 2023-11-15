@@ -24,6 +24,10 @@ One of the Fallen Gods. The Flaming Spears are a cult/group devoted to destroyin
 
 One of the Nine. Ruldros is the deity of craftsmanship and the forge. His symbol is an anvil with rope tied across it.
 
+## The Evertree |
+
+One of the Nine. The Evertree is a female Centaur with an unspecified face. She represents the wilderness and nature. She is often worshiped by druidic communities or those who live far from large towns.
+
 ## Iris |
 
 One of the Nine. Iris's domain is currently unknown as is her symbol.

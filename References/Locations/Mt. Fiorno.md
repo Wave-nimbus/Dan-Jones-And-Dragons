@@ -12,6 +12,4 @@ The portal from the Material Plane to the Elemental Plane of Fire. It is guarded
 
 ### Sunken Castle of O'Louie
 
-A fortress or keep that was consumed by the Valsqori Bog. The O'Stanke tribe have warnings of an Eyedra that lives there, and they usually avoid the keep at all costs.
-
-
+A fortress or keep that was consumed by the Valsqori Bog. A Beholder known as the Eyedra claimed it as its base, enthralling several monsters & humanoids to guard it.
