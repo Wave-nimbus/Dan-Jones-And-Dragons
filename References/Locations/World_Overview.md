@@ -1,6 +1,6 @@
 # The World of E'lithia
 
-The name of the world for this campaign is set in. There are multiple continents, overseen by the Council of E'lithia. Orlon is one such continent. Other continents include Tievenera and Djoria.
+The name of the world for this campaign is set in. There are multiple continents, overseen by the Council of E'lithia. Orlon is one such continent. Other continents include Ty'vanera and Djoria.
 
 # The Continent of Orlon
 
