@@ -37,7 +37,7 @@ The Sessions are divided into story arcs. Information pertaining to each specifi
 
 The sheer quantity of information presetned within each episode can generally be split into several categories, including NPCs, Locations, and Items. The job of this wiki is to catalog any and all important pieces of information possible. Session summaries make notes of the first mention of said information. To fascilitate easier reading, a color code has been established denoting what type of information was mentioned. The relevant colors used in this arc are listed below.
 
-Newly Archived NPC Names are in $\color{teal}{\textsf{Teal}}$ <span style="color:teal">Teal</span>
+Newly Archived NPC Names are in $\color{teal}{\textbf{Teal}}$ <span style="color:teal">Teal</span>
 <br>
 Newly Archived Faction Names are in <span style="color:aqua">Aqua</span>
 <br>
