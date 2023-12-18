@@ -50,8 +50,6 @@ Newly Archived Important/Personal Items are in $\color{forestgreen}{\textbf{Fore
 Unarchived NPCs or Items are in $\color{gray}{\textbf{Gray}}$
 <br>
 
-$\color{lightgreen}{\textbf{Light Green}}$
-
 #### About the Creator(s)
 
 The creator(s) of this fan wiki wish to remain anonymous behind the screen name(s) presented. Simply know that he/she/they are humble fans of DJ&D, and neither want nor deserve more recognition than that.
