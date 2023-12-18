@@ -37,18 +37,20 @@ The Sessions are divided into story arcs. Information pertaining to each specifi
 
 The sheer quantity of information presetned within each episode can generally be split into several categories, including NPCs, Locations, and Items. The job of this wiki is to catalog any and all important pieces of information possible. Session summaries make notes of the first mention of said information. To fascilitate easier reading, a color code has been established denoting what type of information was mentioned. The relevant colors used in this arc are listed below.
 
-Newly Archived NPC Names are in <span style="color:teal;">Teal</span>  $\color{teal}{\textbf{Teal}}$ **Bolded Teal**
+Newly Archived NPC Names are in $\color{teal}{\textbf{Teal}}$
 <br>
-Newly Archived Faction Names are in <span style="color:aqua">Aqua</span>
+Newly Archived Faction Names are in $\color{aqua}{\textbf{Aqua}}$
 <br>
-Newly Archived World World Location Names and Events are in <span style="color:brown">Brown</span>
+Newly Archived World World Location Names and Events are in $\color{brown}{\textbf{Brown}}$
 <br>
-Newly Archived Inner-Town Location Names are in <span style="color:coral">Coral</span>
+Newly Archived Inner-Town Location Names are in $\color{coral}{\textbf{Coral}}$
 <br>
-Newly Archived Important/Personal Items are in <span style="color:forestgreen">Forest Green</span>
+Newly Archived Important/Personal Items are in $\color{forestgreen}{\textbf{Forest Green}}$
 <br>
-Unarchived NPCs or Items are in <span style="color:gray">Gray</span>
+Unarchived NPCs or Items are in $\color{gray}{\textbf{Gray}}$
 <br>
+
+$\color{lightgreen}{\textbf{Light Green}}$
 
 #### About the Creator(s)
 
