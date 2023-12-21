@@ -1,4 +1,4 @@
-# Dan Jones And Dragons Fan Wiki: Grand Archives
+# Dan Jones And Dragons Fan Wiki: Arc 7: Unnamed
 
 ## Where can I find DJ&D?
 
@@ -14,7 +14,7 @@ This is the fan-made reference/wiki for the Dan Jones And Dungeons D&D Campaign 
 
 The series has been going on long enough to break up the sessions into miniature arcs. These arcs have been named based on their content, and the relevant episodes are divided into them.
 
-The GrandArchives Branch contains all information up to the most recent session or the most recent session compiled. It assumes full knowledge of the campaign's events. Session summaries are split according to their respective arcs.
+*Arc 7, Unnamed* contains information referenced in and updated for Sessions 20,... As the arc has yet to conclude, all information is kept for reference. ~~Information not mentioned in this arc or otherwise deemed unnecissary for understanding it has been removed for easier viewing, reading, and searching.~~
 
 ## Does DJ&J have a content rating?
 
