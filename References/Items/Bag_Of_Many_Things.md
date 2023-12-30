@@ -112,7 +112,7 @@ An otherwise nondescript goblet made of pure silver. It has very little decorati
 
 A relatively large feather whose hue goes from white to torquoise at the tip. If it has any magical properties, they are unknown at the time.
 
-## Two D10s
+## Two D10s |
 
 A pair of mundane d10 dice with pips on them. Rolling them has no effect. Trilby gifted these to Byfar Clemmingsworth in Northcliff.
 
