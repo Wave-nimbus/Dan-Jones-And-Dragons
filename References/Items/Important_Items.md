@@ -2,9 +2,9 @@
 
 ## The 10 Artifacts 
 
-10 of the most dangerous and powerful artifacts scattered by the Explosion at Brightcoin. The Council of E'lithia is trying to recover them as soon as possible. <br>
-Recovered artifacts are *The Staff of Defilement* & *The Flower of Rebirth*<br>
-Unrecovered artifacts are: *The Amber Dragon Eye*, *The Gauntlet of the Eye*, *The Heart of the Keep*, *The Planar Mirror*, *The Ring of Flame*, *The Shaper of Minds*, *The Throne of Want*, and *The Want of Chaos*. 
+10 of the most dangerous and powerful artifacts scattered by the Explosion at Brightcoin. The Council of E'lithia is trying to recover them as soon as possible. The recovered artifacts are listed in the order they were recovered. <br>
+Recovered artifacts are *The Staff of Defilement*, *The Flower of Rebirth*, and *The Ring of Flame*<br>
+Unrecovered artifacts are: *The Amber Dragon Eye*, *The Gauntlet of the Eye*, *The Heart of the Keep*, *The Planar Mirror*, *The Shaper of Minds*, *The Throne of Want*, and *The Want of Chaos*. 
 
 ## Beacon Map
 
@@ -56,7 +56,7 @@ A pristine pearl that Karshala gave to Trilby so he could give it to Feyli. Once
 
 ## Ring of Flame
 
-One of the Missing Artifacts. A ring that is implied to be originally owned by the Flame Tyrant. It is heavily attuned to the Plane of Fire. It was last seen near Mt. Fiorno & the Rift of Fire.
+One of the Missing Artifacts. A ring that is implied to be originally owned by the Flame Tyrant. It is heavily attuned to the Plane of Fire. It was recovered off of the Eyedra within the Castle of O'Louie, who had used it to turn it's lair into a magma flowing inferno. The ring allows for powerful magic to be cast as well as immunity to fire and heat.
 
 ## Sending Stone
 
@@ -77,3 +77,7 @@ Three spell scrolls that were found amongst the Crown's Guard gear. What spells 
 ## Unknown Journal
 
 A journal discovered in the Flesh Cave discussing a failed ritual and a cult for the Brood Mother. The writer fears the Brood Mother's presence and the cult that surrounds it. The cult sees the writer as a traitor. At the end of the journal are unintelligable scrawls of Father Waits. The final page has a depiction of the Staff of Defilement.
+
+## Wand of Magic Missiles
+
+A wand that is capable of casting the Magic Missile spell. It has 7 charges, and each charge represents a spell level used to cast Magic Missile. It recharges some number of charges at Dawn, and it can break if reduced to 0 charges. It has yet to be given to a Player permenantly, yet.

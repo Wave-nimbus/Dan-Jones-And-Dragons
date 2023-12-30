@@ -7,7 +7,12 @@ A faction found in Domberland has been ticked off by Gear Head, a criminal. Almo
 ## The Black Hand 
 
 A group of necromancers that prey upon the emotionally vulnereable, such as mourners or those that have nothing left to lose. Their base is in Lafford on Orlon, which has since been destroyed. They were a cult that worships the First Dead. <br>
-Known dead members include: *Aryc* and *Dave the Necromancer*, and *The Second*
+Known dead members include: *Aryc*, *Dave the Necromancer*, and *The Second*.
+
+## Boyan 
+
+A make or model of warforged from the Sunken City of Cera. It is unknown what, if any, difference this makes compared to any other models of warforged. However, it may be possible that they possess free will of some sort, or can otherwise be given it. <br>
+Known Warforged of this model include: *Coil*. 
 
 ## The Burning Spears 
 
@@ -43,7 +48,8 @@ Known dead members include: *Greywill Lander*, *Aster Leywin*, and *Linthyn Kees
 ## The Crystal United Mercenaries 
 
 An adventuring group that desires to be part of the hunt for the missing Artifacts. They have been turned down by Adokus for their willingness to step on and over othe people to achieve their goals. <br>
-Known members include: *Ida Barton*.
+Known members include: *Ida Barton*. <br>
+Unnamed members include: *Bugbear Gunslinger*, *Cobalt Dragonborn*, *Frog Caster*, *Masked Elf*, and *Swaggering Human*
 
 ## The Fallen Gods 
 
@@ -69,7 +75,7 @@ One of the tribes that joined the beast tribe coalition government on Tievenera.
 
 Gelnek's tribe of goblins that live in the Blighted Swamp near Mt. Fiorno. They have a tradition spanning several generations of sending future members on a long pilgrimage so that they may get stronger. When they return, they fight the previous pilgrims to ensure the tribe remains strong. <br>
 Exiled members include: *Gelnek*.
-Known members include: *Burple*, *Gnaw*.
+Known members include: *Burple*, *Chief Stompy*, *Gnaw*.
 
 ## The Green Ravens
 
