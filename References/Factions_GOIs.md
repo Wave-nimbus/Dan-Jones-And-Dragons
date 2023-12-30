@@ -7,7 +7,12 @@ A faction found in Domberland has been ticked off by Gear Head, a criminal. Almo
 ## The Black Hand 
 
 A group of necromancers that prey upon the emotionally vulnereable, such as mourners or those that have nothing left to lose. Their base is in Lafford on Orlon, which has since been destroyed. They were a cult that worships the First Dead. <br>
-Known dead members include: *Aryc* and *Dave the Necromancer*, and *The Second*
+Known dead members include: *Aryc*, *Dave the Necromancer*, and *The Second*.
+
+## Boyan |
+
+A make or model of warforged from the Sunken City of Cera. It is unknown what, if any, difference this makes compared to any other models of warforged. However, it may be possible that they possess free will of some sort, or can otherwise be given it. <br>
+Known Warforged of this model include: *Coil*. 
 
 ## The Burning Spears 
 
@@ -21,7 +26,7 @@ The bounty hunting/assassin's guild that is attemtping to hunt down Feyli. Since
 Known members include: *Daemon*, *Molloke Iron*, and *Yuul Greaterfist*. <br>
 Expelled members include *Morenthal*.
 
-## The Champions of Virtue 
+## The Champions of Virtue |
 
 An old adventuring and heroic party that was created soon after Orlon was united under the current Empire. The group is famous across the continent for its legendary deeds, but as it is no longer active, the members have all moved on or have died. <br>
 Confirmed Living Members include: *Adokus Thandar* and *Gregor Timbers* <br>
@@ -29,7 +34,7 @@ Presumed Living Members include: *Beery Noryox*, *Eldwin Flyleaf*, *Liia Siano*,
 Confirmed Dead Members include: *Luth Helder*, *Shawndry Fezum*, and *Volen Ashblade* <br>
 Presumed Dead Members include: *Arther Oathbringer*, *Orsik Frostbeard*, and *Valse "V"*
 
-## The Council of E'lithia 
+## The Council of E'lithia |
 
 Presumably a peacekeeping organization tasked with dealing with threats across the world of E'lithia. Their current focus is recovering the 10 Artifacts from Brightcoin. <br>
 Known members include: *Adocus Thanadar*, *Casma Londor*, *Ciona*, *Horace Devenshire*, and *Neevan Everot*.
@@ -40,10 +45,11 @@ The Emperor's military branch serves the continent of Orlon. They are stretched 
 Filgrove Contingent: Known living members include: *Borey*, *Merabeth*, and *Ficesious Hornsferrow*. <br>
 Known dead members include: *Greywill Lander*, *Aster Leywin*, and *Linthyn Keessa*.
 
-## The Crystal United Mercenaries 
+## The Crystal United Mercenaries |
 
 An adventuring group that desires to be part of the hunt for the missing Artifacts. They have been turned down by Adokus for their willingness to step on and over othe people to achieve their goals. <br>
-Known members include: *Ida Barton*.
+Known members include: *Ida Barton*. <br>
+Unnamed members include: *Bugbear Gunslinger*, *Cobalt Dragonborn*, *Frog Caster*, *Masked Elf*, and *Swaggering Human*
 
 ## The Fallen Gods 
 
@@ -69,7 +75,7 @@ One of the tribes that joined the beast tribe coalition government on Tievenera.
 
 Gelnek's tribe of goblins that live in the Blighted Swamp near Mt. Fiorno. They have a tradition spanning several generations of sending future members on a long pilgrimage so that they may get stronger. When they return, they fight the previous pilgrims to ensure the tribe remains strong. <br>
 Exiled members include: *Gelnek*.
-Known members include: *Burple*, *Gnaw*.
+Known members include: *Burple*, *Chief Stompy*, *Gnaw*.
 
 ## The Green Ravens
 
@@ -93,7 +99,7 @@ Known Subgroup: *Illustrious Delight*
 Serving as the Pantheon for the world of E'lithia, the Divine Nine represent various aspects of clerics, paladins and the like. <br>
 Mentioned deities of this pantheon include: *Aether the Breaker*, *Demulson "Hammer" Ruldros*, *The Nightmother*, and *Ophena*.
 
-## Viradescent Javelin Crew 
+## Viradescent Javelin Crew |
 
 The crew of the Airship Viradescent Javelin that flew the Party from Filgrove to Northcliff. They are a mixed bag, but quite competent at what they do. They are also at the Party's disposal for the search of the 10 Artifacts. <br>
 Known members include: *Ardwil*, *Azrew Avena*, *Carva*, *Geo*, *Grayton Mule*, *Marmatool Longfeather*, *Priscila*, and *Vespie*.

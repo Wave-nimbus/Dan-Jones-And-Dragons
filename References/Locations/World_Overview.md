@@ -66,6 +66,10 @@ A city somewhere in Orlon, presumably with a large population of dragons or drac
 
 A series of Islands somewhere in Orlon. The Champions of Virtue killed wyvyrns in that area, making it Trilby's favorite feat of the group. Almost nothing else is known about the region.
 
+### Emerald Sea |
+
+A sea that is presumably somewhere off of Orlon's coast. Preston Fitzclarance believes that one of the 10 Artifacts is located in or around the Sea.
+
 ### Evertree
 
 Almost nothing is known about this other than its name. Morenthal's Purging Dagger from the Chamillionare apparently comes from this tree.

@@ -174,15 +174,25 @@ The ring leader, owner and/or operator of the Illustrious Delight circus troupe.
 
 A member of the Illustrious Delight circus troupe. He is a large Minotaur that acts as the circus's strongman act. While shy and bashful, his strength is unparalleled. The troupe is a part of the Midnight Lotus.
 
+## O'Stanke Tribe |
+
+### Burple, O'Stanke Tracker 
+
+A male Goblin hunter and tracker of the O'Stanke tribe. He was tasked with assisting Fervor to locate & take back the Ring of Flame inside the Valsqori Bog. He wears a squished leather top hat and wields a bow.
+
+### Chief Stompy, O'Stanke Leader
+
+An elderly male Goblin elder who is the current chief of the O'Stanke tribe. He wears a massive hat stitched together from other hats. While bound by tradition, he still has a soft spot for Gelnek, even after being banished. He reincarnated Feyli after the battle with the Eyedra.
+
+### Gnaw, O'Stanke Tracker 
+
+A male Goblin hunter and tracker of the O'Stanke tribe. He was tasked with assisting Fervor to locate & take back the Ring of Flame inside the Valsqori Bog.. He wears a bamboo sunhat and an eyepatch, and he wields several daggers. His posture is absolutely terrible, though.
+
 ## Factionless/One-Offs
 
 ### Alt-Valse, The Right Gauntlet 
 
 The version of Valse found in the right gauntlet worn by Lady Belle. His personality is of a cool, calculating machine. He gives combat advice and allows Lady Belle to transform into animals, but he is otherwise quite rude to her and Vindilay.
-
-### Burple, O'Stanke Tracker 
-
-A male Goblin hunter and tracker of the O'Stanke tribe. He was tasked with assisting Fervor to locate & take back the Ring of Flame inside the Valsqori Bog. He wears a squished leather top hat and wields a bow.
 
 ### Casma Londor, Tech Whiz 
 
@@ -224,10 +234,6 @@ A sketchy male Dwarf that has angered a faction known as the Amber Hearts. He ha
 
 A female Tiefling hunter that was captured with Pyre. She was a prisoner of the Eyedra in the Sunken of O'Louie for 2 days before being rescued. 
 
-### Gnaw, O'Stanke Tracker 
-
-A male Goblin hunter and tracker of the O'Stanke tribe. He was tasked with assisting Fervor to locate & take back the Ring of Flame inside the Valsqori Bog.. He wears a bamboo sunhat and an eyepatch, and he wields several daggers. His posture is absolutely terrible, though.
-
 ### Horace Devenshire, The Wizard of the White Tower 
 
 Originally from Springoak, this stereotypically blue robed wizard was in charge of ensuring the amplified Spire's scrying spells worked perfectly. He also helped erase many of Feyli's memories of the Midnght Lotus using her Music Box.
@@ -243,6 +249,10 @@ A mushroom creature the Party encountered in the Underdark. Part of a race of en
 ### Neevan Everot, Blood Mage 
 
 A male Drow with the ability to control blood magic. He takes drops of Hobson, Gelnek, and Trilby's blood in order to track them during the search for the 10 Artifacts.
+
+### Preston Fitzclarance |
+
+A wealthy man who lives in Brightcoin. He was Coil's previous owner before Feyli fled with Coil. His extensive information network has allowed him to track down the Party after they arrived in Northcliff.
 
 ### Pyre Helmsborn, Hunter 
 

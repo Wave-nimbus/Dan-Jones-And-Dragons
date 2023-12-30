@@ -112,6 +112,10 @@ An otherwise nondescript goblet made of pure silver. It has very little decorati
 
 A relatively large feather whose hue goes from white to torquoise at the tip. If it has any magical properties, they are unknown at the time.
 
+## Two D10s
+
+A pair of mundane d10 dice with pips on them. Rolling them has no effect. Trilby gifted these to Byfar Clemmingsworth in Northcliff.
+
 ## Vintage Year Wine
 
 A Ninteen Ninteye (1990) aged wine from Maple Farms. Hobson recognized the brand, as he and his family are from Maple. Hobson currently possesses this item.

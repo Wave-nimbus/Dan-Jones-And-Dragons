@@ -12,6 +12,10 @@ A greatsword with a floating piece of Void Crystal on its crossguard. It allows 
 
 A hide cloak/pelt that prevents creatures from gaining advantage on attacks due to flanking. It was purchased from the Charmillionare for 800 gp.
 
+### Feyli's Boots of Flight
+
+A pair of leather boots with wings stitched into the side. They have a period of up to 4 hours where the wearer can have a flying speed equal to their walking speed. For every 12 hours the boots are not used for flying, they recharge 2 hours of flight.
+
 ### Feyli's Deck of Cards
 
 An item gotten from Karshala the Hag in exchange for a favor. It appears to be a fancy tarot deck of 20 cards, though Jocat believes it to be a Deck of Many Things. The favor in turn was to give the Relic Staff to Karshala. <br>
@@ -64,6 +68,14 @@ A draught of sleeping potion that was purchased at the Serpent's Flower. Hobson 
 
 A silver headband with a chunk of Void Crystal embedded inside that Uldar of the Green Ravens crafted. It grants advantage on INT saves.
 
+### Morenthal's Gloves of Missile Snatching
+
+A skintight pair of long gloves that can catch or deflect missiles. As a Reaction to being hit by a ranged weapon attack, the wearer can reduce the incoming damage by 1d10+DEX. If this reduces the damage to 0, then the missile can be caught if it fits in a single hand. 
+
+### Morenthal's Little Guy Wistle
+
+A whistle that allows Morenthal to command the Little Guy. It is a 2-inch worm cabable of moving 5 ft per round and lifting 500 pounds. It can wriggle into 1-inch gaps, and if it is killed, a new worm shows up in a few days. It was purchased from the Chamillionare for 1000 gp.
+
 ### Morenthal's Void Absorption Hide Armor
 
 Hide armor that can be attuend to a sapecific element once per day, granting 5 damage reduction. It was crafted by Uldar of the Green Ravens.
@@ -74,7 +86,7 @@ A wooden dagger made from the Evertree, causing an additional 1d4 Radiant damage
 
 ### Morenthal's Ring of Obscuring 
 
-A metallic ring that is capble of casting Fog Cloud centered on the ring using a charge. The ring starts with 3 charges. The spell lasts up to a minute.
+A metallic ring that is capable of casting Fog Cloud centered on the ring using a charge. The ring starts with 3 charges. The spell lasts up to a minute.
 
 ### Trilby's Bag of Many Things
 
@@ -96,15 +108,27 @@ An inital stack of 15 sheets of paper in it. If Trilby writes a message on one a
 
 These rings are pulled from the Chamillionare's gacha game for 200 gp per pull for a d100 roll. To avoid cluttering the previous list up, the ring pulls will be listed separately.
 
+### Coil's One Ring |
+
+A black band with a red crystal eye on top of a black diamond. While the wearer is at 1 HP, all attacks deal maximum damage.
+
 ### Coil's Ring of Point
 
 A small ring with a steel cylinder perpendicular to the ring. As a Bonus Action, the wearer can light up an object with a laser pointer.
+
+### Feyli's Ring of Explode |
+
+A pure glass ring with a red top. It breaks on use. After 1d4 rounds, the broken ring will explode as a Fireball spell. It takes a Bonus Action to activate.
+
+### Feyli's Ring of Flat Feet |
+
+A silver ring with a loose stitching holding it together. It allows normal movement within deep snow and quicksand, rather than difficult terrain.
 
 ### Feyli's Ring of Good Luck
 
 A golden band with a clear quartz crystal in it. Once per day, the wearer can reroll any attack, save, or attribute check roll. Requires Attunement.
 
-### Feyli's Ring of Good Times.
+### Feyli's Ring of Good Times
 
 A boring iron ring with feelings of hesitation surrounding it. Once put on, it cannot be taken off.
 
@@ -120,9 +144,17 @@ A black iron ring with a key carved into the top. Once per day, the wearer can r
 
 A multicolored ring with spectacles of ores in it. While wearing the ring, that finger is immune to all elemental damage.
 
+### Feyli's Ring of the Walking Dead |
+
+A dark wood ring that has been carved to look like a bony finger. Undead of a certain CR cannot attack the wearer.
+
 ### Feyli's Telescoping Ring
 
 A layered ring that can expand into a telescope. The telescope grants advantage on perception checks for things over 500 ft away.
+
+### Gelnek's Bubble Ring |
+
+A ivory ring with a glass marble on top. As a Bonus Action, bubbles can be produced from the ring. 
 
 ### Gelnek's Ring of Quick Cantrips
 
@@ -132,6 +164,10 @@ A plain silver band with glyphs carved into it. Any non-damaging cantrips can be
 
 A basic ring with a wax seal imprint on it. When hitting something with an unarmed strike while wearing the ring, a brand of the wearer's choice can be marked onto the target.
 
+### Hobson's Ring of Coffee |
+
+A saucer and cup on top of a brass band. When placed into a cup of water, it will turn the water into hot coffee over the course of a minute.
+
 ### Hobson's Ring of Planar Anchor
 
 A golden band with a white crystal hovering off of the ring. The wearer cannot travel Planes while wearing it, including to demiplanes caused by Banishment.
@@ -139,6 +175,10 @@ A golden band with a white crystal hovering off of the ring. The wearer cannot t
 ### Hobson's Ring of Sacrifice
 
 A small gold ring with a large dull opal in the center. When the wearer drops to 0 HP, the ring will shatter, leaving the wearer drop to 1 HP instead.
+
+### Morenthal's Ring of Applause |
+
+A simple metal ring. The claps has a pair of hands clapping. When the wearer claps, it sounds like multiple people are clapping instead.
 
 ### Morenthal's Ring of Bees
 
@@ -152,9 +192,29 @@ A mixed-colored ring made of onyx and ivory. While wearing it, the wearer is res
 
 A ring that looks like a sword bent into a ring. As an Action, the ring can become a nonmagical longsword or revert back into a ring. 
 
+### Morenthal's Ring of the Peephole |
+
+A solid flat metal band. If placed on a wall and the wall is less than 3 ft thick, the wall can be seen through the ring. No objects can go through it, though.
+
+### Morenthal's Ring Ring |
+
+A pair of rings that allow the wearers to communicate telepathically for 500 ft.
+
 ### Morenthal's Ring of Watch
 
 A metal band with a disk on top and a triangular notch cut into it. It is a sundial (watch) that works regardless of the lighting conditions. 
+
+### Trilby's Ring of the Cat's Gift |
+
+A fine golden band with a cat on it. When attuned, the wearer gets a +2 to DEX saves.
+
+### Trilby's Ring of Dryness |
+
+A simple blue carved band of crystal or bone. It keeps the wearer dry in rainy weather and only rainy weather.
+
+### Trilby's Ring of Stealing |
+
+A thin black band with a carved white hand reaching out on top. The ring breaks on use, exchanging the broken ring with any item within sight and 100 ft. It takes an Action to use it.
 
 ### Trilby's Ring of Steve
 
