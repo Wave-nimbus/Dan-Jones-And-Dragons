@@ -57,3 +57,5 @@
 #### August 14, 2023 - Arc 5 Compiled.
 
 #### December 17, 2023 - Arc 6 Compiled.
+
+#### December 31, 2023 - Added Session 20 summary to Archives.
