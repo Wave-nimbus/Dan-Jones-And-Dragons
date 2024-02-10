@@ -40,13 +40,17 @@ The main authority over the contient of Orlon itself. The Emperors of Orlon live
 
 Presumably one of the Fallen Gods. The Black Hand and The Midnight Lotus worship him and desire to restore him to power. His domain is strongly based on necromancy. The Party defeated his weakened Form within thee Black Hand's Headquarters.
 
-## The Nightmother
+## The Nightmother |
 
-One of the Nine that makes up this world's pantheon. Little is known about what her domain is, but it is presumably something that is strongly against necromancy.
+One of the Nine that makes up this world's pantheon. She represents the Grave domain, ferrying souls to the afterlife. As a result, she is heavily against necromancy, though resurrection is a different matter.
 
 ## Ophena the Dawnmaiden |
 
-One of the Nine that makes up this world's pantheon. Ophena is the Goddess of Light, and her symbhol is a bright star. She is also known as the Dawnmaiden.
+One of the Nine that makes up this world's pantheon. Ophena is the Goddess of Light, and her symbol is a bright star. She is also known as the Dawnmaiden.
+
+## The Scarlet Harvest |
+
+One of the Fallen Gods of the world. Their domain revolves around blood and destruction. What they have done or who follows them is unknown.
 
 ## The Voedia
 

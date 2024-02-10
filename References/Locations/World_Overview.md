@@ -130,9 +130,9 @@ The ruins of the Voedia civilization. These ruins are the most likely origin of 
 
 A large cave filled with Void Crystals that was home to the Void Snail. It is about 2 days travel to the West of Filgrove. The Party killed the Void Snail, taking chunks back to create new items.
 
-### Westmont 
+### Westmount |
 
-A town in the South of Orlon. Some years ago, Arther Oathbringer reappeared with a flying castle and an army over the town. 
+A town in the South of Orlon. Some years ago, Arther Oathbringer reappeared with a flying castle and an army over the town. It houses a magical school where a powerful Dragonborn escaped from.
 
 ## Other Regions
 

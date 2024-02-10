@@ -39,7 +39,7 @@ The sheer quantity of information presetned within each episode can generally be
 
 Newly Archived NPC Names are in $\color{teal}{\textbf{Teal}}$
 <br>
-Newly Archived Faction Names are in$\color{aqua}{\textbf{Aqua}}$
+Newly Archived Faction Names are in $\color{aqua}{\textbf{Aqua}}$
 <br>
 Newly Archived World World Location Names and Events are in $\color{brown}{\textbf{Brown}}$
 <br>

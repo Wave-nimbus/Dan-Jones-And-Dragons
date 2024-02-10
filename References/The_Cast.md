@@ -35,7 +35,7 @@ A Halfling who looks like Ernie from Sesame Street. Has some light leather armor
 
 ### Played by Gamb (He/They)
 </span>
-A Drow that is slowly warming up to the Party as the only people he could call friends. He ran from the Bloodletters bounty hunter/assassin group after killing a child as part of the job. He wears black and leather, serving as the traditional edgy rogue. His protectiveness for Feyli has gotten him a bounty on his head as well.
+A Drow that is slowly warming up to the Party as the only people he could call friends. He ran from the Bloodletters bounty hunter/assassin group after killing a child as part of the job. He wears black and leather, serving as the traditional edgy rogue. His protectiveness for Feyli has gotten him a bounty on his head as well. He also is devoted to The Nightmother, and is thus hates necromancy.
 <span style="color:dodgerblue">
 
 ## Trilby the Artillerist Artificer (He/Him)

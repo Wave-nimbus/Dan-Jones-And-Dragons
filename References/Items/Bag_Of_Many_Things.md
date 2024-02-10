@@ -64,6 +64,10 @@ A completely ordinary but high quality green silk ribbon. It measures 10 ft long
 
 A chunk of anti-gravity Green Void Crystal. It could be used to make an item ligher if needed. Trilby incorporates it into Scrubbins so any Force Billista blast can pull enemies 5 feet as well as pushing them 5 feet.
 
+## Handaxe |
+
+A standard Handaxe. It is not otherwise magical or special in any way. It is light enough to be dual wielded and can be thrown.
+
 ## Horn Shell
 
 A small conical shell that does not appear to have a creature inside of it. Further usage unknown.

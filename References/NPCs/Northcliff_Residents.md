@@ -36,6 +36,10 @@ The owner and namesake of Mobe's Pawn Shop is an elderly Dwarf with some of the 
 
 The blacksmith of the Forge & Forestry superstore in Northcliff. A muscle bound Dwarven woman who runs the shop with her Elven partner, who is currently unnamed. She can upgrade the Party's gear for a lot of time and money.
 
+## Uncle Pancreas, Trilby's Uncle |
+
+Presumably a Human Crown's Guard member that is stationed in Northcliff. Where he has been and what he does is unkown. Trilby seems excited to see him again, though.
+
 ## Velina, Jeweler
 
 The owner and operator of the Opal Circlet in Northcliff. An elderly gnome woman who knows many things about Void Crystals including both mining and forging with it. She helps uncover the mystery of why Scribbins poops.
@@ -65,6 +69,10 @@ Little is known about Josh other than he is an adventurer and is the brother of 
 ## Kieth, Trench Serpent
 
 A male Human bully who thinks he's cooler than everyone else. He wants to be an adventurer like his brother but currently is part of the Trench Serpents group of troublemakers.
+
+## Makidoo Blezelbee, Farmer |
+
+A farmer of unknown race who lives near Northcliff's Old Town district. He comissioned the creation of a farming robot, but the makers went overboard and made it a killing robot instead.
 
 ## Mr. Wyat, Stonemason(?)
 
