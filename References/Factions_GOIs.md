@@ -51,10 +51,10 @@ An adventuring group that desires to be part of the hunt for the missing Artifac
 Known members include: *Ida Barton*. <br>
 Unnamed members include: *Bugbear Gunslinger*, *Cobalt Dragonborn*, *Frog Caster*, *Masked Elf*, and *Swaggering Human*
 
-## The Fallen Gods 
+## The Fallen Gods |
 
 A number of Gods/Goddesses that previously were worshiped before the Nine. It is unknown if they truly exist or if only Cults believe in them. <br>
-Mentioned deities of this group include: *The Brood Mother*, *Cascos the Flame Tyrant*, and *The First Dead*.
+Mentioned deities of this group include: *The Brood Mother*, *Cascos the Flame Tyrant*, *The First Dead*, and *The Scarlet Harvest*.
 
 ## Goblin Tribes
 

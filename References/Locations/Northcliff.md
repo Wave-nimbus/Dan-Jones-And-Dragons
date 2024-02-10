@@ -2,6 +2,10 @@
 
 Northcliff is a large, technologically advanced city in the Southwest of Orlon. It floats high above the surrounding land on enormous Green Void Crystals, but it is yet anchored to the ground below. The city serves as the current headquarters for the search of the 10 Artifacts scattered due to the Explosion at Brightcoin. Surrounding the city is a powerful barrier that blocks most physical objects if needed. The city is divided into several districts, but more specific locations include:
 
+### Blezelbee Farms |
+
+A farm owned by Makido Blezelbee in Northcliff's Old Town. It is currently housing a barn that contains a combat robot. The robot was originally comissioned for farming, but the inventors took it too far.
+
 ### Champion's Hall |
 
 Once the headquarters of the Champions of Virtue, this massive mansion has been turned into a museum dedicated to them. A massive painting depicting the Champions and their names is a centerpiece of the museum's collection.
