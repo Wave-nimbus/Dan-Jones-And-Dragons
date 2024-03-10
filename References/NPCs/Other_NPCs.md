@@ -146,11 +146,45 @@ Valse the Champion of Virtue was some form of Eladrin hailing from the Feywild. 
 
 A female Goliath and previous member of the Champions of Virtue. She died of old age near the end of the Champions time of operations. Confirmed Dead.
 
-## The Council of E'lithia 
+## The Council of E'lithia |
 
-### Ciona 
+### Adokas Thanadar
 
-A female Autumn Eladrin that helps Adokus brief the Party about what the Council knows about the 10 Artifacts.
+See above entry.
+
+### Brion Hazelheart
+
+A male Leonin with brilliant white fur and a full mane. He also has a black eyepatch over one of his eyes. He is a representative of the Nda'vi tribe from Ty'Vinera
+
+### Ciona Quidafes
+
+A female Autumn Eladrin that helps Adokus brief the Party about what the Council knows about the 10 Artifacts. She is a noble from Fiwood, which is unaligned with the Empire.
+
+### Delila Wintersbane
+
+A female Tiefling with dark red skin and graying hair. She was an aristocrat who now represents merchants, artisans, and Blackfane. She wears prictical but noble clothing.
+
+### Eileen Rozark
+
+A female Human who needs no introduction. She is the daughter of the Emperor of Orlon, and is more relaxed compared to much of the other Council members.
+
+### Mika Ivory
+
+A female Dwarf who radiates seriousness. She is always wearing battle attire. What group she represents is unknown.
+
+### Turnnose Beltoh
+
+A male Golden Dragonborn from Dragonhold. He wears white, regal robes and holds himself high. He has a very heavy build and wears silver accents to contrast his golden color.
+
+## The Crystal United Mercenaries |
+
+### Ida Barton, Mercenary
+
+A female Tabaxi and member of the Crystal United Mercenaries. She wants Adokus to greenlight her group to help the Council recover the missing Artifacts. However, she is willing to step on and over people to get what she wants.
+
+### Josh, Mercenary
+
+A male Human member of the Crystal United Mercenaries. He has a swaggering persona, and he tries to glean what the Flower Crowns are up to on multiple occasions.
 
 ## Illustrious Delight 
 
@@ -174,7 +208,7 @@ The ring leader, owner and/or operator of the Illustrious Delight circus troupe.
 
 A member of the Illustrious Delight circus troupe. He is a large Minotaur that acts as the circus's strongman act. While shy and bashful, his strength is unparalleled. The troupe is a part of the Midnight Lotus.
 
-## O'Stanke Tribe 
+## O'Stanke Tribe |
 
 ### Burple, O'Stanke Tracker 
 
@@ -222,6 +256,10 @@ A Beholder that managed to capture Pyre Helmsborn and steal the Ring of Flame fo
 
 A male Fire Genasi hunter entrusted by Flint Emberhorn to track down Pyre until help arrives. He has O'Stanke tribe guides to help him traverse the nearby Valsqori Bog.
 
+### Finch, Renegade Mage |
+
+A scrawny male Golden Dragonborn that is fleeing from Westmont's magic academy. He seems to be a follower and/or cult member who worships the Scarlet Harvest.
+
 ### Flint Emberhorn, Village Elder 
 
 This elderly Fire Genasi serves as the primary Elder for the town near Mt. Fiorno. He informs the Party and Council about the Ring of Flame that was likely discovered nearby.
@@ -250,7 +288,7 @@ A mushroom creature the Party encountered in the Underdark. Part of a race of en
 
 A male Drow with the ability to control blood magic. He takes drops of Hobson, Gelnek, and Trilby's blood in order to track them during the search for the 10 Artifacts.
 
-### Preston Fitzclarance 
+### Preston Fitzclarance |
 
 A wealthy man who lives in Brightcoin. He was Coil's previous owner before Feyli fled with Coil. His extensive information network has allowed him to track down the Party after they arrived in Northcliff.
 

@@ -36,7 +36,9 @@
 
 #### December 30, 2023 - Compiled Session 20.
 
-#### Feb 10, 2023 - Compiled Session 21.
+#### February 10, 2023 - Compiled Session 21.
+
+#### March 10, 2023 - Compiled Session 22.
 
 ## Intersession Updates
 

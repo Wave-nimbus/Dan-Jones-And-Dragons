@@ -4,7 +4,7 @@
 
 10 of the most dangerous and powerful artifacts scattered by the Explosion at Brightcoin. The Council of E'lithia is trying to recover them as soon as possible. The recovered artifacts are listed in the order they were recovered. <br>
 Recovered artifacts are *The Staff of Defilement*, *The Flower of Rebirth*, and *The Ring of Flame*<br>
-Unrecovered artifacts are: *The Amber Dragon Eye*, *The Gauntlet of the Eye*, *The Heart of the Keep*, *The Planar Mirror*, *The Shaper of Minds*, *The Throne of Want*, and *The Want of Chaos*. 
+Unrecovered artifacts are: *The Amber Dragon Eye*, *The Gauntlet of the Eye*, *The Heart of the Keep*, *The Planar Mirror*, *The Shaper of Minds*, *The Throne of Want*, and *The Wand of Chaos*. 
 
 ## Beacon Map
 

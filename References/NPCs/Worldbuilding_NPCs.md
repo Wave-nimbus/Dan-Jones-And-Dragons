@@ -28,6 +28,10 @@ One of the Nine. Ruldros is the deity of craftsmanship and the forge. His symbol
 
 One of the Nine. The Evertree is a female Centaur with an unspecified face. She represents the wilderness and nature. She is often worshiped by druidic communities or those who live far from large towns.
 
+## The First Dead
+
+Presumably one of the Fallen Gods. The Black Hand and The Midnight Lotus worship him and desire to restore him to power. His domain is strongly based on necromancy. The Party defeated his weakened Form within thee Black Hand's Headquarters.
+
 ## Iris |
 
 One of the Nine. Iris's domain is currently unknown as is her symbol.
@@ -36,9 +40,9 @@ One of the Nine. Iris's domain is currently unknown as is her symbol.
 
 The main authority over the contient of Orlon itself. The Emperors of Orlon live in Blackfane. The Champions of Virtue served him over half a century ago, and he created the group to unify the people of Orlon.
 
-## The First Dead
+## Natsinage Misuak, Archmage |
 
-Presumably one of the Fallen Gods. The Black Hand and The Midnight Lotus worship him and desire to restore him to power. His domain is strongly based on necromancy. The Party defeated his weakened Form within thee Black Hand's Headquarters.
+An ancient archmage who created the Planar Mirror and sued the Island of Shoreza as his base of operations. His other achievements and much of his history are unknown.
 
 ## The Nightmother |
 
@@ -58,7 +62,7 @@ An ancient civilization that used to exist on Orlon a long time ago. The Shard C
 
 ## Xereafax |
 
-A powerful lich that took over the town of Ravenmire before the Champions of Valor were established. The defeat of the lich marked the point where the Champions were commissioned by the Emperor of Orlon.
+A powerful lich that took over the town of Ravenmire before the Champions of Valor were established. He later used the Planar Mirror to build an army. The defeat of the lich marked the point where the Champions were commissioned by the Emperor of Orlon.
 
 ## Zamira |
 
