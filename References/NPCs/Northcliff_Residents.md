@@ -46,25 +46,17 @@ The owner and operator of the Opal Circlet in Northcliff. An elderly gnome woman
 
 # Other Residents
 
-## Byfar Clemmingsworth, Champions Nerd |
+## Byfar Clemmingsworth, Champions Nerd
 
 A young male Human that always geeks overe the Champions. He is part of a monthly meetup of likeminded nerds to discuss the Champions. He is friends with Trilby over their shared obsession with the Champions.
 
-## Cole, Mining Manager
+## Cole, Mining Manager |
 
-The person who placed a request in Northcliff for help in clearing out the metal eating monsters in the nearby mines. Nothing else is knowna bout him.
+A dark skinned male Tiefling who placed a request in Northcliff for help in clearing out the metal eating monsters in the nearby mines.
 
 ## Hubert Hubbertubbs, Sculptor
 
 A male Dwarf who was commissioned to create a statue of Valse by Gelnek and Hobson. The statue itself will be erected somewhere in Northcliff's trade district if not the Champions Hall museum. 
-
-## Ida Barton, Adventurer |
-
-A female Tabaxi and member of the Crystal United Mercenaries. She wants Adokus to greenlight her group to help the Council recover the missing Artifacts. However, she is willing to step on and over people to get what she wants.
-
-## Josh, Adventurer
-
-Little is known about Josh other than he is an adventurer and is the brother of Keith, a Trench Serpent.
 
 ## Kieth, Trench Serpent
 

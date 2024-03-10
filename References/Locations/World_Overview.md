@@ -66,6 +66,10 @@ A city somewhere in Orlon, presumably with a large population of dragons or drac
 
 A series of Islands somewhere in Orlon. The Champions of Virtue killed wyvyrns in that area, making it Trilby's favorite feat of the group. Almost nothing else is known about the region.
 
+### Duskern
+
+A town in central Orlon that is currently dealing with an outbreak of Ashen Rot. Almost nothing else is known about it.
+
 ### Emerald Sea |
 
 A sea that is presumably somewhere off of Orlon's coast. Preston Fitzclarance believes that one of the 10 Artifacts is located in or around the Sea.
@@ -78,13 +82,17 @@ Almost nothing is known about this other than its name. Morenthal's Purging Dagg
 
 A mountain range that extends across most of the northern reaches of Orlon. It is most easily traversed by airship, though it houses several flying creatures including wyverns that are capable and willing ot attack such airships.
 
+### Fiwood
+
+A town where Ciona is originally from. Though on the Orlon continent, they are officially unaligned with the Empire. Almost nothing else is known about it.
+
 ### Geria 
 
 A dwarven island in the North and West part of Orlon. Not much is known about it other than a tunnel supposedly exists between it and Filgrove's Undercroft.
 
-### Maple 
+### Maple |
 
-A town to the Southeast where Hobson's family lives. Maple Farms is a brand of wine. Almost nothing else is known about it.
+A town to the Southeast where Hobson's family lives. Maple Farms is a brand of wine. Ruins of the Voedia civilization are nearby. Almost nothing else is known about it.
 
 ### Morfield
 
@@ -108,13 +116,13 @@ Scarlan used to be a tiny village, but it had a Temple to the Nightmother. This 
 
 ### The Shard Coast 
 
-A series of ports, coves, and towns that serve as a pirate's haven on the North East part of Orlon. If there is someone unsavory that needs to be found, you could start in a lot worse places than here. Whoever put the bounty on Morenthal is in this area. Despite being a large area, it is considered a single city.
+A series of ports, coves, and towns that serve as a pirate's haven on the North East part of Orlon. If there is someone unsavory that needs to be found, you could start in a lot worse places than here. Whoever put the bounty on Morenthal is in this area. Ruins of the Voedia civilization are nearby. Despite being a large area, it is considered a single city. 
 
 ### Sibera
 
 A decently large city in the Underdark filled with Duergar and insectoids. Duergar are underground dwarves that presumably don't like outsiders. The Miners and Party have been told to avoid the city by the Crown's Guard.
 
-### Silverfell 
+### Silverfell |
 
 A town in the West of Orlon that is home to a mage college of some kind. That college is headed by Gregor Timbers, one of the Champions of Virtue. Hobson originally was an administrator for the college before getting his bracer with Valse. The package the bracer came in was likely originally addressed to Gregor.
 
@@ -130,6 +138,10 @@ The ruins of the Voedia civilization. These ruins are the most likely origin of 
 
 A large cave filled with Void Crystals that was home to the Void Snail. It is about 2 days travel to the West of Filgrove. The Party killed the Void Snail, taking chunks back to create new items.
 
+### Wellmore Keep |
+
+A structure near Silverfell where a mysterious mansion has reappeared. Almost nothing else is known about the keep itself.
+
 ### Westmount |
 
 A town in the South of Orlon. Some years ago, Arther Oathbringer reappeared with a flying castle and an army over the town. It houses a magical school where a powerful Dragonborn escaped from.
@@ -143,6 +155,10 @@ Presumably a large town across the East Sea (which means it may not be on Orlon 
 ### Shoriza 
 
 A large island far off the East coast of Orlon that has strange and strong effects on magic. Many years ago, the Champions of Virtue killed a Lich here. Arther Oathbringer's castle crashed here when Valse and Orsik Frostbeard went to investigate. No expedition to the island has beens successful since. The Planar Mirror, one of the 10 Artifacts, is believed to be there.
+
+### Shara's Tomb
+
+A tomb presumably for someone named Shara. Almost nothing else is known about it, including its global location. The Gauntlet of the Eye is believed to originate from within it.
 
 # The Continent of Ty'vanera 
 
@@ -162,9 +178,9 @@ A large castle structure int he center of Whitecrest. It serves as the world's m
 
 A major city on the Western edge of Ty'Vanera. It houses The Citidel, a knowledge hub of the world. Lady Belle and Vindilay made contact with Hobson here first.
 
-### Wildwin
+### Wildwin |
 
-A town in the center of continent of Ty'vanera. The Wand of Chaos, one of the 10 Artifacts, is believed to be here.
+A town in the center of continent of Ty'vanera. The Wand of Chaos, one of the 10 Artifacts, is believed to be here. However, the land is cursed, so the Council of E'lithia's drones cannot survey the area.
 
 # The Continent of Djoria
 

@@ -51,8 +51,7 @@ Newly Archived Bag Of Many Things Pulls are in $\color{lightgreen}{\textbf{Light
 <br>
 Unarchived NPCs or Items are in $\color{Gray}{\textbf{Gray}}$
 <br>
-Reminders of NPC or items are in $\color{tan}{\textbf{Tan}}$
-
+Reminders of NPCs, locations, or items are in $\color{tan}{\textbf{Tan}}$
 
 #### About the Creator(s)
 
