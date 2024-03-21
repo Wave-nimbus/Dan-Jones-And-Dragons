@@ -10,7 +10,7 @@ A religious amulet for the Goddess Ophelia found amongst gear of the Crown's Gua
 
 ## Magic Rope 
 
-A length of twine rope that was discovered amongs the Crown's Guard's gear. It pinged magical by Hobson's Detect Magic, though what it can do is unknown.
+A length of twine rope that was discovered amongst the Crown's Guard's gear. It pinged as magical by Hobson's Detect Magic, though what it can do is unknown.
 
 ## Orb of Recall
 
@@ -18,7 +18,7 @@ A one-time return button that is meant to bring anyone within 10 ft of the orb b
 
 ## Relic Staff
 
-A powerful artifact that originally came from Brightcoin, the Vaults of Eversteel. It's power was used by the Brood Mother cult to create the Flesh Cave. It was sucessfully retrieved by the Party, and its effects are nullified by a Bag of Holding.
+A powerful artifact that originally came from Brightcoin's Vaults of Eversteel. Its power was used by the Brood Mother cult to create the Flesh Cave. It was successfully retrieved by the Party, and its effects are nullified by a Bag of Holding.
 
 ## Spell Scrolls 
 
@@ -26,4 +26,4 @@ Three spell scrolls that were found amongst the Crown's Guard gear. What spells 
 
 ## Unknown Journal 
 
-A journal discovered in the Flesh Cave discussing a failed ritual and a cult for the Brood Mother. The writer fears the Brood Mother's presence and the cult that surrounds it. The cult sees the writer as a traitor. At the end of the journal are unintelligable scrawls of Father Waits. The final page has a depiction of the Relic Staff.
+A journal discovered in the Flesh Cave discussing a failed ritual and a cult for the Brood Mother. The writer fears the Brood Mother's presence and the cult that surrounds it. The cult sees the writer as a traitor. At the end of the journal are unintelligible scrawls of Father Waits. The final page has a depiction of the Relic Staff.

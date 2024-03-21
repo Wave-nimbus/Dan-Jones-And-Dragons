@@ -2,7 +2,7 @@
 
 ## Bartholomew, Talking Skull
 
-A talking skull bought by Coil from Karshala. How he became a talking skull is unknown, but it is likely the work of a necromancer. He is fully aware of his predicament and desires to travel with the Party.
+A talking skull bought by Coil from Karashala. How he became a talking skull is unknown, but it is likely the work of a necromancer. He is fully aware of his predicament and desires to travel with the Party.
 
 ## Valse, Hobson's Patron
 
@@ -12,4 +12,4 @@ Valse seems to have lived in Orlon years ago as part of an adventuring group. Hi
 
 ### Me, Mushroom Man 
 
-A mushroom creature the Party encountered in the Underdark. Part of a race of enormous mushroom creatures that eat creatures that stay inside their muschroom hill cavern. Otherwise quite firendly.
+A mushroom creature the Party encountered in the Underdark. Part of a race of enormous mushroom creatures that eat creatures that stay inside their mushroom hill cavern. Otherwise quite friendly.

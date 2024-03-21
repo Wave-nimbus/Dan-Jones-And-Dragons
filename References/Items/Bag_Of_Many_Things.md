@@ -2,7 +2,7 @@
 
 ## Aquamarine Dagger 
 
-A folding pocket knife that acts as a dagger. If it is magical/special in any way, it is currently unkown. Coil currently is in possesion of this item.
+A folding pocket knife that acts as a dagger. If it is magical/special in any way, it is currently unknown. Coil currently is in possession of this item.
 
 ## Green Dragon Scale 
 
