@@ -16,7 +16,7 @@ The keeper of the Brass Squid tavern. He is grateful for the Party saving Derric
 
 The de facto leader of the Green Ravens was first impressed by the Party taking down the Manticore. Since then, he has seen the Party as a capable bunch, and he extended an invitation into the Green Raven's ranks for them. He and Bori are the Party's go-tos for any authorities. He is also the best at breaking down monster parts into useable items.
 
-## Karshala, the Hag 
+## Karashala, the Hag 
 
 A Hag that lives in Filgrove's Undercroft. She deals in information and magical curiosities. If there is something the Party (or anyone else) needs to know, she is probably their best bet. Her trinkets may come in handy in some situations.
 
