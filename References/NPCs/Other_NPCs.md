@@ -14,20 +14,20 @@ Organized by Faction, if available.
 
 ## Unnamed Assassin Guild
 
-### Daemon, Assassin Guild Head 
+### Duzrevur, Assassin Guild Head 
 
-Presumably the head of the Bloodletters guild that Morenthal and Molloke are a part of. It is unclear what he thinks of everything going on.
+Presumably the head of the Assassin's guild that Morenthal and Molloke are a part of. It is unclear what he thinks of everything going on.
 
 ### Molloke Iron, Assassin 
 
-A bounty hunter and assassin presumably from the same Bloodletters guild as Morenthal. He wants to caputre/kill Feyli, as there is 24,000 gp bounty on her head. However, he warned Morenthal of the impending bounty first.
+A bounty hunter and assassin presumably from the same guild as Morenthal. He wants to capture/kill Feyli, as there is 24,000 gp bounty on her head. However, he warned Morenthal of the impending bounty first.
 
 ## Factionless/One-Offs
 
 ### Dave, Necromancer 
 
-An incompetant necromancer and part of the Black Hand group. He was hiding in the Nightmother temple's catacombs doing necromancy stuff. 
+An incompetent necromancer and part of the Black Hand group. He was hiding in the Nightmother temple's catacombs doing necromancy stuff. 
 
 ### Durmin, FFXIV reference 
 
-Durmin Durami is the name of Dan Floyd's Final Fantasy XIV Lalafell for his PlayFrame series. He has absolutely nothing to do with the D&D campagin, but Lalafells and Halflings share a similar role as small races.
+Durmin Durami is the name of Dan Floyd's Final Fantasy XIV Lalafell for his PlayFrame series. He has absolutely nothing to do with the D&D campaign, but Lalafells and Halflings share a similar role as small races.

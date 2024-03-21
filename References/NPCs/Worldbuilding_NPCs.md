@@ -14,4 +14,4 @@ One of the Nine that makes up this world's pantheon. Little is known about what 
 
 ## Ophena 
 
-One of the Nine that makes up this world's pantheon. Ophena is the Goddess of Light, and her symbhol is a bright star.
+One of the Nine that makes up this world's pantheon. Ophena is the Goddess of Light, and her symbol is a bright star.

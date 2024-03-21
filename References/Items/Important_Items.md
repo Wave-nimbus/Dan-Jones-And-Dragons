@@ -14,4 +14,4 @@ A one-time return button that is meant to bring anyone nearby back to a location
 
 ## Relic Staff 
 
-A powerful artifact that originally came from Brightcoin, the Vaults of Eversteel. It's effects & power are unknown but can be contained with a Bag of Holding, which the Crowns Guard had.
+A powerful artifact that originally came from Brightcoin, the Vaults of Eversteel. Its effects & power are unknown but can be contained with a Bag of Holding, which the Crowns Guard had.
