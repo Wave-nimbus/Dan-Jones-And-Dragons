@@ -12,7 +12,7 @@ Filgrove is where the Party spends most of their time. It is a decent sized city
 
 ### Brightcoin
 
-A major city on the continent of Orlon. It is home to the Vaults of Eversteel, though little else is known abou it.
+A major city on the continent of Orlon. It is home to the Vaults of Eversteel, though little else is known about it.
 
 ### Geria 
 
