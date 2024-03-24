@@ -14,11 +14,11 @@ One of the Fallen Goddesses. A cult dedicated to her lived within the Flesh Cave
 
 ## Cascos, The Flame Tyrant/Lord 
 
-One of the Fallen Gods. The Flaming Spears are a cult/group devoted to destroying the seal holdng him.. He was a major figure from the Elemental Plane of Fire, previously thought to be unstoppable before he was chained and bound.
+One of the Fallen Gods. The Flaming Spears are a cult/group devoted to destroying the seal holding him.. He was a major figure from the Elemental Plane of Fire, previously thought to be unstoppable before he was chained and bound.
 
 ## The Emperor of Orlon 
 
-Presumed to be the authority over the contient of Orlon itself. Where they live and their disposition are unknown. The Champions of Virtue served him over half a century ago.
+Presumed to be the authority over the continent of Orlon itself. Where they live and their disposition are unknown. The Champions of Virtue served him over half a century ago.
 
 ## The First Dead 
 

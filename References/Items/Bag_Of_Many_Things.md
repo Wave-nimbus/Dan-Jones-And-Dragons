@@ -22,15 +22,15 @@ A completely ordinary but high quality green silk ribbon. It measures 10 ft long
 
 ## Green Void Crystal
 
-A chunk of anti-gravity Green Void Crystal. It could be used to make an item ligher if needed. Trilby incorporates it into Scrubbins so any Force Billista blast can pull enemies 5 feet as well as pushing them 5 feet.
+A chunk of anti-gravity Green Void Crystal. It could be used to make an item lighter if needed. Trilby incorporates it into Scrubbins so any Force Ballista blast can pull enemies 5 feet as well as pushing them 5 feet.
 
 ## Hunting Trap 
 
-A normal mechanical hunting trap used to catch small animals. It chomped on Trilby's hand when it was pulled. Feyli is given the Trap, as she is most atttuned to nature and survival.
+A normal mechanical hunting trap used to catch small animals. It chomped on Trilby's hand when it was pulled. Feyli is given the Trap, as she is most attuned to nature and survival.
 
 ## Vintage Year Wine 
 
-A Ninteen Ninteye (1990) aged wine from Maple Farms. Hobson recognized the brand, as he and his family are from Maple. Hobson currently possesses this item.
+A Nineteen Ninteye (1990) aged wine from Maple Farms. Hobson recognized the brand, as he and his family are from Maple. Hobson currently possesses this item.
 
 ## Waterskin 
 
