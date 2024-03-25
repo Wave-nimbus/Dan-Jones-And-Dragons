@@ -1,6 +1,6 @@
 ## Lafford
 
-A small village of only about 500 people in the Northwest of Orlon. The most recent usage of the Flower of Rebirth occured a few miles North of the town proper aproximately 4 months before the Party visited it. The town itself was hit hard by the Ashen Rot plague, likely caused by a zombie in their well. Clerics to Ophena have helped the town recover from the plague. The Black Hand's Headquarters is a few miles south. More information on the town and surrounding area is below.
+A small village of only about 500 people in the Northwest of Orlon. The most recent usage of the Flower of Rebirth occurred a few miles North of the town proper approximately 4 months before the Party visited it. The town itself was hit hard by the Ashen Rot plague, likely caused by a zombie in their well. Clerics to Ophena have helped the town recover from the plague. The Black Hand's Headquarters is a few miles south. More information on the town and surrounding area is below.
 
 ### Black Hand Headquarters
 

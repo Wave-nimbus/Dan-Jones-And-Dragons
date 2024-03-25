@@ -1,12 +1,12 @@
 # Major Recurring NPCs
 
-## Adokas Thanadar, Champion of Virtue 
+## Adokas Thandar, Champion of Virtue 
 
-An extremely heavyset and buff human Monk that was part of the Champions of Virtue hero group. He has since joined the Council of E'lithia, overseeing efforts to protect the realm. He hires the Party to search for the 10 Artifacts.
+An extremely heavyset and buff human Monk that was part of the Champions of Virtue hero group. He has since joined the Council of E'lythia, overseeing efforts to protect the realm. He hires the Party to search for the 10 Artifacts.
 
 ## Bartholomew, Talking Skull
 
-A talking skull bought by Coil from Karshala. How he became a talking skull is unknown, but it is likely the work of a necromancer. He is fully aware of his predicament and desires to travel with the Party.
+A talking skull bought by Coil from Karashala. How he became a talking skull is unknown, but it is likely the work of a necromancer. He is fully aware of his predicament and desires to travel with the Party.
 
 ## Valse, Hobson's Patron 
 
@@ -16,53 +16,53 @@ Valse used to be a member of the Champions of Virtue. His memories are shrouded 
 
 Organized by Faction, if available.
 
-## Airship Viradescent Javelin 
+## Airship Viridescent Javelin 
 
-### Ardwil, Viradescent Javelin Quartermaster
+### Ardwill, Viridescent Javelin Quartermaster
 
-A full blooded Orc that serves as a combat specialist and weapons maintainer for the Airship Viradescent Javelin.
+A full blooded Orc that serves as a combat specialist and weapons maintainer for the Airship Viridescent Javelin.
 
-### Azrew Avena, Viradescent Javelin Captain
+### Azru Avena, Viridescent Javelin Captain
 
-A lanky blond Elf that serves as the captain of the Airship Viradescent Javelin which took the Party from Filgrove to Northcliff.
+A lanky blond Elf that serves as the captain of the Airship Viridescent Javelin which took the Party from Filgrove to Northcliff.
 
-### Carva, Viradescent Javelin Navigator
+### Geo, Viridescent Javelin Crew
 
-An elderly green Dragonborn that serves as the primary meterologist and navigator for the Airship Viradescent Javelin.
+A laid back Dwarven crew member of the Viridescent Javelin. He and Priscila are general crew, and his lax nature counters her wound nature.
 
-### Geo, Viradescent Javelin Crew
+### Grayton Mule, Viridescent Javelin Crew
 
-A laid back Dwarven crew member of the Viradescent Javelin. He and Priscila are general crew, and his lax nature counters her wound nature.
+A Half-Elf crew member of the Viridescent Javelin. He is often found sleeping in his hammock since he is also in charge of the night shift and watch.
 
-### Grayton Mule, Viradescent Javelin Crew
+### Marmitull Longfeather, Viridescent Javelin Engineer
 
-A Half-Elf crew member of the Viradescent Javelin. He is often found sleeping in his hammock since he is also in charge of the night shift and watch.
+A female Goblin that serves the Viridescent Javelin as an engineer, ensuring the airship runs smoothly.
 
-### Marmatool Longfeather, Viradescent Javelin Engineer
+### Karva, Viridescent Javelin Navigator
 
-A female Goblin that serves the Viradescent Javelin as an engineer, ensuring the airship runs smoothly.
+An elderly green Dragonborn that serves as the primary meteorologist and navigator for the Airship Viridescent Javelin.
 
-### Priscila, Viradescent Javelin Crew
+### Priscilla, Viridescent Javelin Crew
 
-A female Human that serves as a general crew member for the Viradescent Javelin. She is very by-the-books and uptight in contrast to Geo.
+A female Human that serves as a general crew member for the Viridescent Javelin. She is very by-the-books and uptight in contrast to Geo.
 
-### Vespie, Viradescent Javelin Engineer
+### Vespi, Viridescent Javelin Engineer
 
-A male Gnome that serves the Viradescent Javelin's engine room, ensuring the airship runs as smooth as possible.
+A male Gnome that serves the Viridescent Javelin's engine room, ensuring the airship runs as smooth as possible.
 
 ## The Black Hand/Midnight Lotus 
 
-### Aryc, Black Hand Martyr 
+### Aryk Black Hand Martyr 
 
-A friend of Feyli's from their time serving the Black Hand. He had a distinctive burn along his torso and wavy brown hair. When Feyli fled, Aryc had risen to be an assistant to The Second. He was tortured to death for being Feyli's friend.
+A friend of Feyli's from their time serving the Black Hand. He had a distinctive burn along his torso and wavy brown hair. When Feyli fled, Aryk had risen to be an assistant to The Second. He was tortured to death for being Feyli's friend.
 
-#### Milo, Aryc's Motivation 
+#### Milo, Aryk's Motivation 
 
-Presumed to be Aryc's son based on how he talks about him. Milo's death sparked Aryc's despair that presumably led him to join the Black Hand.
+Presumed to be Aryk's son based on how he talks about him. Milo's death sparked Aryk's despair that presumably led him to join the Black Hand.
 
 ### Dave, Necromancer
 
-An incompetant necromancer and part of the Black Hand group. He was hiding in the Nightmother temple's catacombs doing necromancy stuff. 
+An incompetent necromancer and part of the Black Hand group. He was hiding in the Nightmother temple's catacombs doing necromancy stuff. 
 
 ### Hand of the First, Knight 
 
@@ -74,25 +74,25 @@ The second in command of the Midnight Lotus just behind the First Dead. He gives
 
 ## Bloodletters Guild 
 
-### Daemon, Bloodletters Guild Head
+### Duzrevur, Bloodletters Guild Head
 
 Presumably the head of the Bloodletters guild that wants to capture/kill Feyli and Morenthal. He believes Morenthal is a threat.
 
 ### Molloke Iron, Bloodletters Assassin
 
-A bounty hunter and assassin presumably from the same Bloodletters guild as Morenthal. He wants to caputre/kill Feyli, as there is 24,000 gp bounty on her head. However, he warned Morenthal of the impending bounty first.
+A bounty hunter and assassin presumably from the same Bloodletters guild as Morenthal. He wants to capture/kill Feyli, as there is 24,000 gp bounty on her head. However, he warned Morenthal of the impending bounty first.
 
 ### Yuul Greaterfist, Bloodletters Assassin
 
 A Goliath member of the Bloodletters that Morenthal notices after returning from getting Void gear ordered. He ambushed Morenthal in the costume shop, got an extremely nasty stab into Morenthal's back and then stole all his money. However, he did keep Morenthal alive, despite the bounty on his head.
 
-## The Council of E'lithia
+## The Council of E'lythia
 
-### Casma Londor 
+### Kasma Lundor 
 
-A female Gnome with several technical gadgets on her arms. Her monocle adjusts itself constantly. Her demeanor is very formal and noble, though not necissarily unfriendly. She is in charge of most tech for the search for the 10 Artifacts.
+A female Gnome with several technical gadgets on her arms. Her monocle adjusts itself constantly. Her demeanor is very formal and noble, though not necessarily unfriendly. She is in charge of most tech for the search for the 10 Artifacts.
 
-### Ciona 
+### Sionia 
 
 A female Autumn Eladrin that helps Adokus brief the Party about what the Council knows about the 10 Artifacts.
 
@@ -100,7 +100,7 @@ A female Autumn Eladrin that helps Adokus brief the Party about what the Council
 
 ### Ember, Illustrious Delight
 
-A member of the Illustrious Delight circus troupe. She is a Fire Genasi in charge of various fire bataon acrobatics and magic feats. She flirts with Hobson to get closer to Feyli, but the troupe is a part of the Midnight Lotus. She was killed by The Second as he siphoned power to resurrect The First.
+A member of the Illustrious Delight circus troupe. She is a Fire Genasi in charge of various fire baton acrobatics and magic feats. She flirts with Hobson to get closer to Feyli, but the troupe is a part of the Midnight Lotus. She was killed by The Second as he siphoned power to resurrect The First.
 
 ### Gorm, Illustrious Delight
 
@@ -112,18 +112,18 @@ Members of the Illustrious Delight circus troupe. A pair of Half-elves serving a
 
 ### Sawyer, Illustrious Delight
 
-The ring leader, owner and/or operator of the Illustrious Delight circus troupe. A Gnome that serves both as the circus's announcer and its main orchestra. His magic lute is capable of mimicing many instruments. The troupe is a part of the Midnight Lotus. He was killed by The Second as he siphoned power to resurrect The First.
+The ring leader, owner and/or operator of the Illustrious Delight circus troupe. A Gnome that serves both as the circus's announcer and its main orchestra. His magic lute is capable of mimicking many instruments. The troupe is a part of the Midnight Lotus. He was killed by The Second as he siphoned power to resurrect The First.
 
-### Tesen Stormhoof, Illustrious Delight
+### Teszin Stormhoof, Illustrious Delight
 
 A member of the Illustrious Delight circus troupe. He is a large Minotaur that acts as the circus's strongman act. While shy and bashful, his strength is unparalleled. The troupe is a part of the Midnight Lotus.
 
 ## Factionless/One-Offs
 
-### Charmillionare, Expensive Merchant 
+### Chameleonaire, Expensive Merchant 
 
 A well traveled and extremely rich Lizardfolk merchant that travels the lands selling expensive (and potentially overpriced) magical items. When he met the Party, he sells a number of items and offers even more.
 
 ### Unknown Child
 
-A child known only to Morenthal. The First's Form tormented him with the visagee of this child. When Morenthal first killed this child, he began to question if he wanted to continue his job as an Assassin and Bloodletter.
+A child known only to Morenthal. The First's Form tormented him with the visage of this child. When Morenthal first killed this child, he began to question if he wanted to continue his job as an Assassin and Bloodletter.

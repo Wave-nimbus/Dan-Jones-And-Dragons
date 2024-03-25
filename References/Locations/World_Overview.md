@@ -1,6 +1,6 @@
-# The World of E'lithia
+# The World of E'lythia
 
-The name of the world for this campaign is set in. There are multiple continents, overseen by the Council of E'lithia. Orlon is one such continent. Other continents include Tievenera and Djoria.
+The name of the world for this campaign is set in. There are multiple continents, overseen by the Council of E'lythia. Orlon is one such continent. Other continents include Tievenera and Djoria.
 
 # The Continent of Orlon
 
@@ -14,7 +14,7 @@ Filgrove is where the Party spent their early days. It is a decent sized city in
 
 ### The Flesh Cave 
 
-A corrupted structure deep within the Underdark. The Staff of Defilement was found here and used unsucessfully in a ritual for the Brood Mother. The result was a fleshy corruption that overtook and partially destroyed the structure. The Crown's Guard failed to retrieve the Staff, but the Party managed to do so. Without the staff, the flesh should hopefully rot away into nothingness.
+A corrupted structure deep within the Underdark. The Staff of Defilement was found here and used unsuccessfully in a ritual for the Brood Mother. The result was a fleshy corruption that overtook and partially destroyed the structure. The Crown's Guard failed to retrieve the Staff, but the Party managed to do so. Without the staff, the flesh should hopefully rot away into nothingness.
 
 ### Lafford 
 
@@ -22,7 +22,7 @@ A town in the Northwest of Orlon. The Flower of Rebirth, one of the 10 Artifacts
 
 ### Northcliff 
 
-Northcliff is a technologically adavanced city that serves as a central hub for the search for the 10 Artifacts. It used to be home of the Champions of Virtue before they disbanded. It floats high above the ground on Green Void Crystals. Northcliff is near the Southwestern edge of Orlon. See the Northcliff reference for more details.
+Northcliff is a technologically advanced city that serves as a central hub for the search for the 10 Artifacts. It used to be home of the Champions of Virtue before they disbanded. It floats high above the ground on Green Void Crystals. Northcliff is near the Southwestern edge of Orlon. See the Northcliff reference for more details.
 
 ### Ohkross 
 
@@ -32,11 +32,11 @@ A village north of Northcliff. When the Party first see it, it is being raided b
 
 ### Blackfane 
 
-A large and major city in central Orlon. It serves as an enormous trade and merchent hub, with nearly anything being available to buy. It appears as a massive black spire with boardwalks running out a distance from the main spire. The Emperor of E'E'lithia is also housed in this city.
+A large and major city in central Orlon. It serves as an enormous trade and merchant hub, with nearly anything being available to buy. It appears as a massive black spire with boardwalks running out a distance from the main spire. The Emperor of E'lythia is also housed in this city.
 
-### Brightcoin, the Vaults of Eversteel 
+### Brightcoin
 
-A major and secure vault containing several artifacts. An attack and explosion caused several of such artifacts to be spread around the world of E'lithia. The Council of E'lithia has been tasked with recovering these artifacts.
+A major city on the continent of Orlon. It is home to the Vaults of Eversteel, though little else is known about it
 
 ### Desert of Thorns
 
@@ -44,7 +44,11 @@ A large desert in Eastern Orlon. The Gauntlet of the Eye, one of the 10 Artifact
 
 ### Evertree
 
-Almost nothing is known about this other than its name. Morenthal's Purging Dagger from the Chamillionare apparently comes from this tree.
+Almost nothing is known about this other than its name. Morenthal's Purging Dagger from the Chameleonaire apparently comes from this tree.
+
+### Vaults of Eversteel 
+
+A major and secure vault containing several artifacts. An attack and explosion caused several of such artifacts to be spread around the world of E'lythia. The Council of E'lythia has been tasked with recovering these artifacts.
 
 ### Westmont 
 
@@ -52,13 +56,9 @@ A town in the South of Orlon. Some years ago, Arther Oathbringer reappeared with
 
 ## Other Regions
 
-### Shareaza
+### Shariza 
 
-Presumably a large town across the East Sea (which means it may not be on Orlon proper). It is supposed to have some "Fated Steps" that Bartholomew wanted to visit. Almost nothing is known about it otherwise.
-
-### Shoriza 
-
-A large island far off the East coast of Orlon that has strange and strong effects on magic. Many years ago, the Champions of Virtue killed a Lich here. Arther Oathbringer's castle crashed here when Valse and Orsik Frostbeard went to investigate. No expedition to the island has beens successful since. The Planar Mirror, one of the 10 Artifacts, is believed to be there.
+A large island far off the East coast of Orlon that has strange and strong effects on magic. It is supposed to have some "Fated Steps" that Bartholomew wanted to visit. Many years ago, the Champions of Virtue killed a Lich here. Arther Oathbringer's castle crashed here when Valse and Orsik Frostbeard went to investigate. No expedition to the island has beens successful since. The Planar Mirror, one of the 10 Artifacts, is believed to be there.
 
 # The Continent of Ty'vanera 
 
@@ -84,11 +84,11 @@ A town on the Eastern part of Djoria, the smallest of the three named continents
 
 ### Explosion at the Vaults of Eversteel
 
-An attack of some kind on Brightcoin, the Vaults of Eversteel. It scattered dozens of extremely powerful magical artifacts across the world. The 10 most powerful artifacts are being hotly persued by the Council of E'lithia. 
+An attack of some kind on Brightcoin, the Vaults of Eversteel. It scattered dozens of extremely powerful magical artifacts across the world. The 10 most powerful artifacts are being hotly persued by the Council of E'lythia. 
 
 ## Travel Network
 
-### The Airship Viradescent Javelin 
+### The Airship Viridescent Javelin 
 
 The first Airship of the campaign that takes the Party from Filgrove south to Northcliff over the course of four days. It is a large flying ship held aloft by six large Green Void Crystals. Its weaponry includes six ballistas, which can be used to attack flying or grounded enemies off of the ship. The ship is at the Party's disposal for their hunt for the 10 Artifacts. Its crew is listed in the NPC references.
 

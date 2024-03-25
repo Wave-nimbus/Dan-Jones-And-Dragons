@@ -16,7 +16,7 @@ An artifact of the First Dead that the Midnight Lotus believe Feyli stole. Feyli
 
 ## First's Shrine Key 
 
-A silver key used to access The First's Shrine within the Black Hand's HQ. It was originally found in the corpse of Aryc by Feyli. She used it to open the shrine and confront The Second.
+A silver key used to access The First's Shrine within the Black Hand's HQ. It was originally found in the corpse of Aryk by Feyli. She used it to open the shrine and confront The Second.
 
 ## Flower of Rebirth/Seed of the Flower of Rebirth 
 
@@ -24,4 +24,4 @@ One of the 10 Artifacts from Brightcoin. It blooms once every 100 years, leaving
 
 ## Staff of Defilement 
 
-A powerful artifact that originally came from Brightcoin, the Vaults of Eversteel. It's power was used by the Brood Mother cult to create the Flesh Cave. It was sucessfully retrieved by the Party, and its effects are nullified by a Bag of Holding. It was one of the 10 Artifacts.
+A powerful artifact that originally came from Brightcoin, the Vaults of Eversteel. It's power was used by the Brood Mother cult to create the Flesh Cave. It was successfully retrieved by the Party, and its effects are nullified by a Bag of Holding. It was one of the 10 Artifacts.
