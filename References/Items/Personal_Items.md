@@ -16,6 +16,14 @@ A hide cloak/pelt that prevents creatures from gaining advantage on attacks due 
 
 An item gotten from Karashala the Hag in exchange for a favor. It appears to be a fancy tarot deck of 20 cards, though Jocat believes it to be a Deck of Many Things. The favor in turn was to give the Relic Staff to Karashala. The first card pulled was Wheel of Fortune, causing Feyli to have Disadvantage on attacks & skill checks. The second card was The Tower, resulting in her sinking into her surroundings ever so slightly.
 
+### Feyli's Key to Coil
+
+An obsidian cylinder that fits into Coil's jaw. What it does to Coil is currently unknown, but he trusts her with it.
+
+### Feyli's Mindshield Crown
+
+A silver headband with a chunk of Void Crystal embedded inside that Uldar of the Green Ravens crafted. It grants advantage on INT saves.
+
 ### Feyli's Music Box
 
 A seemingly ordinary Music Box that Feyli continuously forgets she has. She alone is confused by not having seen it before, despite showing to the Party multiple times. (Such forgetful properties are refered to as "antimemetic") Horace Devonshire used it to erase some of Feyli's memories of her time with the Midnight Lotus. That erasure is complete.
@@ -40,14 +48,6 @@ A draught of sleeping potion that was purchased at the Serpent's Flower. Hobson 
 
 A purple cloak that used to belong to a Crown's Guard member. It was found in the Flesh Cave. After attuning to it, Hobson gains a +1 to AC.
 
-### Feyli's Key to Coil
-
-An obsidian cylinder that fits into Coil's jaw. What it does to Coil is currently unknown, but he trusts her with it.
-
-### Feyli's Mindshield Crown
-
-A silver headband with a chunk of Void Crystal embedded inside that Uldar of the Green Ravens crafted. It grants advantage on INT saves.
-
 ### Morenthal's Void Absorption Hide Armor
 
 Hide armor that can be attuend to a sapecific element once per day, granting 5 damage reduction. It was crafted by Uldar of the Green Ravens.
@@ -58,7 +58,7 @@ A wooden dagger made from the Evertree, causing an additional 1d4 Radiant damage
 
 ### Trilby's Bag of Many Things
 
-A bag that creates a new available item once a day. It was gifted to Trilby by Biggleton Whipersnap along with the Brass Puzzle. In turn, Trilby is supposed to give Whippersnap some items from the bag. (Pulls are listed in a different document.)
+A bag that creates a new available item once a day. It was gifted to Trilby by Biggleton Whipersnap along with the Brass Puzzle. In turn, Trilby is supposed to give Whipersnap some items from the bag. (Pulls are listed in a different document.)
 
 ### Trilby's Sending Sheets
 

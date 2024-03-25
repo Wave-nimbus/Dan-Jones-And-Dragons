@@ -22,10 +22,6 @@ A full blooded Orc that serves as a combat specialist and weapons maintainer for
 
 A lanky blond Elf that serves as the captain of the Airship Viridescent Javelin which took the Party from Filgrove to Northcliff.
 
-### Karva, Viridescent Javelin Navigator
-
-An elderly green Dragonborn that serves as the primary meterologist and navigator for the Airship Viridescent Javelin.
-
 ### Geo, Viridescent Javelin Crew
 
 A laid back Dwarven crew member of the Viridescent Javelin. He and Priscilla are general crew, and his lax nature counters her wound nature.
@@ -38,11 +34,15 @@ A Half-Elf crew member of the Viridescent Javelin. He is often found sleeping in
 
 A male Gnome that serves the Viridescent Javelin as an engineer, ensuring the airship runs smoothly.
 
+### Karva, Viridescent Javelin Navigator
+
+An elderly green Dragonborn that serves as the primary meterologist and navigator for the Airship Viridescent Javelin.
+
 ### Priscilla, Viridescent Javelin Crew
 
 A female Human that serves as a general crew member for the Viridescent Javelin. She is very by-the-books and uptight in contrast to Geo.
 
-### Vespie, Viridescent Javelin Engineer
+### Vespi, Viridescent Javelin Engineer
 
 A female Goblin that serves the Viridescent Javelin's engine room, ensuring the airship runs as smooth as possible.
 
@@ -70,21 +70,21 @@ Valse the Champion of Virtue was likely some form of Eladrin hailing from the Fe
 
 ## The Council of E'lythia
 
-### Kasma Lundor
-
-A female Gnome with several technical gadgets on her arms. Her monocle adjusts itself constantly. Her demeanor is very formal and noble, though not necessarily unfriendly. She is in charge of most tech for the search for the 10 Artifacts.
-
-### Sionia
-
-A female Autumn Eladrin that helps Adokus brief the Party about what the Council knows about the 10 Artifacts.
-
 ### Horace Devonshire, The Wizard of the White Tower
 
 Originally from Springoak, this stereotypically blue robed wizard was in charge of ensuring the amplified Spire's scrying spells worked perfectly. He also helped erase many of Feyli's memories of the Midnight Lotus using her Music Box.
 
+### Kasma Lundor
+
+A female Gnome with several technical gadgets on her arms. Her monocle adjusts itself constantly. Her demeanor is very formal and noble, though not necessarily unfriendly. She is in charge of most tech for the search for the 10 Artifacts.
+
 ### Nieven Erot
 
 A male Drow with the ability to control blood magic. He takes drops of Hobson, Gelnek, and Trilby's blood in order to track them during the search for the 10 Artifacts.
+
+### Sionia
+
+A female Autumn Eladrin that helps Adokus brief the Party about what the Council knows about the 10 Artifacts.
 
 ## Illustrious Delight
 

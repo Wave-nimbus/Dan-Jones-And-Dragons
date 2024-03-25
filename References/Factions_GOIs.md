@@ -19,7 +19,7 @@ The former 12 members are: *Arthur Oathbringer*, *Adokus Thandar*, *Biri Noryox*
 ## The Council of E'lythia
 
 Presumably a peacekeeping organization tasked with dealing with threats across the world of E'lythia. Their current focus is recovering the 10 Artifacts from Brightcoin. <br>
-Known members include: *Adokas Thandar*, *Kasma Lundor*, *Sionia*, *Horace Devonshire*, and *Nieven Erot*.
+Known members include: *Adokas Thandar*, *Horace Devonshire*, *Kasma Lundor*, *Nieven Erot*, and *Sionia*.
 
 ## The Crown's Guard
 
