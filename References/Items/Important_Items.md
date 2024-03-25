@@ -2,9 +2,9 @@
 
 ## The 10 Artifacts
 
-10 of the most dangerous and powerful artifacts scattered by the Explosion at Brightcoin. The Council of E'lithia is trying to recover them as soon as possible. <br>
+10 of the most dangerous and powerful artifacts scattered by the Explosion at Brightcoin. The Council of E'lythia is trying to recover them as soon as possible. <br>
 Recovered artifacts are *The Staff of Defilement*. <br>
-Unrecovered artifacts are: *The Amber Dragon Eye*, *The Flower of Rebirth*, *The Gauntlet of the Eye*, *The Heart of the Keep*, *The Planar Mirror*, *The Ring of Flame*, *The Shaper of Minds*, *The Throne of Want*, and *The Want of Chaos*. 
+Unrecovered artifacts are: *The Amber Dragon Eye*, *The Flower of Rebirth*, *The Gauntlet of the Eye*, *The Heart of the Keep*, *The Planar Mirror*, *The Ring of Flame*, *The Shaper of Minds*, *The Throne of Want*, and *The Wand of Chaos*. 
 
 ## Beacon Map
 
@@ -12,11 +12,11 @@ An orb capable of projecting world maps. Variations of these orbs can project di
 
 ## First Edition Tankard
 
-A fancy tankard that was one of the original decorated tankards from the Brass Squid. The Party is gifted this by Gavel the Brass Squid Tavernkeep to remind them of where they all started. Gelnek traded one of his mace maraccas for it.
+A fancy tankard that was one of the original decorated tankards from the Brass Squid. The Party is gifted this by Gavel the Brass Squid Tavernkeep to remind them of where they all started. Gelnek traded one of his mace maracas for it.
 
 ## Soul Egg
 
-A catalope sized amber egg that has mysterious runes and carvings on it. Cross-checking the runes with Everit Darwin's other work seems to imply that a soul may be trapped inside of it. Said soul was Everit's, and at his request, Morenthal destroyed the egg, freeing Everit's soul.
+A cantaloupe sized amber egg that has mysterious runes and carvings on it. Cross-checking the runes with Everit Darwin's other work seems to imply that a soul may be trapped inside of it. Said soul was Everett's, and at his request, Morenthal destroyed the egg, freeing Everett's soul.
 
 ## Staff of Defilement
 

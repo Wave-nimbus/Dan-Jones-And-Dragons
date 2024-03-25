@@ -1,4 +1,4 @@
-## Northcliff |
+## Northcliff
 
 Northcliff is a large, technologically advanced city in the Southwest of Orlon. It floats high above the surrounding land on enormous Green Void Crystals, but it is yet anchored to the ground below. The city serves as the current headquarters for the search of the 10 Artifacts scattered due to the Explosion at Brightcoin. Surrounding the city is a powerful barrier that blocks most physical objects if needed. The city is divided into several districts, but more specific locations include:
 
@@ -22,21 +22,21 @@ Situated in the Northwest of Northcliff, this serves as the center of the religi
 
 "Fantasy Costco" is in the Western trade district. It is run by a dwarf and elf couple. The Dwarf is named Riona, and the elf is currently unnamed. Weapon upgrades along with other gear can be purchased for a lot of money and time.
 
-### Mobe's Pawn Shop
+### Moeb's Pawn Shop
 
-A pawn shop in the Western trade district run by Mobe and frequented by Estavan. Any scrap metals or useless artifacts could potentially be sold here. 
+A pawn shop in the Western trade district run by Moeb and frequented by Estevan. Any scrap metals or useless artifacts could potentially be sold here. 
 
 ## Opal Circlet
 
-A hole-in-the-wall jewelery shop run by a Gnome named Velina. Almost any type of jewelery can be bought here, including pieces crafted from Void Crystals.
+A hole-in-the-wall jewelry shop run by a Gnome named Velina. Almost any type of jewelry can be bought here, including pieces crafted from Void Crystals.
 
 ### The Shattered Shield
 
-Found in the East of the city, this is the inn that the Flower Crowns stay at while in Northcliff. It is run by the 4-armed Arjuun Moon. While it is not quite as cozy as the Brass Squid, it is nicer and fancier than the inn in Filgrove.
+Found in the East of the city, this is the inn that the Flower Crowns stay at while in Northcliff. It is run by the 4-armed Arjun Moon. While it is not quite as cozy as the Brass Squid, it is nicer and fancier than the inn in Filgrove.
 
 ### The Spire
 
-An enormous tower in the center of the city that amplifies the power of magic. It is the power source of the magical barrier surrounding Northcliff. It also serves as the meeting place for the Council of E'lithia members to coordinate the search. The tower's power allows for scrying spells to reach far beyond what an ordinary person could create.
+An enormous tower in the center of the city that amplifies the power of magic. It is the power source of the magical barrier surrounding Northcliff. It also serves as the meeting place for the Council of E'lythia members to coordinate the search. The tower's power allows for scrying spells to reach far beyond what an ordinary person could create.
 
 ### Temple of the Nine
 

@@ -6,7 +6,7 @@ Dan Jones and Dungeons is a D&D Campaign that is streamed by Dan Jones (Twitch: 
 
 ## What is this?
 
-This is the fan-made reference/wiki for the Dan Jones And Dungeons D&D Campaign that started in 2022. This wiki is completely unofficial, and no creators here are directly associated with any of the members of DJ&D. All spellings and lore is gleaned solely from the streamed/recorded sessions.
+This is the fan-made reference/wiki for the Dan Jones And Dungeons D&D Campaign that started in 2022. This wiki is completely unofficial, and no creators here are directly associated with any of the members of DJ&D. Any information or lore is gleaned solely from the streamed/recorded sessions. A handfull of character & locations have spellings provided by Dan J. Any that weren't are complete guesses based on the stream VODs.
 
 ## Are there Spoilers here?
 
@@ -22,7 +22,7 @@ Yes. Officially on the stream, it is considered not age appropriate for all audi
 
 ## How was the information here collected?
 
-The information here is collected solely from watching the streams and/or VODs. The creators do not have access to anything beyond what is presented in the stream or its recordings. Therefore, some information is based on speculation and conjecture based on the session events. Similarly, there may be spoilers in the reference documents for some sessions. 
+The information here is collected solely from watching the streams and/or VODs. Therefore, some information is based on speculation and conjecture based on the session events. Similarly, there may be spoilers in the reference documents for some sessions. A short document of correct spellings has been provied to the creator(s) by Dan J. Only spellings are used, and if the information is not provided in the session itself, then the document is not used. (Ex: A character has a last name but it is never spoken in session, then the last name does not appear in these references.)
 
 ## Navigating this Github
 
@@ -37,22 +37,21 @@ The Sessions are divided into story arcs. Information pertaining to each specifi
 
 The sheer quantity of information presetned within each episode can generally be split into several categories, including NPCs, Locations, and Items. The job of this wiki is to catalog any and all important pieces of information possible. Session summaries make notes of the first mention of said information. To fascilitate easier reading, a color code has been established denoting what type of information was mentioned. The code is below.
 
-Newly Archived NPC Names are in <span style="color:teal">Teal</span>
+Newly Archived NPC Names are in $\color{teal}{\textbf{Teal}}$
 <br>
-Newly Archived Faction Names are in <span style="color:aqua">Aqua</span>
+Newly Archived Faction Names are in $\color{aqua}{\textbf{Aqua}}$
 <br>
-Newly Archived World World Location Names and Events are in <span style="color:brown">Brown</span>
+Newly Archived World World Location Names and Events are in $\color{brown}{\textbf{Brown}}$
 <br>
-Newly Archived Inner-Town Location Names are in <span style="color:coral">Coral</span>
+Newly Archived Inner-Town Location Names are in $\color{coral}{\textbf{Coral}}$
 <br>
-Newly Archived Important/Personal Items are in <span style="color:forestgreen">Forest Green</span>
+Newly Archived Important/Personal Items are in $\color{forestgreen}{\textbf{Forest Green}}$
 <br>
-Newly Archived Bag Of Many Things Pulls are in <span style="color:lightgreen">Light Green</span>
+Newly Archived Bag Of Many Things Pulls are in $\color{lightgreen}{\textbf{Light Green}}$
 <br>
-Unarchived NPCs or Items are in <span style="color:gray">Gray</span>
+Unarchived NPCs or Items are in $\color{gray}{\textbf{Gray}}$
 <br>
-Reminders of NPCs or items are in <span style="color:tan">Tan</span>
-
+Reminders of NPCs are in $\color{tan}{\textbf{Tan}}$ *Reminders are given after a full story Arc or 5 sessions without being mentioned, whichever is shorter.*
 
 #### About the Creator(s)
 

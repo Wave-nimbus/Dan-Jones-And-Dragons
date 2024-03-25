@@ -2,7 +2,7 @@
 
 ## Gavel, Tavern Keep
 
-The keeper of the Brass Squid tavern. He is grateful for the Party saving Derek at their beginnings. From then on, his tavern has always welcomed the Party with a room and good food for resting.
+The keeper of the Brass Squid tavern. He is grateful for the Party saving Derrick at their beginnings. From then on, his tavern has always welcomed the Party with a room and good food for resting.
 
 # Store Employees
 
@@ -10,7 +10,7 @@ The keeper of the Brass Squid tavern. He is grateful for the Party saving Derek 
 
 A guide for the tunnel between Filgrove and Geria that would surely die if the Party failed to protect him. 
 
-## Derek, Barservant
+## Derrick, Barservant
 
 An employee of the Brass Squid that was attacked by the Manticore. The Party kept him alive for which Gavel is thankful. Also got fanart about 10 seconds after being attacked.
 
@@ -20,15 +20,15 @@ A friend of Julia Mosswing and Bren Grayhorn as the two of them frequently visit
 
 # Trilby's Family
 
-## Melinda Hornsferrow, Mom
+## Melina Hornsfarrow, Mom
 
-Melinda is a stern but caring mother. She worries about Trilby only when Trilby leaves for long periods of time without notifying her. Otherwise, she supports Trilby's adventures, since she and Ficesious cannot really stop him.
+Melina is a stern but caring mother. She worries about Trilby only when Trilby leaves for long periods of time without notifying her. Otherwise, she supports Trilby's adventures, since she and Facetious cannot really stop him.
 
-## Ficesious Hornsferrow, Dad
+## Facetious Hornsfarrow, Dad
 
-Ficesious was a Crown's Guard member until an injury to his leg forced him out of action for a time. He is gracious though stern with his children. It is ambiguous if he approves or disapproves of Trilby's adventures. He shares the same sentiment that Trilby should inform his parents of any extended travels, however.
+Facetious was a Crown's Guard member until an injury to his leg forced him out of action for a time. He is gracious though stern with his children. It is ambiguous if he approves or disapproves of Trilby's adventures. He shares the same sentiment that Trilby should inform his parents of any extended travels, however.
 
-## Dora & Derby Hornsferrow, Siblings
+## Dora & Derby Hornsfarrow, Siblings
 
 Little is known about Trilby's siblings other than their names. It seems like they tease Trilby occasionally, but they listen to their parents. 
 

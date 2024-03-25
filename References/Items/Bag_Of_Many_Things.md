@@ -1,5 +1,9 @@
 # Pulls from Trilby's Bag of Many Things
 
+## Burning Hands Spell Scroll
+
+A single use of the Burning Hands spell written onto a spell scroll. Trilby used it at the battle in Ohkross, but he managed to keep it intact.
+
 ## Green Void Crystal
 
 A chunk of anti-gravity Green Void Crystal. It could be used to make an item ligher if needed. Trilby incorporates it into Scrubbins so any Force Billista blast can pull enemies 5 feet as well as pushing them 5 feet.
