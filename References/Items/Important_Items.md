@@ -18,7 +18,6 @@ One of the 10 Artifacts from Brightcoin. It blooms once every 100 years, leaving
 
 A purple magical stone used by casters to hold additional spells in reserve. It was treasure recovered from the Eyedra's lair, though it has yet to be given to a Player permanently yet.
 
-
 ## Soul Orb
 
 A pristine pearl that Karashala gave to Trilby so he could give it to Feyli. Once given, it is absorbed into her hand. Karashala extracts it in exchange for a Lycanthrope cure. The extraction took Feyli's Soul with it. When Feyli was reincarnated, the soul of Gelnek was placed inside it instead.

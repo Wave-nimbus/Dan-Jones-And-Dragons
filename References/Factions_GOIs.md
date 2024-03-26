@@ -63,7 +63,7 @@ Known members include: *Burple*, *Chief Stompie*, *Gnaw*.
 ## The Nine 
 
 Serving as the Pantheon for the world of E'lythia, the Divine Nine represent various aspects of clerics, paladins and the like. <br>
-Mentioned deities of this pantheon include: *Aether the Breaker*, *Demulson "Hammer" Ruldros*, *Iris*, *The Nightmother*, *Ophena*, and *Zamira*.
+Mentioned deities of this pantheon include: *Ather the Breaker*, *The Molten Hammer Ruldros*, *The Nightmother Iris*, *Ophina*, and *Zimera*.
 
 ## Viridescent Javelin Crew 
 

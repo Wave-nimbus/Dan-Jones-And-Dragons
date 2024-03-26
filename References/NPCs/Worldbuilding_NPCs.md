@@ -1,12 +1,8 @@
 # Worldbuilding NPCs
 
-## Aether the Breaker 
+## Ather the Breaker 
 
 The deity that Gelnek prays to, and a member of the Nine. His domain involves destruction, warfare, calamities, and regrowth.
-
-## Iris 
-
-One of the Nine. Iris's domain is currently unknown as is her symbol.
 
 ## Leofrick Roseark, Emperor of Orlon 
 
@@ -16,11 +12,11 @@ The main authority over the continent of Orlon itself. The Emperors of Orlon liv
 
 An ancient archmage who created the Planar Mirror and used the Island of Shariza as his base of operations. His other achievements and much of his history are unknown. (His name is backwards for "Causeim Jonesdan")
 
-## The Nightmother 
+## The Nightmother Iris
 
 One of the Nine that makes up this world's pantheon. She represents the Grave domain, ferrying souls to the afterlife. As a result, she is heavily against necromancy, though resurrection is a different matter.
 
-## Ophena the Dawnmaiden 
+## Ophina the Dawnmaiden 
 
 One of the Nine that makes up this world's pantheon. Ophena is the Goddess of Light, and her symbol is a bright star. She is also known as the Dawnmaiden.
 
@@ -36,6 +32,6 @@ An ancient civilization that used to exist on Orlon a long time ago. The Shard C
 
 A powerful lich that took over the town of Ravenmire before the Champions of Valor were established. He later used the Planar Mirror to build an army. The defeat of the lich marked the point where the Champions were commissioned by the Emperor of Orlon.
 
-## Zamira 
+## Zimera 
 
-One of the Nine. Zamira is the goddess of knowledge, arcana, and the stars. Her symbol is unknown.
+One of the Nine. Zimera is the goddess of knowledge, arcana, and the stars. Her symbol is unknown.

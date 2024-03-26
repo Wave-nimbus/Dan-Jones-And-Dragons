@@ -38,7 +38,7 @@ A silver headband with a chunk of Void Crystal embedded inside that Uldar of the
 
 ### Feyli's Music Box
 
-A seemingly ordinary Music Box that Feyli continuously forgets she has. She alone is confused by not having seen it before, despite showing to the Party multiple times. (Such forgetful properties are referred to as "antimemetic") Horace Devinshire used it to erase some of Feyli's memories of her time with the Midnight Lotus. That erasure is complete.
+A seemingly ordinary Music Box that Feyli continuously forgets she has. She alone is confused by not having seen it before, despite showing to the Party multiple times. (Such forgetful properties are referred to as "antimemetic") Horace Devonshire used it to erase some of Feyli's memories of her time with the Midnight Lotus. That erasure is complete.
 
 ### Gelnek's Dragon Scale Button
 
@@ -72,10 +72,6 @@ A skintight pair of long gloves that can catch or deflect missiles. As a Reactio
 
 A whistle that allows Morenthal to command the Little Guy. It is a 2-inch worm capable of moving 5 ft per round and lifting 500 pounds. It can wriggle into 1-inch gaps, and if it is killed, a new worm shows up in a few days. It was purchased from the Chameleonaire for 1000 gp.
 
-### Morenthal's Void Absorption Hide Armor
-
-Hide armor that can be attuned to a specific element once per day, granting 5 damage reduction. It was crafted by Uldar of the Green Ravens.
-
 ### Morenthal's Purging Dagger
 
 A wooden dagger made from the Evertree (making it a divine weapon), causing an additional 1d4 Radiant damage on hit. On a critical, it can be left in a target to deal 3d4 Radiant per round until the target removes it. It was purchased from the Chameleonaire for 1500 gp.
@@ -84,11 +80,15 @@ A wooden dagger made from the Evertree (making it a divine weapon), causing an a
 
 A metallic ring that is capable of casting Fog Cloud centered on the ring using a charge. The ring starts with 3 charges. The spell lasts up to a minute.
 
+### Morenthal's Void Absorption Hide Armor
+
+Hide armor that can be attuned to a specific element once per day, granting 5 damage reduction. It was crafted by Uldar of the Green Ravens.
+
 ### Trilby's Bag of Many Things
 
-A bag that creates a new available item once a day. It was gifted to Trilby by Biggleton Whippersnap along with the Brass Puzzle. In turn, Trilby is supposed to give Whippersnap some items from the bag. (Pulls are listed in a separate document.)
+A bag that creates a new available item once a day. It was gifted to Trilby by Biggleton Whipersnap along with the Brass Puzzle. In turn, Trilby is supposed to give Whipersnap some items from the bag. (Pulls are listed in a separate document.)
 
-### Trilby's Healing Bee
+### Trilby's "Trilbee"
 
 A mechanical bee that Trilby created. It is capable of healing Party members as a Bonus Action, though its exact capabilities are unknown.
 
@@ -105,6 +105,10 @@ These rings are pulled from the Chameleonaire's gacha game for 200 gp per pull f
 #### Coil's One Ring
 
 A black band with a red crystal eye on top of a black diamond. While the wearer is at 1 HP, all attacks deal maximum damage.
+
+#### Coil's Ring of Point
+
+A small ring with a steel cylinder perpendicular to the ring. As a Bonus Action, the wearer can light up an object with a laser pointer.
 
 ### Feyli's Rings -- 12
 
@@ -198,13 +202,13 @@ A simple metal ring. The claps have a pair of hands clapping. When the wearer cl
 
 A clear crystal ring with a small sculpture of a bee. Once per day, it summons a normal bee. It is neither hostile nor friendly. Requires Attunement.
 
-#### Morenthal's Ring of Death and Life
-
-A mixed-colored ring made of onyx and ivory. While wearing it, the wearer is resistant to Necrotic damage and vulnerable to Radiant damage.
-
 #### Morenthal's Ring of the Blade
 
 A ring that looks like a sword bent into a ring. As an Action, the ring can become a nonmagical longsword or revert back into a ring. 
+
+#### Morenthal's Ring of Death and Life
+
+A mixed-colored ring made of onyx and ivory. While wearing it, the wearer is resistant to Necrotic damage and vulnerable to Radiant damage.
 
 #### Morenthal's Ring of the Peephole 
 

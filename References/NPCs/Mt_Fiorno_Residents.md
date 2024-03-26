@@ -22,6 +22,10 @@ A Fire Genasi and hunter for the town near Mt. Fiorno. He was kidnapped after a 
 
 A male Goblin hunter and tracker of the Ustenki tribe. He was tasked with assisting Fervor to locate & take back the Ring of Flame inside the Voscorie Bog. He wears a squished leather top hat and wields a bow.
 
+## Chief Stopmie, Ustenki Chief
+
+An elderly male Goblin elder who is the current chief of the Ustenki tribe. He wears a massive hat stitched together from other hats. While bound by tradition, he still has a soft spot for Gelnek, even after being banished. He reincarnated Feyli after the battle with the Eyedra.
+
 ## Eyedra, Female? Beholder 
 
 A Beholder that managed to capture Pyre Helmsborn and steal the Ring of Flame for her own ends. She commands a small enthralled army within the Sunken Keep of Ol'Lui. Due to previous fighting, she has lost two eyestalks. She kills Feyli before being killed by the rest of the Party.

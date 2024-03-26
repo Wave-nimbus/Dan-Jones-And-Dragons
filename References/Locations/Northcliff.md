@@ -38,7 +38,7 @@ Northcliff's main library is four or five stories tall filled with knowledge and
 
 A pawn shop in the Western trade district run by Moeb and frequented by Estevan. Any scrap metals or useless artifacts could potentially be sold here. 
 
-### North Cliff University (NCU)
+### Northcliff University (NCU)
 
 A university that exists somewhere in Northcliff for higher education. Marmitull of the Airship Viridescent Javelin is an alumn of NCU. Kasma used to teach at NCU.
 

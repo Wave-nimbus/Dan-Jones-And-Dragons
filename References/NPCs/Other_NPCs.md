@@ -130,10 +130,6 @@ A male Goblin hunter and tracker of the Ustenki tribe. He was tasked with assist
 
 The version of Valse found in the right gauntlet worn by Lady Belle. His personality is of a cool, calculating machine. He gives combat advice and allows Lady Belle to transform into animals, but he is otherwise quite rude to her and Vindilay.
 
-### Kasma Lundor, Tech Whiz 
-
-A female Gnome with several technical gadgets on her arms. Her monocle adjusts itself constantly. Her demeanor is very formal and noble, though not necessarily unfriendly. She is in charge of most tech for the search for the 10 Artifacts. She also built the Spire in Northcliff.
-
 ### Chameleonaire, Expensive Merchant 
 
 A well traveled and extremely rich Lizardfolk merchant that travels the lands selling expensive (and potentially overpriced) magical items. When he meets the Party, he sells a number of items and offers even more.
@@ -149,6 +145,10 @@ A sketchy male Dwarf that has angered a faction known as the Amber Hearts. He ha
 ### Horace Devonshire, The Wizard of the White Tower 
 
 Originally from Springoak, this stereotypically blue robed wizard was in charge of ensuring the amplified Spire's scrying spells worked perfectly. He also helped erase many of Feyli's memories of the Midnight Lotus using her Music Box.
+
+### Kasma Lundor, Tech Whiz 
+
+A female Gnome with several technical gadgets on her arms. Her monocle adjusts itself constantly. Her demeanor is very formal and noble, though not necessarily unfriendly. She is in charge of most tech for the search for the 10 Artifacts. She also built the Spire in Northcliff.
 
 ### Lady Belle, Bounty Hunter 
 
