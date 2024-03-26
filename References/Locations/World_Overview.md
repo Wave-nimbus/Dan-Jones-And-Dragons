@@ -1,6 +1,6 @@
-# The World of E'lithia
+# The World of E'lythia
 
-The name of the world for this campaign is set in. There are multiple continents, overseen by the Council of E'lithia. Orlon is one such continent. Other continents include Ty'vanera and Djoria.
+The name of the world for this campaign is set in. There are multiple continents, overseen by the Council of E'lythia. Orlon is one such continent. Other continents include Ty'vanera and Djoria.
 
 # The Continent of Orlon
 
@@ -10,15 +10,15 @@ Orlon is the main continent that the campaign takes place on. It is controlled b
 
 ### Ashen Highlands 
 
-A volcanic region in the Southernmost part of Orlon. The nearby volcano renders it close to the Elemental Plane of Fire. Thus, it is the likely location of the Ring of Flame, one of the 10 Artifacts.
+A volcanic region in the Southernmost part of Orlon. The nearby volcano, Mt. Fiorno, renders it close to the Elemental Plane of Fire. Thus, it was the location of the Ring of Flame, one of the 10 Artifacts.
 
 ### Filgrove 
 
-Filgrove is where the Party spent their early days. It is a decent sized city in the North of Orlon, serving as a defensive city in the past. See the Filgrove reference for more details.
+Filgrove is where the Party spends most of their time. It is a decent sized city in the North of Orlon, serving as a defensive city in the past. In and around the city, the Party's early adventures took shape. See the Filgrove reference for more information.
 
 ### The Flesh Cave 
 
-A corrupted structure deep within the Underdark. The Staff of Defilement was found here and used unsucessfully in a ritual for the Brood Mother. The result was a fleshy corruption that overtook and partially destroyed the structure. The Crown's Guard failed to retrieve the Staff, but the Party managed to do so. Without the staff, the flesh should hopefully rot away into nothingness.
+A corrupted structure deep within the Underdark. The Staff of Defilement was found here and used unsuccessfully in a ritual for the Brood Mother. The result was a fleshy corruption that overtook and partially destroyed the structure. The Crown's Guard failed to retrieve the Staff, but the Party managed to do so. Without the staff, the flesh should hopefully rot away into nothingness.
 
 ### Lafford 
 
@@ -26,7 +26,7 @@ A town in the Northwest of Orlon. The Flower of Rebirth, one of the 10 Artifacts
 
 ### Mt. Fiorno 
 
-A town in th south of Orlon within the Ashen Highlands. The Ring of Flame was discovered by a resident before being taken to the nearby Blighted Swamp. See the Mt. Fiorno reference for more details.
+A town in the south of Orlon within the Ashen Highlands. The Ring of Flame was discovered by a resident before being taken to the nearby Voscorie Bog. See the Mt. Fiorno reference for more details.
 
 ### Northcliff 
 
@@ -34,25 +34,25 @@ Northcliff is a technologically adavanced city that serves as a central hub for 
 
 ### Ohkross 
 
-A village north of Northcliff. When the Party first see it, it is being raided by Bloodletter bandits. It is also the home of Everit Darwin.
+A village north of Northcliff. When the Party first see it, it is being raided by Bloodletter bandits. It was also the home of Everett Darwin.
 
 #### The Mossy Castle
 
-The inn/tavern at Ohkross run by Effy the Gnome. It is a small establishment, but the Party is welcome there.
+The inn/tavern at Ohkross run by Effie the Gnome. It is a small establishment, but the Party is welcome there.
 
 ### The Underdark
 
-The Underdark is the deep underground portions of a D&D world. The tunnel from Filgrove to Geria likely passes through such a region. It is home to all kinds of creatures adapted for the darkness, including mutant spider monsters and mushroom creatures. A few cities are found down below, though getting there requires long, trecherous journeys.
+The Underdark is the deep underground portions of a D&D world. The tunnel from Filgrove to Geria likely passes through such a region. It is home to all kinds of creatures adapted for the darkness, including mutant spider monsters and mushroom creatures. A few cities are found down below, though getting there requires long, treacherous journeys.
 
 ## Mentioned Cities/Locations
 
 ### Blackfane 
 
-A large and major city in central Orlon. It serves as an enormous trade and merchent hub, with nearly anything being available to buy. It appears as a massive black spire with boardwalks running out a distance from the main spire. The Emperor of E'E'lithia is also housed in this city.
+A large and major city in central Orlon. It serves as an enormous trade and merchent hub, with nearly anything being available to buy. It appears as a massive black spire with boardwalks running out a distance from the main spire. The Emperor of E'lythia is also housed in this city.
 
-### Brightcoin, the Vaults of Eversteel 
+### Brightcoin
 
-A major and secure vault containing several artifacts. An attack and explosion caused several of such artifacts to be spread around the world of E'lithia. The Council of E'lithia has been tasked with recovering these artifacts.
+A major city on the continent of Orlon. It is home to the Vaults of Eversteel, though little else is known about it. It's ruled by a king named Rylen Lendsborough.
 
 ### Desert of Thorns 
 
@@ -74,21 +74,17 @@ A town in central Orlon that is currently dealing with an outbreak of Ashen Rot.
 
 A sea that is presumably somewhere off of Orlon's coast. Preston Fitzclarance believes that one of the 10 Artifacts is located in or around the Sea.
 
-### Evertree
-
-Almost nothing is known about this other than its name. Morenthal's Purging Dagger from the Chamillionare apparently comes from this tree.
-
 ### Far Reach Mountains 
 
-A mountain range that extends across most of the northern reaches of Orlon. It is most easily traversed by airship, though it houses several flying creatures including wyverns that are capable and willing ot attack such airships.
+A mountain range that extends across most of the northern reaches of Orlon. It is most easily traversed by airship, though it houses several flying creatures including wyverns that are capable and willing of attack such airships.
 
-### Fiwood
+### Fywood
 
-A town where Ciona is originally from. Though on the Orlon continent, they are officially unaligned with the Empire. Almost nothing else is known about it.
+A town where Sionia is originally from. Though on the Orlon continent, they are officially unaligned with the Empire. Almost nothing else is known about it.
 
 ### Geria 
 
-A dwarven island in the North and West part of Orlon. Not much is known about it other than a tunnel supposedly exists between it and Filgrove's Undercroft.
+A dwarven island in the North and West part of Orlon. Not much is known about it other than a tunnel supposedly exists between it and Filgrove's Undercroft. The Champions previously killed a powerful monster here.
 
 ### Maple |
 
@@ -128,11 +124,15 @@ A town in the West of Orlon that is home to a mage college of some kind. That co
 
 ### Springoak
 
-A town on the Western edge of Orlon. Horace Devenshire is known as the Wizard of the White Tower and hails from this town. Hobson is likely a wanted man there thanks to Valse.
+A town on the Western edge of Orlon. Horace Devonshire is known as the Wizard of the White Tower and hails from this town. Hobson is likely a wanted man there thanks to Valss.
 
 ### Sunken City of Cera
 
-The ruins of the Voedia civilization. These ruins are the most likely origin of Coil, as similar Nobility Cera models of Warforged have been discovered on delves into the city's ruins.
+The ruins of the Vodeia civilization. These ruins are the most likely origin of Coil, as similar Nobility Cera models of Warforged have been discovered on delves into the city's ruins.
+
+### Vaults of Eversteel 
+
+A major and secure vault containing several artifacts. An attack and explosion caused several of such artifacts to be spread around the world of E'lythia. The Council of E'lythia has been tasked with recovering these artifacts.
 
 ### Void Cave
 
@@ -142,19 +142,15 @@ A large cave filled with Void Crystals that was home to the Void Snail. It is ab
 
 A structure near Silverfell where a mysterious mansion has reappeared. Almost nothing else is known about the keep itself.
 
-### Westmount |
+### Westmont |
 
 A town in the South of Orlon. Some years ago, Arther Oathbringer reappeared with a flying castle and an army over the town. It houses a magical school where a powerful Dragonborn escaped from.
 
 ## Other Regions
 
-### Shareaza
+### Shariza
 
-Presumably a large town across the East Sea (which means it may not be on Orlon proper). It is supposed to have some "Fated Steps" that Bartholomew wanted to visit. Almost nothing is known about it otherwise.
-
-### Shoriza 
-
-A large island far off the East coast of Orlon that has strange and strong effects on magic. Many years ago, the Champions of Virtue killed a Lich here. Arther Oathbringer's castle crashed here when Valse and Orsik Frostbeard went to investigate. No expedition to the island has beens successful since. The Planar Mirror, one of the 10 Artifacts, is believed to be there.
+A large island far off the East coast of Orlon that has strange and strong effects on magic. It is supposed to have some "Fated Steps" that Bartholomew wanted to visit. Many years ago, the Champions of Virtue killed a Lich here. Arthur Oathbringer's castle crashed here when Valse and Orsik Frostbeard went to investigate. No expedition to the island has been successful since, including Biri's. The Planar Mirror, one of the 10 Artifacts, is confirmed to be there.
 
 ### Shara's Tomb
 
@@ -180,7 +176,7 @@ A major city on the Western edge of Ty'Vanera. It houses The Citidel, a knowledg
 
 ### Wildwin |
 
-A town in the center of continent of Ty'vanera. The Wand of Chaos, one of the 10 Artifacts, is believed to be here. However, the land is cursed, so the Council of E'lithia's drones cannot survey the area.
+A town in the center of continent of Ty'vanera. The Wand of Chaos, one of the 10 Artifacts, is believed to be here. However, the land is cursed, so the Council of E'lythia's drones cannot survey the area.
 
 # The Continent of Djoria
 
@@ -196,7 +192,7 @@ A town on the Eastern part of Djoria, the smallest of the three named continents
 
 ### Explosion at the Vaults of Eversteel 
 
-An attack of some kind on Brightcoin, the Vaults of Eversteel. It scattered dozens of extremely powerful magical artifacts across the world. The 10 most powerful artifacts are being hotly persued by the Council of E'lithia. The Explosion took place approximately 6 months before the campaign began.
+An attack of some kind on Brightcoin, the Vaults of Eversteel. It scattered dozens of extremely powerful magical artifacts across the world. The 10 most powerful artifacts are being hotly persued by the Council of E'lythia. The Explosion took place approximately 6 months before the campaign began.
 
 ### The Tusk Wars
 
@@ -208,7 +204,7 @@ A bloody conflict presumably taking place on the western side of Orlon. Accordin
 
 ## Travel Network
 
-### The Airship Viradescent Javelin  
+### The Airship Viridescent Javelin
 
 The first Airship of the campaign that takes the Party from Filgrove south to Northcliff over the course of four days. It is a large flying ship held aloft by six large Green Void Crystals. Its weaponry includes six ballistas, which can be used to attack flying or grounded enemies off of the ship. The ship is at the Party's disposal for their hunt for the 10 Artifacts. Its crew is listed in the NPC references.
 

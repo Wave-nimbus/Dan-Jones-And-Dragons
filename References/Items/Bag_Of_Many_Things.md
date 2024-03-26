@@ -26,15 +26,15 @@ A nice chalice made of bronze and covered in cheap gems. Any magical properties 
 
 ## Burning Hands Spell Scroll
 
-A single use of the Burning Hands spell written onto a spell scroll.
+A single use of the Burning Hands spell written onto a spell scroll. Trilby used it at the battle in Ohkross, but he managed to keep it intact. It was used and destroyed against the First's Form.
 
 ## Ceramic Mask 
 
-Presumed to be a cereamic mask. What it depicts and what it can do are completely unknown.
+Presumed to be a ceramic mask. What it depicts and what it can do are completely unknown.
 
 ## Chain Necklace 
 
-A simple necklace made of sparkley metal. As a gift, Trilby gives it to Gnaw of the O'Stanke Tribe.
+A simple necklace made of sparkley metal. As a gift, Trilby gives it to Gnaw of the Ustenki Tribe.
 
 ## Clockwork Wolf Statue 
 
@@ -96,9 +96,13 @@ A clamshell makeup compact with pale skin toned foundation inside. Trilby gives 
 
 A book of regular, nonmagical matches. With it, Trilby can probably start fires without magic.
 
+## Normal Journal
+
+A basic book or journal that Trilby can use to write things down. Has the honor of being the first item Trilby pulled from the Bag of Many Things.
+
 ## Pair of Marbles 
 
-A pair of fancy marbles that were pulled out of the bag. They likely have no use other than looking cool.
+A pair of fancy marbles that were pulled out of the bag. They were the mysterious item Trilby tricked the pixies at Valse's statue to desire so badly.
 
 ## Simple Leather Helmet 
 
@@ -112,13 +116,13 @@ A miniature ship inside of a bottle the size of an apple. While tinkering with i
 
 An otherwise nondescript goblet made of pure silver. It has very little decoration on the outside, as compared to the Bronze Chalice. 
 
-## Torquoise Feather
+## Torquoise Feather 
 
 A relatively large feather whose hue goes from white to torquoise at the tip. If it has any magical properties, they are unknown at the time.
 
 ## Two D10s
 
-A pair of mundane d10 dice with pips on them. Rolling them has no effect. Trilby gifted these to Byfar Clemmingsworth in Northcliff.
+A pair of mundane d10 dice with pips on them. Rolling them has no effect. Trilby gifted these to Bifar Clemingsworth in Northcliff.
 
 ## Vintage Year Wine
 

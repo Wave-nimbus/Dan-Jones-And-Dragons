@@ -2,7 +2,7 @@
 
 ## The 10 Artifacts 
 
-10 of the most dangerous and powerful artifacts scattered by the Explosion at Brightcoin. The Council of E'lithia is trying to recover them as soon as possible. The recovered artifacts are listed in the order they were recovered. <br>
+10 of the most dangerous and powerful artifacts scattered by the Explosion at Brightcoin. The Council of E'lythia is trying to recover them as soon as possible. The recovered artifacts are listed in the order they were recovered. <br>
 Recovered artifacts are *The Staff of Defilement*, *The Flower of Rebirth*, and *The Ring of Flame*<br>
 Unrecovered artifacts are: *The Amber Dragon Eye*, *The Gauntlet of the Eye*, *The Heart of the Keep*, *The Planar Mirror*, *The Shaper of Minds*, *The Throne of Want*, and *The Wand of Chaos*. 
 
@@ -16,7 +16,7 @@ The book that Gale Mosswing used to improve his farm's standing, to the detrimen
 
 ## First Edition Tankard
 
-A fancy tankard that was one of the original decorated tankards from the Brass Squid. The Party is gifted this by Gavel the Brass Squid Tavernkeep to remind them of where they all started. Gelnek traded one of his mace maraccas for it.
+A fancy tankard that was one of the original decorated tankards from the Brass Squid. The Party is gifted this by Gavel the Brass Squid Tavernkeep to remind them of where they all started. Gelnek traded one of his mace maracas for it.
 
 ## The First's Heart 
 
@@ -24,7 +24,7 @@ An artifact of the First Dead that the Midnight Lotus believe Feyli stole. Feyli
 
 ## First's Shrine Key 
 
-A silver key used to access The First's Shrine within the Black Hand's HQ. It was originally found in the corpse of Aryc by Feyli. She used it to open the shrine and confront The Second.
+A silver key used to access The First's Shrine within the Black Hand's HQ. It was originally found in the corpse of Aryk by Feyli. She used it to open the shrine and confront The Second.
 
 ## Flower of Rebirth/Seed of the Flower of Rebirth 
 
@@ -32,15 +32,15 @@ One of the 10 Artifacts from Brightcoin. It blooms once every 100 years, leaving
 
 ## Golden Amulet
 
-A religious amulet for the Goddess Ophelia found amongst gear of the Crown's Guard. Said gear was in the Flesh Cave.
+A religious amulet for the Goddess Ophina found amongst gear of the Crown's Guard. Said gear was in the Flesh Cave.
 
 ## Ioun Stone of Reserve
 
 A purple magical stone used by casters to hold additional spells in reserve. It was treasure recovered from the Eyedra's lair, though it has yet to be given to a Player permenantly yet.
 
-## Lycanthrope Cures
+## Lycanthropy Cures 
 
-A pair of foul silver potions that cure the curse of Lycanthropy. Given to Jeroma and Trayton, who are now cured.
+A pair of foul silver potions that cure the curse of Lycanthropy. Given to Jiroma and Trayton, who are now cured.
 
 ## Magic Rope
 
@@ -48,15 +48,15 @@ A length of twine rope that was discovered amongs the Crown's Guard's gear. It p
 
 ## Orb of Recall
 
-A one-time return button that is meant to bring anyone within 10 ft of the orb back to a location. It functions as the Teleport Circle spell, returning those within the active radius to the Filgrove Barraks's Teleportation Circle once used.
+A one-time return button that is meant to bring anyone within 10 ft of the orb back to a location. It functions as the Teleport Circle spell, returning those within the active radius to the Filgrove Barracks's Teleportation Circle once used.
 
-## Perfect Pearl
+## Perfect Pearl / Soul Orb
 
-A pristine pearl that Karshala gave to Trilby so he could give it to Feyli. Once given, it is absorbed into her hand. Karshala extracts it in exchange for a Lycanthrope cure. It seemed to have absorbed something from Feyli.
+A pristine pearl that Karashala gave to Trilby so he could give it to Feyli. Once given, it is absorbed into her hand. Karashala extracts it in exchange for a Lycanthrope cure. The extraction took Feyli's Soul with it. When Feyli was reincarnated, the soul of Gelnek was placed inside it instead.
 
 ## Ring of Flame
 
-One of the Missing Artifacts. A ring that is implied to be originally owned by the Flame Tyrant. It is heavily attuned to the Plane of Fire. It was recovered off of the Eyedra within the Castle of O'Louie, who had used it to turn it's lair into a magma flowing inferno. The ring allows for powerful magic to be cast as well as immunity to fire and heat.
+One of the Missing Artifacts. A ring that is implied to be originally owned by the Flame Tyrant. It is heavily attuned to the Plane of Fire. It was recovered off of the Eyedra within the Castle of Ol'Lui, who had used it to turn it's lair into a magma flowing inferno. The ring allows for powerful magic to be cast as well as immunity to fire and heat.
 
 ## Sending Stone
 
@@ -64,15 +64,15 @@ One of the stones used to communicate within the tunnel from Filgrove to Geria. 
 
 ## Soul Egg
 
-A catalope sized amber egg that has mysterious runes and carvings on it. Cross-checking the runes with Everit Darwin's other work seems to imply that a soul may be trapped inside of it. Said soul was Everit's, and at his request, Morenthal destroyed the egg, freeing Everit's soul.
-
-## Staff of Defilement 
-
-A powerful artifact that originally came from Brightcoin, the Vaults of Eversteel. It's power was used by the Brood Mother cult to create the Flesh Cave. It was sucessfully retrieved by the Party, and its effects are nullified by a Bag of Holding. It was one of the 10 Artifacts.
+A cantaloupe sized amber egg that has mysterious runes and carvings on it. Cross-checking the runes with Everit Darwin's other work seems to imply that a soul may be trapped inside of it. Said soul was Everett's, and at his request, Morenthal destroyed the egg, freeing Everett's soul.
 
 ## Spell Scrolls
 
 Three spell scrolls that were found amongst the Crown's Guard gear. What spells they hold are unknown, and the spells have yet to be deciphered.
+
+## Staff of Defilement 
+
+A powerful artifact that originally came from Brightcoin's Vaults of Eversteel. It's power was used by the Brood Mother cult to create the Flesh Cave. It was successfully retrieved by the Party, and its effects are nullified by a Bag of Holding. It was one of the 10 Artifacts.
 
 ## Unknown Journal
 

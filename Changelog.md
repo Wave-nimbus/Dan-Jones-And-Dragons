@@ -63,3 +63,5 @@
 #### December 17, 2023 - Arc 6 Compiled.
 
 #### December 31, 2023 - Added Session 20 summary to Archives.
+
+#### March 26, 2024 - Arc 7 Compiled; The First Great Spellcheck Complete.

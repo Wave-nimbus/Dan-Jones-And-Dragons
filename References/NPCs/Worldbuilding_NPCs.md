@@ -1,6 +1,6 @@
 # Worldbuilding NPCs
 
-## Aether the Breaker |
+## Ather the Breaker |
 
 The deity that Gelnek prays to, and a member of the Nine. His domain involves destruction, warfare, calamities, and regrowth.
 
@@ -18,11 +18,7 @@ One of the many creatures the Champions of Valor felled for being a threat to th
 
 ## Cascos, The Flame Tyrant/Lord |
 
-One of the Fallen Gods. The Flaming Spears are a cult/group devoted to destroying the seal holdng him.. He was a major figure from the Elemental Plane of Fire, previously thought to be unstoppable before he was chained and bound.
-
-## Demulsion "Hammer" Ruldros
-
-One of the Nine. Ruldros is the deity of craftsmanship and the forge. His symbol is an anvil with rope tied across it.
+One of the Fallen Gods. The Flaming Spears are a cult/group devoted to destroying the seal holding him. He was a major figure from the Elemental Plane of Fire, previously thought to be unstoppable before he was chained and bound.
 
 ## The Evertree |
 
@@ -32,38 +28,38 @@ One of the Nine. The Evertree is a female Centaur with an unspecified face. She 
 
 Presumably one of the Fallen Gods. The Black Hand and The Midnight Lotus worship him and desire to restore him to power. His domain is strongly based on necromancy. The Party defeated his weakened Form within thee Black Hand's Headquarters.
 
-## Iris |
-
-One of the Nine. Iris's domain is currently unknown as is her symbol.
-
-## Leofrick Rozark, Emperor of Orlon |
+## Leofrick Roseark, Emperor of Orlon |
 
 The main authority over the contient of Orlon itself. The Emperors of Orlon live in Blackfane. The Champions of Virtue served him over half a century ago, and he created the group to unify the people of Orlon.
 
-## Natsinage Misuak, Archmage |
+## The Molten Hammer Ruldros
 
-An ancient archmage who created the Planar Mirror and sued the Island of Shoreza as his base of operations. His other achievements and much of his history are unknown.
+One of the Nine. Ruldros is the deity of craftsmanship and the forge. His symbol is an anvil with rope tied across it.
 
-## The Nightmother |
+## Nadsenoj Miesuac, Archmage 
+
+An ancient archmage who created the Planar Mirror and used the Island of Shariza as his base of operations. His other achievements and much of his history are unknown. (His name is backwards for "Causeim Jonesdan")
+
+## The Nightmother Iris |
 
 One of the Nine that makes up this world's pantheon. She represents the Grave domain, ferrying souls to the afterlife. As a result, she is heavily against necromancy, though resurrection is a different matter.
 
-## Ophena the Dawnmaiden |
+## Ophina the Dawnmaiden |
 
-One of the Nine that makes up this world's pantheon. Ophena is the Goddess of Light, and her symbol is a bright star. She is also known as the Dawnmaiden.
+One of the Nine that makes up this world's pantheon. Ophina is the Goddess of Light, and her symbol is a bright star. She is also known as the Dawnmaiden.
 
 ## The Scarlet Harvest |
 
 One of the Fallen Gods of the world. Their domain revolves around blood and destruction. What they have done or who follows them is unknown.
 
-## The Voedia
+## The Vodeia
 
 An ancient civilization that used to exist on Orlon a long time ago. The Shard Coast was built over their remains. A prominant ruin location known as the Sunken City of Cera is one of the last remnants of their civilization. 
 
-## Xereafax |
+## Xerafax |
 
 A powerful lich that took over the town of Ravenmire before the Champions of Valor were established. He later used the Planar Mirror to build an army. The defeat of the lich marked the point where the Champions were commissioned by the Emperor of Orlon.
 
-## Zamira |
+## Zimera |
 
-One of the Nine. Zamira is the goddess of knowledge, arcana, and the stars. Her symbol is unknown.
+One of the Nine. Zimera is the goddess of knowledge, arcana, and the stars. Her symbol is unknown.

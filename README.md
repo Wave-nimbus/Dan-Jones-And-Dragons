@@ -6,7 +6,7 @@ Dan Jones and Dungeons is a D&D Campaign that is streamed by Dan Jones (Twitch: 
 
 ## What is this?
 
-This is the fan-made reference/wiki for the Dan Jones And Dungeons D&D Campaign that started in 2022. This wiki is completely unofficial, and no creators here are directly associated with any of the members of DJ&D. All spellings and lore is gleaned solely from the streamed/recorded sessions.
+This is the fan-made reference/wiki for the Dan Jones And Dungeons D&D Campaign that started in 2022. This wiki is completely unofficial, and no creators here are directly associated with any of the members of DJ&D. Any information or lore is gleaned solely from the streamed/recorded sessions. A handfull of character & locations have spellings provided by Dan J. Any that weren't are complete guesses based on the stream VODs.
 
 ## Are there Spoilers here?
 
@@ -22,7 +22,7 @@ Yes. Officially on the stream, it is considered not age appropriate for all audi
 
 ## How was the information here collected?
 
-The information here is collected solely from watching the streams and/or VODs. The creators do not have access to anything beyond what is presented in the stream or its recordings. Therefore, some information is based on speculation and conjecture based on the session events. Similarly, there may be spoilers in the reference documents for some sessions. 
+The information here is collected solely from watching the streams and/or VODs. Therefore, some information is based on speculation and conjecture based on the session events. Similarly, there may be spoilers in the reference documents for some sessions. A short document of correct spellings has been provied to the creator(s) by Dan J. Only spellings are used, and if the information is not provided in the session itself, then the document is not used. (Ex: A character has a last name but it is never spoken in session, then the last name does not appear in these references.)
 
 ## Navigating this Github
 
@@ -51,7 +51,7 @@ Newly Archived Bag Of Many Things Pulls are in $\color{lightgreen}{\textbf{Light
 <br>
 Unarchived NPCs or Items are in $\color{Gray}{\textbf{Gray}}$
 <br>
-Reminders of NPC or items are in $\color{tan}{\textbf{Tan}}$
+Reminders of NPCs, Items, or Locations are in $\color{tan}{\textbf{Tan}}$ *Reminders are given after a full story Arc or 5 sessions without being mentioned, whichever is shorter.*
 
 
 #### About the Creator(s)
