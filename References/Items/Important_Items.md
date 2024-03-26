@@ -1,12 +1,8 @@
 # Important & Notable Items
 
-## Sending Stone
-
-One of the stones used to communicate within the tunnel from Filgrove to Geria. The other was with the original party found within the Flesh Cave.
-
 ## Golden Amulet 
 
-A religious amulet for the Goddess Ophelia found amongst gear of the Crown's Guard. Said gear was in the Flesh Cave.
+A religious amulet for the Goddess Ophina found amongst gear of the Crown's Guard. Said gear was in the Flesh Cave.
 
 ## Magic Rope 
 
@@ -19,6 +15,10 @@ A one-time return button that is meant to bring anyone within 10 ft of the orb b
 ## Relic Staff
 
 A powerful artifact that originally came from Brightcoin's Vaults of Eversteel. Its power was used by the Brood Mother cult to create the Flesh Cave. It was successfully retrieved by the Party, and its effects are nullified by a Bag of Holding.
+
+## Sending Stone
+
+One of the stones used to communicate within the tunnel from Filgrove to Geria. The other was with the original party found within the Flesh Cave.
 
 ## Spell Scrolls 
 

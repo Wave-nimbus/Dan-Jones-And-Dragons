@@ -6,7 +6,8 @@ An item purchased from Karashala the Hag. It is able to judge distances and dire
 
 ### Feyli's Deck of Cards
 
-An item gotten from Karashala the Hag in exchange for a favor. It appears to be a fancy tarot deck of 20 cards, though Jocat believes it to be a Deck of Many Things. The favor in turn was to give the Relic Staff to Karashala. The first card pulled was Wheel of Fortune, causing Feyli to have Disadvantage on attacks & skill checks.
+An item gotten from Karashala the Hag in exchange for a favor. It appears to be a fancy tarot deck of 20 cards, though Jocat believes it to be a Deck of Many Things. The favor in turn was to give the Relic Staff to Karashala. <br>
+The first card pulled was Wheel of Fortune, causing Feyli to have Disadvantage on attacks & skill checks.
 
 ### Hobson's Adamantine Shortsword
 

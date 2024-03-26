@@ -1,6 +1,6 @@
 # Worldbuilding NPCs
 
-## Aether the Breaker
+## Ather the Breaker
 
 The deity that Gelnek prays to, and a member of the Nine. His domain involves destruction, warfare, calamities, and regrowth.
 
@@ -12,6 +12,6 @@ Presumably ancient or primordial beasts that live in the Underdark. What they ex
 
 One of the Fallen Goddesses. A cult dedicated to her lived within the Flesh Cave, though what exactly she represents is unknown. The cult failed to use the Relic Staff in some ritual for her.
 
-## Ophena
+## Ophina
 
-One of the Nine that makes up this world's pantheon. Ophena is the Goddess of Light, and her symbol is a bright star. 
+One of the Nine that makes up this world's pantheon. Ophina is the Goddess of Light, and her symbol is a bright star. 
