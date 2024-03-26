@@ -8,7 +8,7 @@ An extremely heavyset and buff human Monk that was part of the Champions of Virt
 
 A talking skull bought by Coil from Karashala. How he became a talking skull is unknown, but it is likely the work of a necromancer. He is fully aware of his predicament and desires to travel with the Party.
 
-## Valse, Hobson's Patron 
+## (Bracer) Valse "V", Hobson's Patron 
 
 Valse used to be a member of the Champions of Virtue. His memories are shrouded in mystery but he gets visions occasionally. He currently lives in the silver bracer on Hobson's arm, which allows him to control Hobson if he so desires. Despite losing his memories, Valse always feels like he is important. It is unknown if this bracer Valse is the same as the presumed dead Champion Valse.
 

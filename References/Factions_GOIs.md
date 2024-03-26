@@ -48,7 +48,7 @@ Known Subgroup: *Illustrious Delight*
 ## The Nine
 
 Serving as the Pantheon for the world of E'lythia, the Divine Nine represent various aspects of clerics, paladins and the like. <br>
-Mentioned deities of this pantheon include: *Aether the Breaker*, *Demulson "Hammer" Ruldros*, *The Nightmother*, and *Ophena*.
+Mentioned deities of this pantheon include: *Ather the Breaker*, *The Molten Hammer Ruldros*, *The Nightmother*, and *Ophina*.
 
 ## Viridescent Javelin Crew
 

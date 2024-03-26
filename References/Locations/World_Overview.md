@@ -52,7 +52,7 @@ A major and secure vault containing several artifacts. An attack and explosion c
 
 ### Westmont 
 
-A town in the South of Orlon. Some years ago, Arther Oathbringer reappeared with a flying castle and an army over the town. 
+A town in the South of Orlon. Some years ago, Arthur Oathbringer reappeared with a flying castle and an army over the town. 
 
 ## Other Regions
 
