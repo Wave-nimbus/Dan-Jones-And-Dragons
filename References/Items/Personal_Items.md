@@ -22,7 +22,7 @@ A draught of sleeping potion that was purchased at the Serpent's Flower. Hobson 
 
 ### Trilby's Bag of Many Things 
 
-A bag with unknown properties. It was gifted to Trilby by Biggleton Whippersnap with the Brass Puzzle locking the top. In turn, Trilby is supposed to give Whippersnap some items from the bag.
+A bag with unknown properties. It was gifted to Trilby by Biggleton Whipersnap with the Brass Puzzle locking the top. In turn, Trilby is supposed to give Whipersnap some items from the bag.
 
 ### Trilby's Brass Puzzle 
 

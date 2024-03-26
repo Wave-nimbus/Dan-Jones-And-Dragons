@@ -40,6 +40,6 @@ Former members include: *Feyli*
 ## The Nine 
 
 Serving as the Pantheon for the world that Orlon is in, the Nine represent various aspects of clerics, paladins and the like. <br>
-Mentioned deities of this pantheon include: *Aether the Breaker*, *The Nightmother*, and *Ophena*.
+Mentioned deities of this pantheon include: *Aether the Breaker*, *The Nightmother*, and *Ophina*.
 
 

@@ -2,7 +2,7 @@
 
 ## Bartholomew, Talking Skull 
 
-A talking skull bought by Coil from Karshala. How he became a talking skull is unknown, but it is likely the work of a necromancer. He is fully aware of his predicament and desires to travel with the Party.
+A talking skull bought by Coil from Karashala. How he became a talking skull is unknown, but it is likely the work of a necromancer. He is fully aware of his predicament and desires to travel with the Party.
 
 ## Valse, Hobson's Patron 
 

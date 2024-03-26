@@ -2,7 +2,7 @@
 
 Filgrove is where the Party spends most of their time. It is a decent sized city in the North of Orlon, serving as a defensive city in the past. In and around the city, the Party's early adventures take shape. It is home to several services that the Party utilizes, and it is looked over by the Crown's Guard and the Green Ravens. Although not much happens around the city, both groups are looking for additional help constantly. Notable locations in and around Filgrove include the following:
 
-### Bits and Bobs 
+### Bits and Bobbles 
 
 A pawn shop run by Biggleton Whipersnap. Trilby is given the Bag of Many Things covered by the Brass Puzzle by Whipersnap.
 
