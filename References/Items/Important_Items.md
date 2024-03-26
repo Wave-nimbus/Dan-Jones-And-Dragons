@@ -1,9 +1,5 @@
 # Important & Notable Items
 
-## Sending Stone
-
-One of the stones used to communicate within the tunnel from Filgrove to Geria. The other was with the original party that is MIA.
-
 ## The First's Heart
 
 An artifact of the First Dead that the Midnight Lotus believe Feyli stole. Feyli, however, did not steal it to her knowledge. Recovering the Heart is key to reviving the First Dead.
@@ -20,9 +16,13 @@ A one-time return button that is meant to bring anyone within 10 ft of the orb b
 
 A pristine pearl that Karashala gave to Trilby so he could give it to Feyli. Once given, it is absorbed into her hand. Karashala extracts it in exchange for a Lycanthropy cure. It seemed to have absorbed something from Feyli.
 
+## Sending Stone
+
+One of the stones used to communicate within the tunnel from Filgrove to Geria. The other was with the original party that is MIA.
+
 ## Staff of Defilement
 
-A powerful artifact that originally came from Brightcoin, the Vaults of Eversteel. Its power was used by the Brood Mother cult to create the Flesh Cave. It was successfully retrieved by the Party, and its effects are nullified by a Bag of Holding.
+A powerful artifact that originally came from Brightcoin's Vaults of Eversteel. Its power was used by the Brood Mother cult to create the Flesh Cave. It was successfully retrieved by the Party, and its effects are nullified by a Bag of Holding.
 
 ## Spell Scrolls
 

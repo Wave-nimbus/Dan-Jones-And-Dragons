@@ -1,10 +1,10 @@
 # Worldbuilding NPCs
 
-## Aether the Breaker
+## Ather the Breaker
 
 The deity that Gelnek prays to, and a member of the Nine. His domain involves destruction, warfare, calamities, and regrowth.
 
-## Arther Oathbringer 
+## Arthur Oathbringer 
 
 A presumed dead member of the Champions of Virtue. A statue of his likeness appears in the main square of Filgrove. Valse may remember him for some reason, or he might not.
 
@@ -14,7 +14,7 @@ One of the Fallen Goddesses. A cult dedicated to her lived within the Flesh Cave
 
 ## Cascos, The Flame Tyrant/Lord 
 
-One of the Fallen Gods. The Flaming Spears are a cult/group devoted to destroying the seal holding him.. He was a major figure from the Elemental Plane of Fire, previously thought to be unstoppable before he was chained and bound.
+One of the Fallen Gods. The Flaming Spears are a cult/group devoted to destroying the seal holding him. He was a major figure from the Elemental Plane of Fire, previously thought to be unstoppable before he was chained and bound.
 
 ## The Emperor of Orlon 
 

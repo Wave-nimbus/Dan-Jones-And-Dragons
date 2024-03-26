@@ -8,7 +8,8 @@ Known members include: *Dave the Necromancer*.
 ## The Burning Spears
 
 A cult dedicated to the Cascos the Fire Lord. They search for the seal that holds Cascos captive in order to destroy it and bring Cascos back to power. So far, they are mostly a harmless group of hooligans within Filgrove. <br>
-Known members include: *Famir*, *Han Rothenel*, *Jiroma*, *Odenne*, and *Trayton Farkle*.
+Known living members include: *Han Rathenal*, *Jiroma*, and *Trayton Farkle*
+Known dead members include: *Famir* and *Odenne*.
 
 ## Bloodletters Guild 
 
@@ -67,6 +68,6 @@ Known Subgroup: *Illustrious Delight*
 ## The Nine
 
 Serving as the Pantheon for the world that Orlon is in, the Nine represent various aspects of clerics, paladins and the like. <br>
-Mentioned deities of this pantheon include: *Aether the Breaker*, *The Nightmother*, and *Ophena*.
+Mentioned deities of this pantheon include: *Ather the Breaker*, *The Nightmother*, and *Ophina*.
 
 

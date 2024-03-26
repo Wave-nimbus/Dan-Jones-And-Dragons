@@ -6,7 +6,7 @@
 
 ### Played by Saren (They/Them)
 
-A Warforged with the head of jackal whose jaws are often locked up tight. Serves as the Party's greatest muscle and shield. Protective of all members of the Party, especially Feyli. Prefers to use his claws and mouth in combat, but carries a large sword as well for massive cleaving.
+A Warforged with the head of a jackal whose jaws are often locked up tight. He serves as the Party's greatest muscle and shield. Protective of all members of the Party, especially Feyli. Prefers to use his claws and mouth in combat, but carries a large sword as well for massive cleaving.
 
 ## Feyli the Circle of the Stars Druid (She/Her)
 

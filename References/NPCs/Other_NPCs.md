@@ -1,6 +1,6 @@
 # Major Recurring NPCs
 
-## Adokas Thanadar, Champion of Virtue 
+## Adokas Thandar, Champion of Virtue 
 
 An extremely heavyset and buff human Monk that was part of the Champions of Virtue hero group. He has since joined the Council of E'lythia, overseeing efforts to protect the realm. He hires the Party to search for artifacts from the Vaults of Eversteel.
 
