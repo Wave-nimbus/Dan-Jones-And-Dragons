@@ -6,7 +6,7 @@
 
 ### Played by Saren (They/Them)
 
-A Warforged with the head of jackal whose jaws are often locked up tight. Coil is likely an ancient Voedian Warforged, though his history is mostly unknown, even by him. he serves as the Party's greatest muscle and shield. He is protective of all members of the Party, especially Feyli. He prefers to use his claws and mouth in combat, but carries a large sword as well for massive cleaving. The Key to Coil unlocks his jaw, allowing him to enter a hyper rage where his bites recover HP.
+A Warforged with the head of jackal whose jaws are often locked up tight. Coil is likely an ancient Vodeian Warforged, though his history is mostly unknown, even by him. he serves as the Party's greatest muscle and shield. He is protective of all members of the Party, especially Feyli. He prefers to use his claws and mouth in combat, but carries a large sword as well for massive cleaving. The Key to Coil unlocks his jaw, allowing him to enter a hyper rage where his bites recover HP.
 
 ## Feyli the Circle of the Stars Druid (She/Her)
 
