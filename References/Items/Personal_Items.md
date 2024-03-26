@@ -14,7 +14,9 @@ A hide cloak/pelt that prevents creatures from gaining advantage on attacks due 
 
 ### Feyli's Deck of Cards
 
-An item gotten from Karashala the Hag in exchange for a favor. It appears to be a fancy tarot deck of 20 cards, though Jocat believes it to be a Deck of Many Things. The favor in turn was to give the Relic Staff to Karashala. The first card pulled was Wheel of Fortune, causing Feyli to have Disadvantage on attacks & skill checks. The second card was The Tower, resulting in her sinking into her surroundings ever so slightly.
+An item gotten from Karashala the Hag in exchange for a favor. It appears to be a fancy tarot deck of 20 cards, though Jocat believes it to be a Deck of Many Things. The favor in turn was to give the Relic Staff to Karashala. <br>
+The first card pulled was Wheel of Fortune, causing Feyli to have Disadvantage on attacks & skill checks. <br>
+The second card was The Tower, resulting in her sinking into her surroundings ever so slightly.
 
 ### Feyli's Key to Coil
 
@@ -40,21 +42,21 @@ An item purchased from the Chameleonaire for 500 gp. If used before a social enc
 
 A shortsword found among the personal effects of the Missing People. Originally discovered by Morenthal, it was given to Hobson for keeping, and it has since become his pact weapon. It deals Crit damage to objects.
 
-### Hobson's Milk of the Poppy Potion
-
-A draught of sleeping potion that was purchased at the Serpent's Flower. Hobson was potentially going to use it to avoid being possessed by Valse constantly.
-
 ### Hobson's Cloak of Protection
 
 A purple cloak that used to belong to a Crown's Guard member. It was found in the Flesh Cave. After attuning to it, Hobson gains a +1 to AC.
 
-### Morenthal's Void Absorption Hide Armor
+### Hobson's Milk of the Poppy Potion
 
-Hide armor that can be attuend to a sapecific element once per day, granting 5 damage reduction. It was crafted by Uldar of the Green Ravens.
+A draught of sleeping potion that was purchased at the Serpent's Flower. Hobson was potentially going to use it to avoid being possessed by Valse constantly.
 
 ### Morenthal's Purging Dagger
 
 A wooden dagger made from the Evertree, causing an additional 1d4 Radiant damage on hit. On a critical, it can be left in a target to deal 3d4 Radiant per round until the target removes it. It was purchased from the Chameleonaire for 1500 gp.
+
+### Morenthal's Void Absorption Hide Armor
+
+Hide armor that can be attuend to a sapecific element once per day, granting 5 damage reduction. It was crafted by Uldar of the Green Ravens.
 
 ### Trilby's Bag of Many Things
 

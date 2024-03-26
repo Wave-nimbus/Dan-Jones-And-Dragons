@@ -23,8 +23,7 @@ Known members include: *Adokas Thandar*, *Horace Devonshire*, *Kasma Lundor*, *N
 
 ## The Crown's Guard
 
-The Emperor's military branch serves the continent of Orlon. They are stretched pretty thin in Filgrove at this point, meaning they can't help with many military expeditions. 
-<br>
+The Emperor's military branch serves the continent of Orlon. They are stretched pretty thin in Filgrove at this point, meaning they can't help with many military expeditions. <br>
 Filgrove Contingent: Known alive members include: *Bori*, *Meribeth*, and *Facetious Hornsfarrow*. <br>
 Known dead members include: *Aster Leywin*, *Greywhill Lander*, and *Linton Kisa*.
 
@@ -32,11 +31,6 @@ Known dead members include: *Aster Leywin*, *Greywhill Lander*, and *Linton Kisa
 
 A number of Gods/Goddesses that previously were worshiped before the Nine. It is unknown if they truly exist or if only Cults believe in them. <br>
 Mentioned deities of this group include: *The Brood Mother*, *Cascos the Flame Tyrant*, and *The First Dead*.
-
-## Illustrious Delight
-
-A traveling caravan that appeared in Filgrove in time for the All Hallow's Eve festival. They are a circus group that travels the continent of Orlon, performing where they can get an audience. They are a subgroup of The Midnight Lotus, using their caravan as cover for stealing corpses. <br>
-Known members include: *Ember*, *Gorm*, *Rum & Elm*, *Sawyer*, and *Teszin Stormhoof*.
 
 ## Goblin Tribes
 
@@ -57,7 +51,13 @@ Exiled members include *Gelnek*.
 ## The Green Ravens
 
 Monster hunters that have made their home in Filgrove. They take care of various beasts and monsters that can be found in the area. The Party is on good terms with them and has been offered a place amongst their ranks. <br>
-Known members include: *CC*, *Hestio*, *Uldar*, *Shana*, *Tane*, and *Vera*. Former members include: *Graster*.
+Known members include: *CC*, *Hestio*, *Uldar*, *Shana*, *Tane*, and *Vera*. <br>
+Former members include: *Graster*.
+
+## Illustrious Delight
+
+A traveling caravan that appeared in Filgrove in time for the All Hallow's Eve festival. They are a circus group that travels the continent of Orlon, performing where they can get an audience. They are a subgroup of The Midnight Lotus, using their caravan as cover for stealing corpses. <br>
+Known members include: *Ember*, *Gorm*, *Rum & Elm*, *Sawyer*, and *Teszin Stormhoof*.
 
 ## The Midnight Lotus
 
@@ -68,11 +68,9 @@ Known Subgroup: *Illustrious Delight*
 ## The Divine Nine
 
 Serving as the Pantheon for the world of E'lythia, the Divine Nine represent various aspects of clerics, paladins and the like. <br>
-Mentioned deities of this pantheon include: *Aether the Breaker*, *Demulson "Hammer" Ruldros*, *The Nightmother*, and *Ophena*.
+Mentioned deities of this pantheon include: *Ather the Breaker*, *The Molten Hammer Ruldros*, *The Nightmother*, and *Ophena*.
 
 ## Viridescent Javelin Crew
 
 The crew of the Airship Viridescent Javelin that flew the Party from Filgrove to Northcliff. They are a mixed bag, but quite competent at what they do. They are also at the Party's disposal for the search of the 10 Artifacts. <br>
-Known members include: *Ardwill*, *Azru Avena*, *Karva*, *Geo*, *Grayton Mule*, *Marmitull Longfeather*, *Priscilla*, and *Vespi*.
-
-
+Known members include: *Ardwill*, *Azru Avena*, *Geo*, *Grayton Mule*, *Karva*, *Marmitull Longfeather*, *Priscilla*, and *Vespi*.

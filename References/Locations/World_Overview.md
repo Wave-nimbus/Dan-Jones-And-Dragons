@@ -38,6 +38,10 @@ The Underdark is the deep underground portions of a D&D world. The tunnel from F
 
 A volcanic region somewhere on the continent of Orlon. The nearby volcano renders it close to the Elemental Plane of Fire. Thus, it is the likely location of the Ring of Flame, one of the 10 Artifacts.
 
+### Blackfane 
+
+A large and major city in central Orlon. It serves as an enormous trade and merchent hub, with nearly anything being available to buy. It appears as a massive black spire with boardwalks running out a distance from the main spire. The Emperor of E'lythia is also housed in this city.
+
 ### Brightcoin
 
 A major city on the continent of Orlon. It is home to the Vaults of Eversteel, though little else is known about it
@@ -70,7 +74,7 @@ A town near the Sunken City of Cera, which serves as an adventuring and archeolo
 
 A large island in the South of Orlon that has strange and strong effects on magic. Many years ago, the Champions of Virtue killed a Lich here. Arthur Oathbringer's castle crashed here when Valse and Orsik Frostbeard went to investigate. No expedition to the island has been successful since. The Planar Mirror, one of the 10 Artifacts, is believed to be there.
 
-### Silverhill 
+### Silverfell 
 
 A town in the West of Orlon that is home to a mage college of some kind. That college is headed by Gregor Timbers, one of the Champions of Virtue. Hobson originally was an administrator for the college before getting his bracer with Valss. The package the bracer came in was likely originally addressed to Gregor.
 

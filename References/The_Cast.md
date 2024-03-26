@@ -1,45 +1,39 @@
 # Dungeon Master: Dan Jones
 
 # The Flower Crowns; Current Level: 6
-<span style="color:blue">
 
 ## Coil the Beast Barbarian (He/Him)
 
 ### Played by Saren (They/Them)
-</span>
-A Warforged with the head of jackal whose jaws are often locked up tight. Coil is likely an ancient Voedian Warforged, though his history is mostly unknown, even by him. he serves as the Party's greatest muscle and shield. He is protective of all members of the Party, especially Feyli. He prefers to use his claws and mouth in combat, but carries a large sword as well for massive cleaving.
-<span style="color:darkviolet">
+
+A Warforged with the head of a jackal whose jaws are often locked up tight. Coil is likely an ancient Vodeian Warforged, though his history is mostly unknown, even by him. He serves as the Party's greatest muscle and shield. He is protective of all members of the Party, especially Feyli. He prefers to use his claws and mouth in combat, but carries a large sword as well for massive cleaving.
 
 ## Feyli the Circle of the Stars Druid (She/Her)
 
 ### Played by Nichole (She/Her)
-</span>
+
 A tanned Tiefling with branch-like horns adorned with flowers and a tail wrapped in thorns. She has purple hair and an outfit suggesting an affinity for nature. She used to be part of the Midnight Lotus with a crystal necklace to prove it, but she is now running from them. She enjoys other people's drama so long as nobody gets physically hurt.
-<span style="color:goldenrod">
 
 ## Gelnek the Valor Bard (He/Him)
 
 ### Played by Jocat (He/Him)
-</span>
+
 A heavy set Goblin carrying a large drum and mace maracas. If it weren't for his green skin, he could easily be mistaken for a gangly dwarf. Declared to be double leader of the Party after defeating Feyli and Morenthal in an arm wrestling contest. Follows Aether the Breaker, and his tribe used to be the Ustenki before he failed his pilgrimage and was cast out.
-<span style="color:green">
 
 ## Hobson Bunce the Custom Warlock (He/Him)
 
 ### Played by Dan Floyd (He/Him)
-</span>
+
 A Halfling who looks like Ernie from Sesame Street. Has some light leather armor and a silver bracer he found in the mail accidently. His homebrewed patron is Valse, who is trapped within the bracer. Valse can also take control of Hobson if needed using the bracer. Visions of memories reveal that Valse used to be a Champion of Virtue.
-<span style="color:red">
 
 ## Morenthal the Assassin Rogue (He/They)
 
 ### Played by Gamb (He/They)
-</span>
+
 A Drow that is slowly warming up to the Party as the only people he could call friends. He was expelled from the Bloodletters bounty hunter/assassin group for unknown reasons. He wears black and leather, serving as the traditional edgy rogue. His protectiveness for Feyli has gotten him a bounty on his head as well.
-<span style="color:dodgerblue">
 
 ## Trilby the Artillerist Artificer (He/Him)
 
 ### Played by Barry (He/Him)
-</span>
+
 A soft, pampered Human who is both brilliant and laughably weak at the same time. The Party is most willing to protect this man and his Eldritch Cannon named Scrubbins. Trilby has very little experience with the world outside of Filgrove, so many of the Party's experiences are shockers to him and his sense of justice in the world.
