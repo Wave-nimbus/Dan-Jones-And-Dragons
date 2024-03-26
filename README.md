@@ -6,7 +6,7 @@ Dan Jones and Dungeons is a D&D Campaign that is streamed by Dan Jones (Twitch: 
 
 ## What is this?
 
-D&D Campaign that started in 2022. This wiki is completely unofficial, and no creators here are directly associated with any of the members of DJ&D. Any information or lore is gleaned solely from the streamed/recorded sessions. A handfull of character & locations have spellings provided by Dan J. Any that weren't are complete guesses based on the stream VODs.
+This is the fan-made reference/wiki for the Dan Jones And Dungeons D&D Campaign that started in 2022. This wiki is completely unofficial, and no creators here are directly associated with any of the members of DJ&D. Any information or lore is gleaned solely from the streamed/recorded sessions. A handfull of character & locations have spellings provided by Dan J. Any that weren't are complete guesses based on the stream VODs.
 
 ## Are there Spoilers here?
 
