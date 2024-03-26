@@ -10,25 +10,25 @@ One of the many creatures the Champions of Valor felled for being a threat to th
 
 ## Cascos, The Flame Tyrant/Lord 
 
-One of the Fallen Gods. The Flaming Spears are a cult/group devoted to destroying the seal holdng him.. He was a major figure from the Elemental Plane of Fire, previously thought to be unstoppable before he was chained and bound.
+One of the Fallen Gods. The Flaming Spears are a cult/group devoted to destroying the seal holding him.. He was a major figure from the Elemental Plane of Fire, previously thought to be unstoppable before he was chained and bound.
 
 ## The Evertree 
 
-One of the Nine. The Evertree is a female Centaur with an unspecified face. She represents the wilderness and nature. She is often worshiped by druidic communities or those who live far from large towns.
+One of the Nine. The Evertree is a female Centaur with an unspecified face. She represents the wilderness and nature. She is often worshiped by druidic communities or those who live far from large towns. Morenthal's Purging Dagger draws power from this figure somehow.
 
 ## Iris 
 
 One of the Nine. Iris's domain is currently unknown as is her symbol.
 
-## Leofrick Rozark, Emperor of Orlon 
+## Leofrick Roseark, Emperor of Orlon 
 
-The main authority over the contient of Orlon itself. The Emperors of Orlon live in Blackfane. The Champions of Virtue served him over half a century ago, and he created the group to unify the people of Orlon.
+The main authority over the continent of Orlon itself. The Emperors of Orlon live in Blackfane. The Champions of Virtue served him over half a century ago, and he created the group to unify the people of Orlon.
 
 ## Ophena the Dawnmaiden 
 
-One of the Nine that makes up this world's pantheon. Ophena is the Goddess of Light, and her symbhol is a bright star. She is also known as the Dawnmaiden.
+One of the Nine that makes up this world's pantheon. Ophena is the Goddess of Light, and her symbol is a bright star. She is also known as the Dawnmaiden.
 
-## Xereafax 
+## Xerafax 
 
 A powerful lich that took over the town of Ravenmire before the Champions of Valor were established. The defeat of the lich marked the point where the Champions were commissioned by the Emperor of Orlon.
 

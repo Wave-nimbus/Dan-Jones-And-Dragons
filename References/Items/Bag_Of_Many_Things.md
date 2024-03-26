@@ -10,11 +10,11 @@ A blue crystal that is not a Void Crystal. It could still be worth something, ho
 
 ## Ceramic Mask 
 
-Presumed to be a cereamic mask. What it depicts and what it can do are completely unknown.
+Presumed to be a ceramic mask. What it depicts and what it can do are completely unknown.
 
 ## Chain Necklace 
 
-A simple necklace made of sparkley metal. As a gift, Trilby gives it to Gnaw of the O'Stanke Tribe.
+A simple necklace made of sparkly metal. As a gift, Trilby gives it to Gnaw of the O'Stanke Tribe.
 
 ## Clockwork Wolf Statue 
 
@@ -30,7 +30,7 @@ A handful of droppings from a large animal such as a bear. They likely have no p
 
 ## Large Silver Fork 
 
-A standard fork that is just a little to large to be comfortable. Despite having a silver color to it, the underlying metal is not valuable.
+A standard fork that is just a little too large to be comfortable. Despite having a silver color to it, the underlying metal is not valuable.
 
 ## Matchbook 
 
@@ -42,4 +42,4 @@ Presumed to be a simply made helmet made of leather. Its usage is currently unkn
 
 ## Zamira Holy Symbol 
 
-A holy symbol dedicated to Zamira, the Goddess of knowledge, the arcane, and stars. It could probably be used byya cleric or paladin if needed.
+A holy symbol dedicated to Zamira, the Goddess of knowledge, the arcane, and stars. It could probably be used by a cleric or paladin if needed.
