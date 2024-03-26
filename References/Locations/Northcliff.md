@@ -30,7 +30,7 @@ Northcliff's main library is four or five stories tall filled with knowledge and
 
 A university that exists somewhere in Northcliff for higher education. Marmatool of the Airship Viridescent Javelin is an alumni of NCU. Casma used to teach at NCU.
 
-## O'Brian's Mill 
+## O'Brien's Mill 
 
 A small inn and tavern in the old district of Northcliff. It is home to more unsavory types should the Part be willing to do dirtier jobs. It has a password: three knocks and the phrase "The corn chowder is about ready."
 
@@ -44,7 +44,7 @@ An enormous tower in the center of the city that amplifies the power of magic. I
 
 ### Temple of the Dawnmaiden 
 
-One of the temples dedicated to a specific member of the Nine found in the Crystal Circle. This one is for Ophena the Dawnmaiden. Its stained glass windows and statues depicting Ophena are a hallmark of its architecture.
+One of the temples dedicated to a specific member of the Nine found in the Crystal Circle. This one is for Ophina the Dawnmaiden. Its stained glass windows and statues depicting Ophina are a hallmark of its architecture.
 
 ### Temple of the Nine 
 

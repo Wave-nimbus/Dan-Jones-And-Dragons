@@ -8,9 +8,9 @@ The owner and tavernkeep of the Shattered Shield has red skin and hair. He also 
 
 An Elf woman who was personally trained by Adokas Thandar at the Crossed Swords. She follows in his footsteps as a Monk, preferring hand-to-hand combat. She also covers for Adokas when needed. 
 
-## Becket Maxwell, Ophena Cleric 
+## Becket Maxwell, Ophina Cleric 
 
-A high-ranking cleric to Ophena. Gregor called on him in a ritual to potentially remove Valse's gauntlet from Hobson. Though his services were not needed. He notably has had one of his arms replaced with opal and stone.
+A high-ranking cleric to Ophina. Gregor called on him in a ritual to potentially remove Valse's gauntlet from Hobson. Though his services were not needed. He notably has had one of his arms replaced with opal and stone.
 
 ## Chestnut Wicklebee, Concerned Fisher 
 
@@ -30,7 +30,7 @@ A young male Human that always geeks over the Champions. He is part of a monthly
 
 The person who placed a request in Northcliff for help in clearing out the metal eating monsters in the nearby mines. Nothing else is known about him.
 
-## Hubert Hubbertubbs, Sculptor 
+## Hubbert Hubbertubbs, Sculptor 
 
 A male Dwarf who was commissioned to create a statue of Valse by Gelnek and Hobson. The statue itself will be erected somewhere in Northcliff's trade district if not the Champions Hall museum. 
 

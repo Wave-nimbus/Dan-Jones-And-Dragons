@@ -39,7 +39,7 @@ Known dead members include: *Aster Leywin*, *Greywhill Lander*, and *Linton Kisa
 An adventuring group that desires to be part of the hunt for the missing Artifacts. They have been turned down by Adokus for their willingness to step on and over other people to achieve their goals. <br>
 Known members include: *Ida Barton*.
 
-### The Endavi Tribe 
+## The Endavi Tribe 
 
 The tribe that formed the beast tribe government on Ty'vanera. They convinced most other groups on the continent to join them. Almost nothing else is known about them.
 
@@ -70,7 +70,7 @@ Known Subgroup: *Illustrious Delight*
 ## The Nine 
 
 Serving as the Pantheon for the world of E'lythia, the Divine Nine represent various aspects of clerics, paladins and the like. <br>
-Mentioned deities of this pantheon include: *Aether the Breaker*, *Demulson "Hammer" Ruldros*, *Iris*, *The Nightmother*, *Ophena*, and *Zamira*.
+Mentioned deities of this pantheon include: *Aether the Breaker*, *The Molten Hammer Ruldros*, *Iris*, *The Nightmother*, *Ophina the Dawnmaiden*, and *Zimera*.
 
 ## Viridescent Javelin Crew 
 

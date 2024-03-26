@@ -20,8 +20,8 @@ A purple magical stone used by casters to hold additional spells in reserve. It 
 
 ## Perfect Pearl 
 
-A pristine pearl that Karshala gave to Trilby so he could give it to Feyli. Once given, it is absorbed into her hand. Karshala extracts it in exchange for a Lycanthrope cure. It seemed to have absorbed something from Feyli.
+A pristine pearl that Karashala gave to Trilby so he could give it to Feyli. Once given, it is absorbed into her hand. Karashala extracts it in exchange for a Lycanthrope cure. It seemed to have absorbed something from Feyli.
 
 ## Ring of Flame
 
-One of the Missing Artifacts. A ring that is implied to be originally owned by the Flame Tyrant. It is heavily attuned to the Plane of Fire. It was recovered by the Party in the Sunken Keep of Ol'Lui after the Eyedra found it.
+One of the Missing Artifacts. A ring that is implied to be originally owned by the Flame Tyrant. It is heavily attuned to the Plane of Fire. It was recovered off of the Eyedra within the Castle of Ol'Lui, who had used it to turn it's lair into a magma flowing inferno. The ring allows for powerful magic to be cast as well as immunity to fire and heat.

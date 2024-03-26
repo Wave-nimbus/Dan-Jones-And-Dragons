@@ -24,9 +24,9 @@ One of the Nine. Iris's domain is currently unknown as is her symbol.
 
 The main authority over the continent of Orlon itself. The Emperors of Orlon live in Blackfane. The Champions of Virtue served him over half a century ago, and he created the group to unify the people of Orlon.
 
-## Ophena the Dawnmaiden 
+## Ophina the Dawnmaiden 
 
-One of the Nine that makes up this world's pantheon. Ophena is the Goddess of Light, and her symbol is a bright star. She is also known as the Dawnmaiden.
+One of the Nine that makes up this world's pantheon. Ophina is the Goddess of Light, and her symbol is a bright star. She is also known as the Dawnmaiden.
 
 ## Xerafax 
 

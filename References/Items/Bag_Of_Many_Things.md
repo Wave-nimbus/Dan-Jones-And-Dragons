@@ -14,7 +14,7 @@ Presumed to be a ceramic mask. What it depicts and what it can do are completely
 
 ## Chain Necklace 
 
-A simple necklace made of sparkly metal. As a gift, Trilby gives it to Gnaw of the O'Stanke Tribe.
+A simple necklace made of sparkly metal. As a gift, Trilby gives it to Gnaw of the Ustenki Tribe.
 
 ## Clockwork Wolf Statue 
 
@@ -40,6 +40,6 @@ A book of regular, nonmagical matches. With it, Trilby can probably start fires 
 
 Presumed to be a simply made helmet made of leather. Its usage is currently unknown, including if it adds an AC or not.
 
-## Zamira Holy Symbol 
+## Zimera Holy Symbol 
 
-A holy symbol dedicated to Zamira, the Goddess of knowledge, the arcane, and stars. It could probably be used by a cleric or paladin if needed.
+A holy symbol dedicated to Zimera, the Goddess of knowledge, the arcane, and stars. It could probably be used by a cleric or paladin if needed.

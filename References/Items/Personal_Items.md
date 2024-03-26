@@ -64,10 +64,6 @@ An old gold coin that is infused with some kind of Divination magic. Using a Bon
 
 A draught of sleeping potion that was purchased at the Serpent's Flower. Hobson was potentially going to use it to avoid being possessed by Valse constantly.
 
-### Morenthal's Void Absorption Hide Armor
-
-Hide armor that can be attuned to a specific element once per day, granting 5 damage reduction. It was crafted by Uldar of the Green Ravens.
-
 ### Morenthal's Purging Dagger
 
 A wooden dagger made from the Evertree (making it a divine weapon), causing an additional 1d4 Radiant damage on hit. On a critical, it can be left in a target to deal 3d4 Radiant per round until the target removes it. It was purchased from the Chameleonaire for 1500 gp.
@@ -75,6 +71,10 @@ A wooden dagger made from the Evertree (making it a divine weapon), causing an a
 ### Morenthal's Ring of Obscuring 
 
 A metallic ring that is capable of casting Fog Cloud centered on the ring using a charge. The ring starts with 3 charges. The spell lasts up to a minute.
+
+### Morenthal's Void Absorption Hide Armor
+
+Hide armor that can be attuned to a specific element once per day, granting 5 damage reduction. It was crafted by Uldar of the Green Ravens.
 
 ### Trilby's Bag of Many Things
 
@@ -84,7 +84,7 @@ A bag that creates a new available item once a day. It was gifted to Trilby by B
 
 A deviously complex puzzle that had to be solved before Trilby could access his Bag of Many Things. After a few days, Trilby managed to crack open the puzzle (which had a DC 25 INT check). 
 
-### Trilby's Healing Bee
+### Trilby's "Trilbee"
 
 A mechanical bee that Trilby created. It is capable of healing Party members as a Bonus Action, though its exact capabilities are unknown.
 
@@ -144,13 +144,13 @@ A small gold ring with a large dull opal in the center. When the wearer drops to
 
 A clear crystal ring with a small sculpture of a bee. Once per day, it summons a normal bee. It is neither hostile nor friendly. Requires Attunement.
 
-### Morenthal's Ring of Death and Life
-
-A mixed-colored ring made of onyx and ivory. While wearing it, the wearer is resistant to Necrotic damage and vulnerable to Radiant damage.
-
 ### Morenthal's Ring of the Blade
 
 A ring that looks like a sword bent into a ring. As an Action, the ring can become a nonmagical longsword or revert back into a ring. 
+
+### Morenthal's Ring of Death and Life
+
+A mixed-colored ring made of onyx and ivory. While wearing it, the wearer is resistant to Necrotic damage and vulnerable to Radiant damage.
 
 ### Morenthal's Ring of Watch
 
