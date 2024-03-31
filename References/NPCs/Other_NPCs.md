@@ -16,7 +16,7 @@ Valse used to be a member of the Champions of Virtue. His memories are shrouded 
 
 Organized by Faction, if available.
 
-## Airship Viridescent Javelin 
+## Airship Viridescent Javelin |
 
 ### Ardwill, Viridescent Javelin Quartermaster
 
@@ -32,7 +32,7 @@ A laid back Dwarven crew member of the Viridescent Javelin. He and Priscilla are
 
 ### Grayton Mule, Viridescent Javelin Crew
 
-A Half-Elf crew member of the Viridescent Javelin. He is often found sleeping in his hammock since he is also in charge of the night shift and watch.
+A Half-Elf crew member of the Viridescent Javelin. He is often found sleeping in his hammock since he is also in charge of the night shift and watch. He abandoned ship after letting Bloodletters attempt to kill the Party, and his status is unknown.
 
 ### Marmitull Longfeather, Viridescent Javelin Engineer
 
@@ -72,7 +72,7 @@ A towering knight either controlled by or loyal to the Second. His body has deca
 
 The second in command of the Midnight Lotus just behind the First Dead. He gives orders to the lower numbered tiers of the organization, as he is the direct apprentice of the First. He is a pale skinned human with sunken eyes and greasy, patchy black hair.
 
-## Bloodletters Guild
+## Bloodletters Guild |
 
 ### Duzrevur, Assassin Guild Head 
 
@@ -146,7 +146,7 @@ Valse the Champion of Virtue was some form of Eladrin hailing from the Feywild. 
 
 A female Goliath and previous member of the Champions of Virtue. She died of old age near the end of the Champions time of operations. Confirmed Dead.
 
-## The Council of E'lythia |
+## The Council of E'lythia
 
 ### Adokas Thanadar
 
@@ -176,7 +176,7 @@ A female Dwarf who radiates seriousness. She is always wearing battle attire. Wh
 
 A male Golden Dragonborn from Dragonhold. He wears white, regal robes and holds himself high. He has a very heavy build and wears silver accents to contrast his golden color.
 
-## The Crystal United Mercenaries |
+## The Crystal United Mercenaries
 
 ### Ida Barton, Mercenary
 
@@ -208,7 +208,7 @@ The ring leader, owner and/or operator of the Illustrious Delight circus troupe.
 
 A member of the Illustrious Delight circus troupe. He is a large Minotaur that acts as the circus's strongman act. While shy and bashful, his strength is unparalleled. The troupe is a part of the Midnight Lotus.
 
-## Ustenki Tribe |
+## Ustenki Tribe
 
 ### Burple, Ustenki Tracker 
 
@@ -244,7 +244,7 @@ A Gnome who runs the Mossy Castle inn at Ohkross. She has minor magical capabili
 
 An eccentric collector and arcane scientist originally from Ohkross. His experiments resulted in the creation of the Soul Egg and his soul being sucked inside of it. His body decayed, and he was presumed dead for 10 years. While in Northcliff, he is able to get Morenthal to smash the egg, freeing him and granting Morenthal proficiency in the History skill.
 
-### Finch, Renegade Mage |
+### Finch, Renegade Mage
 
 A scrawny male Golden Dragonborn that is fleeing from Westmont's magic academy. He seems to be a follower and/or cult member who worships the Scarlet Harvest.
 
@@ -271,14 +271,6 @@ A mushroom creature the Party encountered in the Underdark. Part of a race of en
 ### Nieven Erot, Blood Mage 
 
 A male Drow with the ability to control blood magic. He takes drops of Hobson, Gelnek, and Trilby's blood in order to track them during the search for the 10 Artifacts.
-
-### Preston FitzClarence |
-
-A wealthy man who lives in Brightcoin. He was Coil's previous owner before Feyli fled with Coil. His extensive information network has allowed him to track down the Party after they arrived in Northcliff.
-
-### Rylen Lendsborough, King of Brightcoin 
-
-Rylen is/was the King of Brightcoin where the Vaults of Eversteel are housed. He recommended Eldwin Flyleaf to the Champions of Virtue when the Champions were founded. Almost nothing else is known about him.
 
 ### Unknown Child
 

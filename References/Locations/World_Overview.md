@@ -12,7 +12,11 @@ Orlon is the main continent that the campaign takes place on. It is controlled b
 
 A volcanic region in the Southernmost part of Orlon. The nearby volcano, Mt. Fiorno, renders it close to the Elemental Plane of Fire. Thus, it was the location of the Ring of Flame, one of the 10 Artifacts.
 
-### Filgrove 
+### Brightcoin |
+
+A major city on the continent of Orlon. It is home to the Vaults of Eversteel, and it's ruled by a king named Rylen Lendsborough. It has an enormous population, making it one of the largest cities on E'lythia. See the Brightcoin reference for more information.
+
+### Filgrove |
 
 Filgrove is where the Party spends most of their time. It is a decent sized city in the North of Orlon, serving as a defensive city in the past. In and around the city, the Party's early adventures took shape. See the Filgrove reference for more information.
 
@@ -28,7 +32,7 @@ A town in the Northwest of Orlon. The Flower of Rebirth, one of the 10 Artifacts
 
 A town in the south of Orlon within the Ashen Highlands. The Ring of Flame was discovered by a resident before being taken to the nearby Voscorie Bog. See the Mt. Fiorno reference for more details.
 
-### Northcliff 
+### Northcliff |
 
 Northcliff is a technologically adavanced city that serves as a central hub for the search for the 10 Artifacts. It used to be home of the Champions of Virtue before they disbanded. It floats high above the ground on Green Void Crystals. Northcliff is near the Southwestern edge of Orlon. See the Northcliff reference for more details.
 
@@ -50,10 +54,6 @@ The Underdark is the deep underground portions of a D&D world. The tunnel from F
 
 A large and major city in central Orlon. It serves as an enormous trade and merchent hub, with nearly anything being available to buy. It appears as a massive black spire with boardwalks running out a distance from the main spire. The Emperor of E'lythia is also housed in this city.
 
-### Brightcoin
-
-A major city on the continent of Orlon. It is home to the Vaults of Eversteel, though little else is known about it. It's ruled by a king named Rylen Lendsborough.
-
 ### Desert of Thorns 
 
 A large desert in Eastern Orlon. The Gauntlet of the Eye, one of the 10 Artifacts, is believed to be somewhere in this desert.
@@ -66,11 +66,11 @@ A city somewhere in Orlon, presumably with a large population of dragons or drac
 
 A series of Islands somewhere in Orlon. The Champions of Virtue killed wyvyrns in that area, making it Trilby's favorite feat of the group. Almost nothing else is known about the region.
 
-### Duskern
+### Duskern |
 
 A town in central Orlon that is currently dealing with an outbreak of Ashen Rot. Almost nothing else is known about it.
 
-### Emerald Sea |
+### Emerald Sea
 
 A sea that is presumably somewhere off of Orlon's coast. Preston Fitzclarance believes that one of the 10 Artifacts is located in or around the Sea.
 
@@ -86,9 +86,13 @@ A town where Sionia is originally from. Though on the Orlon continent, they are 
 
 A dwarven island in the North and West part of Orlon. Not much is known about it other than a tunnel supposedly exists between it and Filgrove's Undercroft. The Champions previously killed a powerful monster here.
 
-### Maple |
+### Maple
 
 A town to the Southeast where Hobson's family lives. Maple Farms is a brand of wine. Ruins of the Voedia civilization are nearby. Almost nothing else is known about it.
+
+### Merchant's Pass |
+
+An extensive continent-wide trade route. One end of it is at Brightcoin, and where it goes is unknown. It is likely analogous to the Silk Road, however.
 
 ### Morfield
 
@@ -102,9 +106,9 @@ A town even further North than Filgrove. It was the site of the lich Xerafax's b
 
 A town mostly populated by Druids somewhere in Orlon. It was the site of a interplanar rift between the Material and Feywild Planes. The Champions helped close the rift, and due to Valse's actions on the Feywild side, he was inducted into the group.
 
-### Rycefall
+### Rycefall |
 
-A town near the Sunken City of Cera, which serves as a adventuring and archeology hub. Beyond that, almost nothing is known about it.
+A town near the Sunken City of Cera, which serves as a adventuring and archeology hub. Trilby apparently owns about an acre of land there thanks to his Bag of Many Things. Beyond that, almost nothing is known about it. 
 
 ### Scarlan/Nightmother Temple
 
@@ -118,7 +122,7 @@ A series of ports, coves, and towns that serve as a pirate's haven on the North 
 
 A decently large city in the Underdark filled with Duergar and insectoids. Duergar are underground dwarves that presumably don't like outsiders. The Miners and Party have been told to avoid the city by the Crown's Guard.
 
-### Silverfell |
+### Silverfell
 
 A town in the West of Orlon that is home to a mage college of some kind. That college is headed by Gregor Timbers, one of the Champions of Virtue. Hobson originally was an administrator for the college before getting his bracer with Valse. The package the bracer came in was likely originally addressed to Gregor.
 
@@ -130,23 +134,27 @@ A town on the Western edge of Orlon. Horace Devonshire is known as the Wizard of
 
 The ruins of the Vodeia civilization. These ruins are the most likely origin of Coil, as similar Nobility Cera models of Warforged have been discovered on delves into the city's ruins.
 
-### Vaults of Eversteel 
+### Vaults of Eversteel |
 
-A major and secure vault containing several artifacts. An attack and explosion caused several of such artifacts to be spread around the world of E'lythia. The Council of E'lythia has been tasked with recovering these artifacts.
+See the Brightcoin Reference.
 
 ### Void Cave
 
 A large cave filled with Void Crystals that was home to the Void Snail. It is about 2 days travel to the West of Filgrove. The Party killed the Void Snail, taking chunks back to create new items.
 
-### Wellmore Keep |
+### Wellmore Keep
 
 A structure near Silverfell where a mysterious mansion has reappeared. Almost nothing else is known about the keep itself.
 
-### Westmont |
+### Westmont
 
 A town in the South of Orlon. Some years ago, Arther Oathbringer reappeared with a flying castle and an army over the town. It houses a magical school where a powerful Dragonborn escaped from.
 
 ## Other Regions
+
+### The Krotos Ocean |
+
+The ocean that lies to the East of the continent of Orlon. How large it is and how long it takes to traverse are both unknown, as is where the other continents are relative to it.
 
 ### Shariza
 
