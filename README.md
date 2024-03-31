@@ -1,4 +1,4 @@
-# Dan Jones And Dragons Fan Wiki: Arc 7: Unnamed
+# Dan Jones And Dragons Fan Wiki: Use Everything
 
 ## Where can I find DJ&D?
 
@@ -14,7 +14,7 @@ This is the fan-made reference/wiki for the Dan Jones And Dungeons D&D Campaign 
 
 The series has been going on long enough to break up the sessions into miniature arcs. These arcs have been named based on their content, and the relevant episodes are divided into them.
 
-*Arc 7, Unnamed* contains information referenced in and updated for Sessions 20, 21, and 22. Information not mentioned in this arc or otherwise deemed unnecissary for understanding it has been removed for easier viewing, reading, and searching.
+*Use Everything* contains information referenced in and updated for Sessions 20, 21, and 22. Information not mentioned in this arc or otherwise deemed unnecissary for understanding it has been removed for easier viewing, reading, and searching.
 
 ## Does DJ&J have a content rating?
 
