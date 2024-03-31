@@ -48,6 +48,10 @@ A religious symbol of some kind of combat-focused God/Goddess. It has a crossed 
 
 A sizable bottle that is completely empty. It is about the same size as the bottle for the Ship in a Bottle.
 
+## Exotic Lizard 
+
+A medium sized Lizard that resembles a dragon without wings. It has dark orang and amber scales. Trilby gave it to Feyli to care for, though neither of them have created a strong bond with it yet.
+
 ## Grappling Hook 
 
 A metalic hook attached to 50ft of rope. It appears to be a standard grappling hook, though Trilby may have trouble weilding it.
@@ -64,7 +68,7 @@ A completely ordinary but high quality green silk ribbon. It measures 10 ft long
 
 A chunk of anti-gravity Green Void Crystal. It could be used to make an item ligher if needed. Trilby incorporates it into Scrubbins so any Force Billista blast can pull enemies 5 feet as well as pushing them 5 feet.
 
-## Handaxe |
+## Handaxe 
 
 A standard Handaxe. It is not otherwise magical or special in any way. It is light enough to be dual wielded and can be thrown.
 
@@ -75,6 +79,10 @@ A small conical shell that does not appear to have a creature inside of it. Furt
 ## Hunting Trap
 
 A normal mechanical hunting trap used to catch small animals. It chomped on Trilby's hand when it was pulled. Feyli is given the Trap, as she is most atttuned to nature and survival.
+
+## Ivory Chess Pawn 
+
+A chess pawn made out of ivory. It's usage is unknown, but it was given to the Exotic Lizard as food. For some reason.
 
 ## Jingle Bell
 
@@ -103,6 +111,10 @@ A basic book or journal that Trilby can use to write things down. Has the honor 
 ## Pair of Marbles 
 
 A pair of fancy marbles that were pulled out of the bag. They were the mysterious item Trilby tricked the pixies at Valse's statue to desire so badly.
+
+## Rycefall Land Deed 
+
+A deed for a small plot of land in Rycefall. The deed appears to be legitimate, and it lays claim to an acre of land in or near the city.
 
 ## Simple Leather Helmet 
 

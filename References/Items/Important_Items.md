@@ -78,6 +78,10 @@ A powerful artifact that originally came from Brightcoin's Vaults of Eversteel. 
 
 A journal discovered in the Flesh Cave discussing a failed ritual and a cult for the Brood Mother. The writer fears the Brood Mother's presence and the cult that surrounds it. The cult sees the writer as a traitor. At the end of the journal are unintelligable scrawls of Father Waits. The final page has a depiction of the Staff of Defilement.
 
+## Wand of Feather Fall 
+
+An item that allows the spell Feather Fall to be used. They can serve as tools for abandoning an airship midflight, both as a life-preserving measure and as a dastardly escape attempt.
+
 ## Wand of Magic Missiles
 
 A wand that is capable of casting the Magic Missile spell. It has 7 charges, and each charge represents a spell level used to cast Magic Missile. It recharges some number of charges at Dawn, and it can break if reduced to 0 charges. It has yet to be given to a Player permenantly, yet.
