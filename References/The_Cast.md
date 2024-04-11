@@ -2,7 +2,7 @@
 
 # The Flower Crowns; Current Level: 8
 
-## Coil the Beast Barbarian (He/Him)
+## Coil the Beast Barbarian & Fighter (He/Him)
 
 ### Played by Saren (They/Them)
 
