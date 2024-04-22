@@ -16,8 +16,8 @@ A major and secure vault containing several artifacts. An attack and explosion c
 
 ### Wick Estate
 
-The home of Jonathan Wick, a peasant turned major noble. It is oppulant and extravagant, filled with masterpieces of art and decor. It is clear that Mr. Wick spared no expense on his estate, though it calls into question how a candlemaker can afford such luxury.
+The home of Jonathan Wick, a peasant turned major noble. It is oppulant and extravagant, filled with masterpieces of art and decor. It is clear that Mr. Wick spared no expense on his estate, though it calls into question how a candlemaker can afford such luxury. Mr. Wick also managed to entrap an Aboleth as a display of his wealth.
 
 ### Wizards of the Coats
 
-An upscale clothing store where the Party receives dress clothes for Mr. Wick's gala. It is run by a man named Taz.
+An upscale clothing store where the Party receives dress clothes for Mr. Wick's Gala. It is run by a man named Taz. The dress clothes each Party member selected are found at the start of the Session 24 recap.

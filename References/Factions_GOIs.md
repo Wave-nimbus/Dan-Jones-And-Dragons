@@ -80,6 +80,11 @@ Monster hunters that have made their home in Filgrove. They take care of various
 Known members include: *CC*, *Hestio*, *Uldar*, *Shana*, *Tane*, and *Vera*. <br> 
 Former members include: *Graster*.
 
+## The Griffin Riders 
+
+A military contingent that serves out of Brightcoin. They have since been joined with the Crown's Guard to serve the Emperor, though they do remain a separate branch of the military. They presumably ride Griffins in battle. <br>
+Known members include: *Vixen Mersidia*.
+
 ## Illustrious Delight
 
 A traveling caravan that appeared in Filgrove in time for the All Hallow's Eve festival. They are a circus group that travels the continent of Orlon, performing where they can get an audience. They are a subgroup of The Midnight Lotus, using their caravan as cover for stealing corpses. <br>

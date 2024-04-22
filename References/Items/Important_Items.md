@@ -42,6 +42,10 @@ A purple magical stone used by casters to hold additional spells in reserve. It 
 
 A pair of foul silver potions that cure the curse of Lycanthropy. Given to Jiroma and Trayton, who are now cured.
 
+## Magic Key 
+
+A brass key that can be used to control a person's mind. The holder can see who has been affected by the Key as their face is scribbled over with black lines. It was presumably used by Jonathan Wick to become extremely popular amongst Brightcoin's nobility. It could potentially be The Shaper of Minds.
+
 ## Magic Rope
 
 A length of twine rope that was discovered amongs the Crown's Guard's gear. It pinged magical by Hobson's Detect Magic, though what it can do is unknown.
@@ -74,9 +78,13 @@ Three spell scrolls that were found amongst the Crown's Guard gear. What spells 
 
 A powerful artifact that originally came from Brightcoin's Vaults of Eversteel. It's power was used by the Brood Mother cult to create the Flesh Cave. It was successfully retrieved by the Party, and its effects are nullified by a Bag of Holding. It was one of the 10 Artifacts.
 
+## Tuning Fork (???) 
+
+A black metalic rod with tuning fork tines on both ends. It glows red from several cracks and is hot to the touch, but not burning. Morenthal stole it from Jonathan Wick's Estate. What Plane it is attuned to is unknown at this time.
+
 ## Unknown Journal
 
-A journal discovered in the Flesh Cave discussing a failed ritual and a cult for the Brood Mother. The writer fears the Brood Mother's presence and the cult that surrounds it. The cult sees the writer as a traitor. At the end of the journal are unintelligable scrawls of Father Waits. The final page has a depiction of the Staff of Defilement.
+A journal discovered in the Flesh Cave discussing a failed ritual and a cult for the Brood Mother. The writer fears the Brood Mother's presence and the cult that surrounds it. The cult sees the writer as a traitor. At the end of the journal are unintelligable scrawls of Father Waits. The final page has a depiction of the Staff of Defilement.'
 
 ## Wand of Feather Fall 
 

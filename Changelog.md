@@ -42,6 +42,8 @@
 
 #### March 31, 2024 - Compiled Session 23. (1 day late)
 
+#### April 22, 2024 - Compiled Session 24 (1 day late)
+
 ## Intersession Updates
 
 #### August 18, 2022 - Removed rules lawyering; Minor adjustments.
