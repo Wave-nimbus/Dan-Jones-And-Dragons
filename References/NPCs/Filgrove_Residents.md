@@ -52,7 +52,7 @@ The potion master capable of most anything that is required for hunting beasts. 
 
 A friend of Trilby and his creations, he owns the pawn shop known as Bits and Bobbles. He also gave Trilby the Bag of Many Things with the Brass Puzzle on it.
 
-## Bill Redshirt, Minor Miner
+## Bill Redshirt, Minor Miner |
 
 A guide for the tunnel between Filgrove and Geria that would surely die if the Party failed to protect him. 
 

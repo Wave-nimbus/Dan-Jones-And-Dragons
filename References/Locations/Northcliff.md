@@ -6,7 +6,7 @@ Northcliff is a large, technologically advanced city in the Southwest of Orlon. 
 
 A farm owned by Macadoo Blezulbee in Northcliff's Old Town. It is currently housing a barn that contains a combat robot. The robot was originally commissioned for farming, but the inventors took it too far.
 
-### Champion's Hall |
+### Champion's Hall
 
 Once the headquarters of the Champions of Virtue, this massive mansion has been turned into a museum dedicated to them. A massive painting depicting the Champions and their names is a centerpiece of the museum's collection.
 
@@ -14,11 +14,11 @@ Once the headquarters of the Champions of Virtue, this massive mansion has been 
 
 The unofficial designation for the mines below Northcliff. Most of Northcliff's mining occurs here. They are currently having issues with some creature that eats metal and iron, causing the iron supply to be threatened.
 
-### The Crossed Swords |
+### The Crossed Swords
 
 Adokus's dojo is within the Eastern entertainment district. He runs various (legal) sparing and sportsbetting operations within. He also appears to be much more relaxed at his dojo than in any other formal situations.
 
-### Coryfair River |
+### Coryfair River
 
 The river (and lake of the same name) is where most of Northcliff's main fresh water comes from. It is fairly clear and clean, but with little to no fish in it.
 
@@ -54,15 +54,15 @@ A small inn and tavern in the old district of Northcliff. It is home to more uns
 
 A hole-in-the-wall jewelry shop run by a Gnome named Velina. Almost any type of jewelry can be bought here, including pieces crafted from Void Crystals.
 
-### The Shattered Shield |
+### The Shattered Shield
 
 Found in the East of the city, this is the inn that the Flower Crowns stay at while in Northcliff. It is run by the 4-armed Arjun Moon. While it is not quite as cozy as the Brass Squid, it is nicer and fancier than the inn in Filgrove.
 
-### The Spire |
+### The Spire
 
 An enormous tower in the center of the city that amplifies the power of magic. It is the power source of the magical barrier surrounding Northcliff. It also serves as the meeting place for the Council of E'lythia members to coordinate the search. The tower's power allows for scrying spells to reach far beyond what an ordinary person could create.
 
-### The Suggestive Squeeze |
+### The Suggestive Squeeze
 
 A location in a seedier part of the Entertainment District. It is presumably a saloon of some kind that is frequented by Pancreas Hornsfarrow.
 

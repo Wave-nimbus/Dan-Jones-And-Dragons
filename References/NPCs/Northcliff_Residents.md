@@ -1,6 +1,6 @@
 # Notable Northcliff Residents
 
-## Arjun Moon, Tavernkeep |
+## Arjun Moon, Tavernkeep
 
 The owner and tavernkeep of the Shattered Shield has red skin and hair. He also has four arms: two normal humanoid arms and two large crab claws. Despite his appearance, he appears to be social and relaxed.
 
@@ -50,7 +50,7 @@ The owner and operator of the Opal Circlet in Northcliff. An elderly gnome woman
 
 A young male Human that always geeks overe the Champions. He is part of a monthly meetup of likeminded nerds to discuss the Champions. He is friends with Trilby over their shared obsession with the Champions.
 
-## Cole, Mining Manager |
+## Cole, Mining Manager
 
 A dark skinned male Tiefling who placed a request in Northcliff for help in clearing out the metal eating monsters in the nearby mines.
 

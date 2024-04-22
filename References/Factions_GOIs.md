@@ -34,7 +34,7 @@ Presumed Dead Members include: *Arthur Oathbringer*, *Orsik Frostbeard*, and *Va
 A peacekeeping organization tasked with dealing with threats across the world of E'lythia. Their members include representatives from across the globe and from different walks of life. Their current focus is recovering the 10 Artifacts from Brightcoin. <br>
 The Council is made up of: *Adokas Thandar*, *Brenon Hazelheart*,  *Delilah Wintersbane*, *Eileen Roseark*, *Micha Ivory*, *Sionia Quidithas*, and *Ternos Beldhall*.
 
-## The Crown's Guard 
+## The Crown's Guard |
 
 The Emperor's military branch serves the continent of Orlon. They are stretched pretty thin in Filgrove at this point, meaning they can't help with many military expeditions. <br>
 Filgrove Contingent: Known living members include: *Bori*, *Meribeth*, and *Ficesious Hornsfarrow*. <br>
@@ -79,6 +79,11 @@ Known members include: *Burple*, *Chief Stompie*, *Gnaw*.
 Monster hunters that have made their home in Filgrove. They take care of various beasts and monsters that can be found in the area. The Party is on good terms with them and has been offered a place amongst their ranks. <br>
 Known members include: *CC*, *Hestio*, *Uldar*, *Shana*, *Tane*, and *Vera*. <br> 
 Former members include: *Graster*.
+
+## The Griffin Riders |
+
+A military contingent that serves out of Brightcoin. They have since been joined with the Crown's Guard to serve the Emperor, though they do remain a separate branch of the military. They presumably ride Griffins in battle. <br>
+Known members include: *Vixen Mersidia*.
 
 ## Illustrious Delight
 

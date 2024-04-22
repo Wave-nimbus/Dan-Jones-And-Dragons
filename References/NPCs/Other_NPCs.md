@@ -264,7 +264,7 @@ A female Gnome with several technical gadgets on her arms. Her monocle adjusts i
 
 A female Goliath who carries the second Valse gauntlet. She currently travels with Vindilay as a novice bounty hunter as she tries to get the gauntlet off.
 
-### Me, Mushroom Man
+### Me, Mushroom Man |
 
 A mushroom creature the Party encountered in the Underdark. Part of a race of enormous mushroom creatures that eat creatures that stay inside their mushroom hill cavern. Otherwise quite friendly.
 
