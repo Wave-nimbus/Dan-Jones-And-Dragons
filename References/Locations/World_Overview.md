@@ -196,6 +196,12 @@ A continent separate from Orlon. Almost nothing is known about the continent oth
 
 A town on the Eastern part of Djoria, the smallest of the three named continents. It is currently under siege by The Heart of the Keep, one of the 10 Artifacts.
 
+# Extra-Planar Locations
+
+## Mechanis; (???) Plane |
+
+A city found in an unknown Plane of existence. Home to mechanized automaton creatures. The ruler of the realm created the Magic Key to maintain control over the city, suppressing any who oppose the city's laws. Six was sent from Mechanis to retrieve the Magic Key from Mr. Wick.
+
 # Major Events
 
 ### Explosion at the Vaults of Eversteel 
@@ -210,12 +216,12 @@ A series of wars in the North of Orlon. Arther Oathbringer made his name by bein
 
 A bloody conflict presumably taking place on the western side of Orlon. According to Adokas, it is a stalemate and on pause while the artifacts are being retrieved.
 
-## Travel Network
+# Travel Network
 
-### The Airship Viridescent Javelin
+## The Airship Viridescent Javelin
 
 The first Airship of the campaign that takes the Party from Filgrove south to Northcliff over the course of four days. It is a large flying ship held aloft by six large Green Void Crystals. Its weaponry includes six ballistas, which can be used to attack flying or grounded enemies off of the ship. The ship is at the Party's disposal for their hunt for the 10 Artifacts. Its crew is listed in the NPC references.
 
-### Teleporation Circles 
+## Teleporation Circles 
 
 A series of Teleportation Circles allow for much longer and much quicker travel between cities. The Party has yet to use any for direct travel yet. Known Teleportation Circles are found within: *Blackfane*, *Filgrove*, and *Northcliff*

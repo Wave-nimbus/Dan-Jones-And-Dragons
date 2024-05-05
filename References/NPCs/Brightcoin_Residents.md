@@ -26,9 +26,13 @@ A female Human who serves as the commanding officer of the Griffin Riders. She c
 
 # Gala Attendees
 
+## Arta Weylin, Partygoer
+
+A female Drow Warlock that attended the Gala at Jonathan Wick's Estate. What she did to get inside is unknown, but she was unaffected by the Magic Key. She helped the Party defeat the Crystal United Mercenaries and the Aboleth.
+
 ## Chuck, Suspicious Partygoer
 
-A male Human who came to the Gala at Jonathan Wick's Estate as a guest of Theodore Lesani. He explores the Estate and manages to follow the Party into its vault. Little else is known about him.
+A male Human who came to the Gala at Jonathan Wick's Estate as a guest of Theodore Lesani. He explores the Estate and manages to follow the Party into its vault. This was the disguise for Josh of the Crystal United Mercenaries.
 
 ## Emelia Rivenapple, Pianist
 
@@ -44,7 +48,7 @@ A voluptuous Human woman who initially flirts with Trilby at during the Gala at 
 
 ## Theodore Lesani, Noble
 
-A male Human with blond hair that was invited to the Gala at Jonathan Wick's Estate. Almost nothing else is known about him.
+A male Human with blond hair that was invited to the Gala at Jonathan Wick's Estate. This was the disguise for Quinn of the Crystal United Mercenaries.
 
 # Store Employees
 

@@ -39,7 +39,7 @@ A silver headband with a chunk of Void Crystal embedded inside that Uldar of the
 
 ### Feyli's Music Box
 
-A seemingly ordinary Music Box that Feyli continuously forgets she has. She alone is confused by not having seen it before, despite showing to the Party multiple times. (Such forgetful properties are referred to as "antimemetic") Horace Devonshire used it to erase some of Feyli's memories of her time with the Midnight Lotus. That erasure is complete.
+A seemingly ordinary Music Box that Feyli continuously forgets she has. She alone is confused by not having seen it before, despite showing to the Party multiple times. (Such forgetful properties are referred to as "antimemetic") Horace Devonshire used it to erase some of Feyli's memories of her time with the Midnight Lotus. That erasure is complete, but it was undone by Coil using the Magic Key. Said memories were of Feyli stealing the First's Heart and throwing it away near Maple.
 
 ### Gelnek's Dragon Scale Button
 
@@ -225,7 +225,7 @@ A solid flat metal band. If placed on a wall and the wall is less than 3 ft thic
 
 #### Morenthal's Ring Ring |
 
-A pair of rings that allow the wearers to communicate telepathically for 500 ft.
+A pair of rings that allow the wearers to communicate telepathically for 500 ft. The Crystal United Mercenaries have their own pair of Ring Rings.
 
 #### Morenthal's Ring of Watch
 

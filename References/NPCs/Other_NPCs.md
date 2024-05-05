@@ -176,15 +176,23 @@ A female Dwarf who radiates seriousness. She is always wearing battle attire. Wh
 
 A male Golden Dragonborn from Dragonhold. He wears white, regal robes and holds himself high. He has a very heavy build and wears silver accents to contrast his golden color.
 
-## The Crystal United Mercenaries
+## The Crystal United Mercenaries |
+
+### Glurte, Mercenary Druid
+
+A male Grung and member of the Crystal United Mercenaries. His powerful magic was used by the group to infiltrate the Gala at Mr. Wick's Estate in an attempt to retrieve the Magic Key. 
 
 ### Ida Barton, Mercenary
 
 A female Tabaxi and member of the Crystal United Mercenaries. She wants Adokus to greenlight her group to help the Council recover the missing Artifacts. However, she is willing to step on and over people to get what she wants.
 
-### Josh, Mercenary
+### Josh, Mercenary Rogue
 
-A male Human member of the Crystal United Mercenaries. He has a swaggering persona, and he tries to glean what the Flower Crowns are up to on multiple occasions.
+A male Human member of the Crystal United Mercenaries. He has a swaggering persona, and he tries to glean what the Flower Crowns are up to on multiple occasions. His skills as a rogue are not to be underestimated, however.
+
+### Quinn, Mercenary Sorcerer
+
+A male Elf member of the Crystal United Mercenaris. He wears a mask constnatly, but his magic is focused on illusions. He was able to give disguises to those infiltrating the Gala at Mr. Wick's Estate. He is also rutheless, willing to kill others to get what he or the Mercenaries want.
 
 ## Illustrious Delight 
 
@@ -252,7 +260,7 @@ A scrawny male Golden Dragonborn that is fleeing from Westmont's magic academy. 
 
 A sketchy male Dwarf that has angered a faction known as the Amber Hearts. He has a metal plate or gear embedded in his head, giving him his nickname. His bounty runs for 50,000 gp.
 
-### Horace Devonshire, The Wizard of the White Tower
+### Horace Devonshire, The Wizard of the White Tower |
 
 Originally from Springoak, this stereotypically blue robed wizard was in charge of ensuring the amplified Spire's scrying spells worked perfectly. He also helped erase many of Feyli's memories of the Midnight Lotus using her Music Box.
 
@@ -271,6 +279,14 @@ A mushroom creature the Party encountered in the Underdark. Part of a race of en
 ### Nieven Erot, Blood Mage 
 
 A male Drow with the ability to control blood magic. He takes drops of Hobson, Gelnek, and Trilby's blood in order to track them during the search for the 10 Artifacts.
+
+### Pocket, Pixie Pet |
+
+A female Pixie that was forced to be a pet for a noblewoman who attended the Gala at Jonathan Wick's Estate. She was eventually freed by the Party and is currently riding with Feyli until she can find a way back to the Feywild.
+
+### Six, Mechanis Soldier |
+
+A female automaton with four arms. She was sent from Mechanis to Brightcoin to retrieve the Magic Key from Mr. Wick. Her arms can fuse into four blades, and she can apparently breath underwater. She is an extremely powerful combatant, but she only desires the Key to be out of the hands of mortals. She makes a deal to talk to the Council of E'lythia about taking the Magic Key back to Mechanis.
 
 ### Unknown Child
 

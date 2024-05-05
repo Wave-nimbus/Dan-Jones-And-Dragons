@@ -6,8 +6,9 @@ A faction found in Domberland has been ticked off by Gear Head, a criminal. Almo
 
 ## The Black Hand 
 
-A group of necromancers that prey upon the emotionally vulnereable, such as mourners or those that have nothing left to lose. Their base is in Lafford on Orlon, which has since been destroyed. They were a cult that worships the First Dead. <br>
-Known dead members include: *Aryk*, *Dave the Necromancer*, and *The Second*.
+A group of necromancers that prey upon the emotionally vulnereable, such as mourners or those that have nothing left to lose. They are a cult that worships the First Dead. <br>
+Known dead members include: *Aryk*, *Dave the Necromancer*, and *The Second*.<br>
+Known Subgroup: *The Midnight lotus*.
 
 ## The Burning Spears 
 
@@ -41,11 +42,11 @@ Filgrove Contingent: Known living members include: *Bori*, *Meribeth*, and *Fice
 Known dead members include: *Greywhill Lander*, *Aster Leywin*, and *Linton Kisa*. <br>
 Northcliff Contingent: Known members include: *Pancreas Hornsfarrow*.
 
-## The Crystal United Mercenaries
+## The Crystal United Mercenaries |
 
-An adventuring group that desires to be part of the hunt for the missing Artifacts. They have been turned down by Adokus for their willingness to step on and over othe people to achieve their goals. <br>
-Known members include: *Ida Barton* and *Josh*<br>
-Unnamed members include: *Bugbear Gunslinger*, *Cobalt Dragonborn*, *Frog Caster*, and *Masked Elf*
+An adventuring group that desires to be part of the hunt for the missing Artifacts. They have been turned down by Adokus for their willingness to step on and over other people to achieve their goals, up to and including killing. They followed the Party to Brightcoin but failed to take the Magic Key to return themselves.<br>
+Known members include: *Glurt*, *Ida Barton*, *Josh*, and *Quinn*.<br>
+Unnamed members include: *Bugbear Gunslinger* and *Cobalt Dragonborn*.
 
 ## The Endavi Tribe
 
@@ -93,7 +94,7 @@ Known dead members include: *Ember* & *Sawyer*
 
 ## The Midnight Lotus 
 
-A cult of the First Dead dedicated to Necromancy. Their desire is to bring the First back to life using poweful magic and artifacts. Their status is mostly not publicly tied to the First Dead. <br>
+A cult of the First Dead dedicated to Necromancy. Their desire is to bring the First back to life using poweful magic and artifacts. Their base is in Lafford on Orlon, which has since been destroyed. Their status is mostly not publicly tied to the First Dead. <br>
 Former members include: *Feyli the Fourth*. <br>
 Known Subgroup: *Illustrious Delight*
 
