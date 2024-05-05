@@ -42,7 +42,9 @@
 
 #### March 31, 2024 - Compiled Session 23. (1 day late)
 
-#### April 22, 2024 - Compiled Session 24 (1 day late)
+#### April 22, 2024 - Compiled Session 24. (1 day late)
+
+#### May 5, 2024 - Compiled Session 25.
 
 ## Intersession Updates
 

@@ -20,15 +20,15 @@ A fancy tankard that was one of the original decorated tankards from the Brass S
 
 ## The First's Heart 
 
-An artifact of the First Dead that the Midnight Lotus believe Feyli stole. Feyli, however, did not steal it to her knowledge. Recovering the Heart is key to reviving the First Dead.
+An artifact of the First Dead that the Midnight Lotus believe Feyli stole. Feyli did steal it, but she had her memory wiped of the event. She threw it off a cliff near Maple, but the Heart has since been recovered by Karashala for unknown reasons. Recovering the Heart is key to reviving the First Dead. 
 
 ## First's Shrine Key 
 
 A silver key used to access The First's Shrine within the Black Hand's HQ. It was originally found in the corpse of Aryk by Feyli. She used it to open the shrine and confront The Second.
 
-## Flower of Rebirth/Seed of the Flower of Rebirth 
+## Flower of Rebirth/Seed of the Flower of Rebirth  
 
-One of the 10 Artifacts from Brightcoin. It blooms once every 100 years, leaving behind a seed. It is capable of reviving any creature provided the resurrection is not interrupted, leaving behind an enormous Divine magic signature. This signature was last noted near Lafford. The seed is about pearl sized, glows white, and gives off a faint heat.
+One of the 10 Artifacts from Brightcoin. It blooms once every 100 years, leaving behind a seed. It is capable of reviving any creature provided the resurrection is not interrupted, leaving behind an enormous Divine magic signature. This signature was last noted near Lafford. The seed is about pearl sized, glows white, and gives off a faint heat. The Seed was used in an attempt to resurrect the First Dead, leaving the god in a pupae-like state.
 
 ## Golden Amulet
 

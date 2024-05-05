@@ -2,7 +2,7 @@
 
 # The Flower Crowns; Current Level: 8
 
-## Coil the Beast Barbarian (He/Him)
+## Coil the Beast Barbarian & Fighter (He/Him)
 
 ### Played by Saren (They/Them)
 
@@ -12,7 +12,7 @@ A Warforged with the head of a jackal whose jaws are often locked up tight. Coil
 
 ### Played by Nichole (She/Her)
 
-Previously, a Tiefling, Feyli has now become a Dhampir. Her horns are now a headpiece that can be removed, and they are devoid of flowers. Her pale skin compliments a black dress she wears under her hide armor. When she is hungry, she will get a headache and crave blood. She used to be part of the Midnight Lotus with a crystal necklace to prove it. After the Party destroys the Black Hand's base, she may no longer need to fear the group. She enjoys other people's drama so long as nobody gets physically hurt.
+Previously, a Tiefling, Feyli has now become a Dhampir. Her horns are now a headpiece that can be removed, and they are devoid of flowers. Her pale skin compliments a black dress she wears under her hide armor. When she is hungry, she will get a headache and crave blood. She used to be part of the Midnight Lotus with a crystal necklace to prove it. After the Party destroys the Midnight Lotus's base, she may no longer need to fear the group. She enjoys other people's drama so long as nobody gets physically hurt.
 
 ## Gelnek the Valor Bard & Paladin (He/Him)
 
