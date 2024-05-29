@@ -28,11 +28,11 @@ One of the Nine. The Evertree is a female Centaur with an unspecified face. She 
 
 Presumably one of the Fallen Gods. The Black Hand and The Midnight Lotus worship him and desire to restore him to power. His domain is strongly based on necromancy. The Party defeated his weakened Form within thee Black Hand's Headquarters.
 
-## The Guide |
+## The Guide 
 
 One of the Nine that makes up this world's pantheon. Both their real name and their domain are unknown. Presumably it has something to do with adventure and travel.
 
-## The Laughing Mask |
+## The Laughing Mask 
 
 One of the Nine that makes up this world's pantheon. Both their real name and their domain are unknown. Presumably it has something to do with performance and bards.
 
@@ -40,7 +40,7 @@ One of the Nine that makes up this world's pantheon. Both their real name and th
 
 The main authority over the contient of Orlon itself. The Emperors of Orlon live in Blackfane. The Champions of Virtue served him over half a century ago, and he created the group to unify the people of Orlon.
 
-## The Molten Hammer Ruldros |
+## The Molten Hammer Ruldros 
 
 One of the Nine that makes up this world's pantheon. Ruldros is the deity of craftsmanship and the forge. His symbol is an anvil with rope tied across it.
 
@@ -56,9 +56,13 @@ One of the Nine that makes up this world's pantheon. She represents the Grave do
 
 One of the Nine that makes up this world's pantheon. Ophina is the Goddess of Light, and her symbol is a bright star. She is also known as the Dawnmaiden.
 
-## The Plated Dragon |
+## The Plated Dragon 
 
 One of the Nine that make sup this world's pantheon. Their real name and domain are both unknown.
+
+## Primus 
+
+The ruler or leader of Mechanus. Under his orders, Six was sent to Brightcoin to recover the Shaper of Minds. It is presumed that his rule emphasizes law and order above all else.
 
 ## The Scarlet Harvest
 
