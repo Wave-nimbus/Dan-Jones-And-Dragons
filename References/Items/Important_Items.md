@@ -3,8 +3,8 @@
 ## The 10 Artifacts 
 
 10 of the most dangerous and powerful artifacts scattered by the Explosion at Brightcoin. The Council of E'lythia is trying to recover them as soon as possible. The recovered artifacts are listed in the order they were recovered. <br>
-Recovered artifacts are *The Staff of Defilement*, *The Flower of Rebirth*, and *The Ring of Flame*<br>
-Unrecovered artifacts are: *The Amber Dragon Eye*, *The Gauntlet of the Eye*, *The Heart of the Keep*, *The Planar Mirror*, *The Shaper of Minds*, *The Throne of Want*, and *The Wand of Chaos*. 
+Recovered artifacts are *The Staff of Defilement*, *The Flower of Rebirth*, *The Ring of Flame*, and *The Shaper of Minds*<br>
+Unrecovered artifacts are: *The Amber Dragon Eye*, *The Gauntlet of the Eye*, *The Heart of the Keep*, *The Planar Mirror*, , *The Throne of Want*, and *The Wand of Chaos*.
 
 ## Beacon Map
 
@@ -42,10 +42,6 @@ A purple magical stone used by casters to hold additional spells in reserve. It 
 
 A pair of foul silver potions that cure the curse of Lycanthropy. Given to Jiroma and Trayton, who are now cured.
 
-## Magic Key 
-
-A brass key that can be used to control a person's mind. The holder can see who has been affected by the Key as their face is scribbled over with black lines. It was presumably used by Jonathan Wick to become extremely popular amongst Brightcoin's nobility. It could potentially be The Shaper of Minds.
-
 ## Magic Rope
 
 A length of twine rope that was discovered amongs the Crown's Guard's gear. It pinged magical by Hobson's Detect Magic, though what it can do is unknown.
@@ -66,6 +62,10 @@ One of the Missing Artifacts. A ring that is implied to be originally owned by t
 
 One of the stones used to communicate within the tunnel from Filgrove to Geria. The other was with the original party that is MIA.
 
+## Shaper of Minds (aka: Magic Key) 
+
+One of the 10 Artifacts. A brass key that can be used to control a person's mind. The holder can see who has been affected by the Key as their face is scribbled over with black lines. It used by Jonathan Wick to become extremely popular amongst Brightcoin's nobility. The holder can alter the memories of a person if the key touches their skin, regardless of if the Shaper of Minds caused the mind alteration originally. It is currently held by Six in Mechanus.
+
 ## Soul Egg
 
 A cantaloupe sized amber egg that has mysterious runes and carvings on it. Cross-checking the runes with Everit Darwin's other work seems to imply that a soul may be trapped inside of it. Said soul was Everett's, and at his request, Morenthal destroyed the egg, freeing Everett's soul.
@@ -84,7 +84,11 @@ A black metalic rod with tuning fork tines on both ends. It glows red from sever
 
 ## Unknown Journal
 
-A journal discovered in the Flesh Cave discussing a failed ritual and a cult for the Brood Mother. The writer fears the Brood Mother's presence and the cult that surrounds it. The cult sees the writer as a traitor. At the end of the journal are unintelligable scrawls of Father Waits. The final page has a depiction of the Staff of Defilement.'
+A journal discovered in the Flesh Cave discussing a failed ritual and a cult for the Brood Mother. The writer fears the Brood Mother's presence and the cult that surrounds it. The cult sees the writer as a traitor. At the end of the journal are unintelligable scrawls of Father Waits. The final page has a depiction of the Staff of Defilement.
+
+## Wand of Chaos 
+
+One of the 10 Artifacts. It appears to be capable of casting powerful magical spells and effects. However, said effects are random and the user has no control over it. It is currently held by Josh De Rosa of the Crystal United Mercenaries.
 
 ## Wand of Feather Fall 
 

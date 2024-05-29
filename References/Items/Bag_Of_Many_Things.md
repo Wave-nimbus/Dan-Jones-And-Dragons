@@ -96,6 +96,10 @@ A handful of droppings from a large animal such as a bear. They likely have no p
 
 A standard fork that is just a little to large to be comfortable. Despite having a silver color to it, the underlying metal is not valuable.
 
+## Magic Opal 
+
+A piece of opal the size of a golf ball that pulses with magical potential. What it could be used for is unknown.
+
 ## Makeup Compact
 
 A clamshell makeup compact with pale skin toned foundation inside. Trilby gives it to Feyli, since she's the most likely to use it. Neither of them know what to do with it, though.

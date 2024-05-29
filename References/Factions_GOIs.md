@@ -45,8 +45,7 @@ Northcliff Contingent: Known members include: *Pancreas Hornsfarrow*.
 ## The Crystal United Mercenaries 
 
 An adventuring group that desires to be part of the hunt for the missing Artifacts. They have been turned down by Adokus for their willingness to step on and over other people to achieve their goals, up to and including killing. They followed the Party to Brightcoin but failed to take the Magic Key to return themselves.<br>
-Known members include: *Glurt*, *Ida Barton*, *Josh*, and *Quinn*.<br>
-Unnamed members include: *Bugbear Gunslinger* and *Cobalt Dragonborn*.
+The members are: *Glurt*, *Ida Barton*, *Josh De Rosa*, *Quinn*, *Shade Destall*, and *Zorinn Enkitellor*.<br>
 
 ## The Endavi Tribe
 

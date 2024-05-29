@@ -78,7 +78,7 @@ The second in command of the Midnight Lotus just behind the First Dead. He gives
 
 Presumably the head of the Assassin's guild that Morenthal and Molloke are a part of. It is unclear what he thinks of everything going on.
 
-### Molloke Iron, Bloodletters Assassin
+### Malaki Irion, Bloodletters Assassin
 
 A bounty hunter and assassin presumably from the same Bloodletters guild as Morenthal. He wants to caputre/kill Feyli, as there is 24,000 gp bounty on her head. However, he warned Morenthal of the impending bounty first.
 
@@ -186,13 +186,21 @@ A male Grung and member of the Crystal United Mercenaries. His powerful magic wa
 
 A female Tabaxi and member of the Crystal United Mercenaries. She wants Adokus to greenlight her group to help the Council recover the missing Artifacts. However, she is willing to step on and over people to get what she wants.
 
-### Josh, Mercenary Rogue
+### Josh De Rosa, Mercenary Rogue
 
 A male Human member of the Crystal United Mercenaries. He has a swaggering persona, and he tries to glean what the Flower Crowns are up to on multiple occasions. His skills as a rogue are not to be underestimated, however.
 
 ### Quinn, Mercenary Sorcerer
 
-A male Elf member of the Crystal United Mercenaris. He wears a mask constnatly, but his magic is focused on illusions. He was able to give disguises to those infiltrating the Gala at Mr. Wick's Estate. He is also rutheless, willing to kill others to get what he or the Mercenaries want.
+A male Elf member of the Crystal United Mercenaries. He wears a mask constnatly, but his magic is focused on illusions. He was able to give disguises to those infiltrating the Gala at Mr. Wick's Estate. He is also rutheless, willing to kill others to get what he or the Mercenaries want.
+
+### Shade Destall, Mercenary
+
+A male Bugbear member of the Crystal United Mercenaries. He has distinctive red and black stripes on his fur and wears special shoes. His abilities are currently unknown.
+
+### Zorinn Enkitellor, Mercenary Warrior
+
+A male Dragonborn with an elongated neck with blue and white marks and a member of the Crystal United Mercenaries. He was known to be a successful gladiator from Dragonhold, but his true abilities have yet to be seen.
 
 ## Illustrious Delight 
 
@@ -287,6 +295,10 @@ A female Pixie that was forced to be a pet for a noblewoman who attended the Gal
 ### Six, Mechanis Soldier 
 
 A female automaton with four arms. She was sent from Mechanis to Brightcoin to retrieve the Magic Key from Mr. Wick. Her arms can fuse into four blades, and she can apparently breath underwater. She is an extremely powerful combatant, but she only desires the Key to be out of the hands of mortals. She makes a deal to talk to the Council of E'lythia about taking the Magic Key back to Mechanis.
+
+### Thaddius De Rosa, Powerful Noble 
+
+The father of Josh De Rosa. He owns a large amount of land across Orlon and currently lives in Blackfane. He is famous enough to be known by name to the Council of E'lythia. Little else is known about him.
 
 ### Unknown Child
 

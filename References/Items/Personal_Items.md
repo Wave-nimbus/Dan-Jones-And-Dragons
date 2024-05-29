@@ -41,9 +41,17 @@ A silver headband with a chunk of Void Crystal embedded inside that Uldar of the
 
 A seemingly ordinary Music Box that Feyli continuously forgets she has. She alone is confused by not having seen it before, despite showing to the Party multiple times. (Such forgetful properties are referred to as "antimemetic") Horace Devonshire used it to erase some of Feyli's memories of her time with the Midnight Lotus. That erasure is complete, but it was undone by Coil using the Magic Key. Said memories were of Feyli stealing the First's Heart and throwing it away near Maple.
 
+### Feyli's Mythril Chain
+
+25 ft of Mythril Chain that was originally locked around the pixie Pocket. It was originally used to keep Pocket in captivity, but it can now be used for anything.
+
 ### Gelnek's Dragon Scale Button
 
 A gift from Trilby carved from the Dragon Scale he pulled from his Bag of Many Things. It grants a +1 to AC and Resistance against Poison damage while atttuned.
+
+### Gelnek's Marac-star
+
+Gelnek's maracca warhammer that has been infused by Trilby to become a Radiant Weapon. It can shine with light and also blind creatures using charges. The two of them determined that it should have an official name.
 
 ### Gelnek's Tuning Fork
 
@@ -105,7 +113,7 @@ A mechanical bee that Trilby created. It is capable of healing Party members as 
 
 An inital stack of 15 sheets of paper in it. If Trilby writes a message on one and addresses it to either of his parents, the paper will fold into a flying creature and make its way to them. Trilby has used 1 sheet.
 
-## Chamillionare Gacha Rings -- 34/100 
+## Chamillionare Gacha Rings -- 40/100 
 
 These rings are pulled from the Chamillionare's gacha game for 200 gp per pull for a d100 roll. To avoid cluttering the previous list up, the ring pulls will be listed separately.
 
@@ -119,7 +127,7 @@ A black band with a red crystal eye on top of a black diamond. While the wearer 
 
 A small ring with a steel cylinder perpendicular to the ring. As a Bonus Action, the wearer can light up an object with a laser pointer.
 
-### Feyli's Rings -- 12
+### Feyli's Rings -- 13
 
 #### Feyli's Ring of Explode
 
@@ -157,6 +165,10 @@ A blue crystal with a poof of smoke on it. The ring can be thrown up to 20 ft, t
 
 A multicolored ring with spectacles of ores in it. While wearing the ring, that finger is immune to all elemental damage.
 
+#### Feyli's Ring of Flint
+
+A ring with a knife sharpener carved into it. As a Bonus Action, it can ignite a nonmagical weapon to deal an extra 1d4 Fire damage for a single attack.
+
 #### Feyli's Ring of Silence
 
 A simple, clear band. It requires attunement. While wearing the ring, the wearer has advantage on stealth checks but cannot hear or speak.
@@ -169,17 +181,21 @@ A dark wood ring that has been carved to look like a bony finger. Undead of a ce
 
 A layered ring that can expand into a telescope. The telescope grants advantage on perception checks for things over 500 ft away.
 
-### Gelnek's Rings -- 2
+### Gelnek's Rings -- 3
 
 #### Gelnek's Bubble Ring
 
 A ivory ring with a glass marble on top. As a Bonus Action, bubbles can be produced from the ring. 
 
+#### Gelnek's Pocket Ring 
+
+A small wooden ring with a drawstring bag carved on it. As an action, a fist-sized object can be stored or retrieved from a personal pocket dimension. The fist-size is relative to the wearer.
+
 #### Gelnek's Ring of Quick Cantrips
 
 A plain silver band with glyphs carved into it. Any non-damaging cantrips can be cast as a Bonus Action.
 
-### Hobson's Rings -- 5
+### Hobson's Rings -- 6
 
 #### Hobson's Ring of Branding
 
@@ -197,11 +213,15 @@ A golden band with a white crystal hovering off of the ring. The wearer cannot t
 
 A small gold ring with a large dull opal in the center. When the wearer drops to 0 HP, the ring will shatter, leaving the wearer drop to 1 HP instead.
 
+#### Hobson's Ring of Signing 
+
+A metallic quill that wraps around to make a ring. When forging a document, the wearer gets a +8 to the forgery.
+
 #### Hobson's Ring of the Tipsy
 
 A band with an arm holding a tankard whose froth completes the ring. It grants disadvantage on CON saves while drinking.
 
-### Morenthal's Rings -- 7
+### Morenthal's Rings -- 8
 
 #### Morenthal's Ring of Applause
 
@@ -219,6 +239,10 @@ A ring that looks like a sword bent into a ring. As an Action, the ring can beco
 
 A mixed-colored ring made of onyx and ivory. While wearing it, the wearer is resistant to Necrotic damage and vulnerable to Radiant damage.
 
+#### Morenthal's Ring of One Eye
+
+A red metal band with an eye symbol carved into it. It requies attunement, but if you close one eye, you can see out of the ring, but you cannot hear.
+
 #### Morenthal's Ring of the Peephole
 
 A solid flat metal band. If placed on a wall and the wall is less than 3 ft thick, the wall can be seen through the ring. No objects can go through it, though.
@@ -231,7 +255,7 @@ A pair of rings that allow the wearers to communicate telepathically for 500 ft.
 
 A metal band with a disk on top and a triangular notch cut into it. It is a sundial (watch) that works regardless of the lighting conditions. 
 
-### Trilby's Rings -- 6
+### Trilby's Rings -- 8
 
 #### Trilby's Ring of the Cat's Gift
 
@@ -244,6 +268,14 @@ A simple blue carved band of crystal or bone. It keeps the wearer dry in rainy w
 #### Trilby's Ring of the Handshake
 
 A wooden ring that has a pair of hands clasping. While shaking hands with someone, the wearer gets advantage on all CHA checks and saves against the other person.
+
+#### Trilby's Ring of Heavy 
+
+A small black iron band. Once per day, it can weigh 500 lbs for 1d4 hours. It takes a Bonus Action to activate.
+
+#### Trilby's Ring of Invisibility 
+
+A nearly transparent ring. While wearing it, the ring becomes invisible.
 
 #### Trilby's Ring of Stealing
 
