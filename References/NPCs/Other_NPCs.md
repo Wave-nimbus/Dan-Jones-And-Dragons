@@ -156,7 +156,7 @@ See above entry.
 
 A male Leonin with brilliant white fur and a full mane. He also has a black eyepatch over one of his eyes. He is a representative of the Endavi tribe from Ty'vanera
 
-### Ciona Quidafes
+### Sionia Quidafes
 
 A female Autumn Eladrin that helps Adokus brief the Party about what the Council knows about the 10 Artifacts. She is a noble from Fywood, which is unaligned with the Empire.
 
