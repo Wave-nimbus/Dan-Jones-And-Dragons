@@ -1,6 +1,6 @@
 # Worldbuilding NPCs
 
-## Ather the Breaker
+## Ather the Breaker 
 
 The deity that Gelnek prays to, and a member of the Nine. His domain involves destruction, warfare, calamities, and regrowth.
 
@@ -32,10 +32,6 @@ Presumably one of the Fallen Gods. The Black Hand and The Midnight Lotus worship
 
 One of the Nine that makes up this world's pantheon. Both their real name and their domain are unknown. Presumably it has something to do with adventure and travel.
 
-## The Laughing Mask 
-
-One of the Nine that makes up this world's pantheon. Both their real name and their domain are unknown. Presumably it has something to do with performance and bards.
-
 ## Leofrick Roseark, Emperor of Orlon
 
 The main authority over the contient of Orlon itself. The Emperors of Orlon live in Blackfane. The Champions of Virtue served him over half a century ago, and he created the group to unify the people of Orlon.
@@ -51,6 +47,10 @@ An ancient archmage who created the Planar Mirror and used the Island of Shariza
 ## The Nightmother Iris
 
 One of the Nine that makes up this world's pantheon. She represents the Grave domain, ferrying souls to the afterlife. As a result, she is heavily against necromancy, though resurrection is a different matter.
+
+## Obrius 
+
+An entity that is almost entirely unknown. Coil had a vision that some kind of nebulous "answer" were found with Orbrius rather than with the Divine Nine. Whether this makes them part of the Fallen Gods is unknown.
 
 ## Ophina the Dawnmaiden
 
@@ -71,6 +71,10 @@ An ancient civilization that used to exist on Orlon a long time ago. The Shard C
 ## Xerafax
 
 A powerful lich that took over the town of Ravenmire before the Champions of Valor were established. He later used the Planar Mirror to build an army. The defeat of the lich marked the point where the Champions were commissioned by the Emperor of Orlon.
+
+## Xybris, The Laughing Mask 
+
+One of the Nine that makes up this world's pantheon. Both their real name and their domain are unknown. Presumably it has something to do with performance and bards. He could also be a prankster or trickster god.
 
 ## Zimera
 

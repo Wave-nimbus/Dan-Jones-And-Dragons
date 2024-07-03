@@ -57,6 +57,21 @@ Known members include: *Brenon Hazelheart*.
 A number of Gods/Goddesses that previously were worshiped before the Nine. It is unknown if they truly exist or if only Cults believe in them. <br>
 Mentioned deities of this group include: *The Brood Mother*, *Cascos the Flame Tyrant*, *The First Dead*, and *The Scarlet Harvest*.
 
+## Feywild Factions
+
+### The Seelie Court
+
+One of the two main governing bodies in the Feywild. They are associated with spring and summer and are typically focused on contracts. One such contract was with Valse to open a gateway between the Feywild and Material planes. <br>
+Known members include *Valse*.
+
+### The Unseelie Court
+
+One of the two main governing bodies in the Feywild. They are associated with fall and winter, though little is known about them.
+
+### The Wildfey
+
+Other fey creatures that aren't strongly tied to the Seelie or Unseelie Courts are considered wild. These fey hold no allegence to anyone, and many less organized fey fall into this prankin faction.
+
 ## Goblin Tribes
 
 ### The Fioquin Tribe 

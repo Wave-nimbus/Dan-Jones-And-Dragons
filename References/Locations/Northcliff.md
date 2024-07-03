@@ -30,9 +30,9 @@ Situated in the Northwest of Northcliff, this serves as the center of the religi
 
 "Fantasy Costco" is in the Western trade district. It is run by a dwarf and elf couple. The Dwarf is named Riona, and the elf is currently unnamed. Weapon upgrades along with other gear can be purchased for a lot of money and time.
 
-### The Garden 
+### The Garden / Hall of the Flower Crowns
 
-The proposed name of the home base of the Flower Crowns. The house has yet to be developed or seen, but it is found in the Eastern District of Northcliff. It was purchased and customized for around 20,000 gp. Said customizations included specialized rooms for each Flower Crowns' interests.
+The proposed name of the home base of the Flower Crowns. It is found in the Eastern District of Northcliff. It was purchased and customized for around 20,000 gp. The house includes magic indoor plumbing, a large sitting room, a library, a spacious kitchen, and customized rooms for each member of the Flower Crowns. Details are found in the Summary (or VOD) of Session 27.
 
 ### The Grand Library
 

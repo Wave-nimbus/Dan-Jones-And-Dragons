@@ -116,6 +116,10 @@ A basic book or journal that Trilby can use to write things down. Has the honor 
 
 A pair of fancy marbles that were pulled out of the bag. They were the mysterious item Trilby tricked the pixies at Valse's statue to desire so badly.
 
+## Pair of Shackles 
+
+A simple pair of metal shackles. They appear to be nonmagical, but when pulled, they did not have a key come with them.
+
 ## Rycefall Land Deed 
 
 A deed for a small plot of land in Rycefall. The deed appears to be legitimate, and it lays claim to an acre of land in or near the city.
