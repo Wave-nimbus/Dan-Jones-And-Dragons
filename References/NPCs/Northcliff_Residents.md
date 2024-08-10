@@ -81,3 +81,34 @@ A male Human bully who thinks he's cooler than everyone else. He wants to be an 
 ## Macadoo Blezulbee, Farmer 
 
 A farmer of unknown race who lives near Northcliff's Old Town district. He commissioned the creation of a farming robot, but the makers went overboard and made it a killing robot instead.
+
+## Obliteration Amphitheatre Members |
+
+### The Beast from Beyond, Barbarian
+
+A male Elf barbarian who wields a greataxe and has extremely long, unkept hair. He is extremely buff, but is easily defeated in the semifinal of the tourney.
+
+### Client, Amphitheatre Staff
+
+A Half Elf male who helps organize the participants in the Obliteration Ampitheatre's annual tournament. He gives instructions to newcomers and ensures that all participants are in the correct heats or competitions.
+
+### The Corporal of Pain, Warrior
+
+A male Leonin who is supposedly part of the Crown's Guard. He wields a heavy crossbow and a longsword, though he is defeated before most of his abilities are showcased.
+
+### Daphne, The Mace of the Forge
+
+A Half Elf female cleric of Ruldros the Hammer. She wears heavy armor & tabard and wields a large mace. She was the 2nd place winner in Gelnek's obstacle course and briefly formed an alliance with Gelnek in the four person free for all.
+
+### Natole, Warrior
+
+A humanoid with a snake head and friend of Scios Myrewyrm. They use a scimitar and a longbow to fight. Most of their abilities are not showcased during the tournament's Final. They fight on Scios's side.
+
+### Olick Taloncrest, Sharpshooter
+
+A male Aaracokra with a cardinal feather pattern. He is a friend of Scios Myrewyrm and uses a long barreled rifle to fight. He fights in the tournament's Final on Scios's side.
+
+### Scios Myrewyrm, The Boreal Blade
+
+A half-Dragonborn (born from the humanoid form of a powerful dragon) who was the 3-time reigning champion of the Obliteration Amphitheatre's torunament. He wields a longsword and shortsword and is capable of breathing a blue-white flame. His status as champion allows him to have some sway over the competition in the name of entertainment, though he is completely honorable in his fights.
+

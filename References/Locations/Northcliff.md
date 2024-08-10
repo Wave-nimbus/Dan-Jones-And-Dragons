@@ -38,6 +38,10 @@ The proposed name of the home base of the Flower Crowns. It is found in the East
 
 Northcliff's main library is four or five stories tall filled with knowledge and books. If the Party desires to learn any information about anything, this is probably their best bet.
 
+### Hearth Depot |
+
+Presumably a home improvement or hobby store chain that exists in Northcliff. Originally a joke and a play on the store "Home Depot," but it is now canon.
+
 ### Moeb's Pawn Shop 
 
 A pawn shop in the Western trade district run by Moeb and frequented by Estevan. Any scrap metals or useless artifacts could potentially be sold here. 
