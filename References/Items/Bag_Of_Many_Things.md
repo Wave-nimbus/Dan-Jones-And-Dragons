@@ -44,6 +44,10 @@ A statue of a wolf made out of clockwork parts. What it can do and any potential
 
 A religious symbol of some kind of combat-focused God/Goddess. It has a crossed sword and axe in front of a shield as its symbol. It is currently unused by anyone.
 
+## Empty Beaker |
+
+A moderately sized glass beaker with a lid. It appears normal, but was "filled" with Gelnek's doubts and anxiety before the Obliteration Ampitheater's Tourney.
+
 ## Empty Bottle
 
 A sizable bottle that is completely empty. It is about the same size as the bottle for the Ship in a Bottle.
@@ -116,7 +120,7 @@ A basic book or journal that Trilby can use to write things down. Has the honor 
 
 A pair of fancy marbles that were pulled out of the bag. They were the mysterious item Trilby tricked the pixies at Valse's statue to desire so badly.
 
-## Pair of Shackles 
+## Pair of Shackles |
 
 A simple pair of metal shackles. They appear to be nonmagical, but when pulled, they did not have a key come with them.
 

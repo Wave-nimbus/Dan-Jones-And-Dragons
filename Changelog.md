@@ -50,6 +50,8 @@
 
 #### July 2, 2024 - Compiled Session 27.
 
+#### August 10, 2024 - Compiled Session 28.
+
 ## Intersession Updates
 
 #### August 18, 2022 - Removed rules lawyering; Minor adjustments.

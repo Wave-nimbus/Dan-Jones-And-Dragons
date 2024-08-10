@@ -1,8 +1,8 @@
 # Dungeon Master: Dan Jones
 
-# The Flower Crowns; Current Level: 8
+# The Flower Crowns; Current Level: 9
 
-## Coil the Beast Barbarian & Fighter (He/Him)
+## Coil the Beast Barbarian & Echo Knight Fighter (He/Him)
 
 ### Played by Saren (They/Them)
 
