@@ -45,6 +45,10 @@ A seemingly ordinary Music Box that Feyli continuously forgets she has. She alon
 
 25 ft of Mythril Chain that was originally locked around the pixie Pocket. It was originally used to keep Pocket in captivity, but it can now be used for anything.
 
+### Feyli's Void Absorption Hide Armor
+
+Hide armor that can be attuend to a sapecific element once per day, granting 5 damage reduction. It was crafted by Uldar of the Green Ravens. It originally was Morenthals before he changed his armor.
+
 ### Gelnek's Dragon Scale Button
 
 A gift from Trilby carved from the Dragon Scale he pulled from his Bag of Many Things. It grants a +1 to AC and Resistance against Poison damage while atttuned.
@@ -93,9 +97,7 @@ A wooden dagger made from the Evertree (making it a divine weapon), causing an a
 
 A metallic ring that is capable of casting Fog Cloud centered on the ring using a charge. The ring starts with 3 charges. The spell lasts up to a minute.
 
-### Morenthal's Void Absorption Hide Armor
 
-Hide armor that can be attuend to a sapecific element once per day, granting 5 damage reduction. It was crafted by Uldar of the Green Ravens.
 
 ### Trilby's Bag of Many Things
 

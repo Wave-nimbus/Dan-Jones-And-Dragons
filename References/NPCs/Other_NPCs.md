@@ -50,51 +50,11 @@ A female Human that serves as a general crew member for the Viridescent Javelin.
 
 A female Goblin that serves the Viridescent Javelin's engine room, ensuring the airship runs as smooth as possible.
 
-## The Black Hand/Midnight Lotus 
+## Burning Spears 
 
-### Aryk, Black Hand Martyr 
+### Dane, Burning Spears Cultist 
 
-A friend of Feyli's from their time serving the Black Hand. He had a distinctive burn along his torso and wavy brown hair. When Feyli fled, Aryk had risen to be an assistant to The Second. He was tortured to death for being Feyli's friend.
-
-#### Milo, Aryk's Motivation 
-
-Presumed to be Aryk's son based on how he talks about him. Milo's death sparked Aryk's despair that presumably led him to join the Black Hand.
-
-### Dave, Necromancer
-
-An incompetent necromancer and part of the Black Hand group. He was hiding in the Nightmother temple's catacombs doing necromancy stuff. 
-
-### Hand of the First, Knight 
-
-A towering knight either controlled by or loyal to the Second. His body has decayed into almost nothingness, and yet he served on. He uses a massive greatsword to defend The First and The Second when the Party enters the Black Hand's HQ.
-
-### The Second, Midnight Lotus Leader 
-
-The second in command of the Midnight Lotus just behind the First Dead. He gives orders to the lower numbered tiers of the organization, as he is the direct apprentice of the First. He is a pale skinned human with sunken eyes and greasy, patchy black hair.
-
-## Bloodletters Guild 
-
-### Duzrevur, Assassin Guild Head 
-
-Presumably the head of the Assassin's guild that Morenthal and Molloke are a part of. It is unclear what he thinks of everything going on.
-
-### Malaki Irion, Bloodletters Assassin
-
-A bounty hunter and assassin presumably from the same Bloodletters guild as Morenthal. He wants to caputre/kill Feyli, as there is 24,000 gp bounty on her head. However, he warned Morenthal of the impending bounty first.
-
-### Yuul Greaterfist, Bloodletters Assassin
-
-A Goliath member of the Bloodletters that Morenthal notices after returning from getting Void gear ordered. He ambushed Morenthal in the costume shop, got an extremely nasty stab into Morenthal's back and then stole all his money. However, he did keep Morenthal alive, despite the bounty on his head.
-
-## Burning Spears
-
-### Jiroma, Burning Spears Member 
-
-A halfling member of the Burning Spears and friend of Trayton. He followed Trayton to the burned farmhouse and was temporarily cursed with Lycanthropy when Trayton bit him.
-
-### Trayton Farkle, Burning Spear Deserter 
-
-Previously a human member of the Burning Spears cult. He ran away from the group to an abandoned farmhouse to the southeast of Filgrove. Graster wants him dead, but Han would rather keep him alive, offering more than Graster for the information. He was bitten by Graster, becoming cursed by Lycanthropy before being cured.
+A male Human of the Burning Spears Cult. He presumably leads a group of traveling Spears on the road. They decieve and drug unsuspecting travelers in order to sacrifice them by burning them in a fire. His camp is between Northcliff and Silverhill. 
 
 ## The Champions of Virtue
 
@@ -176,134 +136,16 @@ A female Dwarf who radiates seriousness. She is always wearing battle attire. Wh
 
 A male Golden Dragonborn from Dragonhold. He wears white, regal robes and holds himself high. He has a very heavy build and wears silver accents to contrast his golden color.
 
-## The Crystal United Mercenaries 
-
-### Glurte, Mercenary Druid
-
-A male Grung and member of the Crystal United Mercenaries. His powerful magic was used by the group to infiltrate the Gala at Mr. Wick's Estate in an attempt to retrieve the Magic Key. 
-
-### Ida Barton, Mercenary
-
-A female Tabaxi and member of the Crystal United Mercenaries. She wants Adokus to greenlight her group to help the Council recover the missing Artifacts. However, she is willing to step on and over people to get what she wants.
-
-### Josh De Rosa, Mercenary Rogue
-
-A male Human member of the Crystal United Mercenaries. He has a swaggering persona, and he tries to glean what the Flower Crowns are up to on multiple occasions. His skills as a rogue are not to be underestimated, however.
-
-### Quinn, Mercenary Sorcerer
-
-A male Elf member of the Crystal United Mercenaries. He wears a mask constnatly, but his magic is focused on illusions. He was able to give disguises to those infiltrating the Gala at Mr. Wick's Estate. He is also rutheless, willing to kill others to get what he or the Mercenaries want.
-
-### Shade Destall, Mercenary
-
-A male Bugbear member of the Crystal United Mercenaries. He has distinctive red and black stripes on his fur and wears special shoes. His abilities are currently unknown.
-
-### Zorinn Enkitellor, Mercenary Warrior
-
-A male Dragonborn with an elongated neck with blue and white marks and a member of the Crystal United Mercenaries. He was known to be a successful gladiator from Dragonhold, but his true abilities have yet to be seen.
-
-## Illustrious Delight 
-
-### Ember, Illustrious Delight
-
-A member of the Illustrious Delight circus troupe. She is a Fire Genasi in charge of various fire bataon acrobatics and magic feats. She flirts with Hobson to get closer to Feyli, but the troupe is a part of the Midnight Lotus. She was killed by The Second as he siphoned power to resurrect The First.
-
-### Gorm, Illustrious Delight
-
-A member of the Illustrious Delight mentioned in Ember's personal journal. He serves as the member in charge of digging up and replacing dead bodies in towns. He can also cast a Zone of Truth.
-
-### Rum and Elm, Illustrious Delight
-
-Members of the Illustrious Delight circus troupe. A pair of Half-elves serving as trapese artists and acrobats. The two of them are well in sync, both in their act and other mannerisms. The troupe is a part of the Midnight Lotus.
-
-### Sawyer, Illustrious Delight
-
-The ring leader, owner and/or operator of the Illustrious Delight circus troupe. A Gnome that serves both as the circus's announcer and its main orchestra. His magic lute is capable of mimicking many instruments. The troupe is a part of the Midnight Lotus. He was killed by The Second as he siphoned power to resurrect The First.
-
-### Teszin Stormhoof, Illustrious Delight
-
-A member of the Illustrious Delight circus troupe. He is a large Minotaur that acts as the circus's strongman act. While shy and bashful, his strength is unparalleled. The troupe is a part of the Midnight Lotus.
-
-## Ustenki Tribe
-
-### Burple, Ustenki Tracker 
-
-A male Goblin hunter and tracker of the Ustenki tribe. He was tasked with assisting Fervor to locate & take back the Ring of Flame inside the Valsqori Bog. He wears a squished leather top hat and wields a bow.
-
-### Chief Stompy, Ustenki Leader
-
-An elderly male Goblin elder who is the current chief of the Ustenki tribe. He wears a massive hat stitched together from other hats. While bound by tradition, he still has a soft spot for Gelnek, even after being banished. He reincarnated Feyli after the battle with the Eyedra.
-
-### Gnaw, Ustenki Tracker 
-
-A male Goblin hunter and tracker of the Ustenki tribe. He was tasked with assisting Fervor to locate & take back the Ring of Flame inside the Valsqori Bog.. He wears a bamboo sunhat and an eyepatch, and he wields several daggers. His posture is absolutely terrible, though.
-
 ## Factionless/One-Offs
-
-### Alt-Valse, The Right Gauntlet 
-
-The version of Valse found in the right gauntlet worn by Lady Belle. His personality is of a cool, calculating machine. He gives combat advice and allows Lady Belle to transform into animals, but he is otherwise quite rude to her and Vindilay.
 
 ### Chameleonaire, Expensive Merchant 
 
 A well traveled and extremely rich Lizardfolk merchant that travels the lands selling expensive (and potentially overpriced) magical items. When he met the Party, he sells a number of items and offers even more.
 
-### Durmin, FFXIV reference
+### Finch Ironbellow, Renegade Mage 
 
-Durmin Durami is the name of Dan Floyd's Final Fantasy XIV Lalafell for his PlayFrame series. He has absolutely nothing to do with the D&D campagin, but Lalafells and Halflings share a similar role as small races.
-
-### Effy, Mossy Castle Innkeeper
-
-A Gnome who runs the Mossy Castle inn at Ohkross. She has minor magical capabilities including healing magic, and she is the de facto leader of the village.
-
-### Everett Darwin, Arcanist
-
-An eccentric collector and arcane scientist originally from Ohkross. His experiments resulted in the creation of the Soul Egg and his soul being sucked inside of it. His body decayed, and he was presumed dead for 10 years. While in Northcliff, he is able to get Morenthal to smash the egg, freeing him and granting Morenthal proficiency in the History skill.
-
-### Finch, Renegade Mage
-
-A scrawny male Golden Dragonborn that is fleeing from Westmont's magic academy. He seems to be a follower and/or cult member who worships the Scarlet Harvest.
-
-### Gear Head, Dwarven Criminal 
-
-A sketchy male Dwarf that has angered a faction known as the Amber Hearts. He has a metal plate or gear embedded in his head, giving him his nickname. His bounty runs for 50,000 gp.
-
-### Horace Devonshire, The Wizard of the White Tower 
-
-Originally from Springoak, this stereotypically blue robed wizard was in charge of ensuring the amplified Spire's scrying spells worked perfectly. He also helped erase many of Feyli's memories of the Midnight Lotus using her Music Box.
-
-### Kasma Lundor, Tech Whiz 
-
-A female Gnome with several technical gadgets on her arms. Her monocle adjusts itself constantly. Her demeanor is very formal and noble, though not necissarily unfriendly. She is in charge of most tech for the search for the 10 Artifacts. She also built the Spire in Northcliff.
-
-### Lady Belle, Bounty Hunter 
-
-A female Goliath who carries the second Valse gauntlet. She currently travels with Vindilay as a novice bounty hunter as she tries to get the gauntlet off.
-
-### Me, Mushroom Man 
-
-A mushroom creature the Party encountered in the Underdark. Part of a race of enormous mushroom creatures that eat creatures that stay inside their mushroom hill cavern. Otherwise quite friendly.
-
-### Nieven Erot, Blood Mage 
-
-A male Drow with the ability to control blood magic. He takes drops of Hobson, Gelnek, and Trilby's blood in order to track them during the search for the 10 Artifacts.
+A scrawny male Golden Dragonborn that is fleeing from Westmount's magic academy. He seems to be a follower and/or cult member who worships the Scarlet Harvest.
 
 ### Pocket, Pixie Pet 
 
 A female Pixie that was forced to be a pet for a noblewoman who attended the Gala at Jonathan Wick's Estate. She was eventually freed by the Party and is currently riding with Feyli until she can find a way back to the Feywild.
-
-### Six, Mechanis Soldier 
-
-A female automaton with four arms. She was sent from Mechanis to Brightcoin to retrieve the Magic Key from Mr. Wick. Her arms can fuse into four blades, and she can apparently breath underwater. She is an extremely powerful combatant, but she only desires the Key to be out of the hands of mortals. She makes a deal to talk to the Council of E'lythia about taking the Magic Key back to Mechanis.
-
-### Thaddius De Rosa, Powerful Noble 
-
-The father of Josh De Rosa. He owns a large amount of land across Orlon and currently lives in Blackfane. He is famous enough to be known by name to the Council of E'lythia. Little else is known about him.
-
-### Unknown Child
-
-A child known only to Morenthal. The First's Form tormented him with the visagee of this child. When Morenthal first killed this child, he began to question if he wanted to continue his job as an Assassin and Bloodletter.
-
-### Vindilay, Bounty Hunter 
-
-A male Elf travelling with Lady Belle as a novice bounty hunter. He helps ask questions to Hobson whenever he is given visions through Lady Belle's eyes. He prefers to go by Vin for short.
