@@ -44,6 +44,10 @@ A village north of Northcliff. When the Party first see it, it is being raided b
 
 The inn/tavern at Ohkross run by Effie the Gnome. It is a small establishment, but the Party is welcome there.
 
+### Silverhill
+
+A town in the West of Orlon that is home to a mage college of some kind. That college is headed by Gregor Timbers, one of the Champions of Virtue. Hobson originally was an administrator for the college before getting his bracer with Valse. The package the bracer came in was likely originally addressed to Gregor.
+
 ### The Underdark
 
 The Underdark is the deep underground portions of a D&D world. The tunnel from Filgrove to Geria likely passes through such a region. It is home to all kinds of creatures adapted for the darkness, including mutant spider monsters and mushroom creatures. A few cities are found down below, though getting there requires long, treacherous journeys.
@@ -100,7 +104,7 @@ A town not too far to the south of Filgrove. It appears to be the most recent st
 
 ### Ravenmire 
 
-A town even further North than Filgrove. It was the site of the lich Xerafax's base of operations. That event caused the town's population to be razed nearly to a man. The town has since never recovered and is barely survivng.
+A town even further North than Filgrove. It was the site of the lich Xerafax's base of operations. That event caused the town's population to be razed nearly to a man. The town has since never recovered and is barely surviving. It was also the site where the Champions of Virtue recovered the Heart of the Keep.
 
 ### Riverleaf 
 
@@ -122,10 +126,6 @@ A series of ports, coves, and towns that serve as a pirate's haven on the North 
 
 A decently large city in the Underdark filled with Duergar and insectoids. Duergar are underground dwarves that presumably don't like outsiders. The Miners and Party have been told to avoid the city by the Crown's Guard.
 
-### Silverfell
-
-A town in the West of Orlon that is home to a mage college of some kind. That college is headed by Gregor Timbers, one of the Champions of Virtue. Hobson originally was an administrator for the college before getting his bracer with Valse. The package the bracer came in was likely originally addressed to Gregor.
-
 ### Springoak
 
 A town on the Western edge of Orlon. Horace Devonshire is known as the Wizard of the White Tower and hails from this town. Hobson is likely a wanted man there thanks to Valss.
@@ -146,9 +146,9 @@ A large cave filled with Void Crystals that was home to the Void Snail. It is ab
 
 A structure near Silverfell where a mysterious mansion has reappeared. Almost nothing else is known about the keep itself.
 
-### Westmont
+### Westmount 
 
-A town in the South of Orlon. Some years ago, Arther Oathbringer reappeared with a flying castle and an army over the town. It houses a magical school where a powerful Dragonborn escaped from.
+A town in the South of Orlon. Some years ago, Arther Oathbringer reappeared with a flying castle and an army over the town. It houses a magical school where a Finch Ironbellow escaped from. 
 
 ## Other Regions
 
@@ -190,11 +190,11 @@ A town in the center of continent of Ty'vanera. The Wand of Chaos, one of the 10
 
 A continent separate from Orlon. Almost nothing is known about the continent other than it's name and existance.
 
-## Mentioned Towns/Locations
+## Visited Towns/Locations
 
-### Varu'Il
+### Varu'Il 
 
-A town on the Eastern part of Djoria, the smallest of the three named continents. It is currently under siege by The Heart of the Keep, one of the 10 Artifacts.
+A town on the Eastern part of Djoria, the smallest of the three named continents. It is currently under siege by The Heart of the Keep, one of the 10 Artifacts. It currently has an uneasy peace treaty with the Zotrian tribes nearby.
 
 # Extra-Planar Locations
 
@@ -218,10 +218,10 @@ A bloody conflict presumably taking place on the western side of Orlon. Accordin
 
 # Travel Network
 
-## The Airship Viridescent Javelin
+## The Airship Viridescent Javelin 
 
 The first Airship of the campaign that takes the Party from Filgrove south to Northcliff over the course of four days. It is a large flying ship held aloft by six large Green Void Crystals. Its weaponry includes six ballistas, which can be used to attack flying or grounded enemies off of the ship. The ship is at the Party's disposal for their hunt for the 10 Artifacts. Its crew is listed in the NPC references.
 
 ## Teleporation Circles 
 
-A series of Teleportation Circles allow for much longer and much quicker travel between cities. The Party has yet to use any for direct travel yet. Known Teleportation Circles are found within: *Blackfane*, *Filgrove*, and *Northcliff*
+A series of Teleportation Circles allow for much longer and much quicker travel between cities. Known Teleportation Circles are found within: *Blackfane*, *Filgrove*, *Silverhill*, and *Varu'Il*. 

@@ -86,15 +86,19 @@ A bounty hunter and assassin presumably from the same Bloodletters guild as More
 
 A Goliath member of the Bloodletters that Morenthal notices after returning from getting Void gear ordered. He ambushed Morenthal in the costume shop, got an extremely nasty stab into Morenthal's back and then stole all his money. However, he did keep Morenthal alive, despite the bounty on his head.
 
-## Burning Spears
+## Burning Spears 
+
+### Dane, Burning Spears Cultist 
+
+A male Human of the Burning Spears Cult. He presumably leads a group of traveling Spears on the road. They decieve and drug unsuspecting travelers in order to sacrifice them by burning them in a fire. His camp is between Northcliff and Silverhill. 
 
 ### Jiroma, Burning Spears Member 
 
-A halfling member of the Burning Spears and friend of Trayton. He followed Trayton to the burned farmhouse and was temporarily cursed with Lycanthropy when Trayton bit him.
+A Halfling member of the Burning Spears and friend of Trayton. He followed Trayton to the burned farmhouse and was temporarily cursed with Lycanthropy when Trayton bit him.
 
 ### Trayton Farkle, Burning Spear Deserter 
 
-Previously a human member of the Burning Spears cult. He ran away from the group to an abandoned farmhouse to the southeast of Filgrove. Graster wants him dead, but Han would rather keep him alive, offering more than Graster for the information. He was bitten by Graster, becoming cursed by Lycanthropy before being cured.
+Previously a Human member of the Burning Spears cult. He ran away from the group to an abandoned farmhouse to the southeast of Filgrove. Graster wants him dead, but Han would rather keep him alive, offering more than Graster for the information. He was bitten by Graster, becoming cursed by Lycanthropy before being cured.
 
 ## The Champions of Virtue
 
@@ -260,7 +264,7 @@ A Gnome who runs the Mossy Castle inn at Ohkross. She has minor magical capabili
 
 An eccentric collector and arcane scientist originally from Ohkross. His experiments resulted in the creation of the Soul Egg and his soul being sucked inside of it. His body decayed, and he was presumed dead for 10 years. While in Northcliff, he is able to get Morenthal to smash the egg, freeing him and granting Morenthal proficiency in the History skill.
 
-### Finch, Renegade Mage
+### Finch Ironbellow, Renegade Mage 
 
 A scrawny male Golden Dragonborn that is fleeing from Westmont's magic academy. He seems to be a follower and/or cult member who worships the Scarlet Harvest.
 

@@ -52,6 +52,8 @@
 
 #### August 10, 2024 - Compiled Session 28.
 
+#### September 11, 2024 - Compiled Session 29. (1 day late).
+
 ## Intersession Updates
 
 #### August 18, 2022 - Removed rules lawyering; Minor adjustments.
@@ -79,3 +81,5 @@
 #### March 26, 2024 - Arc 7 Compiled; The First Great Spellcheck Complete.
 
 #### May 28, 2024 - Arc 8 Compiled.
+
+#### September 11, 2024 - Arc 9 Compiled.

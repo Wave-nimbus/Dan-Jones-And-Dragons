@@ -34,6 +34,10 @@ One of the 10 Artifacts from Brightcoin. It blooms once every 100 years, leaving
 
 A religious amulet for the Goddess Ophina found amongst gear of the Crown's Guard. Said gear was in the Flesh Cave.
 
+## The Heart of the Keep 
+
+One of the 10 Artifacts from Brightcoin. It transforms the owner into a vampire lord and generates a fortress keep for them to live in. It was originally recovered by the Champions in Ravenfell, but it has since reappeared in Varu'Il. It also can generate hordes of monsters.
+
 ## Ioun Stone of Reserve
 
 A purple magical stone used by casters to hold additional spells in reserve. It was treasure recovered from the Eyedra's lair, though it has yet to be given to a Player permenantly yet.
@@ -46,9 +50,9 @@ A pair of foul silver potions that cure the curse of Lycanthropy. Given to Jirom
 
 A length of twine rope that was discovered amongs the Crown's Guard's gear. It pinged magical by Hobson's Detect Magic, though what it can do is unknown.
 
-## Orb of Recall
+## Orb of Recall 
 
-A one-time return button that is meant to bring anyone within 10 ft of the orb back to a location. It functions as the Teleport Circle spell, returning those within the active radius to the Filgrove Barracks's Teleportation Circle once used.
+A one-time return button that is meant to bring anyone within 10 ft of the orb back to a location. It functions as the Teleport Circle spell, returning those within the active radius to the a Teleportation Circle once used. Each orb can be programmed to go to a specific Circle.
 
 ## Perfect Pearl / Soul Orb
 

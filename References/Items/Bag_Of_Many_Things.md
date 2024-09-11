@@ -44,7 +44,7 @@ A statue of a wolf made out of clockwork parts. What it can do and any potential
 
 A religious symbol of some kind of combat-focused God/Goddess. It has a crossed sword and axe in front of a shield as its symbol. It is currently unused by anyone.
 
-## Empty Beaker |
+## Empty Beaker 
 
 A moderately sized glass beaker with a lid. It appears normal, but was "filled" with Gelnek's doubts and anxiety before the Obliteration Ampitheater's Tourney.
 
@@ -120,7 +120,7 @@ A basic book or journal that Trilby can use to write things down. Has the honor 
 
 A pair of fancy marbles that were pulled out of the bag. They were the mysterious item Trilby tricked the pixies at Valse's statue to desire so badly.
 
-## Pair of Shackles |
+## Pair of Shackles 
 
 A simple pair of metal shackles. They appear to be nonmagical, but when pulled, they did not have a key come with them.
 
@@ -144,6 +144,10 @@ An otherwise nondescript goblet made of pure silver. It has very little decorati
 
 A relatively large feather whose hue goes from white to torquoise at the tip. If it has any magical properties, they are unknown at the time.
 
+## Tuning Fork 
+
+A normal musical tuning fork. It should not be confused with a Planar Tuning Fork. It appears to have no magical properties.
+
 ## Two D10s
 
 A pair of mundane d10 dice with pips on them. Rolling them has no effect. Trilby gifted these to Bifar Clemingsworth in Northcliff.
@@ -151,6 +155,10 @@ A pair of mundane d10 dice with pips on them. Rolling them has no effect. Trilby
 ## Vintage Year Wine
 
 A Ninteen Ninteye (1990) aged wine from Maple Farms. Hobson recognized the brand, as he and his family are from Maple. Hobson currently possesses this item.
+
+## Wand of Scowls/Smiles 
+
+A comedic pranking wand that has 3 charges. When used, a person may make a CHA save to avoid being forced to make an expression. If the wand is used when there are no charges left, a d20 is rolled, and on a one, the expression changes from Scowls to Smiles and vice versa.
 
 ## Waterskin
 

@@ -18,19 +18,23 @@ The unofficial designation for the mines below Northcliff. Most of Northcliff's 
 
 Adokus's dojo is within the Eastern entertainment district. He runs various (legal) sparing and sportsbetting operations within. He also appears to be much more relaxed at his dojo than in any other formal situations.
 
-### Coryfair River
+### Croyfair River
 
 The river (and lake of the same name) is where most of Northcliff's main fresh water comes from. It is fairly clear and clean, but with little to no fish in it.
 
-### Crystal Circle
+### Crust 
+
+The colloquial name for the crater below Northcliff. Little else is known about it other than its location.
+
+### Crystal Circle 
 
 Situated in the Northwest of Northcliff, this serves as the center of the religious district. Smaller individual temples to the Divine Nine are found around here.
 
-### Forge & Forestry
+### Forge & Forestry 
 
 "Fantasy Costco" is in the Western trade district. It is run by a dwarf and elf couple. The Dwarf is named Riona, and the elf is currently unnamed. Weapon upgrades along with other gear can be purchased for a lot of money and time.
 
-### The Garden / Hall of the Flower Crowns
+### The Garden / Hall of the Flower Crowns 
 
 The proposed name of the home base of the Flower Crowns. It is found in the Eastern District of Northcliff. It was purchased and customized for around 20,000 gp. The house includes magic indoor plumbing, a large sitting room, a library, a spacious kitchen, and customized rooms for each member of the Flower Crowns. Details are found in the Summary (or VOD) of Session 27.
 
@@ -38,7 +42,7 @@ The proposed name of the home base of the Flower Crowns. It is found in the East
 
 Northcliff's main library is four or five stories tall filled with knowledge and books. If the Party desires to learn any information about anything, this is probably their best bet.
 
-### Hearth Depot |
+### Hearth Depot 
 
 Presumably a home improvement or hobby store chain that exists in Northcliff. Originally a joke and a play on the store "Home Depot," but it is now canon.
 
@@ -74,11 +78,11 @@ An enormous tower in the center of the city that amplifies the power of magic. I
 
 A location in a seedier part of the Entertainment District. It is presumably a saloon of some kind that is frequented by Pancreas Hornsfarrow.
 
-### Temple of the Dawnmaiden
+### Temple of the Dawnmaiden 
 
 One of the temples dedicated to a specific member of the Nine found in the Crystal Circle. This one is for Ophina the Dawnmaiden. Its stained glass windows and statues depicting Ophina are a hallmark of its architecture.
 
-### Temple of the Nine
+### Temple of the Nine 
 
 The focal point of the Northwestern religion district, this gigantic temple is dedicated to all the members of the Divine Nine. 
 

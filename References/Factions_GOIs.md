@@ -12,8 +12,8 @@ Known Subgroup: *The Midnight lotus*.
 
 ## The Burning Spears 
 
-A cult dedicated to the Cascos the Fire Lord. They search for the seal that holds Cascos captive in order to destroy it and bring Cascos back to power. So far, they are mostly a harmless group of hooligans within Filgrove. <br>
-Known living members include: *Han Rathenal*, *Jiroma*, and *Trayton Farkle*
+A cult dedicated to the Cascos the Fire Lord. They search for the seal that holds Cascos captive in order to destroy it and bring Cascos back to power. The Filgrove group is mainly just a bunch of hooligans. Other members found in the world are more zealous and willing to sacrifice people in fire whenever possible. <br>
+Known living members include: *Dane*, *Han Rathenal*, *Jiroma*, and *Trayton Farkle*
 Known dead members include: *Famir* and *Odenne*.
 
 ## Bloodletters Guild
@@ -57,7 +57,7 @@ Known members include: *Brenon Hazelheart*.
 A number of Gods/Goddesses that previously were worshiped before the Nine. It is unknown if they truly exist or if only Cults believe in them. <br>
 Mentioned deities of this group include: *The Brood Mother*, *Cascos the Flame Tyrant*, *The First Dead*, and *The Scarlet Harvest*.
 
-## Feywild Factions
+## Feywild Factions 
 
 ### The Seelie Court
 
@@ -117,9 +117,17 @@ Known Subgroup: *Illustrious Delight*
 Serving as the Pantheon for the world of E'lythia, the Divine Nine represent various aspects of clerics, paladins and the like. <br>
 Mentioned deities of this pantheon include: *Ather the Breaker*, *The Guide*, *The Laughing Mask*, *The Molten Hammer Ruldros*, *The Nightmother Iris*, and *Ophina the Dawnmaiden*, *The Plated Dragon*, and *Zimera*.
 
+## The Runebreakers
+
+An adventuring/mercenary party who has been tasked by the Council of E'lythia to assist the town of Varu'Il. While they are capable, the endless monsters from The Heart of the Keep have worn them down close to exhaustion. <br>
+Known members include: *Unnamed Human woman barbarian*, *Unnamed Half-Elf male*, *Unnamed Water Genasi male*, *Unnamed Tiefling woman*, *Unnamed Human woman archer*.
+
 ## Viradescent Javelin Crew 
 
 The crew of the Airship Viradescent Javelin that flew the Party from Filgrove to Northcliff. They are a mixed bag, but quite competent at what they do. They are also at the Party's disposal for the search of the 10 Artifacts. <br>
 Known members include: *Ardwill*, *Azru Avena*, *Geo*, *Karva*, *Marmitull Longfeather*, *Priscilla*, and *Vespi*. <br>
 Previous members include: *Grayton Mule*
 
+## Zotrians
+
+A faction/tribe of Lizardfolk who live in the deserts around Varu'Il. They have an uneasy truce with the city. However, ever since the Heart of the Keep appeared there, the tribes have taken advantage of the chaos to perform raids.
