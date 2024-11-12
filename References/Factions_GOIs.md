@@ -106,6 +106,10 @@ A traveling caravan that appeared in Filgrove in time for the All Hallow's Eve f
 Known living members include: *Gorm*, *Rum & Elm*, and *Teszin Stormhoof*.<br>
 Known dead members include: *Ember* & *Sawyer* 
 
+## Merchant Collective |
+
+The governing body of Varu'Il who is generally in charge of coming up with the laws of the city/island. As Varu'Il is primarily about trade and commerce, the richest among them have the most power, leading to the Collective holding the power of the island. 
+
 ## The Midnight Lotus 
 
 A cult of the First Dead dedicated to Necromancy. Their desire is to bring the First back to life using poweful magic and artifacts. Their base is in Lafford on Orlon, which has since been destroyed. Their status is mostly not publicly tied to the First Dead. <br>
@@ -117,10 +121,10 @@ Known Subgroup: *Illustrious Delight*
 Serving as the Pantheon for the world of E'lythia, the Divine Nine represent various aspects of clerics, paladins and the like. <br>
 Mentioned deities of this pantheon include: *Ather the Breaker*, *The Guide*, *The Laughing Mask*, *The Molten Hammer Ruldros*, *The Nightmother Iris*, and *Ophina the Dawnmaiden*, *The Plated Dragon*, and *Zimera*.
 
-## The Runebreakers
+## The Runebreakers |
 
 An adventuring/mercenary party who has been tasked by the Council of E'lythia to assist the town of Varu'Il. While they are capable, the endless monsters from The Heart of the Keep have worn them down close to exhaustion. <br>
-Known members include: *Unnamed Human woman barbarian*, *Unnamed Half-Elf male*, *Unnamed Water Genasi male*, *Unnamed Tiefling woman*, *Unnamed Human woman archer*.
+Known members include: *Rodrick*, *Unnamed Human woman barbarian* , *Unnamed Water Genasi male*, *Unnamed Tiefling woman*, *Unnamed Human woman archer*.
 
 ## Viradescent Javelin Crew 
 
@@ -128,6 +132,6 @@ The crew of the Airship Viradescent Javelin that flew the Party from Filgrove to
 Known members include: *Ardwill*, *Azru Avena*, *Geo*, *Karva*, *Marmitull Longfeather*, *Priscilla*, and *Vespi*. <br>
 Previous members include: *Grayton Mule*
 
-## Zotrians
+## Zotrians |
 
-A faction/tribe of Lizardfolk who live in the deserts around Varu'Il. They have an uneasy truce with the city. However, ever since the Heart of the Keep appeared there, the tribes have taken advantage of the chaos to perform raids.
+A faction/tribe of Lizardfolk who live in the deserts around Varu'Il. They have an uneasy truce with the city. However, ever since the Heart of the Keep appeared there, the tribes have taken advantage of the chaos to perform raids and conquer parts of the city itself.
