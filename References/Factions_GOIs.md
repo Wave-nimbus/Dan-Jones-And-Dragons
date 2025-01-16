@@ -52,10 +52,10 @@ The members are: *Glurt*, *Ida Barton*, *Josh De Rosa*, *Quinn*, *Shade Destall*
 The tribe that formed the beast tribe government on Ty'vanera. They convinced most other groups on the continent to join them. Almost nothing else is known about them. <br>
 Known members include: *Brenon Hazelheart*.
 
-## The Fallen Gods
+## The Fallen Gods |
 
 A number of Gods/Goddesses that previously were worshiped before the Nine. It is unknown if they truly exist or if only Cults believe in them. <br>
-Mentioned deities of this group include: *The Brood Mother*, *Cascos the Flame Tyrant*, *The First Dead*, and *The Scarlet Harvest*.
+Mentioned deities of this group include: *The Blinding Light*, *The Brood Mother*, *Cascos the Flame Tyrant*, *The First Dead*, *The Scarlet Harvest*, and *The Seeping Rot*.
 
 ## Feywild Factions 
 
@@ -116,7 +116,7 @@ A cult of the First Dead dedicated to Necromancy. Their desire is to bring the F
 Former members include: *Feyli the Fourth*. <br>
 Known Subgroup: *Illustrious Delight*
 
-## The Nine 
+## The Nine |
 
 Serving as the Pantheon for the world of E'lythia, the Divine Nine represent various aspects of clerics, paladins and the like. <br>
 Mentioned deities of this pantheon include: *Ather the Breaker*, *The Guide*, *The Laughing Mask*, *The Molten Hammer Ruldros*, *The Nightmother Iris*, and *Ophina the Dawnmaiden*, *The Plated Dragon*, and *Zimera*.
@@ -124,7 +124,7 @@ Mentioned deities of this pantheon include: *Ather the Breaker*, *The Guide*, *T
 ## The Runebreakers |
 
 An adventuring/mercenary party who has been tasked by the Council of E'lythia to assist the town of Varu'Il. While they are capable, the endless monsters from The Heart of the Keep have worn them down close to exhaustion. <br>
-Known members include: *Rodrick*, *Unnamed Human woman barbarian* , *Unnamed Water Genasi male*, *Unnamed Tiefling woman*, *Unnamed Human woman archer*.
+Known members include: *Nori Watergrave*, *Rodrick*, *Unnamed Human woman barbarian* , *Unnamed Tiefling woman*, *Unnamed Human woman archer*.
 
 ## Viradescent Javelin Crew 
 
@@ -134,4 +134,4 @@ Previous members include: *Grayton Mule*
 
 ## Zotrians |
 
-A faction/tribe of Lizardfolk who live in the deserts around Varu'Il. They have an uneasy truce with the city. However, ever since the Heart of the Keep appeared there, the tribes have taken advantage of the chaos to perform raids and conquer parts of the city itself.
+A faction/tribe of Lizardfolk who live in the deserts around Varu'Il. They have an uneasy truce with the city. However, ever since the Heart of the Keep appeared there, the tribes have taken advantage of the chaos to perform raids and conquer parts of the city itself. They used to worship the dragon Rimereth as a deity.

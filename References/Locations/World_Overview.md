@@ -16,7 +16,7 @@ A volcanic region in the Southernmost part of Orlon. The nearby volcano, Mt. Fio
 
 A major city on the continent of Orlon. It is home to the Vaults of Eversteel, and it's ruled by a king named Rylen Lendsborough. It has an enormous population, making it one of the largest cities on E'lythia. See the Brightcoin reference for more information.
 
-### Filgrove 
+### Filgrove |
 
 Filgrove is where the Party spends most of their time. It is a decent sized city in the North of Orlon, serving as a defensive city in the past. In and around the city, the Party's early adventures took shape. See the Filgrove reference for more information.
 
@@ -186,13 +186,13 @@ A major city on the Western edge of Ty'Vanera. It houses The Citidel, a knowledg
 
 A town in the center of continent of Ty'vanera. The Wand of Chaos, one of the 10 Artifacts, is believed to be here. However, the land is cursed, so the Council of E'lythia's drones cannot survey the area.
 
-# The Continent of Djoria
+# The Continent of Djoria |
 
 A continent separate from Orlon. Almost nothing is known about the continent other than it's name and existance.
 
 ## Visited Towns/Locations
 
-### Varu'Il 
+### Varu'Il  |
 
 A town on the Eastern part of Djoria, the smallest of the three named continents. It is currently under siege by The Heart of the Keep, one of the 10 Artifacts. It currently has an uneasy peace treaty with the Zotrian tribes nearby.
 

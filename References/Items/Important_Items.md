@@ -14,6 +14,10 @@ An orb capable of projecting world maps. Variations of these orbs can project di
 
 The book that Gale Mosswing used to improve his farm's standing, to the detriment of his family and the Missing People. It was given by Dave the Necromancer.
 
+## Bracelet of Shared Pain
+
+A golden bracelet with spikes around the edges. While worn, if a creatre takes damage within 30 ft of the wearer, the wearer can use a Reaction to reduce the incoming damage by 1d12. The wearer then takes that damage as psychic damage.
+
 ## First Edition Tankard
 
 A fancy tankard that was one of the original decorated tankards from the Brass Squid. The Party is gifted this by Gavel the Brass Squid Tavernkeep to remind them of where they all started. Gelnek traded one of his mace maracas for it.
@@ -49,6 +53,10 @@ A pair of foul silver potions that cure the curse of Lycanthropy. Given to Jirom
 ## Magic Rope
 
 A length of twine rope that was discovered amongs the Crown's Guard's gear. It pinged magical by Hobson's Detect Magic, though what it can do is unknown.
+
+## Necklace of Birdsong |
+
+A small silver necklace with a pendant of a sparrow-like bird engraved on it. While wearing it, the wearer can mimic any birdcall.
 
 ## Orb of Recall 
 
@@ -89,6 +97,14 @@ A black metalic rod with tuning fork tines on both ends. It glows red from sever
 ## Unknown Journal
 
 A journal discovered in the Flesh Cave discussing a failed ritual and a cult for the Brood Mother. The writer fears the Brood Mother's presence and the cult that surrounds it. The cult sees the writer as a traitor. At the end of the journal are unintelligable scrawls of Father Waits. The final page has a depiction of the Staff of Defilement.
+
+## Vial of Black Ichnor |
+
+A small vial filled with a black liquid. It was recovered from the 2nd basement level of the Varu'Il laboratory. It was likely used in experiments on the Zoetrians, though its exact purpose and useage is unknown.
+
+## Vial of Dragonsbane |
+
+A small vial filled with a burgandy colored liquid. When swirled, a nueron-like structure becomes visible. It was recovered from the 1st basement level of teh Varu'Il laboratory. It is highly poisonous to draconic creatures and could probably be used to great effect against them.
 
 ## Wand of Chaos 
 

@@ -1,12 +1,16 @@
 # Worldbuilding NPCs
 
-## Ather the Breaker 
+## Ather the Breaker |
 
 The deity that Gelnek prays to, and a member of the Nine. His domain involves destruction, warfare, calamities, and regrowth.
 
 ## The Ancient One(s)
 
 Presumably ancient or primordial beasts that live in the Underdark. What they exactly are is unknown other than they can eat people without much issue. The mushroom people believe it/them protects creatures in the Underdark.
+
+## Blinding Light |
+
+One of the Fallen Gods. Their domain is obsessed with perfection, idealism, absoluteness, and light. Whether any still worship/follow them is currently unknown.
 
 ## The Brood Mother
 
@@ -24,7 +28,7 @@ One of the Fallen Gods. The Flaming Spears are a cult/group devoted to destroyin
 
 One of the Nine. The Evertree is a female Centaur with an unspecified face. She represents the wilderness and nature. She is often worshiped by druidic communities or those who live far from large towns.
 
-## The First Dead
+## The First Dead |
 
 Presumably one of the Fallen Gods. The Black Hand and The Midnight Lotus worship him and desire to restore him to power. His domain is strongly based on necromancy. The Party defeated his weakened Form within thee Black Hand's Headquarters.
 
@@ -44,7 +48,7 @@ One of the Nine that makes up this world's pantheon. Ruldros is the deity of cra
 
 An ancient archmage who created the Planar Mirror and used the Island of Shariza as his base of operations. His other achievements and much of his history are unknown. (His name is backwards for "Causeim Jonesdan")
 
-## The Nightmother Iris
+## The Nightmother Iris |
 
 One of the Nine that makes up this world's pantheon. She represents the Grave domain, ferrying souls to the afterlife. As a result, she is heavily against necromancy, though resurrection is a different matter.
 
@@ -60,9 +64,13 @@ One of the Nine that makes up this world's pantheon. Ophina is the Goddess of Li
 
 One of the Nine that make sup this world's pantheon. Their real name and domain are both unknown.
 
-## The Scarlet Harvest
+## The Scarlet Harvest |
 
 One of the Fallen Gods of the world. Their domain revolves around blood and destruction. What they have done or who follows them is unknown.
+
+## The Seeping Rot |
+
+One of the Fallen Gods of the world. Their domain revolves around death, decay, and disease. Whether any still worship/follow them is currently unknown.
 
 ## The Vodeia
 

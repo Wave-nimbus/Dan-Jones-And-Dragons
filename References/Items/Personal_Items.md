@@ -29,6 +29,10 @@ The fifth card was The Star, causing Feyli to always see a bright light in her e
 
 Originally belonging to Aryc, this necklace has a pair of wooden dice on it. It has no function, but it is the only momento that Feyli has of her friend.
 
+### Feyli's Ironbark Armor
+
+A set of heavy armor that was created by druids out of the ironbark tree. The armor is not considered to be made of metal, allowing druids to wear it. Its AC value is currently unknown.
+
 ### Feyli's Key to Coil
 
 An obsidian cylinder that fits into Coil's jaw. Using it on Coil will unhinge his jaw, causing Coil to enter a hyper rage state. His bites allow him to regain HP while in this rage.
@@ -36,6 +40,10 @@ An obsidian cylinder that fits into Coil's jaw. Using it on Coil will unhinge hi
 ### Feyli's Mindshield Crown
 
 A silver headband with a chunk of Void Crystal embedded inside that Uldar of the Green Ravens crafted. It grants advantage on INT saves.
+
+### Feyli's Moonscythe +1
+
+A long scythe that is made to reflect the starry sky in its blade. Despite its effectiveness as both a weapon and spellcasting focus, it is not made of metal, allowing druids like Feyli to use it to full effect.
 
 ### Feyli's Music Box
 
@@ -52,6 +60,10 @@ Hide armor that can be attuend to a sapecific element once per day, granting 5 d
 ### Gelnek's Dragon Scale Button
 
 A gift from Trilby carved from the Dragon Scale he pulled from his Bag of Many Things. It grants a +1 to AC and Resistance against Poison damage while atttuned.
+
+### Gelnek's Belt of Hill Giant Strength
+
+A thick leather belt with various runes carved into it. While wearing and attuned to the belt, the wearer's Strength score is 21 and cannot be changed. 
 
 ### Gelnek's Marac-star
 
@@ -76,6 +88,10 @@ A purple cloak that used to belong to a Crown's Guard member. It was found in th
 ### Hobson's Coin of Fortune
 
 An old gold coin that is infused with some kind of Divination magic. Using a Bonus Action, the coin can be flipped, and its result can either help or hinder the user.
+
+### Hobson's Immoveable Rod
+
+A classic D&D item that appears like a lightsaber handle with a single button. Once pressed, the rod stops moving, it can support 3000 lbs, and it requires a DC 30 Athletics check to move it once activated.
 
 ### Hobson's Milk of the Poppy Potion 
 
