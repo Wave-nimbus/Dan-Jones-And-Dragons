@@ -288,7 +288,11 @@ A female Goliath who carries the second Valse gauntlet. She currently travels wi
 
 A mushroom creature the Party encountered in the Underdark. Part of a race of enormous mushroom creatures that eat creatures that stay inside their mushroom hill cavern. Otherwise quite friendly.
 
-### Nieven Erot, Blood Mage 
+### Miory, Trapped Sorcerer 
+
+A female Human who saved the Party from becoming to relaxed in a safe room within the Heart of the Keep. She has a staff with a geode at the top of it, and she appears to have been stuck within the Keep for a long time.
+
+### Nieven Erot, Blood Mage
 
 A male Drow with the ability to control blood magic. He takes drops of Hobson, Gelnek, and Trilby's blood in order to track them during the search for the 10 Artifacts.
 

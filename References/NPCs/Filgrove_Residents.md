@@ -84,7 +84,7 @@ Melina is a stern but caring mother. She worries about Trilby only when Trilby l
 
 ## Facetious Hornsfarrow, Dad
 
-Facetious was a Crown's Guard member until an injury to his leg forced him out of action for a time. He is gracious though stern with his children. It is ambiguous if he approves or disapproves of Trilby's adventures. He shares the same sentiment that Trilby should inform his parents of any extended travels, however.
+Facetious was a Crown's Guard captain until an injury to his leg forced him out of action for a time. He is gracious though stern with his children. It is ambiguous if he approves or disapproves of Trilby's adventures. He shares the same sentiment that Trilby should inform his parents of any extended travels, however.
 
 ## Dora & Derby Hornsfarrow, Siblings
 

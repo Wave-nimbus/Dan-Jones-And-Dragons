@@ -52,10 +52,10 @@ The members are: *Glurt*, *Ida Barton*, *Josh De Rosa*, *Quinn*, *Shade Destall*
 The tribe that formed the beast tribe government on Ty'vanera. They convinced most other groups on the continent to join them. Almost nothing else is known about them. <br>
 Known members include: *Brenon Hazelheart*.
 
-## The Fallen Gods
+## The Fallen Gods 
 
 A number of Gods/Goddesses that previously were worshiped before the Nine. It is unknown if they truly exist or if only Cults believe in them. <br>
-Mentioned deities of this group include: *The Brood Mother*, *Cascos the Flame Tyrant*, *The First Dead*, and *The Scarlet Harvest*.
+Mentioned deities of this group include: *The Blinding Light*, *The Brood Mother*, *Cascos the Flame Tyrant*, *The First Dead*, *The Scarlet Harvest*, and *The Seeping Rot*.
 
 ## Feywild Factions 
 
@@ -106,7 +106,7 @@ A traveling caravan that appeared in Filgrove in time for the All Hallow's Eve f
 Known living members include: *Gorm*, *Rum & Elm*, and *Teszin Stormhoof*.<br>
 Known dead members include: *Ember* & *Sawyer* 
 
-## Merchant Collective |
+## Merchant Collective 
 
 The governing body of Varu'Il who is generally in charge of coming up with the laws of the city/island. As Varu'Il is primarily about trade and commerce, the richest among them have the most power, leading to the Collective holding the power of the island. 
 
@@ -121,10 +121,10 @@ Known Subgroup: *Illustrious Delight*
 Serving as the Pantheon for the world of E'lythia, the Divine Nine represent various aspects of clerics, paladins and the like. <br>
 Mentioned deities of this pantheon include: *Ather the Breaker*, *The Guide*, *The Laughing Mask*, *The Molten Hammer Ruldros*, *The Nightmother Iris*, and *Ophina the Dawnmaiden*, *The Plated Dragon*, and *Zimera*.
 
-## The Runebreakers |
+## The Runebreakers 
 
 An adventuring/mercenary party who has been tasked by the Council of E'lythia to assist the town of Varu'Il. While they are capable, the endless monsters from The Heart of the Keep have worn them down close to exhaustion. <br>
-Known members include: *Rodrick*, *Unnamed Human woman barbarian* , *Unnamed Water Genasi male*, *Unnamed Tiefling woman*, *Unnamed Human woman archer*.
+Known members include: *Nori Watergrave*, *Rodrick*, *Unnamed Human woman barbarian* , *Unnamed Tiefling woman*, *Unnamed Human woman archer*.
 
 ## Viradescent Javelin Crew 
 
@@ -132,6 +132,6 @@ The crew of the Airship Viradescent Javelin that flew the Party from Filgrove to
 Known members include: *Ardwill*, *Azru Avena*, *Geo*, *Karva*, *Marmitull Longfeather*, *Priscilla*, and *Vespi*. <br>
 Previous members include: *Grayton Mule*
 
-## Zotrians |
+## Zotrians 
 
-A faction/tribe of Lizardfolk who live in the deserts around Varu'Il. They have an uneasy truce with the city. However, ever since the Heart of the Keep appeared there, the tribes have taken advantage of the chaos to perform raids and conquer parts of the city itself.
+A faction/tribe of Lizardfolk who live in the deserts around Varu'Il. They have an uneasy truce with the city. However, ever since the Heart of the Keep appeared there, the tribes have taken advantage of the chaos to perform raids and conquer parts of the city itself. They used to worship the dragon Rimereth as a deity.
