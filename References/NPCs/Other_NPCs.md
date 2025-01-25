@@ -52,13 +52,13 @@ A female Goblin that serves the Viridescent Javelin's engine room, ensuring the 
 
 ## The Black Hand/Midnight Lotus 
 
-### Aryk, Black Hand Martyr 
+### Aryk, Black Hand Martyr |
 
 A friend of Feyli's from their time serving the Black Hand. He had a distinctive burn along his torso and wavy brown hair. When Feyli fled, Aryk had risen to be an assistant to The Second. He was tortured to death for being Feyli's friend.
 
-#### Milo, Aryk's Motivation 
+#### Milo, Aryk's Motivation  |
 
-Presumed to be Aryk's son based on how he talks about him. Milo's death sparked Aryk's despair that presumably led him to join the Black Hand.
+Aryk's brother. Milo's death sparked Aryk's despair that presumably led him to join the Black Hand.
 
 ### Dave, Necromancer
 
@@ -74,9 +74,9 @@ The second in command of the Midnight Lotus just behind the First Dead. He gives
 
 ## Bloodletters Guild 
 
-### Duzrevur, Assassin Guild Head 
+### Daemon, Assassin Guild Head |
 
-Presumably the head of the Assassin's guild that Morenthal and Molloke are a part of. It is unclear what he thinks of everything going on.
+Presumably the head of the Assassin's guild that Morenthal and Molloke are a part of. It is unclear what he thinks of everything going on. He has two young sons that Morenthal has met in the past.
 
 ### Malaki Irion, Bloodletters Assassin
 
@@ -234,7 +234,7 @@ A member of the Illustrious Delight circus troupe. He is a large Minotaur that a
 
 A male Goblin hunter and tracker of the Ustenki tribe. He was tasked with assisting Fervor to locate & take back the Ring of Flame inside the Valsqori Bog. He wears a squished leather top hat and wields a bow.
 
-### Chief Stompy, Ustenki Leader
+### Chief Stompy, Ustenki Leader |
 
 An elderly male Goblin elder who is the current chief of the Ustenki tribe. He wears a massive hat stitched together from other hats. While bound by tradition, he still has a soft spot for Gelnek, even after being banished. He reincarnated Feyli after the battle with the Eyedra.
 
@@ -288,15 +288,11 @@ A female Goliath who carries the second Valse gauntlet. She currently travels wi
 
 A mushroom creature the Party encountered in the Underdark. Part of a race of enormous mushroom creatures that eat creatures that stay inside their mushroom hill cavern. Otherwise quite friendly.
 
-### Miory, Trapped Sorcerer |
-
-A female Human who saved the Party from becoming to relaxed in a safe room within the Heart of the Keep. She has a staff with a geode at the top of it, and she appears to have been stuck within the Keep for a long time.
-
 ### Nieven Erot, Blood Mage
 
 A male Drow with the ability to control blood magic. He takes drops of Hobson, Gelnek, and Trilby's blood in order to track them during the search for the 10 Artifacts.
 
-### Pocket, Pixie Pet 
+### Pocket, Pixie Pet |
 
 A female Pixie that was forced to be a pet for a noblewoman who attended the Gala at Jonathan Wick's Estate. She was eventually freed by the Party and is currently riding with Feyli until she can find a way back to the Feywild.
 

@@ -4,7 +4,7 @@
 
 A faction found in Domberland has been ticked off by Gear Head, a criminal. Almos tnothing ele is known about them.
 
-## The Black Hand 
+## The Black Hand |
 
 A group of necromancers that prey upon the emotionally vulnereable, such as mourners or those that have nothing left to lose. They are a cult that worships the First Dead. <br>
 Known dead members include: *Aryk*, *Dave the Necromancer*, and *The Second*.<br>
@@ -16,10 +16,10 @@ A cult dedicated to the Cascos the Fire Lord. They search for the seal that hold
 Known living members include: *Dane*, *Han Rathenal*, *Jiroma*, and *Trayton Farkle*
 Known dead members include: *Famir* and *Odenne*.
 
-## Bloodletters Guild
+## Bloodletters Guild |
 
 The bounty hunting/assassin's guild that is attemtping to hunt down Feyli. Since Morenthal seems to be helping her, the guild has a bounty for his head too. They also take other assassination and bounty jobs. Failure on a job means being expelled from the organization and hunted down. It is unknown who or what is at the top of the organization. <br>
-Known members include: *Duzrevur*, and *Yuul Greaterfist*. <br>
+Known members include: *Daemon*, and *Yuul Greaterfist*. <br>
 Expelled members include *Molloke Iron* and *Morenthal*.
 
 ## The Champions of Virtue 
@@ -83,7 +83,7 @@ Previous members include *Vespi*.
 
 A very small tribe of rusty orange goblins that live to the southeast of Filgrove. Gelnek attempted to teach them about economies after the Party found them attacking a stagecoach in search of food.
 
-### The Ustenki Tribe 
+### The Ustenki Tribe |
 
 Gelnek's tribe of goblins that live in the Blighted Swamp near Mt. Fiorno. They have a tradition spanning several generations of sending future members on a long pilgrimage so that they may get stronger. When they return, they fight the previous pilgrims to ensure the tribe remains strong. <br>
 Exiled members include: *Gelnek*.

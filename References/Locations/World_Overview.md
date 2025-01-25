@@ -12,7 +12,7 @@ Orlon is the main continent that the campaign takes place on. It is controlled b
 
 A volcanic region in the Southernmost part of Orlon. The nearby volcano, Mt. Fiorno, renders it close to the Elemental Plane of Fire. Thus, it was the location of the Ring of Flame, one of the 10 Artifacts.
 
-### Brightcoin 
+### Brightcoin |
 
 A major city on the continent of Orlon. It is home to the Vaults of Eversteel, and it's ruled by a king named Rylen Lendsborough. It has an enormous population, making it one of the largest cities on E'lythia. See the Brightcoin reference for more information.
 
@@ -32,7 +32,7 @@ A town in the Northwest of Orlon. The Flower of Rebirth, one of the 10 Artifacts
 
 A town in the south of Orlon within the Ashen Highlands. The Ring of Flame was discovered by a resident before being taken to the nearby Voscorie Bog. See the Mt. Fiorno reference for more details.
 
-### Northcliff 
+### Northcliff |
 
 Northcliff is a technologically adavanced city that serves as a central hub for the search for the 10 Artifacts. It used to be home of the Champions of Virtue before they disbanded. It floats high above the ground on Green Void Crystals. Northcliff is near the Southwestern edge of Orlon. See the Northcliff reference for more details.
 

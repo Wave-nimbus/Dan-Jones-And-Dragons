@@ -12,7 +12,7 @@ The person who helped create the vault beneath Mr. Wick's estate. His father hel
 
 A newly famous individual in Brightcoin, rising from peasant to major noble in just months. His original occupation is as a candlemaker, calling to question how he gained such wealth and popularity from the other nobles. He is a male Human with well groomed mutton chops, a rosy face and modest build. He was killed by Preston and Coil after trying to use the Magic Key on Preston.
 
-## Preston FitzClarence
+## Preston FitzClarence |
 
 A wealthy man who lives in Brightcoin, though he is still a lesser noble. He was Coil's previous owner before Feyli fled with Coil. His extensive information network has allowed him to track down the Party after they arrived in Northcliff. He is an average Human male first seen wearing a black suit and red ascot.
 

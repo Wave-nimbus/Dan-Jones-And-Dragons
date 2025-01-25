@@ -62,7 +62,7 @@ The owner and operator of the Opal Circlet in Northcliff. An elderly gnome woman
 
 # Other Residents
 
-## Bifar Clemingsworth, Champions Nerd
+## Bifar Clemingsworth, Champions Nerd |
 
 A young male Human that always geeks overe the Champions. He is part of a monthly meetup of likeminded nerds to discuss the Champions. He is friends with Trilby over their shared obsession with the Champions.
 
