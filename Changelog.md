@@ -56,7 +56,9 @@
 
 #### November 12, 2024 - Compiled Session 30. (1 day late).
 
-#### January 15, 2025 - Compiled Session 31 (Extremely Late)
+#### January 15, 2025 - Compiled Session 31 (Extremely Late).
+
+#### January 25, 2025 - Compiled Session 32 (1 day late).
 
 ## Intersession Updates
 

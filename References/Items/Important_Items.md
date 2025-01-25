@@ -14,9 +14,9 @@ An orb capable of projecting world maps. Variations of these orbs can project di
 
 The book that Gale Mosswing used to improve his farm's standing, to the detriment of his family and the Missing People. It was given by Dave the Necromancer.
 
-## Bracelet of Shared Pain
+## Bracelet of Shared Pain 
 
-A golden bracelet with spikes around the edges. While worn, if a creatre takes damage within 30 ft of the wearer, the wearer can use a Reaction to reduce the incoming damage by 1d12. The wearer then takes that damage as psychic damage.
+A golden bracelet with spikes around the edges. While worn, if a creatre takes damage within 30 ft of the wearer, the wearer can use a Reaction to reduce the incoming damage by 1d12. The wearer then takes that damage as psychic damage. It is currently worn by Coil.
 
 ## First Edition Tankard
 

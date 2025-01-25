@@ -16,22 +16,23 @@ A hide cloak/pelt that prevents creatures from gaining advantage on attacks due 
 
 A pair of leather boots with wings stitched into the side. They have a period of up to 4 hours where the wearer can have a flying speed equal to their walking speed. For every 12 hours the boots are not used for flying, they recharge 2 hours of flight.
 
-### Feyli's Deck of Cards
+### Feyli's Deck of Cards 
 
 An item gotten from Karashala the Hag in exchange for a favor. It appears to be a fancy tarot deck of 20 cards, though Jocat believes it to be a Deck of Many Things. The favor in turn was to give the Staff of Defilement to Karashala. <br>
 The first card pulled was Wheel of Fortune, causing Feyli to have Disadvantage on attacks & skill checks. <br>
 The second card was The Tower, resulting in her sinking into her surroundings ever so slightly. <br>
 The third card was The Justice, doubling the amount of gold on her person. <br>
 The fourth card was The Lovers, causing anything on her person to vanish into smoke for 24 hours. <br>
-The fifth card was The Star, causing Feyli to always see a bright light in her eyes, even while trying to sleep.
+The fifth card was The Star, causing Feyli to always see a bright light in her eyes, even while trying to sleep. <br>
+The sixth card was The Hermit, giving Feyli's worst ability score at the time (STR) a permanent +1.
 
 ### Feyli's Dice Necklace
 
 Originally belonging to Aryc, this necklace has a pair of wooden dice on it. It has no function, but it is the only momento that Feyli has of her friend.
 
-### Feyli's Ironbark Armor
+### Feyli's Venombark Armor
 
-A set of heavy armor that was created by druids out of the ironbark tree. The armor is not considered to be made of metal, allowing druids to wear it. Its AC value is currently unknown.
+A set of heavy armor that was created by druids out of the ironbark tree. The armor is not considered to be made of metal, allowing druids to wear it. It has the stats of Half-Plate armor (15 + max 2 DEX). As a reaction, the wearer can also reduce incoming Poison damage by 1d8 + CON.
 
 ### Feyli's Key to Coil
 
@@ -55,7 +56,7 @@ A seemingly ordinary Music Box that Feyli continuously forgets she has. She alon
 
 ### Feyli's Void Absorption Hide Armor
 
-Hide armor that can be attuend to a sapecific element once per day, granting 5 damage reduction. It was crafted by Uldar of the Green Ravens. It originally was Morenthals before he changed his armor.
+Hide armor that can be attuned to a sapecific element once per day, granting 5 damage reduction. It was crafted by Uldar of the Green Ravens. It originally was Morenthals before he changed his armor. It has since been replaced by Feyli's Venombark Armor.
 
 ### Gelnek's Dragon Scale Button
 
@@ -113,8 +114,6 @@ A wooden dagger made from the Evertree (making it a divine weapon), causing an a
 
 A metallic ring that is capable of casting Fog Cloud centered on the ring using a charge. The ring starts with 3 charges. The spell lasts up to a minute.
 
-
-
 ### Trilby's Bag of Many Things
 
 A bag that creates a new available item once a day. It was gifted to Trilby by Biggleton Whipersnap along with the Brass Puzzle. In turn, Trilby is supposed to give Whipersnap some items from the bag. (Pulls are listed in a separate document)
@@ -125,7 +124,7 @@ A deviously complex puzzle that had to be solved before Trilby could access his 
 
 ### Trilby's "Trilbee"
 
-A mechanical bee that Trilby created. It is capable of healing Party members as a Bonus Action, though its exact capabilities are unknown.
+A mechanical bee that Trilby created. It is capable of healing Party members as a Bonus Action, healing from a pool of D6's that recharge during Long Rests.
 
 ### Trilby's Sending Sheets
 

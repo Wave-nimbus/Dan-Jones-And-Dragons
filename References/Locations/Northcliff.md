@@ -10,6 +10,10 @@ A farm owned by Macadoo Blezulbee in Northcliff's Old Town. It is currently hous
 
 Once the headquarters of the Champions of Virtue, this massive mansion has been turned into a museum dedicated to them. A massive painting depicting the Champions and their names is a centerpiece of the museum's collection.
 
+### Clemmingsworth Estate 
+
+The home of Bifar Clemmingsworth that Trilby has visited several times. It is a cozy home where Trilby and Bifar are comfortable discussing Trilby's adventures as well as the Champions of Virtue.
+
 ### Crater Mines
 
 The unofficial designation for the mines below Northcliff. Most of Northcliff's mining occurs here. They are currently having issues with some creature that eats metal and iron, causing the iron supply to be threatened.

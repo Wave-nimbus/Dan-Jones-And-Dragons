@@ -16,10 +16,10 @@ A cult dedicated to the Cascos the Fire Lord. They search for the seal that hold
 Known living members include: *Dane*, *Han Rathenal*, *Jiroma*, and *Trayton Farkle*
 Known dead members include: *Famir* and *Odenne*.
 
-## Bloodletters Guild
+## Bloodletters Guild 
 
 The bounty hunting/assassin's guild that is attemtping to hunt down Feyli. Since Morenthal seems to be helping her, the guild has a bounty for his head too. They also take other assassination and bounty jobs. Failure on a job means being expelled from the organization and hunted down. It is unknown who or what is at the top of the organization. <br>
-Known members include: *Duzrevur*, and *Yuul Greaterfist*. <br>
+Known members include: *Daemon*, and *Yuul Greaterfist*. <br>
 Expelled members include *Molloke Iron* and *Morenthal*.
 
 ## The Champions of Virtue 

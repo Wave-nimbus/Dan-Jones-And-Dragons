@@ -1,5 +1,9 @@
 # Notable Varu'Il Residents
 
+### Miory, Trapped Sorcerer 
+
+A female Human who saved the Party from becoming too relaxed in a safe room within the Heart of the Keep. She has a staff with a geode at the top of it, and she was sent alone into the Keep by Raya and the Merchant Collective to explore. She is a powerful Druid of the Moon Circle and has learned the tricks of the safe rooms within the Keep having spent over a week inside.
+
 ## Nori Watergrave, Runebreaker 
 
 A member of the Runebreakers, an adventuring party hired by Adokas to help Varu'Il. Nori is a male Water Genasi who doesn't speak. His powers and abilities are unknown.
