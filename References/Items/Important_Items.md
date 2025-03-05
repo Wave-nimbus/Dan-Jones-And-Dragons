@@ -14,6 +14,10 @@ An orb capable of projecting world maps. Variations of these orbs can project di
 
 The book that Gale Mosswing used to improve his farm's standing, to the detriment of his family and the Missing People. It was given by Dave the Necromancer.
 
+## Bowl and Spoon of Soup 
+
+A matching bowl and spoon set that appears silver in color. When water is poured into the bowl, the water is transformed into soup over the course of a minute. If the soup leaves the bowl and is not ingested, it reverts back to water.
+
 ## Bracelet of Shared Pain 
 
 A golden bracelet with spikes around the edges. While worn, if a creatre takes damage within 30 ft of the wearer, the wearer can use a Reaction to reduce the incoming damage by 1d12. The wearer then takes that damage as psychic damage. It is currently worn by Coil.
@@ -38,9 +42,17 @@ One of the 10 Artifacts from Brightcoin. It blooms once every 100 years, leaving
 
 A religious amulet for the Goddess Ophina found amongst gear of the Crown's Guard. Said gear was in the Flesh Cave.
 
+## Guiding Bolt Skull 
+
+A blackened skull with lotus flowers growing out of it. It has 7 petals each of which can be used to cast Guiding Bolt. The bolt has a +5 to hit and deals Necrotic rather than Radiant damage. 
+
+## Harvest Ring 
+
+A small ring that was found in the Heart of the Keep's Scarlet Harvest chapel. It allows the wearer to see invisible creatures, but the wearer gets disadvantage on CON saves. Touching the ring causes the screams and agony of the Scarlet Harvest's domain to be heard. Protection from Good & Evil dulls these screams.
+
 ## The Heart of the Keep 
 
-One of the 10 Artifacts from Brightcoin. It transforms the owner into a vampire lord and generates a fortress keep for them to live in. It was originally recovered by the Champions in Ravenfell, but it has since reappeared in Varu'Il. It also can generate hordes of monsters.
+One of the 10 Artifacts from Brightcoin. It transforms the owner into a vampire lord and generates a fortress keep for them to live in. It was originally recovered by the Champions in Ravenfell, but it has since reappeared in Varu'Il. It also can generate hordes of monsters. It has a strong affiliation with the Scarlet Harvest and may be part of their domain.
 
 ## Ioun Stone of Reserve
 
@@ -77,6 +89,10 @@ One of the stones used to communicate within the tunnel from Filgrove to Geria. 
 ## Shaper of Minds (aka: Magic Key) 
 
 One of the 10 Artifacts. A brass key that can be used to control a person's mind. The holder can see who has been affected by the Key as their face is scribbled over with black lines. It used by Jonathan Wick to become extremely popular amongst Brightcoin's nobility. The holder can alter the memories of a person if the key touches their skin, regardless of if the Shaper of Minds caused the mind alteration originally. It is currently held by Six in Mechanus.
+
+## Shortsword of Paranoia 
+
+A shortsword with a red blade. It has 3 charges that recharge at dawn. When attacking, a charge can be used to increase the attack or damage roll by 1d8. Two charges can be used to force a creature within 60 ft to make a WIS save or become frightened for 1 minute and take 3d8 Psychic damage. The creature re-makes the save at the end of their turn, ending the condition on a success. Finally, one charge can be used to gain proficiency in a skill or tool of a target within 60 ft. This proficiency lasts 1 hour.
 
 ## Soul Egg
 
