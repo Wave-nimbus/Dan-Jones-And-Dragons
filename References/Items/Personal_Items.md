@@ -24,7 +24,8 @@ The second card was The Tower, resulting in her sinking into her surroundings ev
 The third card was The Justice, doubling the amount of gold on her person. <br>
 The fourth card was The Lovers, causing anything on her person to vanish into smoke for 24 hours. <br>
 The fifth card was The Star, causing Feyli to always see a bright light in her eyes, even while trying to sleep. <br>
-The sixth card was The Hermit, giving Feyli's worst ability score at the time (STR) a permanent +1.
+The sixth card was The Hermit, giving Feyli's worst ability score at the time (STR) a permanent +1.<br>
+The seventh card was The Temperence, causing Feyli's mouth to feel weird. Other effects are unknown.
 
 ### Feyli's Dice Necklace
 
@@ -57,6 +58,10 @@ A seemingly ordinary Music Box that Feyli continuously forgets she has. She alon
 ### Feyli's Void Absorption Hide Armor
 
 Hide armor that can be attuned to a sapecific element once per day, granting 5 damage reduction. It was crafted by Uldar of the Green Ravens. It originally was Morenthals before he changed his armor. It has since been replaced by Feyli's Venombark Armor.
+
+### Gelnek's +1 Amulet of the Devout
+
+A +1 Holy Symbol for Paladins and Clerics that was found within the Heart of the Keep. It also provides an extra usage of Channel Divinity. 
 
 ### Gelnek's Dragon Scale Button
 

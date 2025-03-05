@@ -248,6 +248,10 @@ A male Goblin hunter and tracker of the Ustenki tribe. He was tasked with assist
 
 The version of Valse found in the right gauntlet worn by Lady Belle. His personality is of a cool, calculating machine. He gives combat advice and allows Lady Belle to transform into animals, but he is otherwise quite rude to her and Vindilay.
 
+### Aluria, Dawnmaiden Servent
+
+A strange, vaugely humanoid celestial who was rescued by the Party within the Heart of the Keep. She had been tasked with exploring the Scarlet Harvest's domain, accessible from within the keep. She was imprisoned within a strange crystal inside a Stone Talus-like creature. Once freed, she upgraded Morenthal's sneak attack dice as a boon.
+
 ### Chameleonaire, Expensive Merchant 
 
 A well traveled and extremely rich Lizardfolk merchant that travels the lands selling expensive (and potentially overpriced) magical items. When he met the Party, he sells a number of items and offers even more.

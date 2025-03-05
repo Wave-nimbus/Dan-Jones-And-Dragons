@@ -66,7 +66,7 @@ One of the Nine that make sup this world's pantheon. Their real name and domain 
 
 ## The Scarlet Harvest |
 
-One of the Fallen Gods of the world. Their domain revolves around blood and destruction. What they have done or who follows them is unknown.
+One of the Fallen Gods of the world. Their domain revolves around blood and destruction. A glimpse into their domain reveals it to be awash with blood and carnage, endless fighting for no point other than the violence itself. The Heart of the Keep seems linked to them in some way. What they have done or who follows them is unknown.
 
 ## The Seeping Rot |
 
