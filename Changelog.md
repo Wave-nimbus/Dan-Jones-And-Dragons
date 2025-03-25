@@ -62,6 +62,8 @@
 
 #### March 5, 2025 - Compiled Session 33.
 
+#### March 25, 2025 - Compiled Session 34.
+
 ## Intersession Updates
 
 #### August 18, 2022 - Removed rules lawyering; Minor adjustments.
@@ -91,3 +93,5 @@
 #### May 28, 2024 - Arc 8 Compiled.
 
 #### September 11, 2024 - Arc 9 Compiled.
+
+#### March 25, 2025 - Arc 10 Compiled.

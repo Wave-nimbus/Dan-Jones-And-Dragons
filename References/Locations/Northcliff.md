@@ -76,7 +76,7 @@ Found in the East of the city, this is the inn that the Flower Crowns stay at wh
 
 ### The Spire 
 
-An enormous tower in the center of the city that amplifies the power of magic. It is the power source of the magical barrier surrounding Northcliff. It also serves as the meeting place for the Council of E'lythia members to coordinate the search. The tower's power allows for scrying spells to reach far beyond what an ordinary person could create.
+An enormous tower in the center of the city that amplifies the power of magic. It is the power source of the magical barrier surrounding Northcliff. It also serves as the meeting place for the Council of E'lythia members to coordinate the search. The tower's power allows for scrying spells to reach far beyond what an ordinary person could create. Its basement has a Teleporation Circle.
 
 ### The Suggestive Squeeze
 

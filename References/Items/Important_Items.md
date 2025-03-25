@@ -3,8 +3,8 @@
 ## The 10 Artifacts 
 
 10 of the most dangerous and powerful artifacts scattered by the Explosion at Brightcoin. The Council of E'lythia is trying to recover them as soon as possible. The recovered artifacts are listed in the order they were recovered. <br>
-Recovered artifacts are *The Staff of Defilement*, *The Flower of Rebirth*, *The Ring of Flame*, and *The Shaper of Minds*<br>
-Unrecovered artifacts are: *The Amber Dragon Eye*, *The Gauntlet of the Eye*, *The Heart of the Keep*, *The Planar Mirror*, , *The Throne of Want*, and *The Wand of Chaos*.
+Recovered artifacts are: *The Staff of Defilement*, *The Flower of Rebirth*, *The Ring of Flame*, and *The Shaper of Minds*, *The Heart of the Keep*<br>
+Unrecovered artifacts are: *The Amber Dragon Eye*, *The Gauntlet of the Eye*, , *The Planar Mirror*, *The Throne of Want*, and *The Wand of Chaos*.
 
 ## Beacon Map
 
@@ -42,17 +42,17 @@ One of the 10 Artifacts from Brightcoin. It blooms once every 100 years, leaving
 
 A religious amulet for the Goddess Ophina found amongst gear of the Crown's Guard. Said gear was in the Flesh Cave.
 
-## Guiding Bolt Skull 
+## Cultist Skull 
 
 A blackened skull with lotus flowers growing out of it. It has 7 petals each of which can be used to cast Guiding Bolt. The bolt has a +5 to hit and deals Necrotic rather than Radiant damage. 
 
 ## Harvest Ring 
 
-A small ring that was found in the Heart of the Keep's Scarlet Harvest chapel. It allows the wearer to see invisible creatures, but the wearer gets disadvantage on CON saves. Touching the ring causes the screams and agony of the Scarlet Harvest's domain to be heard. Protection from Good & Evil dulls these screams.
+A small ring that was found in the Heart of the Keep's Scarlet Harvest chapel. It allows the wearer to see invisible creatures, but the wearer gets disadvantage on CON saves. Touching the ring causes the screams and agony of the Scarlet Harvest's domain to be heard. Protection from Good & Evil dulls these screams. The Ring was permenantly lost when the Heart of the Keep dissipated.
 
 ## The Heart of the Keep 
 
-One of the 10 Artifacts from Brightcoin. It transforms the owner into a vampire lord and generates a fortress keep for them to live in. It was originally recovered by the Champions in Ravenfell, but it has since reappeared in Varu'Il. It also can generate hordes of monsters. It has a strong affiliation with the Scarlet Harvest and may be part of their domain.
+One of the 10 Artifacts from Brightcoin. It is a large, malformed heart covered in an amalgamation of veins and black patterns. It transforms the owner into a vampire lord and generates a fortress keep for them to live in. It was originally recovered by the Champions in Ravenfell, but it has since reappeared in Varu'Il. It also can generate hordes of monsters. It has a strong affiliation with the Scarlet Harvest as the keep was built for the champion of the Scarlet Harvest.
 
 ## Ioun Stone of Reserve
 

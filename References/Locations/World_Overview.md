@@ -224,4 +224,4 @@ The first Airship of the campaign that takes the Party from Filgrove south to No
 
 ## Teleporation Circles 
 
-A series of Teleportation Circles allow for much longer and much quicker travel between cities. Known Teleportation Circles are found within: *Blackfane*, *Filgrove*, *Silverhill*, and *Varu'Il*. 
+A series of Teleportation Circles allow for much longer and much quicker travel between cities. Known Teleportation Circles are found within: *Blackfane*, *Filgrove*, *Northcliff*, *Silverhill*, and *Varu'Il*. 

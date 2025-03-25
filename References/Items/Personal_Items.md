@@ -85,7 +85,7 @@ A shortsword found among the personal effects of the Missing People. Originally 
 
 ### Hobson's Bag of Holding
 
-The classic D&D item is capable of holding a large amount of stuff within its pocket dimenstion space. Hobson currently doesn't have anything in it.
+The classic D&D item is capable of holding a large amount of stuff within its pocket dimenstion space. It often holds many of the Party's treasures and is also used to carry recovered Artifacts safely.
 
 ### Hobson's Cloak of Protection
 

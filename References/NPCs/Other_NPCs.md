@@ -4,9 +4,9 @@
 
 An extremely heavyset and buff human Monk that was part of the Champions of Virtue hero group. He has since joined the Council of E'lythia, overseeing efforts to protect the realm. He hires the Party to search for the 10 Artifacts.
 
-## Bartholomew, Talking Skull
+## Bartholomew, Talking Plasmoid Skull
 
-A talking skull bought by Coil from Karashala. How he became a talking skull is unknown, but it is likely the work of a necromancer. He is fully aware of his predicament and desires to travel with the Party.
+A talking skull bought by Coil from Karashala. How he became a talking skull is unknown, but it is likely the work of a necromancer. He is fully aware of his predicament and desires to travel with the Party. He was given a new Plasmoid body by Estevan Longfeather and Moeb.
 
 ## (Bracer) Valse "V", Hobson's Patron
 

@@ -140,6 +140,10 @@ A miniature ship inside of a bottle the size of an apple. While tinkering with i
 
 An otherwise nondescript goblet made of pure silver. It has very little decoration on the outside, as compared to the Bronze Chalice. 
 
+## Square Topaz 
+
+A medium sized square-cut Topaz. It appears to be charged with static electricity at all times. 
+
 ## Torquoise Feather 
 
 A relatively large feather whose hue goes from white to torquoise at the tip. If it has any magical properties, they are unknown at the time.
@@ -166,4 +170,4 @@ A finely crafted leather waterskin. It's stitching is so intricate that symbols 
 
 ## Zamira Holy Symbol 
 
-A holy symbol dedicated to Zamira, the Goddess of knowledge, the arcane, and stars. It could probably be used byya cleric or paladin if needed.
+A holy symbol dedicated to Zamira, the Goddess of knowledge, the arcane, and stars. It could probably be used by a cleric or paladin if needed.
