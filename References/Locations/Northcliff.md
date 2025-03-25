@@ -1,4 +1,4 @@
-## Northcliff |
+## Northcliff 
 
 Northcliff is a large, technologically advanced city in the Southwest of Orlon. It floats high above the surrounding land on enormous Green Void Crystals, but it is yet anchored to the ground below. The city serves as the current headquarters for the search of the 10 Artifacts scattered due to the Explosion at Brightcoin. Surrounding the city is a powerful barrier that blocks most physical objects if needed. The city is divided into several districts, but more specific locations include:
 
@@ -10,7 +10,7 @@ A farm owned by Macadoo Blezulbee in Northcliff's Old Town. It is currently hous
 
 Once the headquarters of the Champions of Virtue, this massive mansion has been turned into a museum dedicated to them. A massive painting depicting the Champions and their names is a centerpiece of the museum's collection.
 
-### Clemmingsworth Estate |
+### Clemmingsworth Estate 
 
 The home of Bifar Clemmingsworth that Trilby has visited several times. It is a cozy home where Trilby and Bifar are comfortable discussing Trilby's adventures as well as the Champions of Virtue.
 
@@ -76,7 +76,7 @@ Found in the East of the city, this is the inn that the Flower Crowns stay at wh
 
 ### The Spire 
 
-An enormous tower in the center of the city that amplifies the power of magic. It is the power source of the magical barrier surrounding Northcliff. It also serves as the meeting place for the Council of E'lythia members to coordinate the search. The tower's power allows for scrying spells to reach far beyond what an ordinary person could create.
+An enormous tower in the center of the city that amplifies the power of magic. It is the power source of the magical barrier surrounding Northcliff. It also serves as the meeting place for the Council of E'lythia members to coordinate the search. The tower's power allows for scrying spells to reach far beyond what an ordinary person could create. Its basement has a Teleporation Circle.
 
 ### The Suggestive Squeeze
 

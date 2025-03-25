@@ -14,7 +14,7 @@ This is the fan-made reference/wiki for the Dan Jones And Dungeons D&D Campaign 
 
 The series has been going on long enough to break up the sessions into miniature arcs. These arcs have been named based on their content, and the relevant episodes are divided into them.
 
-The Heart of the Keep contains information referenced in and updated for Sessions 30, 31, 32, 33... As this arc has yet to conclude, all information is kept for reference. ~~Information not mentioned in this arc has been removed for easier viewing, reading, and searching.~~
+The Heart of the Keep contains information referenced in and updated for Sessions 30, 31, 32, 33, and 34. Information not mentioned in this arc has been removed for easier viewing, reading, and searching.
 
 ## Does DJ&J have a content rating?
 

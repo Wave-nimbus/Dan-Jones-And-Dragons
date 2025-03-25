@@ -1,6 +1,6 @@
 # Dungeon Master: Dan Jones
 
-# The Flower Crowns; Current Level: 9
+# The Flower Crowns; Current Level: 10
 
 ## Coil the Beast Barbarian & Echo Knight Fighter (He/Him)
 

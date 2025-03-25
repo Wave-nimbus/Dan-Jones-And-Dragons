@@ -16,7 +16,7 @@ A hide cloak/pelt that prevents creatures from gaining advantage on attacks due 
 
 A pair of leather boots with wings stitched into the side. They have a period of up to 4 hours where the wearer can have a flying speed equal to their walking speed. For every 12 hours the boots are not used for flying, they recharge 2 hours of flight.
 
-### Feyli's Deck of Cards |
+### Feyli's Deck of Cards 
 
 An item gotten from Karashala the Hag in exchange for a favor. It appears to be a fancy tarot deck of 20 cards, though Jocat believes it to be a Deck of Many Things. The favor in turn was to give the Staff of Defilement to Karashala. <br>
 The first card pulled was Wheel of Fortune, causing Feyli to have Disadvantage on attacks & skill checks. <br>
@@ -85,7 +85,7 @@ A shortsword found among the personal effects of the Missing People. Originally 
 
 ### Hobson's Bag of Holding
 
-The classic D&D item is capable of holding a large amount of stuff within its pocket dimenstion space. Hobson currently doesn't have anything in it.
+The classic D&D item is capable of holding a large amount of stuff within its pocket dimenstion space. It often holds many of the Party's treasures and is also used to carry recovered Artifacts safely.
 
 ### Hobson's Cloak of Protection
 
