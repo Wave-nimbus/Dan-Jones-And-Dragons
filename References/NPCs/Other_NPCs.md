@@ -68,9 +68,9 @@ An incompetent necromancer and part of the Black Hand group. He was hiding in th
 
 A towering knight either controlled by or loyal to the Second. His body has decayed into almost nothingness, and yet he served on. He uses a massive greatsword to defend The First and The Second when the Party enters the Black Hand's HQ.
 
-### The Second, Midnight Lotus Leader 
+### The Second, Midnight Lotus Leader |
 
-The second in command of the Midnight Lotus just behind the First Dead. He gives orders to the lower numbered tiers of the organization, as he is the direct apprentice of the First. He is a pale skinned human with sunken eyes and greasy, patchy black hair.
+The second in command of the Midnight Lotus just behind the First Dead. He gives orders to the lower numbered tiers of the organization, as he is the direct apprentice of the First. He is a pale skinned human with sunken eyes and greasy, patchy black hair. He was supposedly killed when the Party retrieved the Seed of Rebirth but is somehow alive.
 
 ## Bloodletters Guild 
 
@@ -82,9 +82,9 @@ Presumably the head of the Assassin's guild that Morenthal and Molloke are a par
 
 A bounty hunter and assassin presumably from the same Bloodletters guild as Morenthal. He wants to caputre/kill Feyli, as there is 24,000 gp bounty on her head. However, he warned Morenthal of the impending bounty first.
 
-### Yuul Greaterfist, Bloodletters Assassin
+### Yuul Greaterfist, Bloodletters Assassin |
 
-A Goliath member of the Bloodletters that Morenthal notices after returning from getting Void gear ordered. He ambushed Morenthal in the costume shop, got an extremely nasty stab into Morenthal's back and then stole all his money. However, he did keep Morenthal alive, despite the bounty on his head.
+A Goliath member of the Bloodletters that Morenthal notices after returning from getting Void gear ordered. He ambushed Morenthal in the costume shop, got an extremely nasty stab into Morenthal's back and then stole all his money. However, he did keep Morenthal alive, despite the bounty on his head. He is also the one who placed the 10,000 gp bounty on Morenthal's head.
 
 ## Burning Spears 
 
@@ -228,7 +228,7 @@ The ring leader, owner and/or operator of the Illustrious Delight circus troupe.
 
 A member of the Illustrious Delight circus troupe. He is a large Minotaur that acts as the circus's strongman act. While shy and bashful, his strength is unparalleled. The troupe is a part of the Midnight Lotus.
 
-## Ustenki Tribe
+## Ustenki Tribe |
 
 ### Burple, Ustenki Tracker 
 
@@ -292,9 +292,9 @@ A female Goliath who carries the second Valse gauntlet. She currently travels wi
 
 A mushroom creature the Party encountered in the Underdark. Part of a race of enormous mushroom creatures that eat creatures that stay inside their mushroom hill cavern. Otherwise quite friendly.
 
-### Nieven Erot, Blood Mage
+### Nieven Erot, Blood Mage |
 
-A male Drow with the ability to control blood magic. He takes drops of Hobson, Gelnek, and Trilby's blood in order to track them during the search for the 10 Artifacts.
+A male Drow with the ability to control blood magic. He takes drops of Hobson, Gelnek, and Trilby's blood in order to track them during the search for the 10 Artifacts. His control over blood magic also lets him trace people who create bounties in Orlon's bounty hunting network.
 
 ### Pocket, Pixie Pet 
 

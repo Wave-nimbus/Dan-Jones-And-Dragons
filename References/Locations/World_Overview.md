@@ -8,7 +8,7 @@ Orlon is the main continent that the campaign takes place on. It is controlled b
 
 ## Visited Locations/Cities
 
-### Ashen Highlands 
+### Ashen Highlands |
 
 A volcanic region in the Southernmost part of Orlon. The nearby volcano, Mt. Fiorno, renders it close to the Elemental Plane of Fire. Thus, it was the location of the Ring of Flame, one of the 10 Artifacts.
 
@@ -24,7 +24,7 @@ Filgrove is where the Party spends most of their time. It is a decent sized city
 
 A corrupted structure deep within the Underdark. The Staff of Defilement was found here and used unsuccessfully in a ritual for the Brood Mother. The result was a fleshy corruption that overtook and partially destroyed the structure. The Crown's Guard failed to retrieve the Staff, but the Party managed to do so. Without the staff, the flesh should hopefully rot away into nothingness.
 
-### Lafford 
+### Lafford |
 
 A town in the Northwest of Orlon. The Flower of Rebirth, one of the 10 Artifacts, was most recently used here. The town is notable for being the headquarters of the Black Hand necromancy cult. See the Lafford reference for more details.
 
@@ -32,7 +32,7 @@ A town in the Northwest of Orlon. The Flower of Rebirth, one of the 10 Artifacts
 
 A town in the south of Orlon within the Ashen Highlands. The Ring of Flame was discovered by a resident before being taken to the nearby Voscorie Bog. See the Mt. Fiorno reference for more details.
 
-### Northcliff 
+### Northcliff |
 
 Northcliff is a technologically adavanced city that serves as a central hub for the search for the 10 Artifacts. It used to be home of the Champions of Virtue before they disbanded. It floats high above the ground on Green Void Crystals. Northcliff is near the Southwestern edge of Orlon. See the Northcliff reference for more details.
 
@@ -44,7 +44,7 @@ A village north of Northcliff. When the Party first see it, it is being raided b
 
 The inn/tavern at Ohkross run by Effie the Gnome. It is a small establishment, but the Party is welcome there.
 
-### Silverhill
+### Silverhill |
 
 A town in the West of Orlon that is home to a mage college of some kind. That college is headed by Gregor Timbers, one of the Champions of Virtue. Hobson originally was an administrator for the college before getting his bracer with Valse. The package the bracer came in was likely originally addressed to Gregor.
 
@@ -58,6 +58,10 @@ The Underdark is the deep underground portions of a D&D world. The tunnel from F
 
 A large and major city in central Orlon. It serves as an enormous trade and merchent hub, with nearly anything being available to buy. It appears as a massive black spire with boardwalks running out a distance from the main spire. The Emperor of E'lythia is also housed in this city.
 
+### Crimson Vale |
+
+A city somewhere on Orlon (or maybe Ty'vanera) that is home to the Runebreakers adventuring group. After the Heart of the Keep was removed from Varu'Il, they booked passage back here. Almost nothing else is known about it.
+
 ### Desert of Thorns 
 
 A large desert in Eastern Orlon. The Gauntlet of the Eye, one of the 10 Artifacts, is believed to be somewhere in this desert.
@@ -70,9 +74,9 @@ A city somewhere in Orlon, presumably with a large population of dragons or drac
 
 A series of Islands somewhere in Orlon. The Champions of Virtue killed wyvyrns in that area, making it Trilby's favorite feat of the group. Almost nothing else is known about the region.
 
-### Duskern 
+### Duskern |
 
-A town in central Orlon that is currently dealing with an outbreak of Ashen Rot. Almost nothing else is known about it.
+A town in central Orlon that is currently dealing with an outbreak of Ashen Rot. Yellow void crystal was discovered in a mass grave outside of the city. Almost nothing else is known about it.
 
 ### Emerald Sea
 
@@ -118,7 +122,7 @@ A town near the Sunken City of Cera, which serves as a adventuring and archeolog
 
 Scarlan used to be a tiny village, but it had a Temple to the Nightmother. This was the Party's first adventure, as they discovered Dave the necromancer living in the catacombs below the Temple. 
 
-### The Shard Coast 
+### The Shard Coast |
 
 A series of ports, coves, and towns that serve as a pirate's haven on the North East part of Orlon. If there is someone unsavory that needs to be found, you could start in a lot worse places than here. Whoever put the bounty on Morenthal is in this area. Ruins of the Voedia civilization are nearby. Despite being a large area, it is considered a single city. 
 
@@ -186,13 +190,13 @@ A major city on the Western edge of Ty'Vanera. It houses The Citidel, a knowledg
 
 A town in the center of continent of Ty'vanera. The Wand of Chaos, one of the 10 Artifacts, is believed to be here. However, the land is cursed, so the Council of E'lythia's drones cannot survey the area.
 
-# The Continent of Djoria
+# The Continent of Djoria |
 
 A continent separate from Orlon. Almost nothing is known about the continent other than it's name and existance.
 
 ## Visited Towns/Locations
 
-### Varu'Il 
+### Varu'Il |
 
 A town on the Eastern part of Djoria, the smallest of the three named continents. It is currently under siege by The Heart of the Keep, one of the 10 Artifacts. It currently has an uneasy peace treaty with the Zotrian tribes nearby.
 

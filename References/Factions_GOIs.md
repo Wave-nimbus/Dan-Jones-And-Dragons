@@ -4,11 +4,16 @@
 
 A faction found in Domberland has been ticked off by Gear Head, a criminal. Almos tnothing ele is known about them.
 
-## The Black Hand 
+## The Black Hand |
 
 A group of necromancers that prey upon the emotionally vulnereable, such as mourners or those that have nothing left to lose. They are a cult that worships the First Dead. <br>
 Known dead members include: *Aryk*, *Dave the Necromancer*, and *The Second*.<br>
 Known Subgroup: *The Midnight lotus*.
+
+## The Black Rose Trackes
+
+Presumably a bounty hunting or other hunting group somewhere in the world of E'lythia. Almost nothing is known about them other than their existence.<br>
+Previous members include: *Vera Ironedge*.
 
 ## The Burning Spears 
 
@@ -83,7 +88,7 @@ Previous members include *Vespi*.
 
 A very small tribe of rusty orange goblins that live to the southeast of Filgrove. Gelnek attempted to teach them about economies after the Party found them attacking a stagecoach in search of food.
 
-### The Ustenki Tribe 
+### The Ustenki Tribe |
 
 Gelnek's tribe of goblins that live in the Blighted Swamp near Mt. Fiorno. They have a tradition spanning several generations of sending future members on a long pilgrimage so that they may get stronger. When they return, they fight the previous pilgrims to ensure the tribe remains strong. <br>
 Exiled members include: *Gelnek*.
@@ -106,11 +111,11 @@ A traveling caravan that appeared in Filgrove in time for the All Hallow's Eve f
 Known living members include: *Gorm*, *Rum & Elm*, and *Teszin Stormhoof*.<br>
 Known dead members include: *Ember* & *Sawyer* 
 
-## Merchant Collective 
+## Merchant Collective |
 
-The governing body of Varu'Il who is generally in charge of coming up with the laws of the city/island. As Varu'Il is primarily about trade and commerce, the richest among them have the most power, leading to the Collective holding the power of the island. 
+The governing body of Varu'Il who is generally in charge of coming up with the laws of the city/island. As Varu'Il is primarily about trade and commerce, the richest among them have the most power, leading to the Collective holding the power of the island. Many of their identities are secret as their council chambers are completely enshrouded.
 
-## The Midnight Lotus 
+## The Midnight Lotus |
 
 A cult of the First Dead dedicated to Necromancy. Their desire is to bring the First back to life using poweful magic and artifacts. Their base is in Lafford on Orlon, which has since been destroyed. Their status is mostly not publicly tied to the First Dead. <br>
 Former members include: *Feyli the Fourth*. <br>
@@ -121,10 +126,10 @@ Known Subgroup: *Illustrious Delight*
 Serving as the Pantheon for the world of E'lythia, the Divine Nine represent various aspects of clerics, paladins and the like. <br>
 Mentioned deities of this pantheon include: *Ather the Breaker*, *The Guide*, *The Laughing Mask*, *The Molten Hammer Ruldros*, *The Nightmother Iris*, and *Ophina the Dawnmaiden*, *The Plated Dragon*, and *Zimera*.
 
-## The Runebreakers 
+## The Runebreakers |
 
 An adventuring/mercenary party who has been tasked by the Council of E'lythia to assist the town of Varu'Il. While they are capable, the endless monsters from The Heart of the Keep have worn them down close to exhaustion. <br>
-Known members include: *Nori Watergrave*, *Rodrick*, *Unnamed Human woman barbarian* , *Unnamed Tiefling woman*, *Unnamed Human woman archer*.
+Known members include: *Demetra Aldea*, *Kyrie Zenova*, *Nori Watergrave*, *Rodrick Simmons*, and *Vera Ironedge*.
 
 ## Viradescent Javelin Crew 
 
@@ -132,6 +137,6 @@ The crew of the Airship Viradescent Javelin that flew the Party from Filgrove to
 Known members include: *Ardwill*, *Azru Avena*, *Geo*, *Karva*, *Marmitull Longfeather*, *Priscilla*, and *Vespi*. <br>
 Previous members include: *Grayton Mule*
 
-## Zotrians 
+## Zotrians |
 
 A faction/tribe of Lizardfolk who live in the deserts around Varu'Il. They have an uneasy truce with the city. However, ever since the Heart of the Keep appeared there, the tribes have taken advantage of the chaos to perform raids and conquer parts of the city itself. They used to worship the dragon Rimereth as a deity.

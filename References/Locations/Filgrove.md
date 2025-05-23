@@ -6,7 +6,7 @@ Filgrove is where the Party spends most of their time. It is a decent sized city
 
 A pawn shop run by Biggleton Whipersnap. Trilby is given the Bag of Many Things covered by the Brass Puzzle by Whipersnap.
 
-### The Brass Squid 
+### The Brass Squid |
 
 The Party's main tavern where they all first met. It is headed by Gavel along with his employees Derrick and Mera. Gavel is happy to accommodate the Party after they saved Derrick from the Manticore. This place is a safe haven where the Party can rest, get rations and eat good food.
 

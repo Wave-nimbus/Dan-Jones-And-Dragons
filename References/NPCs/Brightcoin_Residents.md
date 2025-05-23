@@ -1,9 +1,5 @@
 # Notable Brightcoin Residents
 
-## Blade Goldwill, Wick's Bodyguard
-
-A towering knight standing at 6 feet, 5 inches who serves as Mr. Wick's bodyguard. They wear white armor with gold accents. They are likely a formidable foe against anyone that would harm Mr. Wick. He was under the influence of Mr. Wick's Magic Key and eventually killed by Coil.
-
 ## Elzar Constance, Vault maker
 
 The person who helped create the vault beneath Mr. Wick's estate. His father helped design and build the Vaults of Eversteel. Thus, his knowledge could help grant insight into the Vaults of Eversteel itself.
