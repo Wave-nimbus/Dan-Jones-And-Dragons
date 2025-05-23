@@ -25,7 +25,8 @@ The third card was The Justice, doubling the amount of gold on her person. <br>
 The fourth card was The Lovers, causing anything on her person to vanish into smoke for 24 hours. <br>
 The fifth card was The Star, causing Feyli to always see a bright light in her eyes, even while trying to sleep. <br>
 The sixth card was The Hermit, giving Feyli's worst ability score at the time (STR) a permanent +1.<br>
-The seventh card was The Temperence, causing Feyli's mouth to feel weird. Other effects are unknown.
+The seventh card was The Temperence, causing Feyli's mouth to feel weird. Other effects are unknown.<br>
+The eighth card was The Judge, causing Feyli to get a shiver down her spine. Other effects are unknown.
 
 ### Feyli's Dice Necklace
 
@@ -67,6 +68,10 @@ A +1 Holy Symbol for Paladins and Clerics that was found within the Heart of the
 
 A gift from Trilby carved from the Dragon Scale he pulled from his Bag of Many Things. It grants a +1 to AC and Resistance against Poison damage while atttuned.
 
+### Gelnek's Drum Shield +2
+
+A shield that doubles as Gelnek's drum. It was enhanced by Leon at the Forge and Forestry after winning the Obliteration Tournament. As a +2 shield, it gives Gelnek a +4 to AC.
+
 ### Gelnek's Belt of Hill Giant Strength
 
 A thick leather belt with various runes carved into it. While wearing and attuned to the belt, the wearer's Strength score is 21 and cannot be changed. 
@@ -103,6 +108,10 @@ A classic D&D item that appears like a lightsaber handle with a single button. O
 
 A draught of sleeping potion that was purchased at the Serpent's Flower. Hobson was potentially going to use it to avoid being possessed by Valse constantly.
 
+### Hobson's Turtle Lungs
+
+A leather mask purchased from the Chamilleonaire for 600 gp. As an action, it can be put on, granting 10 minutes of breath in any environment. While worn, it also grants immunity to non-weapon Poison damage.
+
 ### Morenthal's Gloves of Missile Snatching
 
 A skintight pair of long gloves that can catch or deflect missiles. As a Reaction to being hit by a ranged weapon attack, the wearer can reduce the incoming damage by 1d10+DEX. If this reduces the damage to 0, then the missile can be caught if it fits in a single hand. 
@@ -135,9 +144,10 @@ A mechanical bee that Trilby created. It is capable of healing Party members as 
 
 An inital stack of 15 sheets of paper in it. If Trilby writes a message on one and addresses it to either of his parents, the paper will fold into a flying creature and make its way to them. Trilby has used 1 sheet.
 
-## Chamillionare Gacha Rings -- 40/100 
+## Chamillionare Gacha Rings -- 46/100 
 
-These rings are pulled from the Chamillionare's gacha game for 200 gp per pull for a d100 roll. To avoid cluttering the previous list up, the ring pulls will be listed separately.
+These rings are pulled from the Chamillionare's gacha game for 200 gp per pull for a d100 roll. To avoid cluttering the previous list up, the ring pulls will be listed separately.<br>
+*Note: Miori wears the Boomering, found in the Important Items document.
 
 ### Coil's Rings -- 2
 
@@ -149,7 +159,7 @@ A black band with a red crystal eye on top of a black diamond. While the wearer 
 
 A small ring with a steel cylinder perpendicular to the ring. As a Bonus Action, the wearer can light up an object with a laser pointer.
 
-### Feyli's Rings -- 13
+### Feyli's Rings -- 14
 
 #### Feyli's Ring of Explode
 
@@ -158,6 +168,10 @@ A pure glass ring with a red top. It breaks on use. After 1d4 rounds, the broken
 #### Feyli's Ring of Flat Feet
 
 A silver ring with a loose stitching holding it together. It allows normal movement within deep snow and quicksand, rather than difficult terrain.
+
+#### Feyli's Ring of Flint
+
+A ring with a knife sharpener carved into it. As a Bonus Action, it can ignite a nonmagical weapon to deal an extra 1d4 Fire damage for a single attack.
 
 #### Feyli's Ring of Good Luck
 
@@ -187,13 +201,13 @@ A blue crystal with a poof of smoke on it. The ring can be thrown up to 20 ft, t
 
 A multicolored ring with spectacles of ores in it. While wearing the ring, that finger is immune to all elemental damage.
 
-#### Feyli's Ring of Flint
-
-A ring with a knife sharpener carved into it. As a Bonus Action, it can ignite a nonmagical weapon to deal an extra 1d4 Fire damage for a single attack.
-
 #### Feyli's Ring of Silence
 
 A simple, clear band. It requires attunement. While wearing the ring, the wearer has advantage on stealth checks but cannot hear or speak.
+
+#### Feyli's Ring of the Cloth
+
+A fabric ring that barely holds its shape. When the wearer is healed by any means, they gain an additional 1d4 rings.
 
 #### Feyli's Ring of the Walking Dead
 
@@ -243,7 +257,11 @@ A metallic quill that wraps around to make a ring. When forging a document, the 
 
 A band with an arm holding a tankard whose froth completes the ring. It grants disadvantage on CON saves while drinking.
 
-### Morenthal's Rings -- 8
+### Morenthal's Rings -- 11
+
+#### Morenthal's Ring Mimic
+
+A strange soft ring with a tiny beady eye in its center. When putting it on, miniature teeth appear to bite and gnaw on the finger, dealing a single point of damage. It can be easily removed.
 
 #### Morenthal's Ring of Applause
 
@@ -265,6 +283,10 @@ A mixed-colored ring made of onyx and ivory. While wearing it, the wearer is res
 
 A red metal band with an eye symbol carved into it. It requies attunement, but if you close one eye, you can see out of the ring, but you cannot hear.
 
+#### Morenthal's Ring of the Nearest Tree
+
+A metal band that is sculpted to look like a branch turned into a ring. A little leaf on top of the ring points to the nearest tree while worn.
+
 #### Morenthal's Ring of the Peephole
 
 A solid flat metal band. If placed on a wall and the wall is less than 3 ft thick, the wall can be seen through the ring. No objects can go through it, though.
@@ -277,7 +299,11 @@ A pair of rings that allow the wearers to communicate telepathically for 500 ft.
 
 A metal band with a disk on top and a triangular notch cut into it. It is a sundial (watch) that works regardless of the lighting conditions. 
 
-### Trilby's Rings -- 8
+#### Morenthal's Silver Cat Ring
+
+A silver band that appears to be a cat and its tail creating a loop. While worn, it halves fall damage.
+
+### Trilby's Rings -- 9
 
 #### Trilby's Ring of the Cat's Gift
 
@@ -298,6 +324,10 @@ A small black iron band. Once per day, it can weigh 500 lbs for 1d4 hours. It ta
 #### Trilby's Ring of Invisibility 
 
 A nearly transparent ring. While wearing it, the ring becomes invisible.
+
+#### Trilby's Ring of Lies
+
+A thin black band with no parchment. The ring is cursed and cannot be taken off. While cursed, the ring imposes disadvantage on all Deception checks.
 
 #### Trilby's Ring of Stealing
 

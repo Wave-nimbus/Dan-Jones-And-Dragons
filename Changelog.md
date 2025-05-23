@@ -64,6 +64,8 @@
 
 #### March 25, 2025 - Compiled Session 34.
 
+#### May 22, 2025 - Compiled Session 35 (1 day late).
+
 ## Intersession Updates
 
 #### August 18, 2022 - Removed rules lawyering; Minor adjustments.

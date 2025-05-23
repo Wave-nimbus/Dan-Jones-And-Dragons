@@ -10,13 +10,17 @@ Unrecovered artifacts are: *The Amber Dragon Eye*, *The Gauntlet of the Eye*, , 
 
 An orb capable of projecting world maps. Variations of these orbs can project different sized maps depending on their size. The Champions of Virtue had special maps that could pinpoint other members of the group.
 
+## Boomering 
+
+One of the Chamilleonaire's Gacha Rings that was purchased by Miori who now wears it. It has a chevron shape on its simple band. Once a day, an object thrown from the wearer's hand will attempt to return. It can be caught with a DC 10 DEX check.
+
 ## Book of Necromancy
 
 The book that Gale Mosswing used to improve his farm's standing, to the detriment of his family and the Missing People. It was given by Dave the Necromancer.
 
 ## Bowl and Spoon of Soup 
 
-A matching bowl and spoon set that appears silver in color. When water is poured into the bowl, the water is transformed into soup over the course of a minute. If the soup leaves the bowl and is not ingested, it reverts back to water.
+A matching bowl and spoon set that appears silver in color. When water is poured into the bowl, the water is transformed into soup over the course of a minute. If the soup leaves the bowl and is not ingested, it reverts back to water. Trilby gifted it to the Merchant Collective.
 
 ## Bracelet of Shared Pain 
 
@@ -82,6 +86,10 @@ A pristine pearl that Karashala gave to Trilby so he could give it to Feyli. Onc
 
 One of the Missing Artifacts. A ring that is implied to be originally owned by the Flame Tyrant. It is heavily attuned to the Plane of Fire. It was recovered off of the Eyedra within the Castle of Ol'Lui, who had used it to turn it's lair into a magma flowing inferno. The ring allows for powerful magic to be cast as well as immunity to fire and heat.
 
+## Saphire Stone 
+
+A powerful magic item that acts as a type of Philosopher's Stone. It has strong transmutative properties. Multiple exist, and one is known to be in the possession of the Merchant Collective. Miori attempted and failed to steal that Stone from the Collective.
+
 ## Sending Stone
 
 One of the stones used to communicate within the tunnel from Filgrove to Geria. The other was with the original party that is MIA.
@@ -109,6 +117,10 @@ A powerful artifact that originally came from Brightcoin's Vaults of Eversteel. 
 ## Tuning Fork (???) 
 
 A black metalic rod with tuning fork tines on both ends. It glows red from several cracks and is hot to the touch, but not burning. Morenthal stole it from Jonathan Wick's Estate. What Plane it is attuned to is unknown at this time.
+
+## Tuning Fork of Teleportation, Northcliff 
+
+A silver metalic rod with a tuning fork on one end. It was given to the Party by Gregor Timbers as a way to teleport to The Spire in Northcliff if ever needed. Items that allow the teleportation into Northcliff are generally rare.
 
 ## Unknown Journal
 

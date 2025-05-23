@@ -44,7 +44,7 @@ A village north of Northcliff. When the Party first see it, it is being raided b
 
 The inn/tavern at Ohkross run by Effie the Gnome. It is a small establishment, but the Party is welcome there.
 
-### Silverhill
+### Silverhill 
 
 A town in the West of Orlon that is home to a mage college of some kind. That college is headed by Gregor Timbers, one of the Champions of Virtue. Hobson originally was an administrator for the college before getting his bracer with Valse. The package the bracer came in was likely originally addressed to Gregor.
 
@@ -57,6 +57,10 @@ The Underdark is the deep underground portions of a D&D world. The tunnel from F
 ### Blackfane 
 
 A large and major city in central Orlon. It serves as an enormous trade and merchent hub, with nearly anything being available to buy. It appears as a massive black spire with boardwalks running out a distance from the main spire. The Emperor of E'lythia is also housed in this city.
+
+### Crimson Vale 
+
+A city somewhere on Orlon (or maybe Ty'vanera) that is home to the Runebreakers adventuring group. After the Heart of the Keep was removed from Varu'Il, they booked passage back here. Almost nothing else is known about it.
 
 ### Desert of Thorns 
 
@@ -72,7 +76,7 @@ A series of Islands somewhere in Orlon. The Champions of Virtue killed wyvyrns i
 
 ### Duskern 
 
-A town in central Orlon that is currently dealing with an outbreak of Ashen Rot. Almost nothing else is known about it.
+A town in central Orlon that is currently dealing with an outbreak of Ashen Rot. Yellow void crystal was discovered in a mass grave outside of the city. Almost nothing else is known about it.
 
 ### Emerald Sea
 
@@ -186,7 +190,7 @@ A major city on the Western edge of Ty'Vanera. It houses The Citidel, a knowledg
 
 A town in the center of continent of Ty'vanera. The Wand of Chaos, one of the 10 Artifacts, is believed to be here. However, the land is cursed, so the Council of E'lythia's drones cannot survey the area.
 
-# The Continent of Djoria
+# The Continent of Djoria 
 
 A continent separate from Orlon. Almost nothing is known about the continent other than it's name and existance.
 

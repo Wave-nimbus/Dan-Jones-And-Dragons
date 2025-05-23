@@ -6,6 +6,10 @@ Northcliff is a large, technologically advanced city in the Southwest of Orlon. 
 
 A farm owned by Macadoo Blezulbee in Northcliff's Old Town. It is currently housing a barn that contains a combat robot. The robot was originally commissioned for farming, but the inventors took it too far.
 
+### The Candied Apple 
+
+Presumably a tavern where Trilby ate hashbrowns. He ranks them as the third best hashbrowns he's had in his life. It is unknown if it actually exists in Northcliff as it was created spontaneously but delcared canon.
+
 ### Champion's Hall
 
 Once the headquarters of the Champions of Virtue, this massive mansion has been turned into a museum dedicated to them. A massive painting depicting the Champions and their names is a centerpiece of the museum's collection.
@@ -18,7 +22,7 @@ The home of Bifar Clemmingsworth that Trilby has visited several times. It is a 
 
 The unofficial designation for the mines below Northcliff. Most of Northcliff's mining occurs here. They are currently having issues with some creature that eats metal and iron, causing the iron supply to be threatened.
 
-### The Crossed Swords
+### The Crossed Swords 
 
 Adokus's dojo is within the Eastern entertainment district. He runs various (legal) sparing and sportsbetting operations within. He also appears to be much more relaxed at his dojo than in any other formal situations.
 
@@ -36,13 +40,13 @@ Situated in the Northwest of Northcliff, this serves as the center of the religi
 
 ### Forge & Forestry 
 
-"Fantasy Costco" is in the Western trade district. It is run by a dwarf and elf couple. The Dwarf is named Riona, and the elf is currently unnamed. Weapon upgrades along with other gear can be purchased for a lot of money and time.
+"Fantasy Costco" is in the Western trade district. It is run by a dwarf and elf couple. The Dwarf is named Riona, and Leon is the Elf. Weapon upgrades along with other gear can be purchased for a lot of money and time.
 
 ### The Garden / Hall of the Flower Crowns 
 
 The proposed name of the home base of the Flower Crowns. It is found in the Eastern District of Northcliff. It was purchased and customized for around 20,000 gp. The house includes magic indoor plumbing, a large sitting room, a library, a spacious kitchen, and customized rooms for each member of the Flower Crowns. Details are found in the Summary (or VOD) of Session 27.
 
-### The Grand Library
+### The Grand Library 
 
 Northcliff's main library is four or five stories tall filled with knowledge and books. If the Party desires to learn any information about anything, this is probably their best bet.
 
@@ -62,13 +66,13 @@ A university that exists somewhere in Northcliff for higher education. Marmatool
 
 A large cinema-like amphitheatere where an annual combat tournament is held. Gelnek will be participating in that tourney, which makes the Amphitheatere prepare for weeks ahead of the event.
 
-### O'Brien's Mill
+### O'Brien's Mill 
 
-A small inn and tavern in the old district of Northcliff. It is home to more unsavory types should the Part be willing to do dirtier jobs. It has a password: three knocks and the phrase "The corn chowder is about ready."
+A small inn and tavern in the old district of Northcliff. It is home to more unsavory types should the Part be willing to do dirtier jobs. It has a password: three knocks and the phrase "The corn chowder is about ready." It is owned & operated by O'Brien Wicklebee, who has connections to the bounty hunting book/guild of Orlon.
 
-### Opal Circlet
+### Opal Circlet 
 
-A hole-in-the-wall jewelry shop run by a Gnome named Velina. Almost any type of jewelry can be bought here, including pieces crafted from Void Crystals.
+A hole-in-the-wall jewelry shop run by a Gnome named Velina Sammit. Almost any type of jewelry can be bought here, including pieces crafted from Void Crystals. Blade Goldwill serves as a guard here now.
 
 ### The Shattered Shield 
 

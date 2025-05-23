@@ -10,6 +10,11 @@ A group of necromancers that prey upon the emotionally vulnereable, such as mour
 Known dead members include: *Aryk*, *Dave the Necromancer*, and *The Second*.<br>
 Known Subgroup: *The Midnight lotus*.
 
+## The Black Rose Trackes
+
+Presumably a bounty hunting or other hunting group somewhere in the world of E'lythia. Almost nothing is known about them other than their existence.<br>
+Previous members include: *Vera Ironedge*.
+
 ## The Burning Spears 
 
 A cult dedicated to the Cascos the Fire Lord. They search for the seal that holds Cascos captive in order to destroy it and bring Cascos back to power. The Filgrove group is mainly just a bunch of hooligans. Other members found in the world are more zealous and willing to sacrifice people in fire whenever possible. <br>
@@ -108,7 +113,7 @@ Known dead members include: *Ember* & *Sawyer*
 
 ## Merchant Collective 
 
-The governing body of Varu'Il who is generally in charge of coming up with the laws of the city/island. As Varu'Il is primarily about trade and commerce, the richest among them have the most power, leading to the Collective holding the power of the island. 
+The governing body of Varu'Il who is generally in charge of coming up with the laws of the city/island. As Varu'Il is primarily about trade and commerce, the richest among them have the most power, leading to the Collective holding the power of the island. Many of their identities are secret as their council chambers are completely enshrouded.
 
 ## The Midnight Lotus 
 
@@ -124,7 +129,7 @@ Mentioned deities of this pantheon include: *Ather the Breaker*, *The Guide*, *T
 ## The Runebreakers 
 
 An adventuring/mercenary party who has been tasked by the Council of E'lythia to assist the town of Varu'Il. While they are capable, the endless monsters from The Heart of the Keep have worn them down close to exhaustion. <br>
-Known members include: *Nori Watergrave*, *Rodrick*, *Unnamed Human woman barbarian* , *Unnamed Tiefling woman*, *Unnamed Human woman archer*.
+Known members include: *Demetra Aldea*, *Kyrie Zenova*, *Nori Watergrave*, *Rodrick Simmons*, and *Vera Ironedge*.
 
 ## Viradescent Javelin Crew 
 

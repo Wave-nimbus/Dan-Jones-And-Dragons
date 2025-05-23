@@ -44,11 +44,11 @@ The main authority over the contient of Orlon itself. The Emperors of Orlon live
 
 One of the Nine that makes up this world's pantheon. Ruldros is the deity of craftsmanship and the forge. His symbol is an anvil with rope tied across it.
 
-## Nadsenoj Miesuac, Archmage 
+## Nadsenoj Miesuac, Archmage
 
-An ancient archmage who created the Planar Mirror and used the Island of Shariza as his base of operations. His other achievements and much of his history are unknown. (His name is backwards for "Causeim Jonesdan")
+An ancient archmage who created the Planar Mirror and used the Island of Shariza as his base of operations. His other achievements and much of his history are unknown. (His name is backwards for "Causeim Jonesdan") He has appeared in visions to the Party, leaving the question of his actual alive/dead status open.
 
-## The Nightmother Iris 
+## The Nightmother Iris
 
 One of the Nine that makes up this world's pantheon. She represents the Grave domain, ferrying souls to the afterlife. As a result, she is heavily against necromancy, though resurrection is a different matter.
 
@@ -63,6 +63,10 @@ One of the Nine that makes up this world's pantheon. Ophina is the Goddess of Li
 ## The Plated Dragon 
 
 One of the Nine that make sup this world's pantheon. Their real name and domain are both unknown.
+
+## Quarsius Evadum, The Far Step Rune
+
+An unknown group/individual whose documents are held by Lucian in Northcliff. The documents include incredibly detailed notes about the Isle of Shariza and research on void crystals.
 
 ## The Scarlet Harvest 
 
