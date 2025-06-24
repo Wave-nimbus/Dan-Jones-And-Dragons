@@ -12,7 +12,7 @@ A relatively modest pub and bar in near the airship docks in Brightcoin. It is a
 
 ### Vaults of Eversteel 
 
-A major and secure vault containing several artifacts. An attack and explosion caused several of such artifacts to be spread around the world of E'lythia. The Council of E'lythia has been tasked with recovering these artifacts.
+A major and secure vault containing several artifacts. An attack and explosion caused several of such artifacts to be spread around the world of E'lythia. The Council of E'lythia has been tasked with recovering these artifacts. Lucian of Northcliff has a gem that gives him direct access to where the artifacts are being held within the Vaults.
 
 ### Wick Estate
 

@@ -86,9 +86,9 @@ A sea that is presumably somewhere off of Orlon's coast. Preston Fitzclarance be
 
 A mountain range that extends across most of the northern reaches of Orlon. It is most easily traversed by airship, though it houses several flying creatures including wyverns that are capable and willing of attack such airships.
 
-### Fywood
+### Fywood 
 
-A town where Sionia is originally from. Though on the Orlon continent, they are officially unaligned with the Empire. Almost nothing else is known about it.
+A town where Sionia is originally from. Lucian is also from here and was originally part of the royal family. Though on the Orlon continent, the Kingdom of Fywood is officially unaligned with the Empire, but it is on general good terms.
 
 ### Geria 
 
@@ -130,9 +130,9 @@ A series of ports, coves, and towns that serve as a pirate's haven on the North 
 
 A decently large city in the Underdark filled with Duergar and insectoids. Duergar are underground dwarves that presumably don't like outsiders. The Miners and Party have been told to avoid the city by the Crown's Guard.
 
-### Springoak
+### Springoak 
 
-A town on the Western edge of Orlon. Horace Devonshire is known as the Wizard of the White Tower and hails from this town. Hobson is likely a wanted man there thanks to Valss.
+A town on the Western edge of Orlon. Horace Devonshire is known as the Wizard of the White Tower and hails from this town. Hobson is likely a wanted man there thanks to Valss. After the Second was revived, he went into hiding in or around this town.
 
 ### Sunken City of Cera
 
