@@ -14,11 +14,11 @@ A Warforged with the head of a jackal whose jaws are often locked up tight. Coil
 
 Previously, a Tiefling, Feyli has now become a Dhampir. Her horns are now a headpiece that can be removed, and they are devoid of flowers. Her pale skin compliments a black dress she wears under her hide armor. When she is hungry, she will get a headache and crave blood. She used to be part of the Midnight Lotus with a crystal necklace to prove it. After the Party destroys the Midnight Lotus's base, she may no longer need to fear the group. She enjoys other people's drama so long as nobody gets physically hurt.
 
-## Gelnek the Life Cleric & ??? (He/Him)
+## Gelnek the Life Cleric (He/Him)
 
 ### Played by Jocat (He/Him)
 
-A heavy set Goblin carrying a large drum shield and a warhammer maracca. If it weren't for his green skin, he could easily be mistaken for a gangly dwarf. Declared to be double leader of the Party after defeating Feyli and Morenthal in an arm wrestling contest. Follows Aether the Breaker, and his tribe used to be the Ustenki before he failed his pilgrimage and was cast out. After seancing with a cleric of Aether, he has changed classes to be a Life Cleric.
+A heavy set Goblin carrying a large drum shield and a warhammer maracca. If it weren't for his green skin, he could easily be mistaken for a gangly dwarf. Declared to be double leader of the Party after defeating Feyli and Morenthal in an arm wrestling contest. Follows Aether the Breaker, and his tribe used to be the Ustenki before he failed his pilgrimage and was cast out. After seancing with a cleric of Aether, he has changed classes to be a full Life Cleric.
 
 ## Hobson Bunce the Custom Warlock (He/Him)
 

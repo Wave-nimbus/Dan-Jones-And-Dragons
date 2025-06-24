@@ -7,7 +7,8 @@ A faction found in Domberland has been ticked off by Gear Head, a criminal. Almo
 ## The Black Hand |
 
 A group of necromancers that prey upon the emotionally vulnereable, such as mourners or those that have nothing left to lose. They are a cult that worships the First Dead. <br>
-Known dead members include: *Aryk*, *Dave the Necromancer*, and *The Second*.<br>
+Resurrected members include: *The Second* <br>
+Known dead members include: *Aryk* and *Dave the Necromancer*.<br>
 Known Subgroup: *The Midnight lotus*.
 
 ## The Black Rose Trackes
@@ -131,7 +132,11 @@ Mentioned deities of this pantheon include: *Ather the Breaker*, *The Guide*, *T
 An adventuring/mercenary party who has been tasked by the Council of E'lythia to assist the town of Varu'Il. While they are capable, the endless monsters from The Heart of the Keep have worn them down close to exhaustion. <br>
 Known members include: *Demetra Aldea*, *Kyrie Zenova*, *Nori Watergrave*, *Rodrick Simmons*, and *Vera Ironedge*.
 
-## Viradescent Javelin Crew 
+## The Steel Tempest |
+
+An aerial pirate and raiding crew that attacks airships in the northern areas of Orlon. They use tamed drakes to ride and board passing airships, presumably to steal cargo and kill the crew.
+
+## Viradescent Javelin Crew |
 
 The crew of the Airship Viradescent Javelin that flew the Party from Filgrove to Northcliff. They are a mixed bag, but quite competent at what they do. They are also at the Party's disposal for the search of the 10 Artifacts. <br>
 Known members include: *Ardwill*, *Azru Avena*, *Geo*, *Karva*, *Marmitull Longfeather*, *Priscilla*, and *Vespi*. <br>

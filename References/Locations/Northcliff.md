@@ -14,7 +14,7 @@ Presumably a tavern where Trilby ate hashbrowns. He ranks them as the third best
 
 Once the headquarters of the Champions of Virtue, this massive mansion has been turned into a museum dedicated to them. A massive painting depicting the Champions and their names is a centerpiece of the museum's collection.
 
-### Clemmingsworth Estate 
+### Clemmingsworth Estate |
 
 The home of Bifar Clemmingsworth that Trilby has visited several times. It is a cozy home where Trilby and Bifar are comfortable discussing Trilby's adventures as well as the Champions of Virtue.
 

@@ -34,7 +34,7 @@ A bubbly human who leads tours at Champions Hall. She doesn't know much more abo
 
 ## Lucian Geldran, Artifact Expert |
 
-An agin Elf male who harbors great knowledge about magical Artifacts. He was one of the people tasked by the Council of E'lythia to initially look into finding the Artifacts. His knowledge has been helpful, but he has mostly stepped away from direct action within the project.
+An agin Elf male who harbors great knowledge about magical Artifacts. He was one of the people tasked by the Council of E'lythia to initially look into finding the Artifacts. His knowledge has been helpful, but he has mostly stepped away from direct action within the project. He has a gem that gives him direct access to the Vaults of Eversteel in Brightcoin, allowing him to place the artifacts within the vaults remotely.
 
 ## Melitha, Real Estate Agent
 
@@ -70,7 +70,7 @@ The owner and operator of the Opal Circlet in Northcliff. An elderly gnome woman
 
 # Other Residents
 
-## Bifar Clemingsworth, Champions Nerd
+## Bifar Clemingsworth, Champions Nerd |
 
 A young male Human that always geeks overe the Champions. He is part of a monthly meetup of likeminded nerds to discuss the Champions. He is friends with Trilby over their shared obsession with the Champions.
 

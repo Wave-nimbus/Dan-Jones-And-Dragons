@@ -70,7 +70,7 @@ A towering knight either controlled by or loyal to the Second. His body has deca
 
 ### The Second, Midnight Lotus Leader |
 
-The second in command of the Midnight Lotus just behind the First Dead. He gives orders to the lower numbered tiers of the organization, as he is the direct apprentice of the First. He is a pale skinned human with sunken eyes and greasy, patchy black hair. He was supposedly killed when the Party retrieved the Seed of Rebirth but is somehow alive.
+The second in command of the Midnight Lotus just behind the First Dead. He gives orders to the lower numbered tiers of the organization, as he is the direct apprentice of the First. He is a pale skinned human with sunken eyes and greasy, patchy black hair. He was supposedly killed when the Party retrieved the Seed of Rebirth but is somehow alive and kicking around Springoak.
 
 ## Bloodletters Guild 
 
