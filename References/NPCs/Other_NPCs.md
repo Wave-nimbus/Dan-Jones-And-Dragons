@@ -70,7 +70,8 @@ A towering knight either controlled by or loyal to the Second. His body has deca
 
 ### The Second, Midnight Lotus Leader 
 
-The second in command of the Midnight Lotus just behind the First Dead. He gives orders to the lower numbered tiers of the organization, as he is the direct apprentice of the First. He is a pale skinned human with sunken eyes and greasy, patchy black hair. He was supposedly killed when the Party retrieved the Seed of Rebirth but is somehow alive and kicking around Springoak.
+The second in command of the Midnight Lotus just behind the First Dead. He gives orders to the lower numbered tiers of the organization, as he is the direct apprentice of the First. He is a pale skinned human with sunken eyes and greasy, patchy black hair. He was killed when the Party retrieved the Seed of Rebirth.<br>
+He was revived when Feyli pulled *The Judge* from her Deck. He fled to Springoak and was subsequently slain again by the Flower Crowns, though he transformed into a monsterous undead before being slain for good.
 
 ## Bloodletters Guild 
 
@@ -278,7 +279,7 @@ A sketchy male Dwarf that has angered a faction known as the Amber Hearts. He ha
 
 ### Horace Devonshire, The Wizard of the White Tower 
 
-Originally from Springoak, this stereotypically blue robed wizard was in charge of ensuring the amplified Spire's scrying spells worked perfectly. He also helped erase many of Feyli's memories of the Midnight Lotus using her Music Box.
+Originally from Springoak, this stereotypically blue robed wizard was in charge of ensuring the amplified Spire's scrying spells worked perfectly. He also helped erase many of Feyli's memories of the Midnight Lotus using her Music Box. He assists the Party when they search for the Second in Springoak in exchange for a favor of his own.
 
 ### Kasma Lundor, Tech Whiz 
 

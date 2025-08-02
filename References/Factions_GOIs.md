@@ -130,7 +130,7 @@ Mentioned deities of this pantheon include: *Ather the Breaker*, *The Guide*, *T
 ## The Runebreakers 
 
 An adventuring/mercenary party who has been tasked by the Council of E'lythia to assist the town of Varu'Il. While they are capable, the endless monsters from The Heart of the Keep have worn them down close to exhaustion. <br>
-Known members include: *Demetra Aldea*, *Kyrie Zenova*, *Nori Watergrave*, *Rodrick Simmons*, and *Vera Ironedge*.
+Known members include: *Demetra Aldea*, *Kyri Zenova*, *Nori Watergrave*, *Rodrick Simmons*, and *Vera Ironedge*.
 
 ## The Steel Tempest 
 

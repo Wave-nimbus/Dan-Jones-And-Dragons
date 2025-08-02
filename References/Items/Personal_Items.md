@@ -26,7 +26,7 @@ The fourth card was The Lovers, causing anything on her person to vanish into sm
 The fifth card was The Star, causing Feyli to always see a bright light in her eyes, even while trying to sleep. <br>
 The sixth card was The Hermit, giving Feyli's worst ability score at the time (STR) a permanent +1.<br>
 The seventh card was The Temperence, causing Feyli's mouth to feel weird. Other effects are unknown.<br>
-The eighth card was The Judge, causing Feyli to get a shiver down her spine. Other effects are unknown. <br>
+The eighth card was The Judge, causing Feyli to get a shiver down her spine. It revived the Second. <br>
 The ninth card was The Hanged Man, giving Feyli a one-time hummingbird familiar that grants her a bonus to Arcana equal to her proficiency bonus (aka grants proficiency/expertise).
 
 ### Feyli's Dice Necklace
