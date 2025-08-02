@@ -48,6 +48,10 @@ The inn/tavern at Ohkross run by Effie the Gnome. It is a small establishment, b
 
 A town in the West of Orlon that is home to a mage college of some kind. That college is headed by Gregor Timbers, one of the Champions of Virtue. Hobson originally was an administrator for the college before getting his bracer with Valse. The package the bracer came in was likely originally addressed to Gregor.
 
+### Springoak |
+
+A town on the Western edge of Orlon. Horace Devonshire is known as the Wizard of the White Tower and hails from this town. Hobson is likely a wanted man there thanks to Valss. After the Second was revived, he went into hiding in or around this town. It sits at the intersection of the Merchant's Pass and Guilded Lane.
+
 ### The Underdark
 
 The Underdark is the deep underground portions of a D&D world. The tunnel from Filgrove to Geria likely passes through such a region. It is home to all kinds of creatures adapted for the darkness, including mutant spider monsters and mushroom creatures. A few cities are found down below, though getting there requires long, treacherous journeys.
@@ -94,13 +98,17 @@ A town where Sionia is originally from. Lucian is also from here and was origina
 
 A dwarven island in the North and West part of Orlon. Not much is known about it other than a tunnel supposedly exists between it and Filgrove's Undercroft. The Champions previously killed a powerful monster here.
 
+### Guilded Lane
+
+An extensive continent-wide trade route. Its end points are currently unknown. It crosses the Merchant's Pass at Springoak.
+
 ### Maple
 
 A town to the Southeast where Hobson's family lives. Maple Farms is a brand of wine. Ruins of the Voedia civilization are nearby. Almost nothing else is known about it.
 
 ### Merchant's Pass 
 
-An extensive continent-wide trade route. One end of it is at Brightcoin, and where it goes is unknown. It is likely analogous to the Silk Road, however.
+An extensive continent-wide trade route. One end of it is at Brightcoin, and where it goes is unknown. It is likely analogous to the Silk Road, however. It crosses the Guilded Lane at Springoak.
 
 ### Morfield
 
@@ -129,10 +137,6 @@ A series of ports, coves, and towns that serve as a pirate's haven on the North 
 ### Sibera
 
 A decently large city in the Underdark filled with Duergar and insectoids. Duergar are underground dwarves that presumably don't like outsiders. The Miners and Party have been told to avoid the city by the Crown's Guard.
-
-### Springoak |
-
-A town on the Western edge of Orlon. Horace Devonshire is known as the Wizard of the White Tower and hails from this town. Hobson is likely a wanted man there thanks to Valss. After the Second was revived, he went into hiding in or around this town.
 
 ### Sunken City of Cera
 

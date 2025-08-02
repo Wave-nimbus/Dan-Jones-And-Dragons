@@ -14,7 +14,7 @@ This is the fan-made reference/wiki for the Dan Jones And Dungeons D&D Campaign 
 
 The series has been going on long enough to break up the sessions into miniature arcs. These arcs have been named based on their content, and the relevant episodes are divided into them.
 
-*???* contains information referenced in and updated for sessions 35, 36... As this story arc has yet to conclude, all references are available for tracking. ~~Information not mentioned in this arc or otherwise deemed unnecissary for understanding it has been removed for easier viewing, reading, and searching.~~
+*???* contains information referenced in and updated for sessions 35, 36, 37... As this story arc has yet to conclude, all references are available for tracking. ~~Information not mentioned in this arc or otherwise deemed unnecissary for understanding it has been removed for easier viewing, reading, and searching.~~
 
 ## Does DJ&J have a content rating?
 

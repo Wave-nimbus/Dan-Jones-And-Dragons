@@ -28,7 +28,7 @@ One of the Fallen Gods. The Flaming Spears are a cult/group devoted to destroyin
 
 One of the Nine. The Evertree is a female Centaur with an unspecified face. She represents the wilderness and nature. She is often worshiped by druidic communities or those who live far from large towns.
 
-## The First Dead 
+## The First Dead |
 
 Presumably one of the Fallen Gods. The Black Hand and The Midnight Lotus worship him and desire to restore him to power. His domain is strongly based on necromancy. The Party defeated his weakened Form within thee Black Hand's Headquarters.
 
