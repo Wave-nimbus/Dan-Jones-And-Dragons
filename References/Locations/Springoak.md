@@ -4,7 +4,7 @@ Springoak is a relatively large traditional medieval/fantasy town situated withi
 
 ### Fine Rock Inn
 
-Presumably a typical fantasy tavern where adventurers of all types can congregate, find news, and recieve jobs. Little else is known about it other than its name.
+Presumably a typical fantasy tavern where adventurers of all types can congregate, find news, and recieve jobs. It is run by a Halfling woman named Betty and the Human barkeep's name is Zelden.
 
 ### White Tower
 

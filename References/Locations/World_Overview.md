@@ -44,6 +44,10 @@ A village north of Northcliff. When the Party first see it, it is being raided b
 
 The inn/tavern at Ohkross run by Effie the Gnome. It is a small establishment, but the Party is welcome there.
 
+### The Shard Coast 
+
+A series of ports, coves, and towns that serve as a pirate's haven on the North East part of Orlon. If there is someone unsavory that needs to be found, you could start in a lot worse places than here. Whoever put the bounty on Morenthal is in this area. Ruins of the Voedia civilization are nearby. Despite being a large area, it is considered a single city. 
+
 ### Silverhill 
 
 A town in the West of Orlon that is home to a mage college of some kind. That college is headed by Gregor Timbers, one of the Champions of Virtue. Hobson originally was an administrator for the college before getting his bracer with Valse. The package the bracer came in was likely originally addressed to Gregor.
@@ -98,7 +102,7 @@ A town where Sionia is originally from. Lucian is also from here and was origina
 
 A dwarven island in the North and West part of Orlon. Not much is known about it other than a tunnel supposedly exists between it and Filgrove's Undercroft. The Champions previously killed a powerful monster here.
 
-### Guilded Lane
+### Guilded Lane 
 
 An extensive continent-wide trade route. Its end points are currently unknown. It crosses the Merchant's Pass at Springoak.
 
@@ -110,7 +114,7 @@ A town to the Southeast where Hobson's family lives. Maple Farms is a brand of w
 
 An extensive continent-wide trade route. One end of it is at Brightcoin, and where it goes is unknown. It is likely analogous to the Silk Road, however. It crosses the Guilded Lane at Springoak.
 
-### Morfield
+### Morfield 
 
 A town not too far to the south of Filgrove. It appears to be the most recent stop for the Illustrious Delight before they went to Filgrove.
 
@@ -130,9 +134,9 @@ A town near the Sunken City of Cera, which serves as a adventuring and archeolog
 
 Scarlan used to be a tiny village, but it had a Temple to the Nightmother. This was the Party's first adventure, as they discovered Dave the necromancer living in the catacombs below the Temple. 
 
-### The Shard Coast 
+### Sawood 
 
-A series of ports, coves, and towns that serve as a pirate's haven on the North East part of Orlon. If there is someone unsavory that needs to be found, you could start in a lot worse places than here. Whoever put the bounty on Morenthal is in this area. Ruins of the Voedia civilization are nearby. Despite being a large area, it is considered a single city. 
+A town in northern Orlon that Valse traveled through in his pre-campaign travels with Hobson. Valse stayed overnight in someone's home by breaking in. Little else is known about the town.
 
 ### Sibera
 

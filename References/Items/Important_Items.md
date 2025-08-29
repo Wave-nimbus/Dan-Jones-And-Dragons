@@ -90,6 +90,10 @@ One of the Missing Artifacts. A ring that is implied to be originally owned by t
 
 A powerful magic item that acts as a type of Philosopher's Stone. It has strong transmutative properties. Multiple exist, and one is known to be in the possession of the Merchant Collective. Miori attempted and failed to steal that Stone from the Collective.
 
+## The Second's Spellbook 
+
+A nonmagical spellbook that used to belong to the Second of the Midnight Lotus cult. It was retrieved after the Party killed him the second time in Springoak. It has 7 necromancy spells that can be learned by someone if they want to read it. Morenthal wants to destroy it. Feyli wants to hold onto it for closure. Gelnek currently holds it until the other two calm down.
+
 ## Sending Stone
 
 One of the stones used to communicate within the tunnel from Filgrove to Geria. The other was with the original party that is MIA.
@@ -113,6 +117,10 @@ Three spell scrolls that were found amongst the Crown's Guard gear. What spells 
 ## Staff of Defilement 
 
 A powerful artifact that originally came from Brightcoin's Vaults of Eversteel. It's power was used by the Brood Mother cult to create the Flesh Cave. It was successfully retrieved by the Party, and its effects are nullified by a Bag of Holding. It was one of the 10 Artifacts.
+
+## Throne of Want 
+
+One of the artifacts from Brightcoin's Vaults of Eversteel. It is presumed to be an impressive throne that deeply affects the wants and desires of whoever sits on it. It is currently in the Shard Coast.
 
 ## Tuning Fork (???) 
 

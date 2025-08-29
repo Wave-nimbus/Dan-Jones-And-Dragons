@@ -7,8 +7,7 @@ A faction found in Domberland has been ticked off by Gear Head, a criminal. Almo
 ## The Black Hand 
 
 A group of necromancers that prey upon the emotionally vulnereable, such as mourners or those that have nothing left to lose. They are a cult that worships the First Dead. <br>
-Resurrected members include: *The Second* <br>
-Known dead members include: *Aryk* and *Dave the Necromancer*.<br>
+Known dead members include: *Aryk* and *Dave the Necromancer*, and *The Second*.<br>
 Known Subgroup: *The Midnight lotus*.
 
 ## The Black Rose Trackes
@@ -126,6 +125,10 @@ Known Subgroup: *Illustrious Delight*
 
 Serving as the Pantheon for the world of E'lythia, the Divine Nine represent various aspects of clerics, paladins and the like. <br>
 Mentioned deities of this pantheon include: *Ather the Breaker*, *The Guide*, *The Laughing Mask*, *The Molten Hammer Ruldros*, *The Nightmother Iris*, and *Ophina the Dawnmaiden*, *The Plated Dragon*, and *Zimera*.
+
+## The Order of Cabal 
+
+A small but efficient group of pickpocketers that operate within the Shard Coast and surrounding areas. They specialize in stealing magic items and tend to sell nonmagical ones off at the Crow's Cache.
 
 ## The Runebreakers 
 

@@ -1,5 +1,9 @@
 # Pulls from Trilby's Bag of Many Things
 
+## 4-Point Shuriken 
+
+A well-crafted metal shuriken with four points. Trilby sold it to Leaf in the Shard Coast for 2 gp.
+
 ## Alchemist's Fire 
 
 A baseball sized bottle with a sealed cork filled with Alchemist's Fire. It could probably be thrown to deal acid damage to an enemy.
