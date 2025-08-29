@@ -28,7 +28,7 @@ One of the Fallen Gods. The Flaming Spears are a cult/group devoted to destroyin
 
 One of the Nine. The Evertree is a female Centaur with an unspecified face. She represents the wilderness and nature. She is often worshiped by druidic communities or those who live far from large towns.
 
-## The First Dead |
+## The First Dead
 
 Presumably one of the Fallen Gods. The Black Hand and The Midnight Lotus worship him and desire to restore him to power. His domain is strongly based on necromancy. The Party defeated his weakened Form within thee Black Hand's Headquarters.
 
@@ -52,9 +52,9 @@ An ancient archmage who created the Planar Mirror and used the Island of Shariza
 
 One of the Nine that makes up this world's pantheon. She represents the Grave domain, ferrying souls to the afterlife. As a result, she is heavily against necromancy, though resurrection is a different matter.
 
-## Obrius 
+## Ulbrius 
 
-An entity that is almost entirely unknown. Coil had a vision that some kind of nebulous "answer" were found with Orbrius rather than with the Divine Nine. Whether this makes them part of the Fallen Gods is unknown.
+An entity that is almost entirely unknown. Coil had a vision that some kind of nebulous "answer" were found with Orbrius rather than with the Divine Nine. Whether this makes them part of the Fallen Gods is unknown. His "blood" is presumably used by Voedian constructs for power or maintenance.
 
 ## Ophina the Dawnmaiden
 
