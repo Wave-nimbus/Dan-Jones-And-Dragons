@@ -21,10 +21,10 @@ A cult dedicated to the Cascos the Fire Lord. They search for the seal that hold
 Known living members include: *Dane*, *Han Rathenal*, *Jiroma*, and *Trayton Farkle*
 Known dead members include: *Famir* and *Odenne*.
 
-## Bloodletters Guild 
+## Bloodletters Guild  
 
 The bounty hunting/assassin's guild that is attemtping to hunt down Feyli. Since Morenthal seems to be helping her, the guild has a bounty for his head too. They also take other assassination and bounty jobs. Failure on a job means being expelled from the organization and hunted down. It is unknown who or what is at the top of the organization. <br>
-Known members include: *Daemon*, and *Yuul Greaterfist*. <br>
+Known members include: *Carth*, *Daemon*, *Yuul Greaterfist*, and *Zaris*. <br>
 Expelled members include *Molloke Iron* and *Morenthal*.
 
 ## The Champions of Virtue 
@@ -35,7 +35,7 @@ Presumed Living Members include: *Eldwin Flyleaf*, *Lia Sianno*, and *Reed Brush
 Confirmed Dead Members include: *Luth Helder*, *Shandri Fezim*, and *Volen Ashblade* .<br>
 Presumed Dead Members include: *Arthur Oathbringer*, *Orsik Frostbeard*, and *Valse "V"*.
 
-## The Council of E'lythia
+## The Council of E'lythia 
 
 A peacekeeping organization tasked with dealing with threats across the world of E'lythia. Their members include representatives from across the globe and from different walks of life. Their current focus is recovering the 10 Artifacts from Brightcoin. <br>
 The Council is made up of: *Adokas Thandar*, *Brenon Hazelheart*,  *Delilah Wintersbane*, *Eileen Roseark*, *Micha Ivory*, *Sionia Quidithas*, and *Ternos Beldhall*.
@@ -94,11 +94,11 @@ Gelnek's tribe of goblins that live in the Blighted Swamp near Mt. Fiorno. They 
 Exiled members include: *Gelnek*.
 Known members include: *Burple*, *Chief Stompie*, *Gnaw*.
 
-## The Green Ravens
+## The Green Ravens 
 
 Monster hunters that have made their home in Filgrove. They take care of various beasts and monsters that can be found in the area. The Party is on good terms with them and has been offered a place amongst their ranks. <br>
 Known members include: *CC*, *Hestio*, *Uldar*, *Shana*, *Tane*, and *Vera*. <br> 
-Former members include: *Graster*.
+Former members include: *Graster Bane*.
 
 ## The Griffin Riders 
 
@@ -138,6 +138,11 @@ Known members include: *Demetra Aldea*, *Kyri Zenova*, *Nori Watergrave*, *Rodri
 ## The Steel Tempest 
 
 An aerial pirate and raiding crew that attacks airships in the northern areas of Orlon. They use tamed drakes to ride and board passing airships, presumably to steal cargo and kill the crew.
+
+## Vaenphyres 
+
+Pronounced "vayn-FYERS", they are a mercenary group that operates in and around the Shard Coast. They are easy to find, relatively cheap, and not afraid of getting their hands dirty. Their main base appears to be the Last Drop tavern in town. <br>
+Known members include: *Graster Bane*.
 
 ## Viradescent Javelin Crew 
 

@@ -26,10 +26,6 @@ A Hag that lives in Filgrove's Undercroft. She deals in information and magical 
 
 A Bugbear who serves at the head desk of the Green Raven's HQ. She keeps track of rewards, hunts, and posters. She also knows a lot about each beast's weaknesses.
 
-## Graster, Hunter
-
-Good muscle and tank for any hunting party. A lycanthrope that has accepted his condition. During a fight, he bit Trayton of the Burning Spears, infecting him. The Party cured him of the curse after he was banished from Filgrove.
-
 ## Uldar Mineswept, Blacksmith
 
 Once Hestio strips a monster for its parts, Uldar is in charge of forging it into something useful.

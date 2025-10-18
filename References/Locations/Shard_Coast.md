@@ -4,8 +4,16 @@ The Shard Coast is a massive bustling city in the Northeast of Orlon. It has doz
 
 ## The Bleeding Heart
 
-A massive tavern along a set of docks within the city. It is the go-to place for rumors, news, adventuring jobs, and general gossip. Despite its size, it has extremely tight security to ensure no criminal activities happen in it.
+A massive tavern along a set of docks within the city. It is the go-to place for rumors, news, adventuring jobs, and general gossip. Despite its size, it has extremely tight security to ensure no criminal activities happen in it. It is run by 
 
 ## The Crow's Cache
 
 A relatively small pawn shop run by Leaf Montegue. It is a common selling place for members of the Order of Cabal to pawn off nonmagical objects. It also has a surprisingly large collection of Voedian artifacts.
+
+## The Last Drop
+
+A fairly small and grimy tavern at the edge of town. It is where the Vaenphyres hang out. Their base of operations is also underneath the tavern itself. It was run by a Dwarf male whose name is Steve.
+
+## Sanguine Bay
+
+The name for the bay that the Shard Coast is built around. The city is a large crescent shape around the Bay's southwest edge. Ports along the Pay are constantly packed with cargo being loaded and unlodaed at all hours.
