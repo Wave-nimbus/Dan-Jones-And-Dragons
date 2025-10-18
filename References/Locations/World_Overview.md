@@ -12,11 +12,11 @@ Orlon is the main continent that the campaign takes place on. It is controlled b
 
 A volcanic region in the Southernmost part of Orlon. The nearby volcano, Mt. Fiorno, renders it close to the Elemental Plane of Fire. Thus, it was the location of the Ring of Flame, one of the 10 Artifacts.
 
-### Brightcoin 
+### Brightcoin |
 
 A major city on the continent of Orlon. It is home to the Vaults of Eversteel, and it's ruled by a king named Rylen Lendsborough. It has an enormous population, making it one of the largest cities on E'lythia. See the Brightcoin reference for more information.
 
-### Filgrove 
+### Filgrove |
 
 Filgrove is where the Party spends most of their time. It is a decent sized city in the North of Orlon, serving as a defensive city in the past. In and around the city, the Party's early adventures took shape. See the Filgrove reference for more information.
 
@@ -44,7 +44,7 @@ A village north of Northcliff. When the Party first see it, it is being raided b
 
 The inn/tavern at Ohkross run by Effie the Gnome. It is a small establishment, but the Party is welcome there.
 
-### The Shard Coast 
+### The Shard Coast |
 
 A series of ports, coves, and towns that serve as a pirate's haven on the North East part of Orlon. If there is someone unsavory that needs to be found, you could start in a lot worse places than here. Whoever put the bounty on Morenthal is in this area. Ruins of the Voedia civilization are nearby. Despite being a large area, it is considered a single city. 
 
