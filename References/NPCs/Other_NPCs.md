@@ -79,7 +79,7 @@ He was revived when Feyli pulled *The Judge* from her Deck. He fled to Springoak
 
 ## Bloodletters Guild 
 
-### Carth, Bloodletters Assassin
+### Carth, Bloodletters Assassin 
 
 Presumably a high-ranking member of the Bloodletters who was called into the Shard Coast when there was a trade power vacuum in the city. Little else is known about them.
 
@@ -93,9 +93,9 @@ A bounty hunter and assassin presumably from the same Bloodletters guild as More
 
 ### Yuul Greaterfist, Bloodletters Assassin 
 
-A Goliath member of the Bloodletters that Morenthal notices after returning from getting Void gear ordered. He ambushed Morenthal in the costume shop, got an extremely nasty stab into Morenthal's back and then stole all his money. However, he did keep Morenthal alive, despite the bounty on his head. He is also the one who placed the 10,000 gp bounty on Morenthal's head.
+A Goliath member of the Bloodletters that Morenthal notices after returning from getting Void gear ordered. He ambushed Morenthal in the costume shop, got an extremely nasty stab into Morenthal's back and then stole all his money. However, he did keep Morenthal alive, despite the bounty on his head. He is also the one who placed the 10,000 gp bounty on Morenthal's head. He was killed by Morenthal in the Shard Coast during an ambush where he tried to kill the Party.
 
-### Zaris, Bloodletter Assassin
+### Zaris, Bloodletter Assassin 
 
 A short Tiefling woman and member of the Bloodletters. She is presumably an old friend of Morenthal and refuses to kill him on sight, unlike others in the guild. She warns Morenthal of staying in the Shard Coast longer than necessary.
 
@@ -163,7 +163,7 @@ Valse the Champion of Virtue was some form of Eladrin hailing from the Feywild. 
 
 A female Goliath and previous member of the Champions of Virtue. She died of old age near the end of the Champions time of operations. Confirmed Dead.
 
-## The Council of E'lythia
+## The Council of E'lythia 
 
 ### Adokas Thanadar
 
@@ -268,6 +268,10 @@ A strange, vaugely humanoid celestial who was rescued by the Party within the He
 ### Chameleonaire, Expensive Merchant 
 
 A well traveled and extremely rich Lizardfolk merchant that travels the lands selling expensive (and potentially overpriced) magical items. When he met the Party, he sells a number of items and offers even more.
+
+### Cyndra, Union of the Sun Mercenary 
+
+A member of the Union of the Sun mercenary group previously hired by the Vaenphyres in the Shard Coast. She wears a full suit of black plate armor and weilds a large greatsword. She is temporarily hired by the Party to protect the Kua Toa brothers Oro and Otto.
 
 ### Durmin, FFXIV reference
 

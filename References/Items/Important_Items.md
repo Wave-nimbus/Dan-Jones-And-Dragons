@@ -6,6 +6,10 @@
 Recovered artifacts are: *The Staff of Defilement*, *The Flower of Rebirth*, *The Ring of Flame*, and *The Shaper of Minds*, *The Heart of the Keep*<br>
 Unrecovered artifacts are: *The Amber Dragon Eye*, *The Gauntlet of the Eye*, , *The Planar Mirror*, *The Throne of Want*, and *The Wand of Chaos*.
 
+## Alchemy Jug 
+
+A classic D&D item that is capable of producing different amounts of different liquids -- and mayonaise -- at different quantities daily.
+
 ## Beacon Map
 
 An orb capable of projecting world maps. Variations of these orbs can project different sized maps depending on their size. The Champions of Virtue had special maps that could pinpoint other members of the group.
@@ -82,9 +86,17 @@ A one-time return button that is meant to bring anyone within 10 ft of the orb b
 
 A pristine pearl that Karashala gave to Trilby so he could give it to Feyli. Once given, it is absorbed into her hand. Karashala extracts it in exchange for a Lycanthrope cure. The extraction took Feyli's Soul with it. When Feyli was reincarnated, the soul of Gelnek was placed inside it instead.
 
+## Puzzle Orb 
+
+A complex mechancial orb that resembles Trilby's Brass Puzzle. It's function and contents are currently unknown, as Identify was unable to read any more than the fact that it is a puzzle to solve.
+
 ## Ring of Flame
 
 One of the Missing Artifacts. A ring that is implied to be originally owned by the Flame Tyrant. It is heavily attuned to the Plane of Fire. It was recovered off of the Eyedra within the Castle of Ol'Lui, who had used it to turn it's lair into a magma flowing inferno. The ring allows for powerful magic to be cast as well as immunity to fire and heat.
+
+## Ring of Spell Storing 
+
+A ring that belonged to a Vaenphyre ogre in the Shard Coast. It is capable of holding up to five levels worth of spells that can be cast by the user. It requries attunement to wear. Hobson is currently wearing it but is not attuned to it.
 
 ## Saphire Stone 
 
@@ -120,7 +132,7 @@ A powerful artifact that originally came from Brightcoin's Vaults of Eversteel. 
 
 ## Throne of Want 
 
-One of the artifacts from Brightcoin's Vaults of Eversteel. It is presumed to be an impressive throne that deeply affects the wants and desires of whoever sits on it. It is currently in the Shard Coast.
+One of the artifacts from Brightcoin's Vaults of Eversteel. It is a large stone throne that can grant wishes and potentially possess whoever sits on it. It is currently in the Shard Coast and sat on by Ox the Kua Toa.
 
 ## Tuning Fork (???) 
 
