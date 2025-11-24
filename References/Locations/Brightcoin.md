@@ -1,4 +1,4 @@
-## Brightcoin
+## Brightcoin |
 
 One of the largest and most populated cities on E'lythia, Brightcoin is a shining city of commerce. It lies at one end of Merchant's Pass, an enormously important trading route, and has become prosperous for it. It also houses the Vaults of Eversteel, which is where the 10 Artifacts were originally held. Notable locations in and around Brightcoin include:
 
@@ -10,7 +10,7 @@ The home of Preston FitzClarence, a minor noble. It is thus situated in the less
 
 A relatively modest pub and bar in near the airship docks in Brightcoin. It is a common spot for common folk to gather and trade information and rumors about Brightcoin. Living up to its name, the tavern gets very busy on Thursdaes.
 
-### Vaults of Eversteel 
+### Vaults of Eversteel |
 
 A major and secure vault containing several artifacts. An attack and explosion caused several of such artifacts to be spread around the world of E'lythia. The Council of E'lythia has been tasked with recovering these artifacts. Lucian of Northcliff has a gem that gives him direct access to where the artifacts are being held within the Vaults.
 

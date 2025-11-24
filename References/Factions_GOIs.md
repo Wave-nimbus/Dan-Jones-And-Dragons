@@ -10,9 +10,10 @@ A group of necromancers that prey upon the emotionally vulnereable, such as mour
 Known dead members include: *Aryk* and *Dave the Necromancer*, and *The Second*.<br>
 Known Subgroup: *The Midnight lotus*.
 
-## The Black Rose Trackes
+## The Black Rose Trackers |
 
-Presumably a bounty hunting or other hunting group somewhere in the world of E'lythia. Almost nothing is known about them other than their existence.<br>
+A mercenary group that operates out of the Shard Coast. They generally keep their jobs clean and make an honest living as a mercenary group. They may not be the best, but they are far from the worst.<br>
+Known members include: *Graster Bane*. <br>
 Previous members include: *Vera Ironedge*.
 
 ## The Burning Spears 
@@ -126,9 +127,10 @@ Known Subgroup: *Illustrious Delight*
 Serving as the Pantheon for the world of E'lythia, the Divine Nine represent various aspects of clerics, paladins and the like. <br>
 Mentioned deities of this pantheon include: *Ather the Breaker*, *The Guide*, *The Laughing Mask*, *The Molten Hammer Ruldros*, *The Nightmother Iris*, and *Ophina the Dawnmaiden*, *The Plated Dragon*, and *Zimera*.
 
-## The Order of Cabal 
+## The Order of Cabal |
 
-A small but efficient group of pickpocketers that operate within the Shard Coast and surrounding areas. They specialize in stealing magic items and tend to sell nonmagical ones off at the Crow's Cache.
+A small but efficient group of pickpocketers that operate within the Shard Coast and surrounding areas. They specialize in stealing magic items and tend to sell nonmagical ones off at the Crow's Cache.<br>
+Known members include: *Alara*, and *June*.
 
 ## The Runebreakers 
 
@@ -139,10 +141,15 @@ Known members include: *Demetra Aldea*, *Kyri Zenova*, *Nori Watergrave*, *Rodri
 
 An aerial pirate and raiding crew that attacks airships in the northern areas of Orlon. They use tamed drakes to ride and board passing airships, presumably to steal cargo and kill the crew.
 
+## The Union of the Suns |
+
+A decentralized mercenary organizatioon whose members are known for being loners. Their reputation is prestegious, however, and their clients pay top billing for their great service.<br>
+Known members include: *Cyndra*. <br>
+Previous members include: *Blade Goldwill*.
+
 ## Vaenphyres |
 
-Pronounced "vayn-FYERS", they are a mercenary group that operates in and around the Shard Coast. They are easy to find, relatively cheap, and not afraid of getting their hands dirty. Their main base appears to be the Last Drop tavern in town. <br>
-Known members include: *Graster Bane*.
+Pronounced "vayn-FYERS", they are a mercenary group that operates in and around the Shard Coast. They are easy to find, relatively cheap, and not afraid of getting their hands dirty. Their main base appears to be the Last Drop tavern in town.
 
 ## Viradescent Javelin Crew |
 

@@ -10,9 +10,17 @@ A massive tavern along a set of docks within the city. It is the go-to place for
 
 A relatively small pawn shop run by Leaf Montegue. It is a common selling place for members of the Order of Cabal to pawn off nonmagical objects. It also has a surprisingly large collection of Voedian artifacts.
 
+## Goldman Shipping
+
+A warehouse or series of warehouses that used to belong to a now defunct shipping company of the same name. The warehouses are commonly used as dead drop spots for various groups andd factions within the Shard Coast, including the Order of Cabal. Yuul set up an ambush in this lcoation for the Party.
+
 ## The Last Drop
 
 A fairly small and grimy tavern at the edge of town. It is where the Vaenphyres hang out. Their base of operations is also underneath the tavern itself. It was run by a Dwarf male whose name is Steve.
+
+## The Steel Heat
+
+A forge owned by Davos Bloodfist and his family in the Shard Coast. Its scale and services are currently unknown, but if the Party needs Davos, they can probably find him there.
 
 ## Sanguine Bay
 

@@ -4,7 +4,7 @@
 
 The person who helped create the vault beneath Mr. Wick's estate. His father helped design and build the Vaults of Eversteel. Thus, his knowledge could help grant insight into the Vaults of Eversteel itself.
 
-## Jonathan Wick, Candlemaker
+## Jonathan Wick, Candlemaker |
 
 A newly famous individual in Brightcoin, rising from peasant to major noble in just months. His original occupation is as a candlemaker, calling to question how he gained such wealth and popularity from the other nobles. He is a male Human with well groomed mutton chops, a rosy face and modest build. He was killed by Preston and Coil after trying to use the Magic Key on Preston.
 

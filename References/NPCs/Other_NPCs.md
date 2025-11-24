@@ -93,7 +93,7 @@ A bounty hunter and assassin presumably from the same Bloodletters guild as More
 
 ### Yuul Greaterfist, Bloodletters Assassin |
 
-A Goliath member of the Bloodletters that Morenthal notices after returning from getting Void gear ordered. He ambushed Morenthal in the costume shop, got an extremely nasty stab into Morenthal's back and then stole all his money. However, he did keep Morenthal alive, despite the bounty on his head. He is also the one who placed the 10,000 gp bounty on Morenthal's head.
+A Goliath member of the Bloodletters that Morenthal notices after returning from getting Void gear ordered. He ambushed Morenthal in the costume shop, got an extremely nasty stab into Morenthal's back and then stole all his money. However, he did keep Morenthal alive, despite the bounty on his head. He is also the one who placed the 10,000 gp bounty on Morenthal's head. He was killed by Morenthal in the Shard Coast during an ambush where he tried to kill the Party.
 
 ### Zaris, Bloodletter Assassin |
 
@@ -193,7 +193,7 @@ A female Dwarf who radiates seriousness. She is always wearing battle attire. Wh
 
 A male Golden Dragonborn from Dragonhold. He wears white, regal robes and holds himself high. He has a very heavy build and wears silver accents to contrast his golden color.
 
-## The Crystal United Mercenaries 
+## The Crystal United Mercenaries |
 
 ### Glurte, Mercenary Druid
 
@@ -269,6 +269,10 @@ A strange, vaugely humanoid celestial who was rescued by the Party within the He
 
 A well traveled and extremely rich Lizardfolk merchant that travels the lands selling expensive (and potentially overpriced) magical items. When he met the Party, he sells a number of items and offers even more.
 
+### Cyndra, Union of the Sun Mercenary |
+
+A member of the Union of the Sun mercenary group previously hired by the Vaenphyres in the Shard Coast. She wears a full suit of black plate armor and weilds a large greatsword. She is temporarily hired by the Party to protect the Kua Toa brothers Oro and Otto.
+
 ### Durmin, FFXIV reference
 
 Durmin Durami is the name of Dan Floyd's Final Fantasy XIV Lalafell for his PlayFrame series. He has absolutely nothing to do with the D&D campagin, but Lalafells and Halflings share a similar role as small races.
@@ -293,7 +297,7 @@ A sketchy male Dwarf that has angered a faction known as the Amber Hearts. He ha
 
 A female Gnome with several technical gadgets on her arms. Her monocle adjusts itself constantly. Her demeanor is very formal and noble, though not necissarily unfriendly. She is in charge of most tech for the search for the 10 Artifacts. She also built the Spire in Northcliff.
 
-### Kurva, Kenku Friend 
+### Kurva, Kenku Friend |
 
 A female Kenku that carries a massive backpack wherever she goes. She is a close friend of Gelnek's from before the campaign. She reunites with him in the Sword Coast.
 

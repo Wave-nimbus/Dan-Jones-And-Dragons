@@ -60,19 +60,23 @@ A town on the Western edge of Orlon. Horace Devonshire is known as the Wizard of
 
 The Underdark is the deep underground portions of a D&D world. The tunnel from Filgrove to Geria likely passes through such a region. It is home to all kinds of creatures adapted for the darkness, including mutant spider monsters and mushroom creatures. A few cities are found down below, though getting there requires long, treacherous journeys.
 
+### Wellmore Keep |
+
+A structure near Silverhill where a mysterious mansion has dissappeared. It is a large mansion-like structure that was accidentially summoned by Ox the Kua Toa. It reappeared deep underwater in the Sanguine Bay of the Shard Coast. It is enchanted to be dry on the interior, somehow. The Throne of Want is presumably inside.
+
 ## Mentioned Cities/Locations
 
 ### Blackfane 
 
 A large and major city in central Orlon. It serves as an enormous trade and merchent hub, with nearly anything being available to buy. It appears as a massive black spire with boardwalks running out a distance from the main spire. The Emperor of E'lythia is also housed in this city.
 
-### Crimson Vale 
+### Crimson Vale |
 
-A city somewhere on Orlon (or maybe Ty'vanera) that is home to the Runebreakers adventuring group. After the Heart of the Keep was removed from Varu'Il, they booked passage back here. Almost nothing else is known about it.
+A city somewhere on Orlon (or maybe Ty'vanera) that is home to the Runebreakers adventuring group. After the Heart of the Keep was removed from Varu'Il, they booked passage back here.  There is a Voedian vault here somehwere. Almost nothing else is known about it. 
 
-### Desert of Thorns 
+### Desert of Thorns |
 
-A large desert in Eastern Orlon. The Gauntlet of the Eye, one of the 10 Artifacts, is believed to be somewhere in this desert.
+A large desert in Eastern Orlon. The Gauntlet of the Eye, one of the 10 Artifacts, is believed to be somewhere in this desert. There is a Voedian vault here somewhere.
 
 ### Dragonhold
 
@@ -90,6 +94,10 @@ A town in central Orlon that is currently dealing with an outbreak of Ashen Rot.
 
 A sea that is presumably somewhere off of Orlon's coast. Preston Fitzclarance believes that one of the 10 Artifacts is located in or around the Sea.
 
+### Ernaand |
+
+A city or town somewhere to the far northwest of Orlon. There is a Voedian vault somewhere there. Almost nothing else is known about it.
+
 ### Far Reach Mountains 
 
 A mountain range that extends across most of the northern reaches of Orlon. It is most easily traversed by airship, though it houses several flying creatures including wyverns that are capable and willing of attack such airships.
@@ -106,7 +114,7 @@ A dwarven island in the North and West part of Orlon. Not much is known about it
 
 An extensive continent-wide trade route. Its end points are currently unknown. It crosses the Merchant's Pass at Springoak.
 
-### Maple
+### Maple |
 
 A town to the Southeast where Hobson's family lives. Maple Farms is a brand of wine. Ruins of the Voedia civilization are nearby. Almost nothing else is known about it.
 
@@ -154,10 +162,6 @@ See the Brightcoin Reference.
 
 A large cave filled with Void Crystals that was home to the Void Snail. It is about 2 days travel to the West of Filgrove. The Party killed the Void Snail, taking chunks back to create new items.
 
-### Wellmore Keep
-
-A structure near Silverfell where a mysterious mansion has reappeared. Almost nothing else is known about the keep itself.
-
 ### Westmount 
 
 A town in the South of Orlon. Some years ago, Arther Oathbringer reappeared with a flying castle and an army over the town. It houses a magical school where a Finch Ironbellow escaped from. 
@@ -176,7 +180,7 @@ A large island far off the East coast of Orlon that has strange and strong effec
 
 A tomb presumably for someone named Shara. Almost nothing else is known about it, including its global location. The Gauntlet of the Eye is believed to originate from within it.
 
-# The Continent of Ty'vanera 
+# The Continent of Ty'Vanera |
 
 (TY-ven-err-ah) A continent separate from Orlon where beast tribes have gathered to form a coalition style government. Little else is known about it, including where exactly it is.
 

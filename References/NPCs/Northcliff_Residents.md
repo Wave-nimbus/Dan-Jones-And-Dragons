@@ -12,19 +12,19 @@ An Elf woman who was personally trained by Adokas Thanadar at the Crossed Swords
 
 A high-ranking cleric to Ophina. Gregor called on him in a ritual to potentially remove Valse's gauntlet from Hobson. Though is services were not needed. He notably has had one of his arms replaced with opal and stone.
 
-## Blade Goldwill, Guard for Hire 
+## Blade Goldwill, Guard for Hire |
 
-A towering knight standing at 6 feet, 5 inches who serves as a hired guard. They wear white armor with gold accents. He was under the influence of the Shaper of Minds and eventually killed by Coil. He was rebuilt at Moab's Pawn Shop and now works for Velina Sammit at the Opal Circlet.
+A towering knight standing at 6 feet, 5 inches who serves as a hired guard. They wear white armor with gold accents. He was under the influence of the Shaper of Minds and eventually killed by Coil. He was rebuilt at Moab's Pawn Shop and now works for Velina Sammit at the Opal Circlet. Before working for Mr. Wick, he worked for the Union of the Sun.
 
 ## Chestnut Wicklebee, Concerned Fisher
 
 An extremely old and grumpy gnome fisherman who put in a request to find the source of Northcliff's dissapearing fish population. Once the Party solves the problem, he rewards them.
 
-### Cog, Estevan's Automaton
+### Cog, Estevan's Automaton |
 
 Described as a toaster with eyes, Cog is Estevan's homemade automaton. It only knows how to say hello, and it acts much like Clank does from Ratchet and Clank.
 
-### Estevan Longfeather, Historian & Adventurer 
+### Estevan Longfeather, Historian & Adventurer |
 
 A male Goblin that researches the Vodeia people. He is absolutely fascinated by Coil's history and is willing to dig into the past and the Sunken City of Cera to get answers. His automaton buddy is named Cog.
 
