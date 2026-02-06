@@ -54,7 +54,7 @@ A female Human that serves as a general crew member for the Viridescent Javelin.
 
 A female Goblin that serves the Viridescent Javelin's engine room, ensuring the airship runs as smooth as possible.
 
-## The Black Hand/Midnight Lotus 
+## The Black Hand/Midnight Lotus |
 
 ### Aryk, Black Hand Martyr 
 
@@ -113,7 +113,7 @@ A Halfling member of the Burning Spears and friend of Trayton. He followed Trayt
 
 Previously a Human member of the Burning Spears cult. He ran away from the group to an abandoned farmhouse to the southeast of Filgrove. Graster wants him dead, but Han would rather keep him alive, offering more than Graster for the information. He was bitten by Graster, becoming cursed by Lycanthropy before being cured.
 
-## The Champions of Virtue
+## The Champions of Virtue |
 
 ### Adokas Thandar 
 
@@ -219,7 +219,7 @@ A male Bugbear member of the Crystal United Mercenaries. He has distinctive red 
 
 A male Dragonborn with an elongated neck with blue and white marks and a member of the Crystal United Mercenaries. He was known to be a successful gladiator from Dragonhold, but his true abilities have yet to be seen.
 
-## Illustrious Delight 
+## Illustrious Delight |
 
 ### Ember, Illustrious Delight
 
@@ -273,6 +273,10 @@ A well traveled and extremely rich Lizardfolk merchant that travels the lands se
 
 A member of the Union of the Sun mercenary group previously hired by the Vaenphyres in the Shard Coast. She wears a full suit of black plate armor and weilds a large greatsword. She is temporarily hired by the Party to protect the Kua Toa brothers Oro and Otto.
 
+### Dorotny, Hobson's Mother |
+
+A halfling woman who runs Bavender's inn near Maple. She is motherly and very welcoming to patrons, Hobson, and the Flower Crowns. She typically has an apron on as she works. Her only appearnace is as an illusion in Wellmore Keep, so her actual description is unconfirmed.
+
 ### Durmin, FFXIV reference
 
 Durmin Durami is the name of Dan Floyd's Final Fantasy XIV Lalafell for his PlayFrame series. He has absolutely nothing to do with the D&D campagin, but Lalafells and Halflings share a similar role as small races.
@@ -305,7 +309,7 @@ A female Kenku that carries a massive backpack wherever she goes. She is a close
 
 A female Goliath who carries the second Valse gauntlet. She currently travels with Vindilay as a novice bounty hunter as she tries to get the gauntlet off.
 
-### Me, Mushroom Man 
+### Me, Mushroom Man |
 
 A mushroom creature the Party encountered in the Underdark. Part of a race of enormous mushroom creatures that eat creatures that stay inside their mushroom hill cavern. Otherwise quite friendly.
 

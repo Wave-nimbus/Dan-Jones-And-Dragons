@@ -20,7 +20,7 @@ The de facto leader of the Green Ravens was first impressed by the Party taking 
 
 A Hag that lives in Filgrove's Undercroft. She deals in information and magical curiosities. If there is something the Party (or anyone else) needs to know, she is probably their best bet. Her trinkets may come in handy in some situations. She has made deals that resulted in holding onto Gelnek's soul in a Soul Orb.
 
-# Green Ravens
+# Green Ravens |
 
 ## CC (Cubari Cubari), Secretary
 

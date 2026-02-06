@@ -2,7 +2,7 @@
 
 The name of the world for this campaign is set in. There are multiple continents, overseen by the Council of E'lythia. Orlon is one such continent. Other continents include Ty'vanera and Djoria.
 
-# The Continent of Orlon
+# The Continent of Orlon |
 
 Orlon is the main continent that the campaign takes place on. It is controlled by an Empire, ruled by Leofrick Ozark. Smaller regions or towns on the continent may be under control of Dukes. Generally, the Empire is at peace with everyone, though this was not always the case.
 
@@ -32,7 +32,7 @@ A town in the Northwest of Orlon. The Flower of Rebirth, one of the 10 Artifacts
 
 A town in the south of Orlon within the Ashen Highlands. The Ring of Flame was discovered by a resident before being taken to the nearby Voscorie Bog. See the Mt. Fiorno reference for more details.
 
-### Northcliff 
+### Northcliff |
 
 Northcliff is a technologically adavanced city that serves as a central hub for the search for the 10 Artifacts. It used to be home of the Champions of Virtue before they disbanded. It floats high above the ground on Green Void Crystals. Northcliff is near the Southwestern edge of Orlon. See the Northcliff reference for more details.
 
@@ -52,11 +52,11 @@ A series of ports, coves, and towns that serve as a pirate's haven on the North 
 
 A town in the West of Orlon that is home to a mage college of some kind. That college is headed by Gregor Timbers, one of the Champions of Virtue. Hobson originally was an administrator for the college before getting his bracer with Valse. The package the bracer came in was likely originally addressed to Gregor.
 
-### Springoak 
+### Springoak |
 
 A town on the Western edge of Orlon. Horace Devonshire is known as the Wizard of the White Tower and hails from this town. Hobson is likely a wanted man there thanks to Valss. After the Second was revived, he went into hiding in or around this town. It sits at the intersection of the Merchant's Pass and Guilded Lane.
 
-### The Underdark
+### The Underdark |
 
 The Underdark is the deep underground portions of a D&D world. The tunnel from Filgrove to Geria likely passes through such a region. It is home to all kinds of creatures adapted for the darkness, including mutant spider monsters and mushroom creatures. A few cities are found down below, though getting there requires long, treacherous journeys.
 
@@ -66,13 +66,13 @@ A structure near Silverhill where a mysterious mansion has dissappeared. It is a
 
 ## Mentioned Cities/Locations
 
-### Blackfane 
+### Blackfane |
 
 A large and major city in central Orlon. It serves as an enormous trade and merchent hub, with nearly anything being available to buy. It appears as a massive black spire with boardwalks running out a distance from the main spire. The Emperor of E'lythia is also housed in this city.
 
 ### Crimson Vale |
 
-A city somewhere on Orlon (or maybe Ty'vanera) that is home to the Runebreakers adventuring group. After the Heart of the Keep was removed from Varu'Il, they booked passage back here.  There is a Voedian vault here somehwere. Almost nothing else is known about it. 
+A city somewhere on Orlon (or maybe Ty'vanera) that is home to the Runebreakers adventuring group. After the Heart of the Keep was removed from Varu'Il, they booked passage back here.  There is a Voedian vault here somewhere. Almost nothing else is known about it. 
 
 ### Desert of Thorns |
 
@@ -102,11 +102,11 @@ A city or town somewhere to the far northwest of Orlon. There is a Voedian vault
 
 A mountain range that extends across most of the northern reaches of Orlon. It is most easily traversed by airship, though it houses several flying creatures including wyverns that are capable and willing of attack such airships.
 
-### Fywood 
+### Fywood |
 
 A town where Sionia is originally from. Lucian is also from here and was originally part of the royal family. Though on the Orlon continent, the Kingdom of Fywood is officially unaligned with the Empire, but it is on general good terms.
 
-### Geria 
+### Geria |
 
 A dwarven island in the North and West part of Orlon. Not much is known about it other than a tunnel supposedly exists between it and Filgrove's Undercroft. The Champions previously killed a powerful monster here.
 
@@ -117,6 +117,10 @@ An extensive continent-wide trade route. Its end points are currently unknown. I
 ### Maple |
 
 A town to the Southeast where Hobson's family lives. Maple Farms is a brand of wine. Ruins of the Voedia civilization are nearby. Almost nothing else is known about it.
+
+#### Bavender's |
+
+The inn and tavern ran by Hobson's family, just outside of Maple's town limits. It is popular with both adventuring groups and townsfolk. Hobson's mother Dorotny is the current innkeeper. The only appearance so far is an illusion within Wellmore Keep, so it's actual apperance is currently unconfirmed.
 
 ### Merchant's Pass 
 
@@ -162,7 +166,7 @@ See the Brightcoin Reference.
 
 A large cave filled with Void Crystals that was home to the Void Snail. It is about 2 days travel to the West of Filgrove. The Party killed the Void Snail, taking chunks back to create new items.
 
-### Westmount 
+### Westmount |
 
 A town in the South of Orlon. Some years ago, Arther Oathbringer reappeared with a flying castle and an army over the town. It houses a magical school where a Finch Ironbellow escaped from. 
 
@@ -202,13 +206,13 @@ A major city on the Western edge of Ty'Vanera. It houses The Citidel, a knowledg
 
 A town in the center of continent of Ty'vanera. The Wand of Chaos, one of the 10 Artifacts, is believed to be here. However, the land is cursed, so the Council of E'lythia's drones cannot survey the area.
 
-# The Continent of Djoria 
+# The Continent of Djoria |
 
 A continent separate from Orlon. Almost nothing is known about the continent other than it's name and existance.
 
 ## Visited Towns/Locations
 
-### Varu'Il 
+### Varu'Il |
 
 A town on the Eastern part of Djoria, the smallest of the three named continents. It is currently under siege by The Heart of the Keep, one of the 10 Artifacts. It currently has an uneasy peace treaty with the Zotrian tribes nearby.
 

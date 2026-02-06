@@ -44,7 +44,7 @@ A female Succubus that got into the Northcliff real estate market as a way to re
 
 The owner and namesake of Moeb's Pawn Shop is an elderly Dwarf with some of the most magnifying glasses imaginable. Despite Estevan seeing him regularly, Moeb clearly does not get a lot of business.
 
-## Naomi, Bounty Hunter
+## Naomi, Bounty Hunter |
 
 A female Drow who is currently looking for Flint Ironbellows. She works with/for the Westmont magical academy. She has a sentient talking sword named Pierce. Little else is known about her.
 

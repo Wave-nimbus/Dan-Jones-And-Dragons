@@ -12,7 +12,7 @@ A slightly insane male Goblin with yellow-ish skin. He follows the Scarlet Harve
 
 A male Half-Orc wearing a tabard of Aether the Breaker. He was beaten up and taken prisoner by the Vaenphyres for breaking up a barfight one of their members started. His family owns and operates the Steel Heat forge in the Shard Coast.
 
-## Graster Bane, Black Rose Trackers Mercenary
+## Graster Bane, Black Rose Trackers Mercenary |
 
 Human male who was cured of lycanthropy and banished from Filgrove by the Flower Crowns. He now works for the Black Rose Trackers in the Shard Coast, trying to make an honest living. He now wields a greatsword on his back.
 

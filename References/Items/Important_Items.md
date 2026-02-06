@@ -126,7 +126,7 @@ A cantaloupe sized amber egg that has mysterious runes and carvings on it. Cross
 
 Three spell scrolls that were found amongst the Crown's Guard gear. What spells they hold are unknown, and the spells have yet to be deciphered.
 
-## Staff of Defilement 
+## Staff of Defilement |
 
 A powerful artifact that originally came from Brightcoin's Vaults of Eversteel. It's power was used by the Brood Mother cult to create the Flesh Cave. It was successfully retrieved by the Party, and its effects are nullified by a Bag of Holding. It was one of the 10 Artifacts.
 
