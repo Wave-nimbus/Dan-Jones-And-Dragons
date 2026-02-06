@@ -28,8 +28,9 @@ A Halfling who looks like Ernie from Sesame Street. Has some light leather armor
 
 ## Morenthal the Assassin Rogue (He/They)
 
-### Played by Gamb (He/They)
+### Played by Amber (She/Her)
 
+(Amber transitioned between sessions 40 & 41, around the beginning of 2026)<br>
 A Drow that hasn't quite warmed up to the Party quite yet. He is part of the Bloodletters bounty hunter/assassin group, though his past is shrouded in mystery. He wears black and leather, serving as the traditional edgy rogue. His protectiveness for Feyli has gotten him a bounty on his head as well.
 
 ## Trilby the Artillerist Artificer (He/Him)
