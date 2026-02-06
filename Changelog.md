@@ -111,3 +111,5 @@
 #### March 25, 2025 - Arc 10 Compiled.
 
 #### August 28, 2025 - Arc 11 Compiled.
+
+#### February 5, 2026 - Updated wiki to reflect Amber's transition.
