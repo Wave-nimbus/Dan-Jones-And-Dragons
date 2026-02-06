@@ -2,7 +2,7 @@
 
 The name of the world for this campaign is set in. There are multiple continents, overseen by the Council of E'lythia. Orlon is one such continent. Other continents include Ty'vanera and Djoria.
 
-# The Continent of Orlon
+# The Continent of Orlon 
 
 Orlon is the main continent that the campaign takes place on. It is controlled by an Empire, ruled by Leofrick Ozark. Smaller regions or towns on the continent may be under control of Dukes. Generally, the Empire is at peace with everyone, though this was not always the case.
 
@@ -56,7 +56,7 @@ A town in the West of Orlon that is home to a mage college of some kind. That co
 
 A town on the Western edge of Orlon. Horace Devonshire is known as the Wizard of the White Tower and hails from this town. Hobson is likely a wanted man there thanks to Valss. After the Second was revived, he went into hiding in or around this town. It sits at the intersection of the Merchant's Pass and Guilded Lane.
 
-### The Underdark
+### The Underdark 
 
 The Underdark is the deep underground portions of a D&D world. The tunnel from Filgrove to Geria likely passes through such a region. It is home to all kinds of creatures adapted for the darkness, including mutant spider monsters and mushroom creatures. A few cities are found down below, though getting there requires long, treacherous journeys.
 
@@ -72,7 +72,7 @@ A large and major city in central Orlon. It serves as an enormous trade and merc
 
 ### Crimson Vale 
 
-A city somewhere on Orlon (or maybe Ty'vanera) that is home to the Runebreakers adventuring group. After the Heart of the Keep was removed from Varu'Il, they booked passage back here.  There is a Voedian vault here somehwere. Almost nothing else is known about it. 
+A city somewhere on Orlon (or maybe Ty'vanera) that is home to the Runebreakers adventuring group. After the Heart of the Keep was removed from Varu'Il, they booked passage back here.  There is a Voedian vault here somewhere. Almost nothing else is known about it. 
 
 ### Desert of Thorns 
 
@@ -117,6 +117,10 @@ An extensive continent-wide trade route. Its end points are currently unknown. I
 ### Maple 
 
 A town to the Southeast where Hobson's family lives. Maple Farms is a brand of wine. Ruins of the Voedia civilization are nearby. Almost nothing else is known about it.
+
+#### Bavender's 
+
+The inn and tavern ran by Hobson's family, just outside of Maple's town limits. It is popular with both adventuring groups and townsfolk. Hobson's mother Dorotny is the current innkeeper. The only appearance so far is an illusion within Wellmore Keep, so it's actual apperance is currently unconfirmed.
 
 ### Merchant's Pass 
 

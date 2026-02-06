@@ -113,7 +113,7 @@ A Halfling member of the Burning Spears and friend of Trayton. He followed Trayt
 
 Previously a Human member of the Burning Spears cult. He ran away from the group to an abandoned farmhouse to the southeast of Filgrove. Graster wants him dead, but Han would rather keep him alive, offering more than Graster for the information. He was bitten by Graster, becoming cursed by Lycanthropy before being cured.
 
-## The Champions of Virtue
+## The Champions of Virtue 
 
 ### Adokas Thandar 
 
@@ -272,6 +272,10 @@ A well traveled and extremely rich Lizardfolk merchant that travels the lands se
 ### Cyndra, Union of the Sun Mercenary 
 
 A member of the Union of the Sun mercenary group previously hired by the Vaenphyres in the Shard Coast. She wears a full suit of black plate armor and weilds a large greatsword. She is temporarily hired by the Party to protect the Kua Toa brothers Oro and Otto.
+
+### Dorotny, Hobson's Mother 
+
+A halfling woman who runs Bavender's inn near Maple. She is motherly and very welcoming to patrons, Hobson, and the Flower Crowns. She typically has an apron on as she works. Her only appearnace is as an illusion in Wellmore Keep, so her actual description is unconfirmed.
 
 ### Durmin, FFXIV reference
 
