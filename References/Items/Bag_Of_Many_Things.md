@@ -48,7 +48,7 @@ A statue of a wolf made out of clockwork parts. What it can do and any potential
 
 A religious symbol of some kind of combat-focused God/Goddess. It has a crossed sword and axe in front of a shield as its symbol. It is currently unused by anyone.
 
-## Empty Beaker 
+## Empty Beaker
 
 A moderately sized glass beaker with a lid. It appears normal, but was "filled" with Gelnek's doubts and anxiety before the Obliteration Ampitheater's Tourney.
 
@@ -150,7 +150,7 @@ An otherwise nondescript goblet made of pure silver. It has very little decorati
 
 ## Square Topaz 
 
-A medium sized square-cut Topaz. It appears to be charged with static electricity at all times. 
+A medium sized square-cut Topaz. It appears to be charged with static electricity at all times. It was used and destroyed in Wellmore Keep in a failed attempt to solve a puzzle. It turned out to be a Lightning Bolt spell that could explode in a 30 ft radius sphere.
 
 ## Torquoise Feather 
 
