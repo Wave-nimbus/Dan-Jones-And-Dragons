@@ -1,8 +1,8 @@
-## Lafford
+## Lafford |
 
 A small village of only about 500 people in the Northwest of Orlon. The most recent usage of the Flower of Rebirth occurred a few miles North of the town proper approximately 4 months before the Party visited it. The town itself was hit hard by the Ashen Rot plague, likely caused by a zombie in their well. Clerics to Ophina have helped the town recover from the plague. The Black Hand's Headquarters is a few miles south. More information on the town and surrounding area is below.
 
-### Black Hand Headquarters
+### Black Hand Headquarters |
 
 Found a few miles south of town and hidden by a lever inside a rock, the HQ of the Black Hand is not easily found. It has several amenities that all necromancer cults need, including torture chambers, altars to The First, dormatories, kitchens, and mess halls. People outside the cult who view the entrance are put to death. The base was gutted by The Second's attempt to revive The First.
 

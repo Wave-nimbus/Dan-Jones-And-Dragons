@@ -22,7 +22,7 @@ A Fire Genasi and hunter for the town near Mt. Fiorno. He was kidnapped after a 
 
 A male Goblin hunter and tracker of the Ustenki tribe. He was tasked with assisting Fervor to locate & take back the Ring of Flame inside the Voscorie Bog. He wears a squished leather top hat and wields a bow.
 
-## Chief Stopmie, Ustenki Chief
+## Chief Stopmie, Ustenki Chief |
 
 An older male Goblin with an enormous amalgamation of a hat stitched together from several hats. He reincarnated Feyli at the Party's request. Though he must follow his tribe's traditions, he still has compassion towards the exiled Gelnek.
 
