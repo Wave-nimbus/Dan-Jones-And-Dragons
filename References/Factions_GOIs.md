@@ -70,9 +70,9 @@ Mentioned deities of this group include: *The Blinding Light*, *The Brood Mother
 One of the two main governing bodies in the Feywild. They are associated with spring and summer and are typically focused on contracts. One such contract was with Valse to open a gateway between the Feywild and Material planes. <br>
 Known members include *Valse*.
 
-### The Unseelie Court
+### The Unseelie Court 
 
-One of the two main governing bodies in the Feywild. They are associated with fall and winter, though little is known about them.
+One of the two main governing bodies in the Feywild. They are associated with fall and winter, though little is known about them. Valse's getaway is apparently far away from their influence.
 
 ### The Wildfey
 
@@ -125,7 +125,7 @@ Known Subgroup: *Illustrious Delight*
 ## The Nine 
 
 Serving as the Pantheon for the world of E'lythia, the Divine Nine represent various aspects of clerics, paladins and the like. <br>
-Mentioned deities of this pantheon include: *Ather the Breaker*, *The Guide*, *The Laughing Mask*, *The Molten Hammer Ruldros*, *The Nightmother Iris*, and *Ophina the Dawnmaiden*, *The Plated Dragon*, and *Zimera*.
+Mentioned deities of this pantheon include: *Ather the Breaker*, *The Guide*, *The Laughing Mask*, *The Molten Hammer Ruldros*, *The Nightmother Iris*, *Ophina the Dawnmaiden*, *The Plated Dragon*, *Vierna the Evertree*, and *Zimera*.
 
 ## The Order of Cabal 
 

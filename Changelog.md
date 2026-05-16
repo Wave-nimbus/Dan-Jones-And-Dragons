@@ -80,6 +80,8 @@
 
 #### April 21, 2026 - Compiled Session 42. (3 days late)
 
+#### May 16, 2026 - Compiled Session 43.
+
 ## Intersession Updates
 
 #### August 18, 2022 - Removed rules lawyering; Minor adjustments.

@@ -24,7 +24,7 @@ One of the many creatures the Champions of Valor felled for being a threat to th
 
 One of the Fallen Gods. The Flaming Spears are a cult/group devoted to destroying the seal holding him. He was a major figure from the Elemental Plane of Fire, previously thought to be unstoppable before he was chained and bound.
 
-## The Evertree
+## Vierna, The Evertree
 
 One of the Nine. The Evertree is a female Centaur with an unspecified face. She represents the wilderness and nature. She is often worshiped by druidic communities or those who live far from large towns.
 
