@@ -32,10 +32,6 @@ One of the Nine. The Evertree is a female Centaur with an unspecified face. She 
 
 Presumably one of the Fallen Gods. The Black Hand and The Midnight Lotus worship him and desire to restore him to power. His domain is strongly based on necromancy. The Party defeated his weakened Form within thee Black Hand's Headquarters.
 
-## The Guide 
-
-One of the Nine that makes up this world's pantheon. Both their real name and their domain are unknown. Presumably it has something to do with adventure and travel.
-
 ## Leofrick Roseark, Emperor of Orlon
 
 The main authority over the contient of Orlon itself. The Emperors of Orlon live in Blackfane. The Champions of Virtue served him over half a century ago, and he created the group to unify the people of Orlon.
@@ -51,10 +47,6 @@ An ancient archmage who created the Planar Mirror and used the Island of Shariza
 ## The Nightmother Iris
 
 One of the Nine that makes up this world's pantheon. She represents the Grave domain, ferrying souls to the afterlife. As a result, she is heavily against necromancy, though resurrection is a different matter.
-
-## Ulbrius 
-
-An entity that is almost entirely unknown. Coil had a vision that some kind of nebulous "answer" were found with Orbrius rather than with the Divine Nine. Whether this makes them part of the Fallen Gods is unknown. His "blood" is presumably used by Voedian constructs for power or maintenance.
 
 ## Ophina the Dawnmaiden
 
@@ -72,13 +64,13 @@ An unknown group/individual whose documents are held by Lucian in Northcliff. Th
 
 One of the Fallen Gods of the world. Their domain revolves around blood and destruction. A glimpse into their domain reveals it to be awash with blood and carnage, endless fighting for no point other than the violence itself. The Heart of the Keep seems linked to them in some way. What they have done or who follows them is unknown.
 
-## The Seeping Rot 
+## Ul'brius, The Seeping Rot
 
-One of the Fallen Gods of the world. Their domain revolves around death, decay, and disease. Whether any still worship/follow them is currently unknown.
+One of the Fallen Gods of the world. Their domain revolves around death, decay, and disease. Coil had a vision that some kind of nebulous "answer" were found with Orbrius rather than with the Divine Nine. His "blood" is used by Voedian constructs for power or maintenance. Similarly, the Voedians managed to use this blood to transcend mortality, though the process is not understood.
 
 ## The Vodeia
 
-An ancient civilization that used to exist on Orlon a long time ago. The Shard Coast was built over their remains. A prominant ruin location known as the Sunken City of Cera is one of the last remnants of their civilization. 
+An ancient civilization that used to exist on Orlon a long time ago. The Shard Coast was built over their remains. A prominant ruin location known as the Sunken City of Cera is one of the last remnants of their civilization. Their civilization managed to take parts of Ul'brius the Seeping Rot to transcend mortality, though this process is not entirely understood.
 
 ## Xerafax
 
@@ -88,6 +80,6 @@ A powerful lich that took over the town of Ravenmire before the Champions of Val
 
 One of the Nine that makes up this world's pantheon. Both their real name and their domain are unknown. Presumably it has something to do with performance and bards. He could also be a prankster or trickster god.
 
-## Zimera
+## Zimera, The Guide
 
-One of the Nine. Zimera is the goddess of knowledge, arcana, and the stars. Her symbol is unknown.
+One of the Nine. Zimera is the goddess of knowledge, arcana, and the stars. Her symbol is of a star with a ring wrapped around it.

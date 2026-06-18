@@ -10,7 +10,7 @@ A Dwarf that previously was pestered constantly by Trilby. He acts as the captai
 
 ## Gavel, Tavern Keep 
 
-The keeper of the Brass Squid tavern. He is grateful for the Party saving Derrick at their beginnings. From then on, his tavern has always welcomed the Party with a room and good food for resting.
+The Orc keeper of the Brass Squid tavern. He is grateful for the Party saving Derrick at their beginnings. From then on, his tavern has always welcomed the Party with a room and good food for resting.
 
 ## Hestio, Green Raven Leader 
 
@@ -20,7 +20,7 @@ The de facto leader of the Green Ravens was first impressed by the Party taking 
 
 A Hag that lives in Filgrove's Undercroft. She deals in information and magical curiosities. If there is something the Party (or anyone else) needs to know, she is probably their best bet. Her trinkets may come in handy in some situations. She has made deals that resulted in holding onto Gelnek's soul in a Soul Orb.
 
-# Green Ravens
+# Green Ravens 
 
 ## CC (Cubari Cubari), Secretary
 
@@ -52,7 +52,7 @@ A friend of Trilby and his creations, he owns the pawn shop known as Bits and Bo
 
 A guide for the tunnel between Filgrove and Geria that would surely die if the Party failed to protect him. 
 
-## Derrick, Barservant 
+## Derrick Chatterly, Barservant 
 
 An employee of the Brass Squid that was attacked by the Manticore. The Party kept him alive for which Gavel is thankful. Also got fanart about 10 seconds after being attacked.
 
@@ -60,7 +60,7 @@ An employee of the Brass Squid that was attacked by the Manticore. The Party kep
 
 The owner of the Serpent's Flower alchemy shop. She can sell the Party potions with various effects, including the sleeping drought to Hobson.
 
-## Mera, Barmaid
+## Mera, Barmaid 
 
 A friend of Julia Mosswing and Bren Grayhorn as the two of them frequently visited the Brass Squid by sneaking out. 
 

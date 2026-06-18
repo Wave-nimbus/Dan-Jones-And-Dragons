@@ -31,7 +31,7 @@ A Halfling who looks like Ernie from Sesame Street. Has some light leather armor
 ### Played by Amber (She/Her)
 
 (Amber transitioned between sessions 40 & 41, around the beginning of 2026)<br>
-A Drow that is slowly warming up to the Party as the only people he could call friends. He ran from the Bloodletters bounty hunter/assassin group after killing a child as part of the job. He wears black and leather, serving as the traditional edgy rogue. His protectiveness for Feyli has gotten him a bounty on his head as well. He also is devoted to The Nightmother, and is thus hates necromancy.
+A Drow that is slowly warming up to the Party as the only people he could call friends. He ran from the Bloodletters bounty hunter/assassin group after killing a child as part of the job. He was taken from his parents when he was a baby and forced into the Bloodletters' service. He wears black and leather, serving as the traditional edgy rogue. His protectiveness for Feyli has gotten him a bounty on his head as well. He also is devoted to The Nightmother, and thus hates necromancy.
 
 ## Trilby the Artillerist Artificer (He/Him)
 

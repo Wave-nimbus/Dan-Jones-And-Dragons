@@ -176,7 +176,7 @@ A town in the South of Orlon. Some years ago, Arther Oathbringer reappeared with
 
 The ocean that lies to the East of the continent of Orlon. How large it is and how long it takes to traverse are both unknown, as is where the other continents are relative to it.
 
-### Shariza
+### Shariza 
 
 A large island far off the East coast of Orlon that has strange and strong effects on magic. It is supposed to have some "Fated Steps" that Bartholomew wanted to visit. Many years ago, the Champions of Virtue killed a Lich here. Arthur Oathbringer's castle crashed here when Valse and Orsik Frostbeard went to investigate. No expedition to the island has been successful since, including Biri's. The Planar Mirror, one of the 10 Artifacts, is confirmed to be there.
 
@@ -197,6 +197,10 @@ A town on the West edge of Ty'vanera. The Flower of Rebirth was used & recovered
 ### The Citadel 
 
 A large castle structure int he center of Whitecrest. It serves as the world's most complete archive and hub for knowledge. The Flower of Rebirth was kept there temporarily before being transfered to the Vaults of Eversteel.
+
+### Deepwheat 
+
+Presumably a town somewhere in Ty'Vanera. It serves as a haven for people fleeing the Underdark, including Drow. Morenthal's parents now live here, having lost Morenthal when he was a baby.
 
 ### Whitecrest 
 

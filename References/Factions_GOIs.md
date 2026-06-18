@@ -61,7 +61,7 @@ Known members include: *Brenon Hazelheart*.
 ## The Fallen Gods 
 
 A number of Gods/Goddesses that previously were worshiped before the Nine. It is unknown if they truly exist or if only Cults believe in them. <br>
-Mentioned deities of this group include: *The Blinding Light*, *The Brood Mother*, *Cascos the Flame Tyrant*, *The First Dead*, *The Scarlet Harvest*, and *The Seeping Rot*.
+Mentioned deities of this group include: *The Blinding Light*, *The Brood Mother*, *Cascos the Flame Tyrant*, *The First Dead*, *The Scarlet Harvest*, and *Ul'brius The Seeping Rot*.
 
 ## Feywild Factions 
 
@@ -125,7 +125,7 @@ Known Subgroup: *Illustrious Delight*
 ## The Nine 
 
 Serving as the Pantheon for the world of E'lythia, the Divine Nine represent various aspects of clerics, paladins and the like. <br>
-Mentioned deities of this pantheon include: *Ather the Breaker*, *The Guide*, *The Laughing Mask*, *The Molten Hammer Ruldros*, *The Nightmother Iris*, *Ophina the Dawnmaiden*, *The Plated Dragon*, *Vierna the Evertree*, and *Zimera*.
+Mentioned deities of this pantheon include: *Ather the Breaker*, *The Laughing Mask*, *The Molten Hammer Ruldros*, *The Nightmother Iris*, *Ophina the Dawnmaiden*, *The Plated Dragon*, *Vierna the Evertree*, and *Zimera The Guide*.
 
 ## The Order of Cabal 
 
