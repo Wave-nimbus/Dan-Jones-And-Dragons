@@ -58,10 +58,10 @@ The members are: *Glurt*, *Ida Barton*, *Josh De Rosa*, *Quinn*, *Shade Destall*
 The tribe that formed the beast tribe government on Ty'vanera. They convinced most other groups on the continent to join them. Almost nothing else is known about them. <br>
 Known members include: *Brenon Hazelheart*.
 
-## The Fallen Gods 
+## The Fallen Gods |
 
 A number of Gods/Goddesses that previously were worshiped before the Nine. It is unknown if they truly exist or if only Cults believe in them. <br>
-Mentioned deities of this group include: *The Blinding Light*, *The Brood Mother*, *Cascos the Flame Tyrant*, *The First Dead*, *The Scarlet Harvest*, and *The Seeping Rot*.
+Mentioned deities of this group include: *The Blinding Light*, *The Brood Mother*, *Cascos the Flame Tyrant*, *The First Dead*, *The Scarlet Harvest*, and *Ul'brius The Seeping Rot*.
 
 ## Feywild Factions |
 
@@ -89,7 +89,7 @@ Previous members include *Vespi*.
 
 A very small tribe of rusty orange goblins that live to the southeast of Filgrove. Gelnek attempted to teach them about economies after the Party found them attacking a stagecoach in search of food.
 
-### The Ustenki Tribe 
+### The Ustenki Tribe |
 
 Gelnek's tribe of goblins that live in the Blighted Swamp near Mt. Fiorno. They have a tradition spanning several generations of sending future members on a long pilgrimage so that they may get stronger. When they return, they fight the previous pilgrims to ensure the tribe remains strong. <br>
 Exiled members include: *Gelnek*.
@@ -125,7 +125,7 @@ Known Subgroup: *Illustrious Delight*
 ## The Nine |
 
 Serving as the Pantheon for the world of E'lythia, the Divine Nine represent various aspects of clerics, paladins and the like. <br>
-Mentioned deities of this pantheon include: *Ather the Breaker*, *The Guide*, *The Laughing Mask*, *The Molten Hammer Ruldros*, *The Nightmother Iris*, *Ophina the Dawnmaiden*, *The Plated Dragon*, *Vierna the Evertree*, and *Zimera*.
+Mentioned deities of this pantheon include: *Ather the Breaker*, *The Laughing Mask*, *The Molten Hammer Ruldros*, *The Nightmother Iris*, *Ophina the Dawnmaiden*, *The Plated Dragon*, *Vierna the Evertree*, and *Zimera The Guide*.
 
 ## The Order of Cabal |
 

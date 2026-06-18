@@ -44,6 +44,10 @@ A brother to Oro and Otto who presumably currently sits on the Throne of Want. T
 
 A male Dwarf in a blue sweater and jeans who ran the Last Drop tavern. He also helped manage jobs for the Vaenphyres. He lost an arm wrestle with Trilby of all people, but was killed during the ensuing barfight.
 
+## Sylas Windfield, Wellmore Keep Creator
+
+A male Human adventurer and nobleman who created Wellmore Keep as his family home before transforming it into a place that seeks out powerful adventurers who can take possession of it. He was a follower of Zimera in life, and the Keep was blessed by her during its transformation. Sylas himself is dead, but a piece of his soul resides in the master bedroom of the Keep within an enchanted painting. He offers the Party information on one question of their choice, as Zimera has granted him that knowledge. His wife Elizabeth died of illness before he could start a family.
+
 ## Zaris, Bloodletter |
 
 A short Tiefling woman and member of the Bloodletter's guild. She is presumably an old friend of Morenthal and refuses to kill him on sight, unlike others in the guild. She warns Morenthal of staying in the Shard Coast longer than necessary.

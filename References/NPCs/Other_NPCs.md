@@ -8,9 +8,9 @@ An extremely heavyset and buff human Monk that was part of the Champions of Virt
 
 A talking skull bought by Coil from Karashala. How he became a talking skull is unknown, but it is likely the work of a necromancer. He is fully aware of his predicament and desires to travel with the Party. He was given a new Plasmoid body by Estevan Longfeather and Moeb.
 
-## (Bracer) Valse "V", Hobson's Patron
+## (Bracer) Valse "V", Hobson's Patron |
 
-Valse used to be a member of the Champions of Virtue. His memories are shrouded in mystery but he gets visions occasionally. He currently lives in the silver bracer on Hobson's arm, which allows him to control Hobson if he so desires. Despite losing his memories, Valse always feels like he is important. It is believed that this bracer Valse is the same as the presumed dead Champion Valse.
+Valse used to be a member of the Champions of Virtue. His memories are shrouded in mystery but he gets visions occasionally. He currently lives in the silver bracer on Hobson's arm, which allows him to control Hobson if he so desires. Despite losing his memories, Valse always feels like he is important. It is believed that this bracer Valse is the same as the presumed dead Champion Valse. Valse's body is on the Isle of Shariza and has somehow been corrupted. Without a suitible vessel, Valse's soul will be lost if he is freed from the bracer.
 
 # Other NPCs
 
@@ -56,7 +56,7 @@ A female Goblin that serves the Viridescent Javelin's engine room, ensuring the 
 
 ## The Black Hand/Midnight Lotus |
 
-### Aryk, Black Hand Martyr 
+### Aryk, Black Hand Martyr  |
 
 A friend of Feyli's from their time serving the Black Hand. He had a distinctive burn along his torso and wavy brown hair. When Feyli fled, Aryk had risen to be an assistant to The Second. He was tortured to death for being Feyli's friend.
 
@@ -87,7 +87,7 @@ Presumably a high-ranking member of the Bloodletters who was called into the Sha
 
 Presumably the head of the Assassin's guild that Morenthal and Molloke are a part of. It is unclear what he thinks of everything going on. He has two young sons that Morenthal has met in the past.
 
-### Malaki Irion, Bloodletters Assassin
+### Malaki Irion, Bloodletters Assassin |
 
 A bounty hunter and assassin presumably from the same Bloodletters guild as Morenthal. He wants to caputre/kill Feyli, as there is 24,000 gp bounty on her head. However, he warned Morenthal of the impending bounty first.
 
@@ -241,7 +241,7 @@ The ring leader, owner and/or operator of the Illustrious Delight circus troupe.
 
 A member of the Illustrious Delight circus troupe. He is a large Minotaur that acts as the circus's strongman act. While shy and bashful, his strength is unparalleled. The troupe is a part of the Midnight Lotus.
 
-## Ustenki Tribe 
+## Ustenki Tribe |
 
 ### Burple, Ustenki Tracker 
 
@@ -293,6 +293,10 @@ An eccentric collector and arcane scientist originally from Ohkross. His experim
 
 A scrawny male Golden Dragonborn that is fleeing from Westmont's magic academy. He seems to be a follower and/or cult member who worships the Scarlet Harvest.
 
+### Fork, Voedian Blacksmith |
+
+An enormous Warforged who worked as a blacksmith presumably for the Voedian society. Coil often retreated to his forge when he needed to get away from his problems. His appearance was in Wellmore keep, so his real-life status and disposition are unknown. He is capable and generally cordial with Coil.
+
 ### Gear Head, Dwarven Criminal 
 
 A sketchy male Dwarf that has angered a faction known as the Amber Hearts. He has a metal plate or gear embedded in his head, giving him his nickname. His bounty runs for 50,000 gp.
@@ -325,13 +329,17 @@ A female Pixie that was forced to be a pet for a noblewoman who attended the Gal
 
 A female automaton with four arms. She was sent from Mechanis to Brightcoin to retrieve the Magic Key from Mr. Wick. Her arms can fuse into four blades, and she can apparently breath underwater. She is an extremely powerful combatant, but she only desires the Key to be out of the hands of mortals. She makes a deal to talk to the Council of E'lythia about taking the Magic Key back to Mechanis.
 
+### Tarlia & Balin Billium, Morenthal's Parents |
+
+Drow wife and husband who gave birth to Morenthal and fled the Underdark soon afterward. On their ship's voyage towards Deepwheat, Morenthal was kidnapped and separated from them. Nothing else is known about them other than the fact they are alive.
+
 ### Thaddius De Rosa, Powerful Noble 
 
 The father of Josh De Rosa. He owns a large amount of land across Orlon and currently lives in Blackfane. He is famous enough to be known by name to the Council of E'lythia. Little else is known about him.
 
 ### Unknown Child
 
-A child known only to Morenthal. The First's Form tormented him with the visagee of this child. When Morenthal first killed this child, he began to question if he wanted to continue his job as an Assassin and Bloodletter.
+A child known only to Morenthal. The First's Form tormented him with the visage of this child. When Morenthal first killed this child, he began to question if he wanted to continue his job as an Assassin and Bloodletter.
 
 ### Vindilay, Bounty Hunter 
 

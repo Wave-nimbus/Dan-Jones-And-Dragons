@@ -8,9 +8,9 @@ A Dwarf noble that is extrmely well kept and well spoken. He likes to hear himse
 
 A Dwarf that previously was pestered constantly by Trilby. He acts as the captain of Filgrove's Crown's Guard. He was also friends/captain of Trilby's father before the father got injured. He commissions the Party to do a few jobs when available.
 
-## Gavel, Tavern Keep 
+## Gavel, Tavern Keep |
 
-The keeper of the Brass Squid tavern. He is grateful for the Party saving Derrick at their beginnings. From then on, his tavern has always welcomed the Party with a room and good food for resting.
+The Orc keeper of the Brass Squid tavern. He is grateful for the Party saving Derrick at their beginnings. From then on, his tavern has always welcomed the Party with a room and good food for resting.
 
 ## Hestio, Green Raven Leader 
 
@@ -52,7 +52,7 @@ A friend of Trilby and his creations, he owns the pawn shop known as Bits and Bo
 
 A guide for the tunnel between Filgrove and Geria that would surely die if the Party failed to protect him. 
 
-## Derrick, Barservant 
+## Derrick Chatterly, Barservant |
 
 An employee of the Brass Squid that was attacked by the Manticore. The Party kept him alive for which Gavel is thankful. Also got fanart about 10 seconds after being attacked.
 
@@ -60,7 +60,7 @@ An employee of the Brass Squid that was attacked by the Manticore. The Party kep
 
 The owner of the Serpent's Flower alchemy shop. She can sell the Party potions with various effects, including the sleeping drought to Hobson.
 
-## Mera, Barmaid
+## Mera, Barmaid |
 
 A friend of Julia Mosswing and Bren Grayhorn as the two of them frequently visited the Brass Squid by sneaking out. 
 
@@ -104,7 +104,7 @@ The daughter of Gale Mosswing. She was friends with Bren Grayhorn and Merra befo
 
 A member of the Crown's Guard that was rescued in the Flesh Cave. She was rescued before being fully absorbed by the Flesh Cave.
 
-## Miriam Gray, Elder 
+## Miriam Gray, Elder |
 
 The first person the Party actually took a job from. She is an old elder, but her family used to serve the Nightmother in the temple. She commissions the Party to clear out its catacombs.
 
